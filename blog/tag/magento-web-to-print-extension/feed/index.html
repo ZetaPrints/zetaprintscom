@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>magento. web-to-print extension &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/tag/magento-web-to-print-extension/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Magento update</title>
+		<link>http://www.zetaprints.com/blog/2009/11/26/magento-update/</link>
+		<comments>http://www.zetaprints.com/blog/2009/11/26/magento-update/#respond</comments>
+		<pubDate>Fri, 27 Nov 2009 01:39:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[API]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[magento. web-to-print extension]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=523</guid>
+		<description><![CDATA[We are close to releasing a new version of our web-to-print extension for Magento. It doesn&#8217;t really have anything changed on the surface, but it&#8217;s been re-written from ground up. Theme integration We used to have a lot of code included in the theme files. Every time we made an update the theme would need [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We are close to releasing a new version of our web-to-print extension for Magento.</p>
+<p>It doesn&#8217;t really have anything changed on the surface, but it&#8217;s been re-written from ground up.</p>
+<h2>Theme integration</h2>
+<p>We used to have a lot of code included in the theme files. Every time we made an update the theme would need to be changed. Now the theme files have only a handful of function calls with all the other extension code sitting on extension files. It is <a title="web-to-print theme integration" href="How%20it%20integrates%20into%20the%20theme./index.html ">much easier to integrate</a> and doesn&#8217;t need a developer every time we release an update.</p>
+<h2>Simple product creation</h2>
+<p>Products used to be created during the data import. It worked OK only if you needed simple products. Many product types need to be configurable products. Now we added an additional function to create simple products from unallocated templates.</p>
+<h2>Data import</h2>
+<p>Templates are imported into a new table in Magento. Then can be converted into simple products at this stage and we are working on adding links to configurable products.</p>
+<h2>Order placement</h2>
+<p>A new product was created every time an order was placed. Now it is just a normal Magento order with additional attributes holding ZP info such as file locations, etc.</p>
+<p>Order parameters</p>
+<p>If you choose to do a 2-step process where the user has to pick all the order parameters (stock type, envelopes, packaging, quantity, etc.)  on page 1 and then go to the personalisation page the parameters would be lost, unless you write the code to handle them on the personalisation page as well.</p>
+<p>We added an additional feature to capture them and transfer to the cart. This is now part of the extension.</p>
+<h2>Work in progress</h2>
+<p>This iteration is still in a pre-release stage. We have <a title="current iteration" href="http://code.google.com/p/magento-w2p/issues/list?can=2&q=label:indevelopment">a few issues</a> to iron out before it is ready. The latest code has been committed to the <a title="w2p extension code" href="http://code.google.com/p/magento-w2p/source/browse/#svn/trunk">SVN</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/11/26/magento-update/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Magento web-to-print ext. flop</title>
+		<link>http://www.zetaprints.com/blog/2009/10/12/magento-web-to-print-ext-flop/</link>
+		<comments>http://www.zetaprints.com/blog/2009/10/12/magento-web-to-print-ext-flop/#respond</comments>
+		<pubDate>Tue, 13 Oct 2009 00:40:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[magento. web-to-print extension]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=487</guid>
+		<description><![CDATA[We are re-designing our web-to-print extension for Magento from ground up. The current web-to-print extension architecture is unsustainable if you use your own theme.  Every time we make a new release someone has to manually add changes to your custom theme. It is time and cost for the site owner, which should not be incurred [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We are re-designing our <a href="../../../../magento/">web-to-print extension</a> for Magento from ground up.</p>
+<p>The current web-to-print extension architecture is unsustainable if you use your own theme.  Every time we make a new release someone has to manually add changes to your custom theme. It is time and cost for the site owner, which should not be incurred in the first place.</p>
+<p>The new architecture will be much more modular and will rely on several function calls as opposed to blocks of code.</p>
+<p>We are happy to help active customers  change their Magento themes free of charge to the new version, once it&#8217;s released.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/10/12/magento-web-to-print-ext-flop/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

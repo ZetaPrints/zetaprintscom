@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>web-to-print software &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/category/web-to-print-software/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Magento web-to-print release worth trying</title>
+		<link>http://www.zetaprints.com/blog/2011/11/21/magento-web-to-print-release-worth-trying/</link>
+		<comments>http://www.zetaprints.com/blog/2011/11/21/magento-web-to-print-release-worth-trying/#respond</comments>
+		<pubDate>Mon, 21 Nov 2011 22:18:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=933</guid>
+		<description><![CDATA[We released version 1.9.2.0beta16 of our Magento web-to-print extension few hours ago. It has a reasonably stable image editor, additional page info and numerous bug fixes. Please, give it a try on a test site. The image editor will make your web-to-print site a more flexible proposition to customers as they can now fit their [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We released version 1.9.2.0beta16 of our Magento web-to-print extension few hours ago.<br />
+It has a reasonably stable <a title="web-to-print image editor" href="../../../2011/11/18/new-image-editor/index.html">image editor</a>, <a title="additional dynamic imaging info" href="../../../../magentohelp/display-page-sizes/index.html">additional page info</a> and numerous bug fixes.</p>
+<p>Please, give it a try on a test site. The image editor will make your web-to-print site a more flexible proposition to customers as they can now fit their images into the frame the way the want with shift, crop and resize as in this web-to-print demo.</p>
+<p><a href="../../../2011/11/21/new-image-editor/index.html"><img class="alignnone" title="dynamic image editor" src="../../../wp-content/uploads/2011/11/fit-in-field_selection.png" alt="dynamic image editor" width="490" height="458" /></a></p>
+<p>&nbsp;</p>
+<p><a href="../../../../magentohelp/display-page-sizes/index.html"><img class="alignnone" title="web to print page size" src="../../../../magentohelp/wp-content/uploads/2011/09/magento_page_size_table.png" alt="web to print page size" width="582" height="671" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Waiting for your feedback to <a title="ZetaPrints support" href="mailto:support@zetaprints.com">support@zetaprints.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2011/11/21/magento-web-to-print-release-worth-trying/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Web-to-print on Magento Go</title>
+		<link>http://www.zetaprints.com/blog/2011/07/23/web-to-print-on-magento-go/</link>
+		<comments>http://www.zetaprints.com/blog/2011/07/23/web-to-print-on-magento-go/#respond</comments>
+		<pubDate>Sun, 24 Jul 2011 01:40:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=807</guid>
+		<description><![CDATA[We keep getting questions about Magento Go and web-to-print software and if they can work together. The problem is that nothing works with Magento Go. They simply don&#8217;t support themes or extensions. Read their FAQ for details.]]></description>
+				<content:encoded><![CDATA[<p>We keep getting questions about <a title="hosted e-commerce" href="http://go.magento.com/">Magento Go</a> and <a title="Web-to-print software" href="../../../../index.html">web-to-print software</a> and if they can work together.</p>
+<p>The problem is that nothing works with Magento Go. They simply don&#8217;t support themes or extensions.</p>
+<p>Read their <a title="FAQ on extensions and themes" href="http://go.magento.com/faq/#faq25">FAQ</a> for details.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2011/07/23/web-to-print-on-magento-go/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Multilingual web to print software</title>
+		<link>http://www.zetaprints.com/blog/2011/03/23/multilingual-web-to-print-software/</link>
+		<comments>http://www.zetaprints.com/blog/2011/03/23/multilingual-web-to-print-software/#comments</comments>
+		<pubDate>Thu, 24 Mar 2011 01:02:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=656</guid>
+		<description><![CDATA[ZetaPrints web-to-print software supports multiple languages in the user interface and pretty much any language in the templates. Web to print templates The language of the templates is limited by the glyphs used in the designs. Our web-to-print software runs on Unicode and supports any valid Unicode glyphs. The same applies to field names &#8211; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>ZetaPrints <a title="web to print translations" href="../../../../magentohelp/magento-web-to-print-localization/index.html">web-to-print software supports multiple languages</a> in the user interface and pretty much any language in the templates.</p>
+<h2>Web to print templates</h2>
+<p>The language of the templates is limited by the glyphs used in the designs. Our web-to-print software runs on Unicode and supports <a title="Unicode charts" href="http://www.unicode.org/charts/">any valid Unicode glyphs</a>. The same applies to field names &#8211; they can be in any language you want.</p>
+<p>Most Western fonts support only <a title="Latin 1 chart" href="http://www.microsoft.com/typography/unicode/1250.gif">Latin-1</a> and <a title="Latin 2 chart" href="http://www.microsoft.com/typography/unicode/1250.gif">Latin-2</a> characters and can only be used for Latin web-to-print templates. <a title="Web-to-print font management" href="../../../../help/font-management/index.html">Upload</a> either Unicode or localized fonts to your web-to-print account and it will work in your language.</p>
+<h2>Web to print interface</h2>
+<p>ZetaPrints default interface from our <a title="web-to-print package" href="../../../../packages/hosted-by-us/index.html">fully hosted web to print package</a> does not support multiple languages. That is, the templates and field labels can be in any language you want, but the rest of the site is in English only. We used to support German, French, Spanish, Russian and other languages there, but had to temporarily discontinue them.</p>
+<p>We recommend using our <a title="About magento web-to-print" href="../../../../category/magento-web-to-print/index.html">e-commerce web to print package</a> if you want the entire interface to be in your language. It gives you much more flexibility over the translation. Check out this example of <a title="Bulgarian web-to-print" href="../../../../magento/index.php/index-___store=bg.html">web-to-print in Bulgarian</a> from our <em>demo web to print store</em>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2011/03/23/multilingual-web-to-print-software/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Web-to-print vs. email quotations</title>
+		<link>http://www.zetaprints.com/blog/2011/03/14/web-to-print-vs-email-quotations/</link>
+		<comments>http://www.zetaprints.com/blog/2011/03/14/web-to-print-vs-email-quotations/#respond</comments>
+		<pubDate>Tue, 15 Mar 2011 01:06:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Scams]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+
+		<guid isPermaLink="false">/blog/?p=640</guid>
+		<description><![CDATA[Did you get some ridiculous quotation emails recently? This one arrived to an email address for one of our demo web-to-print sites: My name is donnie Thomas. I would like to know if you have banners   Available and im looking for less expensive ones you have.  Could you please let me know the prices  that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Did you get some ridiculous quotation emails recently?</p>
+<p>This one arrived to an email address for one of our demo <em>web-to-print</em> sites:</p>
+<blockquote>
+<p style="padding-left: 30px;"><span style="color: #808080;"><em>My name is donnie Thomas. I would like to know if you have<br />
+banners   Available and im looking for less expensive ones you have.  Could you please let me know the prices  that are<br />
+banners<br />
+I would be happy to make my payment by credit card if you accept them.</p>
+<p>I await your reply,</em><em><br />
+Sincerely,<br />
+donnie Thomas.,</em></span></p>
+</blockquote>
+<p>It&#8217;s a &#8220;phishing email&#8221;. The purpose is to get a response as a validation there is someone at the other end. Then the floodgate opens up &#8211; they know you are there and listening. Could be <a title="Printing order scam" href="http://www.print21online.com/news-archive/spam-scam-strikes-again/">worse</a>.</p>
+<p>Our customer made an interesting observation today that when a similar email arrived to his web-to-print site contact email it was marked as spam, but the same sales rep replied to a similar email when it arrived to the general contact email. Of course there was no order following &#8211; only more spam from all directions.</p>
+<p>Think of it, the text does look strange, but would you want to miss on a potential order? Getting such a request through a web-to-print site where they could just place an order looks totally loony. Web-to-print does act as a filter for your sales and customer service.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2011/03/14/web-to-print-vs-email-quotations/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Order approval for Magento</title>
+		<link>http://www.zetaprints.com/blog/2010/10/18/order-approval-for-magento/</link>
+		<comments>http://www.zetaprints.com/blog/2010/10/18/order-approval-for-magento/#respond</comments>
+		<pubDate>Tue, 19 Oct 2010 00:55:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[magento]]></category>
+		<category><![CDATA[web-to-print extension]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=622</guid>
+		<description><![CDATA[We had a bit of a gap in our web-to-print Magento offering for customers working with corporate or on-account users. We created a Magento access control extension long time ago, but order approval remained unresolved until now. Magento order approval Magento order approval extension adds an extra step between the customer’s shopping cart and the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We had a bit of a gap in our web-to-print Magento offering for customers working with corporate or on-account users. We created a <a title="web-to-print and magento access control" href="../../../../magento-web-to-print/magento-access-control/index.html">Magento access control extension</a> long time ago, but order approval remained unresolved until now.</p>
+<h2>Magento order approval</h2>
+<p><a title="web-to-print magento order approval" href="../../../../magento-web-to-print/magento-order-approval/index.html">Magento order approval extension</a> adds an extra step between the customer’s shopping cart  and the   checkout process. It means that customers are able to add any  number of   products into their shopping cart, delete and modify them at  any time   without any restrictions, but they can not checkout products  from the cart before they are approved.</p>
+<p>Order approval extension is free and can be used separately without our <a title="magento web-to-print" href="../../../../category/magento-web-to-print/index.html">web-to-print extension</a> or ZetaPrints account.</p>
+<div style="width: 460px" class="wp-caption alignnone"><a href="../../../../magento-web-to-print/magento-order-approval/index.html"><img title="Web-to-print order approval" src="../../../../wp-content/uploads/2010/10/approval_diagram.png" alt="/magento-web-to-print/magento-order-approval" width="450" height="228" /></a><p class="wp-caption-text">/magento-web-to-print/magento-order-approval</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2010/10/18/order-approval-for-magento/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Web-to-print and new Google interface</title>
+		<link>http://www.zetaprints.com/blog/2010/09/08/web-to-print-and-new-google-interface/</link>
+		<comments>http://www.zetaprints.com/blog/2010/09/08/web-to-print-and-new-google-interface/#respond</comments>
+		<pubDate>Thu, 09 Sep 2010 02:52:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=614</guid>
+		<description><![CDATA[Did you notice changes in the way Google search works? You&#8217;d better check it out if you depend on Google to send you search traffic. There are implications. Bad for you, good for Google and good for established leaders. Business card search There is less space for search results. In fact I see only one [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Did you notice changes in the way Google search works? You&#8217;d better check it out if you depend on Google to send you search traffic. There are implications. Bad for you, good for Google and good for established leaders.</p>
+<h2>Business card search</h2>
+<ol>
+<li>There is less space for search results. In fact I see only one for <a title="Vistaprint is a very honest business" href="http://onemansblog.com/2010/09/04/vistaprint-com-is-threatening-to-sue-me-over-a-blog-comment-really/">Vistaprint</a>.</li>
+<li>There are a lot of ads</li>
+<li>It is easier to type another letter than to scroll the page</li>
+</ol>
+<p><a href="../../../wp-content/uploads/2010/09/web-to-print-search1.png"><img class="alignnone size-full wp-image-615" title="web-to-print search" src="../../../wp-content/uploads/2010/09/web-to-print-search1.png" alt="web-to-print search" width="816" height="409" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2010/09/web-to-print-search1-300x150.png 300w, http://www.zetaprints.com/blog/wp-content/uploads/2010/09/web-to-print-search1-1024x512.png 1024w, http://www.zetaprints.com/blog/wp-content/uploads/2010/09/web-to-print-search1.png 1166w" sizes="(max-width: 816px) 100vw, 816px" /></a></p>
+<h2>More detailed search</h2>
+<p><a href="../../../wp-content/uploads/2010/09/web-to-print-search2.png"><img class="alignnone size-full wp-image-616" title="web-to-print search" src="../../../wp-content/uploads/2010/09/web-to-print-search2.png" alt="web-to-print search" width="811" height="405" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2010/09/web-to-print-search2-300x150.png 300w, http://www.zetaprints.com/blog/wp-content/uploads/2010/09/web-to-print-search2-1024x512.png 1024w, http://www.zetaprints.com/blog/wp-content/uploads/2010/09/web-to-print-search2.png 1158w" sizes="(max-width: 811px) 100vw, 811px" /></a></p>
+<p><a href="../../../wp-content/uploads/2010/09/web-to-print-search3.png"><img class="alignnone size-full wp-image-617" title="web-to-print search" src="../../../wp-content/uploads/2010/09/web-to-print-search3.png" alt="web-to-print search" width="818" height="406" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2010/09/web-to-print-search3-1024x508.png 1024w, http://www.zetaprints.com/blog/wp-content/uploads/2010/09/web-to-print-search3.png 1168w" sizes="(max-width: 818px) 100vw, 818px" /></a></p>
+<h2>Implications</h2>
+<ul>
+<li>Google gets to show more ad impressions. The more ads it shows you the more the chance you will see the one that appeals to you and you click on it. Google gets paid.</li>
+<li>Users see more ads and less organic search because there is now less room for it in the browser window. Start paying <a title="AdWords" href="http://www.google.com/intl/en/ads/">Google Tax</a> to fit into the screen.</li>
+<li>Users are prompted to narrow / modify the search rather then scroll the page. You got to be #1 or you don&#8217;t exist.</li>
+<li>Users are led down a narrow path of small number of top-searched queries elevating them even further. Trying to rank for some specific obscure keywords becomes less rewarding.</li>
+<li>Google Images are not showing within the visible part of the screen any more. Usage of Google Image search will decrease compared to textual search. Good for Google &#8211; there are no ads on image search pages.</li>
+<li>Those ranking for broader terms will get more traffic. Their links show well before links for more specific searches. E.g. searching for &#8220;business cards plumber&#8221; brings up Vistaprint (&#8220;business cards&#8221;) well before any other website that does have a good collection of plumber-specific designs.</li>
+</ul>
+<h2>How your web-to-print site will be affected</h2>
+<p>The nature of your organic traffic will change significantly. We&#8217;ll know in a few days as analytics data comes through. Stay tuned.</p>
+<h2>What to do about it</h2>
+<ol>
+<li>Diversify your traffic sources. Less emphasis on search, more on links from other sites.</li>
+<li>Re-profile your content to see how relevant it is to the trending search queries. E.g. if you rank well for &#8220;business cards plumber&#8221; you may now get only a portion of the traffic because users are led astray by the search suggestions. You need to see what is being offered in the suggestions and how you can capture that traffic as well.</li>
+<li>Improve your conversion.</li>
+<li>Offer more free content and try to rank for searches with word &#8220;free&#8221;. We all love &#8220;free&#8221;.</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2010/09/08/web-to-print-and-new-google-interface/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>X5 support rollout</title>
+		<link>http://www.zetaprints.com/blog/2010/09/07/x5-support-rollout/</link>
+		<comments>http://www.zetaprints.com/blog/2010/09/07/x5-support-rollout/#respond</comments>
+		<pubDate>Tue, 07 Sep 2010 08:08:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[web-to-print upgrade]]></category>
+		<category><![CDATA[x5]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=612</guid>
+		<description><![CDATA[You can start uploading web-to-print templates in X5 format from now. It is not an official release as we expect some more problems may crop up in the coming days. Color management and color profiles seem to be a weak point at the moment. Please, contact us immediately in case of any problems in that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You can start uploading web-to-print templates in X5 format from now. It is not an official release as we expect some more problems may crop up in the coming days.</p>
+<p>Color management and color profiles seem to be a weak point at the moment. Please, contact us immediately in case of any problems in that or any other area of X5 support. The development team is on standby.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2010/09/07/x5-support-rollout/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Web-to-print upgrade &#8230; delayed</title>
+		<link>http://www.zetaprints.com/blog/2010/09/02/web-to-print-upgrade-delayed/</link>
+		<comments>http://www.zetaprints.com/blog/2010/09/02/web-to-print-upgrade-delayed/#respond</comments>
+		<pubDate>Thu, 02 Sep 2010 11:51:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=605</guid>
+		<description><![CDATA[Unfortunately, our promise to release X5 support hasn&#8217;t come true yet. We are working on it, but few more days of delay look likely. It wasn&#8217;t a good idea to bundle some web-to-print performance improvements together with X5 support. Now one part holds the other. Please, do not try uploading any X5 web-to-print templates or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Unfortunately, our promise to release X5 support hasn&#8217;t come true yet. We are working on it, but few more days of delay look likely.</p>
+<p>It wasn&#8217;t a good idea to bundle some web-to-print performance improvements together with X5 support. Now one part holds the other.</p>
+<p>Please, do not try uploading any X5 web-to-print templates or PDF files in place of images until we officially complete the upgrade. The files may be accepted by some servers and not the others causing all sorts of grief later on.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2010/09/02/web-to-print-upgrade-delayed/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Free AWS Magento image for web-to-print</title>
+		<link>http://www.zetaprints.com/blog/2010/09/01/free-aws-magento-image-for-web-to-print/</link>
+		<comments>http://www.zetaprints.com/blog/2010/09/01/free-aws-magento-image-for-web-to-print/#respond</comments>
+		<pubDate>Wed, 01 Sep 2010 08:13:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[aws]]></category>
+		<category><![CDATA[free]]></category>
+		<category><![CDATA[free stuff]]></category>
+		<category><![CDATA[hosting]]></category>
+		<category><![CDATA[magento]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=599</guid>
+		<description><![CDATA[Setting up Magento can be a bit of a hassle. Doing it on AWS (Amazon Web Services) for the first time is even more so. Good guys from GreenGeko made it a bit easier for all of us and released a free AWS image full of goodies with Magento already installed. Anyone thinking of decent [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Setting up <a title="Magento + web-to-print" href="../../../../magento-web-to-print/index.html">Magento</a> can be a bit of a hassle. Doing it on <a title="Amazon Web Services" href="https://aws.amazon.com/ec2/#pricing">AWS </a>(Amazon Web Services) for the first time is even more so. Good guys from <a title="Magento support" href="http://www.greengecko.co.nz/">GreenGeko</a> made it a bit easier for all of us and released a <a title="Images can be unsafe. Check before use." href="http://docs.amazonwebservices.com/AWSEC2/latest/DeveloperGuide/AESDG-chapter-usingsharedamis.html#usingsharedamis-security">free AWS image</a> full of goodies with Magento already installed.</p>
+<p>Anyone thinking of <a title="Magento web-to-print hosting" href="../../../../magento-web-to-print/hosting/index.html">decent hosting</a> for your <a title="Magento web-to-print extension" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">Magento web-to-print</a> site can give it a try. This is the page you get after launching the instance.</p>
+<p><a href="../../../wp-content/uploads/2010/09/magento-for-web-to-print.png"><img class="alignnone size-full wp-image-600" title="magento-for-web-to-print" src="../../../wp-content/uploads/2010/09/magento-for-web-to-print.png" alt="magento-for-web-to-print" width="578" height="448" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2010/09/magento-for-web-to-print-300x232.png 300w, http://www.zetaprints.com/blog/wp-content/uploads/2010/09/magento-for-web-to-print.png 826w" sizes="(max-width: 578px) 100vw, 578px" /></a></p>
+<h2>How to find it</h2>
+<p>Assuming you already have your <a title="Sign up to AWS if needed." href="http://aws.amazon.com/">AWS account</a>, a <a title="Sign up if you don't have web2print yet" href="../../../../printers/web-to-print-sign-up/index.html">ZetaPrints account</a> and <a title="ElasticFox for FireFox" href="http://developer.amazonwebservices.com/connect/entry.jspa?externalID=609">ElasticFox</a> addon it&#8217;s relatively simple.</p>
+<ol>
+<li>Open ElasticFox and log in to your AWS account</li>
+<li>Click on Images tab</li>
+<li>Wait for the list to appear</li>
+<li>Type in Magento into the text box as in the screenshot below. You should see a much reduced list.</li>
+<li>Choose an image with a title resembling the one in the screenshot.</li>
+<li>Right-click on the selected image and launch an instance.</li>
+<li>Go to Instances tab and grab the public address / DNS name from the properties once the instance is running.</li>
+<li>Paste the address into your web browser.</li>
+</ol>
+<p>You should see a page similar to the screen-shot above with all the details about the instance, Magento and support options.</p>
+<p><a href="../../../wp-content/uploads/2010/09/web-to-print-image.png"><img class="alignnone size-full wp-image-601" title="web-to-print image" src="../../../wp-content/uploads/2010/09/web-to-print-image.png" alt="web-to-print image" width="970" height="388" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2010/09/web-to-print-image-300x120.png 300w, http://www.zetaprints.com/blog/wp-content/uploads/2010/09/web-to-print-image.png 970w" sizes="(max-width: 970px) 100vw, 970px" /></a></p>
+<h2>Other Magento images</h2>
+<p>There are some other Magento images, mainly by <a title="OpenSource as a service" href="http://www.jumpbox.com/pricing">JumpBox</a>. You can try them as well, but you are in for a bit of expense. Check them out. Could be value for money for you. We&#8217;ll stick with the free option for now.</p>
+<h2>Magento support</h2>
+<p>As much as we want to switch you to Magento we cannot assist with the installation or support of your Magento site. Our <a title="Magento web-to-print partners" href="../../../../magento-web-to-print/magento-partners/index.html">partners </a>will be happy to help you.</p>
+<h2>Magento web-to-print</h2>
+<p>This Magento image has no pre-installed <a title="Magento web-to-print" href="../../../../category/magento-web-to-print/index.html">web-to-print</a>. Follow <a title="magento web-to-print set-up" href="../../../../help/magento/index.html">our instructions</a> to set up and configure your <a title="magento web-to-print demo" href="../../../../magento/index.html">web-to-print site</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2010/09/01/free-aws-magento-image-for-web-to-print/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cool web-to-print scripts</title>
+		<link>http://www.zetaprints.com/blog/2010/07/29/cool-web-to-print-scripts/</link>
+		<comments>http://www.zetaprints.com/blog/2010/07/29/cool-web-to-print-scripts/#respond</comments>
+		<pubDate>Thu, 29 Jul 2010 22:56:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[web-to-print scripts]]></category>
+		<category><![CDATA[web-to-print skins]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=593</guid>
+		<description><![CDATA[Our default web-to-print interface is a bit boring. More like a skeleton. This is why we have web-to-print skins. Have you tried them on? Now we are testing a new release of java scripts to add some interactivity to your web-to-print too. Go to Branding / Page layout and paste these URLs into JavaScript URLs [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Our default web-to-print interface is a bit boring. More like a skeleton. This is why we have <a title="web-to-print skins" href="../../../../help/category/skins/index.html">web-to-print skins</a>. Have you tried them on?</p>
+<p>Now we are testing a new release of java scripts to add some interactivity to your web-to-print too.</p>
+<p>Go to <em>Branding / Page layout</em> and paste these URLs into <em>JavaScript URLs</em> text box (don&#8217;t forget to insert your domain name):</p>
+<pre><em>http://[YOUR DOMAIN NAME]/java/dev/20100707/imageEditor.js
+http://[YOUR DOMAIN NAME]/java/dev/20100707/multiFileUpload.js
+http://[YOUR DOMAIN NAME]/java/dev/20100707/fileUpload.js</em></pre>
+<p>Replace<em> [YOUR DOMAIN NAME]</em> with your real portal&#8217;s domain. E.g if  my web-to-print portal sits under <em>http://demo.zetaprints.com/</em> the URL will look like this:</p>
+<ul>
+<li><em>http://demo.zetaprints.com/java/dev/20100707/imageEditor.js</em></li>
+</ul>
+<h2>Web-to-print scripts explained</h2>
+<ul>
+<li>imageEditor.js &#8211; click on the image in the image library and it will bring up an interactive image editor</li>
+<li>multiFileUpload.js &#8211; works on My Images page to upload multiple files</li>
+<li>fileUpload.js &#8211; works on preview page to upload multiple images</li>
+</ul>
+<p>It&#8217;s unlikely that old browsers like AOL will work with them. The scrips are configured to use the default ZP functionality if the browser is unsupported, so those users shouldn&#8217;t be any worse off than they are now.</p>
+<p>We released them as open source under <a title="MIT license explained" href="http://creativecommons.org/licenses/MIT/">MIT license</a>:</p>
+<ul>
+<li><a title="web-to-print scripts" href="http://code.google.com/p/web-to-print-scripts/source/browse/#svn/trunk/js-system">http://code.google.com/p/web-to-print-scripts/source/browse/#svn/trunk/js-system</a></li>
+</ul>
+<h2>Still testing</h2>
+<p>Although we did extensive testing internally there may be some issues with some browsers some time, which is called &#8220;bugs&#8221; all the same. Let us know if you spot any.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2010/07/29/cool-web-to-print-scripts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

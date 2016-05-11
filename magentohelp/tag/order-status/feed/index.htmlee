@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Order status &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/tag/order-status/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Order status</title>
+		<link>http://www.zetaprints.com/magentohelp/magento-order-status/</link>
+		<pubDate>Thu, 29 Apr 2010 18:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-print administration]]></category>
+		<category><![CDATA[Order management]]></category>
+		<category><![CDATA[Order status]]></category>
+
+		<guid isPermaLink="false">/help/?p=9758</guid>
+		<description><![CDATA[Web-to-print order status is synchronized between Magento and ZetaPrints in real time. All web-to-print orders placed by your customers are visible in your Magento admin panel. We recommend to manage them in Magento only. ZetaPrints status will change automatically. Navigate to Sales/Orders in your Magento admin panel to see the full list of orders placed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Web-to-print order <a title="Web-to-print order status" href="../../../../help/order-status/" target="_self">status</a> is <a title="Magento web-to-print synchronization settings" href="../../../zetaprints-synchronization-settings/" target="_self">synchronized</a> between Magento and ZetaPrints in real time. <span id="more-9758"></span></p>
+<p>All web-to-print <a title="Magento web-to-print order management" href="../../../magento-order-management/" target="_self">orders</a> placed by your customers are visible in your Magento admin panel. We recommend to manage them in Magento only. ZetaPrints status will change automatically.</p>
+<div style="display: table;"><img style="margin: 5px; float: right;" title="Magento web-to-print orders" src="../../../wp-content/uploads/2010/04/magento_web-to-print_orders.png" alt="Magento web-to-print orders" width="291" height="235" /></p>
+<div style="position: relative; top: 35px; display: inline;">Navigate to <em>Sales/Orders</em> in your Magento admin panel to see the full list of orders placed by your customers.<br />
+Open <a title="Web-to-print order details API" href="../../../../help/orders-api-order-details/" target="_self">order details</a> by clicking on the order in the list.</div>
+</div>
+<div style="display: table;"><img style="margin: 5px; float: left;" title="Magento web-to-print pending status" src="../../../wp-content/uploads/2010/04/magento_web-to-print_pending_status.png" alt="Magento web-to-print pending status" width="377" height="182" /></p>
+<div style="position: relative; top: 35px; display: inline;">Once a customer places an order in your store, the order status is set to <strong>Pending</strong>. This status will remain until you <strong>Confirm</strong> or <strong>Cancel</strong> the order.</div>
+</div>
+<div style="display: table;"><img style="margin: 5px; float: right;" title="Magento web-to-print status to print" src="../../../wp-content/uploads/2010/04/magento_web-to-print_to_print_status.png" alt="Magento web-to-print status to print" width="270" height="214" /></p>
+<div style="position: relative; top: 35px; display: inline;">The status for the same order in your web-to-print site is <strong>to print</strong>.</div>
+</div>
+<h2>Confirm an order</h2>
+<div style="display: table;"><img style="margin: 5px; float: right;" title="Magento web-to-print submit invoice" src="../../../wp-content/uploads/2010/04/magento_web-to-print_submit_invoice.png" alt="Magento web-to-print submit invoice" width="296" height="206" /></p>
+<div style="position: relative; top: 35px; display: inline;">
+<p>Orders are confirmed by <em>Invoicing</em> the customer. After you have reviewed the <a title="Web-to-print output file generation" href="../../../../help/output-files-generation/" target="_self">generated</a> print-ready files, click on <strong>Invoice</strong> button in the top right corner of Magento&#8217;s <em>order details</em> page.</p>
+<p>Review all information and click <strong>Submit Invoice</strong> button at the bottom of the page.</p>
+</div>
+</div>
+<div style="display: table;"><img style="margin: 5px; float: left;" title="Magento web-to-print processing status" src="../../../wp-content/uploads/2010/04/magento_web-to-print_processing_status.png" alt="Magento web-to-print processing status" width="374" height="182" />
+<div style="position: relative; top: 35px; display: inline;">Order status is changed to <strong>Processing</strong>.</div>
+</div>
+<h3>Ship ordered items</h3>
+<p>When you are ready to ship the items ordered, click on <strong>Ship</strong> button at the top of the order details page and confirm the shipment on the next page.</p>
+<div style="display: table;"><img style="margin: 5px; float: right;" title="Magento web-to-print complete status" src="../../../wp-content/uploads/2010/04/magento_web-to-print_complete_status.png" alt="Magento web-to-print complete status" width="375" height="182" />
+<div style="position: relative; top: 35px; display: inline;">Order status is changed to <strong>Complete</strong> in the Magento admin panel.</div>
+</div>
+<div style="display: table;"><img style="margin: 5px; float: left;" title="Magento web-to-print deleted status" src="../../../wp-content/uploads/2010/04/magento_web-to-print_deleted_status.png" alt="Magento web-to-print deleted status" width="291" height="214" />
+<div style="position: relative; top: 35px; display: inline;">The same order is <strong>Deleted</strong> from your web-to-print site.</div>
+</div>
+<h2>Cancel an order</h2>
+<p>If you wish to cancel an order, navigate to the order details page and click <em>Cancel</em> button at the top. Order status will be changed to <strong>Canceled</strong> and the order will be deleted from your web-to-print site as well.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

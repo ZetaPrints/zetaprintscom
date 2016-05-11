@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Web-to-print upgrade in progress</title>
+	<atom:link href="http://www.zetaprints.com/blog/2011/08/28/web-to-print-upgrade-in-progress/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog/2011/08/28/web-to-print-upgrade-in-progress/</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Thu, 08 Aug 2013 10:05:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>By: admin</title>
+		<link>http://www.zetaprints.com/blog/2011/08/28/web-to-print-upgrade-in-progress/comment-page-1/#comment-297</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 28 Aug 2011 15:27:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=835#comment-297</guid>
+		<description><![CDATA[We are taking a break for now. Everything should run OK and a bit faster than before. Report any issues to support@zetaprints.com and don&#039;t be shy to call us if the problem needs immediate resolution.]]></description>
+		<content:encoded><![CDATA[<p>We are taking a break for now. Everything should run OK and a bit faster than before. Report any issues to <a href="mailto:support@zetaprints.com">support@zetaprints.com</a> and don&#8217;t be shy to call us if the problem needs immediate resolution.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Localized -->

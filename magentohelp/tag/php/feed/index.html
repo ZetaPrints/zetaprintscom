@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PHP &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/tag/php/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Image size adjustment</title>
+		<link>http://www.zetaprints.com/magentohelp/image-size-adjustment-for-magento/</link>
+		<pubDate>Fri, 14 May 2010 09:51:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-print administration]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[Customization]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">/help/?p=9946</guid>
+		<description><![CDATA[The size of preview, stock and user-uploaded images in a Magento store can be customized to better fit the type and purpose of the product. Previews are generated at a certain default size by ZetaPrints web-to-print and dynamic imaging system. Magento can reduce the preview size, but it can not make it larger. If the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The size of preview, stock and user-uploaded images in a Magento store can be customized to better fit the type and purpose of the product.<span id="more-9946"></span></p>
+<p>Previews are generated at a certain default size by ZetaPrints <a title="ZetaPrints web-to-print and dynamic imaging" href="../../../../" target="_self">web-to-print</a> and dynamic imaging system. Magento can reduce the preview size, but it can not make it larger. If the preview provided by ZetaPrints is not large enough you need to <a title="Web-to-print default preview changes" href="../../../../help/changing-default-previews/" target="_self">generate a bigger one</a> first.</p>
+<h2>Preview images</h2>
+<div style="display: table;">
+<p><img style="margin: 5px; float: left;" title="Magento product preview image" src="../../../wp-content/uploads/2010/05/magento_preview_image.png" alt="Magento product preview image" width="400" height="421" /></p>
+<div style="position: relative; top: 35px; display: inline;">Size of <strong>preview images</strong> can be changed in <em><a title="zp-style.css file" rel="nofollow" href="http://code.google.com/p/magento-w2p/source/browse/trunk/skin/frontend/default/zptheme/css/zp-style.css" target="_self">zp-style.css</a></em> file, set a different <strong>max-width</strong> value to the <em>a.zetaprints-template-preview  img</em> CSS selector:</div>
+</div>
+<div class="codecolorer-container css mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br /></div></td><td><div class="css codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap">a<span style="color: #6666ff;">.zetaprints-template-preview</span> img<br />
+<span style="color: #00AA00;">&#123;</span><br />
+<span style="color: #000000; font-weight: bold;">max-width</span><span style="color: #00AA00;">:</span> <span style="color: #933;">265px</span><span style="color: #00AA00;">;</span><br />
+<span style="color: #00AA00;">&#125;</span></div></td></tr></tbody></table></div>
+<h2>Stock images</h2>
+<div style="display: table;">
+<p><img style="margin: 5px; float: right;" title="Magento web-to-print stock images" src="../../../wp-content/uploads/2010/05/magento_stock_images.png" alt="Magento web-to-print stock images" width="400" height="231" /></p>
+<div style="position: relative; top: 35px; display: inline;">The images you&#8217;ve made available to customers as <a title="Web-to-print and dynamic imaging stock images" href="../../../../help/image-selection/" target="_self">image selection</a> can be PNG, GIF, JPG, JPEG, TIFF or EPS.</div>
+</div>
+<h3>PNG and GIF images</h3>
+<p>To adjust the default size of the PNG and GIF images in the Stock Images scroll of the product, you need to edit the max-height value in the following selector of <em><a title="zp-style.css file" rel="nofollow" href="http://code.google.com/p/magento-w2p/source/browse/trunk/skin/frontend/default/zptheme/css/zp-style.css" target="_self">zp-style.css</a></em>:</p>
+<div class="codecolorer-container css mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br /></div></td><td><div class="css codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap">div<span style="color: #6666ff;">.images-scroller</span> img<br />
+<span style="color: #00AA00;">&#123;</span><br />
+<span style="color: #000000; font-weight: bold;">max-height</span><span style="color: #00AA00;">:</span> <span style="color: #933;">100px</span><span style="color: #00AA00;">;</span><br />
+<span style="color: #00AA00;">&#125;</span></div></td></tr></tbody></table></div>
+<h3>Other image formats</h3>
+<p>To set the size of JPG, JPEG, TIFF&#8230; and other supported image formats, you need to change <em>0x100</em> part of image URL to the preferred one. Value is  <em>WEIGHTxHEIGHT</em> in pixels. in <em><a title="common-templates.xslt file" rel="nofollow" href="http://code.google.com/p/magento-w2p/source/browse/trunk/app/code/local/ZetaPrints/Zpapi/Model/common-templates.xslt" target="_self">common-templates.xslt</a></em> file.</p>
+<div class="codecolorer-container xml mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;xsl</span> :otherwise<span style="color: #000000; font-weight: bold;">&gt;</span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;img</span> <span style="color: #000066;">src</span>=<span style="color: #ff0000;">&quot;{$zetaprints-api-url}photothumbs/{substring-before</span><br />
+<span style="color: #009900;">(@Thumb,'.')}_0x100.{substring-after(@Thumb,'.')}&quot;</span> <span style="color: #000000; font-weight: bold;">/&gt;</span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/xsl<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></div></td></tr></tbody></table></div>
+<h2>User uploaded images</h2>
+<div style="display: table;">
+<p><img style="margin: 5px; float: left;" title="Magento user-uploaded images" src="../../../wp-content/uploads/2010/05/magento_my_images_library.png" alt="Magento user-uploaded images" width="400" height="235" /></p>
+<div style="position: relative; top: 35px; display: inline;">The procedure for changing display size of user-uploaded images in PNG and GIF format is identical to the one in stock images.</div>
+</div>
+<p>For other supported image types (JPG, JPEG, TIFF&#8230;), change <em>0x100</em> value of parameter to preferred one where template  is <em>WEIGHTxHEIGHT</em> (pixels) in <em><a title="PersonalizationForm.php file" rel="nofollow" href="http://code.google.com/p/magento-w2p/source/browse/trunk/app/code/local/ZetaPrints/WebToPrint/Helper/PersonalizationForm.php" target="_self">PersonalizationForm.php</a></em> and <em><a title="UploadController.php file" rel="nofollow" href="http://code.google.com/p/magento-w2p/source/browse/trunk/app/code/local/ZetaPrints/WebToPrint/controllers/UploadController.php" target="_self">UploadController.php</a></em> files.</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #b1b100;">if</span> <span style="color: #009900;">&#40;</span><span style="color: #000088;">$image</span><span style="color: #009900;">&#91;</span><span style="color: #0000ff;">'mime'</span><span style="color: #009900;">&#93;</span> <span style="color: #339933;">===</span> <span style="color: #0000ff;">'image/jpeg'</span> <span style="color: #339933;">||</span> <span style="color: #000088;">$image</span><span style="color: #009900;">&#91;</span><span style="color: #0000ff;">'mime'</span><span style="color: #009900;">&#93;</span> <span style="color: #339933;">===</span> <span style="color: #0000ff;">'image/jpg'</span><span style="color: #009900;">&#41;</span><br />
+<span style="color: #000088;">$thumbnail</span> <span style="color: #339933;">=</span> <span style="color: #990000;">str_replace</span><span style="color: #009900;">&#40;</span><span style="color: #0000ff;">'.'</span><span style="color: #339933;">,</span> <span style="color: #0000ff;">'_0x100.'</span><span style="color: #339933;">,</span> <span style="color: #000088;">$image</span><span style="color: #009900;">&#91;</span><span style="color: #0000ff;">'thumbnail'</span><span style="color: #009900;">&#93;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span></div></td></tr></tbody></table></div>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cross-sells &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/tag/cross-sells/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Product relationships</title>
+		<link>http://www.zetaprints.com/magentohelp/magento-product-relations/</link>
+		<pubDate>Tue, 03 Aug 2010 11:49:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-print administration]]></category>
+		<category><![CDATA[Cross-sells]]></category>
+		<category><![CDATA[Related products]]></category>
+		<category><![CDATA[Up-sells]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/help/?p=10414</guid>
+		<description><![CDATA[There are three types of product relationships in Magento: Related products Up-sell products Cross-sell products This post explains the differences between the three as well as which ones behave differently with our Magento web-to-print extension. Related products Related products are intended to be ordered quickly while ordering another product (simply added in the cart before [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There are three types of product relationships in Magento:</p>
+<ol>
+<li>Related products</li>
+<li>Up-sell products</li>
+<li>Cross-sell products</li>
+</ol>
+<p>This post explains the differences between the three as well as which ones behave differently with our Magento <a title="Magento web-to-print extension page" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a>.</p>
+<p><span id="more-10414"></span></p>
+<h2>Related products</h2>
+<p>Related products are intended to be ordered quickly while ordering  another product (simply added in the cart before checking out) without  having to go through their own product page.</p>
+<p>These products have to be static products. They cannot be products that require personalization or configuration before ordering and therefore, web-to-print templates cannot be related products. The reason for this is because <em>Related products</em> show up in the right column of a product page and only have a check-box in front of them.</p>
+<p><img alt="Magento related  product" title="Magento related  product" src="../../../wp-content/uploads/2010/07/magento_related_product.png" alt="" width="599" height="397" /></p>
+<p>View a <a title="Magento demo product with a related product assigned" href="../../../../magento/index.php/featured/remax-square-sign-01-3-photos-24-x-24.html" target="_self">demo product</a> with a <a title="Magento simple related demo product" href="../../../../magento/index.php/featured/simple-static-product.html" target="_self">related product</a> assigned to it in our <a title="Magento web-to-print Demo store" href="../../../../magento-web-to-print/magento-demo-store/" target="_self">demo store</a>.</p>
+<h2>Up-sells</h2>
+<p>Up-sell products are intended as &#8220;better options&#8221; for the customers compared to the product they are viewing. Products that have other <em>up-sell</em> products assigned, show them bellow the product description area.</p>
+<p><img class="alignnone size-full wp-image-10436" alt="Magento up-sell products" title="Magento up-sell products" src="../../../wp-content/uploads/2010/07/magento_up-sell_product.png" alt="" width="574" height="646" /></p>
+<p>View a <a title="Magento demo product with up-sell products assigned" href="../../../../magento/index.php/product-types/realestate-signs/fsbo-signs/fsbo-square-sign-01-3-photos-24-x-24.html" target="_self">demo product</a> with up-sell products assigned to it in our <a title="Magento web-to-print Demo store" href="../../../../magento-web-to-print/magento-demo-store/" target="_self">demo store</a>.</p>
+<h2>Cross-sells</h2>
+<p>These products only appear on the shopping cart page after a customer places an order on a product that has them added as &#8220;cross-sell&#8221; products. They are intended for complementing the initial purchase. E.g. buy party balloons if you already purchased birthday invitations.</p>
+<p><img class="alignnone size-full wp-image-10432" alt="Magento cross-sell products" title="Magento cross-sell products" src="../../../wp-content/uploads/2010/07/magento_cross_sell_product.png" alt="" width="598" height="523" /></p>
+<p>Once a customer clicks on a cross-sell product, our extension takes them to the product page and automatically activates the template personalization process. This way, customers see the product already personalized using the info they provided while ordering the previous product.</p>
+<p>Add this <a title="Magento demo product with cross-sell products assigned" href="../../../../magento/index.php/product-types/realestate-signs/cent21-signs/century21-vertical-sign-01-3-photos-12-x-18.html" target="_self">demo product</a> in your shopping cart to view cross-sale products assigned to it in our <a title="Magento web-to-print Demo store" href="../../../../magento-web-to-print/magento-demo-store/" target="_self">demo store</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

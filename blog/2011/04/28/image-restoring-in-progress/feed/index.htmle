@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Image restoring in progress</title>
+	<atom:link href="http://www.zetaprints.com/blog/2011/04/28/image-restoring-in-progress/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog/2011/04/28/image-restoring-in-progress/</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Thu, 08 Aug 2013 10:05:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>By: admin</title>
+		<link>http://www.zetaprints.com/blog/2011/04/28/image-restoring-in-progress/comment-page-1/#comment-274</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 01 May 2011 12:21:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=718#comment-274</guid>
+		<description><![CDATA[It will be another 10 hours before all restored user images appear in their image libraries.]]></description>
+		<content:encoded><![CDATA[<p>It will be another 10 hours before all restored user images appear in their image libraries.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: admin</title>
+		<link>http://www.zetaprints.com/blog/2011/04/28/image-restoring-in-progress/comment-page-1/#comment-273</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 01 May 2011 00:45:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=718#comment-273</guid>
+		<description><![CDATA[As of now there are about 500,000 user images left to process. They are replicated slowly not to affect the site. We will probably stop the system between Sun/Mon at the least load time to speed up the process.
+
+All images should be back in place before Monday.
+Well, except those we don&#039;t have any more. It&#039;s a small number. Probably hundreds.]]></description>
+		<content:encoded><![CDATA[<p>As of now there are about 500,000 user images left to process. They are replicated slowly not to affect the site. We will probably stop the system between Sun/Mon at the least load time to speed up the process.</p>
+<p>All images should be back in place before Monday.<br />
+Well, except those we don&#8217;t have any more. It&#8217;s a small number. Probably hundreds.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: admin</title>
+		<link>http://www.zetaprints.com/blog/2011/04/28/image-restoring-in-progress/comment-page-1/#comment-272</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 30 Apr 2011 23:36:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=718#comment-272</guid>
+		<description><![CDATA[Almost all printer images were restored. Only a handful are missing.
+
+We are restoring user images now.]]></description>
+		<content:encoded><![CDATA[<p>Almost all printer images were restored. Only a handful are missing.</p>
+<p>We are restoring user images now.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: admin</title>
+		<link>http://www.zetaprints.com/blog/2011/04/28/image-restoring-in-progress/comment-page-1/#comment-271</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 30 Apr 2011 15:54:24 +0000</pubDate>
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=718#comment-271</guid>
+		<description><![CDATA[Looks like we got most of it restored, haven&#039;t made them available yet while the backup is in progress. Give it few more hours.]]></description>
+		<content:encoded><![CDATA[<p>Looks like we got most of it restored, haven&#8217;t made them available yet while the backup is in progress. Give it few more hours.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: admin</title>
+		<link>http://www.zetaprints.com/blog/2011/04/28/image-restoring-in-progress/comment-page-1/#comment-270</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2011 22:56:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=718#comment-270</guid>
+		<description><![CDATA[We are recovering files from 3 different locations:
+* S3 back up
+* large caching disk on a surviving server
+* remnants of the lost drive
+
+So far it is looking promising, but we won&#039;t know how much useful data we have for another 12 hours. It is a slow process.]]></description>
+		<content:encoded><![CDATA[<p>We are recovering files from 3 different locations:<br />
+* S3 back up<br />
+* large caching disk on a surviving server<br />
+* remnants of the lost drive</p>
+<p>So far it is looking promising, but we won&#8217;t know how much useful data we have for another 12 hours. It is a slow process.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Localized -->

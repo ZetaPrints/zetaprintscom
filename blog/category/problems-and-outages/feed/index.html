@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Problems and outages &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/category/problems-and-outages/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Repeating fields in web-to-print templates bug</title>
+		<link>http://www.zetaprints.com/blog/2013/08/02/forward-updates-in-web-to-print-templates-bug/</link>
+		<comments>http://www.zetaprints.com/blog/2013/08/02/forward-updates-in-web-to-print-templates-bug/#respond</comments>
+		<pubDate>Fri, 02 Aug 2013 10:36:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Problems and outages]]></category>
+		<category><![CDATA[Web-to-Print]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1126</guid>
+		<description><![CDATA[Multi-page web-to-print templates can have text and image fields shared between multiple pages. The user can change it only on one page where it is encountered for the first time. All the other pages in the same web-to-print template will reuse the previously entered value. We had a problem with our web-to-print engine updating pages [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Multi-page web-to-print templates can have <a title="Repeating web-to-print fields" href="../../../../help/repeating-fields/">text and image fields shared between multiple pages</a>.</p>
+<p>The user can change it only on one page where it is encountered for the first time. All the other pages in the same web-to-print template will reuse the previously entered value.</p>
+<p>We had a problem with our web-to-print engine updating pages it didn&#8217;t need to update when the shared fields were involved. If an update failed the user had to start over. This problem has now been fixed.</p>
+<p>There is still a performance limitation. If a field spans too many pages with a lot of images it may take too long to update them all resulting in a time-out. Please, let us know if you encounter this situation.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2013/08/02/forward-updates-in-web-to-print-templates-bug/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lost files</title>
+		<link>http://www.zetaprints.com/blog/2013/07/31/lost-files/</link>
+		<comments>http://www.zetaprints.com/blog/2013/07/31/lost-files/#comments</comments>
+		<pubDate>Wed, 31 Jul 2013 21:02:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Problems and outages]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1120</guid>
+		<description><![CDATA[One of the servers had a fault that went unnoticed for two weeks at the beginning of July. It was not saving files to the permanent storage while still reporting that everything was OK. By the time we realised there was a problem we lost 500 templates and 9000 images uploaded around that time. We [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One of the servers had a fault that went unnoticed for two weeks at the beginning of July. It was not saving files to the permanent storage while still reporting that everything was OK. By the time we realised there was a problem we lost 500 templates and 9000 images uploaded around that time.</p>
+<p>We are trying to recover the files from other distributed locations, but many are lost forever.</p>
+<h3><a href="../../../wp-content/uploads/2013/07/web-to-print-404.png"><img class=" wp-image-1121 alignnone" alt="web-to-print-404" src="../../../wp-content/uploads/2013/07/web-to-print-404.png" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2013/07/web-to-print-404-300x133.png 300w, http://www.zetaprints.com/blog/wp-content/uploads/2013/07/web-to-print-404.png 496w" sizes="(max-width: 496px) 100vw, 496px" /></a></h3>
+<h3>Symptoms</h3>
+<p>Templates with no preview files, images with no thumbnails (just the name), orders with no previews.</p>
+<h3>What to do</h3>
+<p>Please, re-upload the missing files and regenerate orders.</p>
+<h3>Apology</h3>
+<p>Everything fails at some stage, but its is completely unacceptable that the file loss went for so long. We added more checks to the code for the future and the sysadmin responsible for the monitoring volunteered to spend a weekend working for a local Fair Trade shop.</p>
+<p>Sorry, our bad <img src="../../../wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2013/07/31/lost-files/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>PayPal issues &#8211; web-to-print orders are not paid</title>
+		<link>http://www.zetaprints.com/blog/2013/01/28/paypal-issues-web-to-print-orders-are-not-paid/</link>
+		<comments>http://www.zetaprints.com/blog/2013/01/28/paypal-issues-web-to-print-orders-are-not-paid/#respond</comments>
+		<pubDate>Mon, 28 Jan 2013 20:55:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Problems and outages]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1107</guid>
+		<description><![CDATA[All web-to-print orders paid via PayPal rely on a confirmation sent back to us from PayPal. It appears they stopped sending them about 20 hours ago. Their system status update isn&#8217;t very specific, but lots of other sites posted similar notes. Looks like their problems started on Jan 27 and are continuing. Notification: Some impact [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>All web-to-print orders paid via PayPal rely on a confirmation sent back to us from PayPal. It appears they stopped sending them about 20 hours ago.</p>
+<p>Their system status update isn&#8217;t very specific, but lots of other sites posted similar notes.</p>
+<p>Looks like their problems started on Jan 27 and are continuing.</p>
+<p><a href="https://www.x.com/content/notification-some-impact-paypal-api-jan-28">Notification: Some impact to PayPal API &#8211; Jan 28</a></p>
+<p><a href="https://www.x.com/content/update-4-issue-receiving-instant-payment-notifications-ipns-jan-27">Update 4: Issue in receiving Instant Payment Notifications (IPNs) &#8211; Jan 27</a></p>
+<p><a href="https://www.x.com/content/follow-major-impact-express-checkout-paypal-apis-virtual-terminal-and-website-payments-pro">Follow-up: Major Impact to Express Checkout, PayPal APIs, Virtual Terminal, and Website Payments Pro Payflow Edition (PayPal Payments Pro in US) &#8211; Jan 27</a></p>
+<p>Web-to-print orders are being processed, but not released for download or moved into ToPrint folder without the payment confirmation from PayPal.</p>
+<p>Web-to-print orders that do not require a PayPal payment are not affected.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2013/01/28/paypal-issues-web-to-print-orders-are-not-paid/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Amazon hosting failure</title>
+		<link>http://www.zetaprints.com/blog/2012/10/22/amazon-hosting-failure/</link>
+		<comments>http://www.zetaprints.com/blog/2012/10/22/amazon-hosting-failure/#comments</comments>
+		<pubDate>Mon, 22 Oct 2012 19:39:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Problems and outages]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1098</guid>
+		<description><![CDATA[Amazon is having problems with their storage system in N. Virginia data center, where most of our instances are located. It&#8217;s been going on for the last couple of hours and we hope they are fixing it. In the meantime the site is down. We are started relocation to a new zone, but it will [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Amazon is having problems with their storage system in N. Virginia data center, where most of our instances are located. It&#8217;s been going on for the last couple of hours and we hope they are fixing it.</p>
+<p>In the meantime the site is down.</p>
+<p>We are started relocation to a new zone, but it will take few more hours and result in some data loss. The recent transaction are likely to be missing.</p>
+<p><a href="../../../wp-content/uploads/2012/10/AWS-failure.png"><img class="aligncenter size-full wp-image-1099" title="AWS-failure" src="../../../wp-content/uploads/2012/10/AWS-failure.png" alt="" width="1043" height="549" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2012/10/AWS-failure-1024x538.png 1024w, http://www.zetaprints.com/blog/wp-content/uploads/2012/10/AWS-failure.png 1043w" sizes="(max-width: 1043px) 100vw, 1043px" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2012/10/22/amazon-hosting-failure/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Missing files in web-to-print orders</title>
+		<link>http://www.zetaprints.com/blog/2012/09/19/missing-files-in-web-to-print-orders/</link>
+		<comments>http://www.zetaprints.com/blog/2012/09/19/missing-files-in-web-to-print-orders/#respond</comments>
+		<pubDate>Wed, 19 Sep 2012 22:55:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Problems and outages]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1095</guid>
+		<description><![CDATA[We have just fixed a problem with one of the servers that affected web-to-print file generation. A lot of web-to-print orders were coming through without the files and had to be regenerated. Sometimes the regeneration failed too if it hit the same faulty server. We fixed the problem. Please, click on Generate files in the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We have just fixed a problem with one of the servers that affected web-to-print file generation.</p>
+<p>A lot of web-to-print orders were coming through without the files and had to be regenerated. Sometimes the regeneration failed too if it hit the same faulty server.</p>
+<p>We fixed the problem. Please, click on Generate files in the order details they are missing and they should appear. Email us immediately if they don&#8217;t.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2012/09/19/missing-files-in-web-to-print-orders/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Payments date wipe-out</title>
+		<link>http://www.zetaprints.com/blog/2012/08/14/payments-date-wipe-out/</link>
+		<comments>http://www.zetaprints.com/blog/2012/08/14/payments-date-wipe-out/#respond</comments>
+		<pubDate>Tue, 14 Aug 2012 23:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Problems and outages]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1087</guid>
+		<description><![CDATA[Someone pressed a wrong button a few minutes ago, ignored the warning and pressed OK to confirm. As a result, all printer payments are showing as &#8216;2012-08-10&#8217;. We are working on restoring the data from a backup.]]></description>
+				<content:encoded><![CDATA[<p>Someone pressed a wrong button a few minutes ago, ignored the warning and pressed OK to confirm.</p>
+<p>As a result, all printer payments are showing as &#8216;2012-08-10&#8217;. We are working on restoring the data from a backup.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2012/08/14/payments-date-wipe-out/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>AWS outage</title>
+		<link>http://www.zetaprints.com/blog/2012/03/15/aws-outage/</link>
+		<comments>http://www.zetaprints.com/blog/2012/03/15/aws-outage/#respond</comments>
+		<pubDate>Thu, 15 Mar 2012 09:50:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Problems and outages]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1046</guid>
+		<description><![CDATA[Amazon Web Services, is letting us down. From their RSS healthcheck feed: 2:40 AM PDT We are investigating connectivity issues for EC2 in the US-EAST-1 region. All of our sites and servers were inaccessible for about 10 minutes.  It&#8217;s back to normal now.]]></description>
+				<content:encoded><![CDATA[<p>Amazon Web Services, is letting us down. From their RSS healthcheck feed:</p>
+<pre>2:40 AM PDT We are investigating connectivity issues for EC2 in the US-EAST-1 region.</pre>
+<p>All of our sites and servers were inaccessible for about 10 minutes.  It&#8217;s back to normal now.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2012/03/15/aws-outage/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>A bit of downtime</title>
+		<link>http://www.zetaprints.com/blog/2012/02/26/a-bit-of-downtime/</link>
+		<comments>http://www.zetaprints.com/blog/2012/02/26/a-bit-of-downtime/#comments</comments>
+		<pubDate>Sun, 26 Feb 2012 11:09:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Problems and outages]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1026</guid>
+		<description><![CDATA[Whoops. Had to stop the site to get some maintenance done. It should be only a few minutes, in case you noticed.]]></description>
+				<content:encoded><![CDATA[<p>Whoops. Had to stop the site to get some maintenance done. It should be only a few minutes, in case you noticed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2012/02/26/a-bit-of-downtime/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Font problems</title>
+		<link>http://www.zetaprints.com/blog/2012/02/10/font-problems/</link>
+		<comments>http://www.zetaprints.com/blog/2012/02/10/font-problems/#respond</comments>
+		<pubDate>Fri, 10 Feb 2012 18:10:42 +0000</pubDate>
+		<dc:creator><![CDATA[juro]]></dc:creator>
+				<category><![CDATA[Problems and outages]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1015</guid>
+		<description><![CDATA[One of our image processing servers lost the plot earlier today (February 02 2012). It was saying a font was installed when it wasn&#8217;t. As a result a lot of orders and previews got Arial or some other random font inserted in place of the proper font. It didn&#8217;t happen to all the orders, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One of our image processing servers lost the plot earlier today (February 02 2012). It was saying a font was installed when it wasn&#8217;t. As a result a lot of orders and previews got Arial or some other random font inserted in place of the proper font. It didn&#8217;t happen to all the orders, but enough of them to cause trouble.</p>
+<p>The problem appears to be fixed now, but we can&#8217;t say for sure because it relies on a visual check, so please, let us know if any new orders are still faulty.</p>
+<p>Regenerating the files should help. Send us a link to the order if it doesn&#8217;t.</p>
+<p>Still trying to find out why this happened and if any other servers are affected.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2012/02/10/font-problems/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Missing web-to-print files</title>
+		<link>http://www.zetaprints.com/blog/2012/02/10/missing-web-to-print-files/</link>
+		<comments>http://www.zetaprints.com/blog/2012/02/10/missing-web-to-print-files/#respond</comments>
+		<pubDate>Fri, 10 Feb 2012 18:09:30 +0000</pubDate>
+		<dc:creator><![CDATA[juro]]></dc:creator>
+				<category><![CDATA[Problems and outages]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1013</guid>
+		<description><![CDATA[PDF, JPG and other print-ready files for orders older than a few days were showing as missing for quite a few orders. The files were there all the time, but a bug was preventing their download. Fixed now.]]></description>
+				<content:encoded><![CDATA[<p>PDF, JPG and other print-ready files for orders older than a few days were showing as missing for quite a few orders.</p>
+<p>The files were there all the time, but a bug was preventing their download.</p>
+<p>Fixed now.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2012/02/10/missing-web-to-print-files/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

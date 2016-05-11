@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>web-to-print features &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/category/web-to-print-features/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Speed up your web-to-print checkout</title>
+		<link>http://www.zetaprints.com/blog/2013/07/22/speed-up-your-web-to-print-checkout/</link>
+		<comments>http://www.zetaprints.com/blog/2013/07/22/speed-up-your-web-to-print-checkout/#respond</comments>
+		<pubDate>Mon, 22 Jul 2013 06:49:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1113</guid>
+		<description><![CDATA[ZetaPrints generates output files as part of the checkout process for all types of orders. It can slow down the checkout and make it appear frozen. Users don&#8217;t like to wait and give up before completing the order. We added an optional feature to speed up the checkout process for slow templates. Check on &#8220;delayed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>ZetaPrints generates output files as part of the checkout process for all types of orders. It can slow down the checkout and make it appear frozen. Users don&#8217;t like to wait and give up before completing the order. We added an optional feature to speed up the checkout process for slow templates.</p>
+<p><a href="../../../wp-content/uploads/2013/07/output-Files-options1.png"><img class="alignleft size-full wp-image-1115" alt="output-Files-options" src="../../../wp-content/uploads/2013/07/output-Files-options1.png" width="487" height="254" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2013/07/output-Files-options1-300x156.png 300w, http://www.zetaprints.com/blog/wp-content/uploads/2013/07/output-Files-options1.png 487w" sizes="(max-width: 487px) 100vw, 487px" /></a></p>
+<p>Check on &#8220;delayed file generation&#8221; option (highlighted green) to skip the file generation step at the checkout. It will significantly reduce the time it takes to complete the order.</p>
+<p>No files will be generated immediately, but as a printer, you will need to press &#8220;generate files&#8221; link on the order details before downloading them.</p>
+<p>This option applies to orders placed directly in your zetaprints portal or in Magento via the API.</p>
+<p>Delayed file generation is set per template, but you can use <a title="Bulk-editing web-to-print templates" href="../../../../help/bulk-editing-templates/index.html">bulk editing</a> to set this option per catalog.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2013/07/22/speed-up-your-web-to-print-checkout/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>EPS upload in Magento web-to-print</title>
+		<link>http://www.zetaprints.com/blog/2012/07/22/eps-upload-in-magento-web-to-print/</link>
+		<comments>http://www.zetaprints.com/blog/2012/07/22/eps-upload-in-magento-web-to-print/#respond</comments>
+		<pubDate>Sun, 22 Jul 2012 08:34:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1077</guid>
+		<description><![CDATA[We&#8217;ve just rolled out an update to allow EPS file upload via Magento. No change is needed to the Magento end. Possible issues with EPS files Some EPS files cannot be processed. Please, email them to us for analysis. You need to make sure that your server has the right MIME type set up for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We&#8217;ve just rolled out an update to allow EPS file upload via <a title="About Magento web-to-print" href="../../../../category/magento-web-to-print/index.html">Magento</a>. No change is needed to the Magento end.</p>
+<h3>Possible issues with EPS files</h3>
+<p>Some EPS files cannot be processed. Please,<a title="Contact web-to-print support" href="mailto:support@zetaprints.com"> email them to us</a> for analysis.</p>
+<p>You need to make sure that your server has the right <a title="About MIME types and their full list." href="http://www.iana.org/assignments/media-types/index.html">MIME type</a> set up for EPS files. Contact your system administrator or the hosting support if the MIME type is not set. It should be <em>application/postscript</em>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2012/07/22/eps-upload-in-magento-web-to-print/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Normalise whitespace feature</title>
+		<link>http://www.zetaprints.com/blog/2012/07/09/normalise-whitespace-feature/</link>
+		<comments>http://www.zetaprints.com/blog/2012/07/09/normalise-whitespace-feature/#respond</comments>
+		<pubDate>Mon, 09 Jul 2012 07:55:50 +0000</pubDate>
+		<dc:creator><![CDATA[juro]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1065</guid>
+		<description><![CDATA[We introduced a new feature to the web-to-print text field editor that allows you to set a text field to automatically trim down any extra empty spaces from the user input. We had 3 settings that could trim leading and trailing spaces, but anything inside the sentence would be left intact. It was possible for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We introduced a new feature to the web-to-print text field editor that allows you to set a text field to automatically trim down any extra empty spaces from the user input.<span id="more-1065"></span></p>
+<p>We had 3 settings that could trim leading and trailing spaces, but anything inside the sentence would be left intact. It was possible for the user input to deform the variable web-to-print <em>Paragraph text</em> frame with a large number of empty spaces.</p>
+<p><img class="alignnone size-full wp-image-1069" title="Web-to-print empty spaces" src="../../../wp-content/uploads/2012/07/web-to-print_empty_spaces.png" alt="Web-to-print empty spaces" width="600" height="288" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2012/07/web-to-print_empty_spaces-300x144.png 300w, http://www.zetaprints.com/blog/wp-content/uploads/2012/07/web-to-print_empty_spaces.png 600w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<p>When the feature is activated for a text field, user input, that contains more than one consecutive empty space next to each other gets automatically reduced to a single empty space.</p>
+<div style="display: table;">
+<p><img style="margin-top: 15px; float: left;" title="Web-to-print normalise whitespace" src="../../../wp-content/uploads/2012/07/web-to-print_normalise_whitespace.png" alt="Web-to-print normalise whitespace" width="335" height="544" /></p>
+<div style="position: relative; top: 35px; display: inline;">To activate this feature for a test field, open the <a title="Web-to-print field editor" href="../../../../help/field-editor/index.html">Field editor</a> for that field and choose &#8220;<strong>Normalise whitespace</strong>&#8221; option from the <strong>Trim</strong> drop-down menu.</div>
+</div>
+<p>Contact <a title="Contact us" href="mailto:support@zetaprints.com">support@zetaprints.com</a> if you wish to activate this feature for a large number of templates in bulk. We should be able to do it for you through the back end.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2012/07/09/normalise-whitespace-feature/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Email notifications with previews and links to output files</title>
+		<link>http://www.zetaprints.com/blog/2012/06/17/email-notifications-with-previews-and-links-to-output-files/</link>
+		<comments>http://www.zetaprints.com/blog/2012/06/17/email-notifications-with-previews-and-links-to-output-files/#respond</comments>
+		<pubDate>Sun, 17 Jun 2012 14:22:17 +0000</pubDate>
+		<dc:creator><![CDATA[juro]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1056</guid>
+		<description><![CDATA[We added a new feature to our web-to-print extension for Magento that allows order confirmation emails sent to customers to contain preview images of their orders. Since release 2.1.2.0.5 (beta) of the extension, when a customer places an order on a web-to-print product, the email notification that is automatically sent out by Magento will contain [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We added a new feature to our <a title="Web-to-print extension for Magento" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">web-to-print extension</a> for Magento that allows order confirmation emails sent to customers to contain preview images of their orders. <span id="more-1056"></span>Since release 2.1.2.0.5 (beta) of the extension, when a customer places an order on a web-to-print product, the email notification that is automatically sent out by Magento will contain preview images of the order.</p>
+<p><img class="alignnone size-full wp-image-1059" title="Web-to-print notification email" src="../../../wp-content/uploads/2012/06/web-to-print_notification_email.png" alt="Web-to-print notification email" width="595" height="676" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2012/06/web-to-print_notification_email-264x300.png 264w, http://www.zetaprints.com/blog/wp-content/uploads/2012/06/web-to-print_notification_email.png 595w" sizes="(max-width: 595px) 100vw, 595px" /></p>
+<h2>Links to web-to-print output files</h2>
+<p>If the template is set to allow customers to <a title="Allow generated web-to-print file downloading" href="../../../../magentohelp/allow-file-download-in-magento/index.html">download the generated output</a> files, the notification email will also contain links to those output files. Customers will now be able to reach and download the generated files from the email they received after successfully placing an order. No need to login to their customer account in your store in order to get their files.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2012/06/17/email-notifications-with-previews-and-links-to-output-files/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Selling menus via web-to-print</title>
+		<link>http://www.zetaprints.com/blog/2012/04/03/selling-menus-via-web-to-print/</link>
+		<comments>http://www.zetaprints.com/blog/2012/04/03/selling-menus-via-web-to-print/#respond</comments>
+		<pubDate>Wed, 04 Apr 2012 01:50:25 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Graphic design]]></category>
+		<category><![CDATA[web-to-print features]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1054</guid>
+		<description><![CDATA[Did you know you could easily create a menu layout with the item name on the left and the price on the right in our web-to-print system? Check out this web-to-print help post. It explain how to add leader dots over tabulation signs like in this example: &#160;]]></description>
+				<content:encoded><![CDATA[<p>Did you know you could easily create a menu layout with the item name on the left and the price on the right in our web-to-print system?</p>
+<p>Check out this <a title="leader dots in web-to-print" href="../../../../help/leader-dots/index.html">web-to-print help post</a>. It explain how to add leader dots over tabulation signs like in this example:</p>
+<p><img class="alignnone" title="leader dots in web-to-print" src="../../../../help/wp-content/uploads/2012/03/web-to-print_text_with_leader_dots.png" alt="" width="595" height="527" /></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2012/04/03/selling-menus-via-web-to-print/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New bulk edit option</title>
+		<link>http://www.zetaprints.com/blog/2011/11/09/new-bulk-edit-option/</link>
+		<comments>http://www.zetaprints.com/blog/2011/11/09/new-bulk-edit-option/#comments</comments>
+		<pubDate>Wed, 09 Nov 2011 09:12:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=898</guid>
+		<description><![CDATA[Just added bulk-edit support for web-to-print multipage options so you can change this web-to-print setting for multiple templates in one step. Also, menu for web-to-print catalogs has changed slightly. Clone catalog and Bulk edit now show in the catalog&#8217;s menu. Read more about multipage options in this web-to-print help post.]]></description>
+				<content:encoded><![CDATA[<p>Just added bulk-edit support for <em>web-to-print multipage options</em> so you can change this web-to-print setting for multiple templates in one step.</p>
+<p>Also, menu for web-to-print catalogs has changed slightly. Clone catalog and Bulk edit now show in the catalog&#8217;s menu.</p>
+<p>Read more about multipage options in this <a title="web-to-print multipage" href="../../../../help/multi-page-templates/index.html">web-to-print help post</a>.</p>
+<p><a href="../../../wp-content/uploads/2011/11/web-to-print-multipage.png"><img class="aligncenter size-full wp-image-899" title="web-to-print multipage" src="../../../wp-content/uploads/2011/11/web-to-print-multipage.png" alt="web-to-print multipage" width="450" height="354" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2011/11/web-to-print-multipage-300x236.png 300w, http://www.zetaprints.com/blog/wp-content/uploads/2011/11/web-to-print-multipage.png 450w" sizes="(max-width: 450px) 100vw, 450px" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2011/11/09/new-bulk-edit-option/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Multipage web-to-print templates options</title>
+		<link>http://www.zetaprints.com/blog/2011/11/06/multipage-web-to-print-templates-options/</link>
+		<comments>http://www.zetaprints.com/blog/2011/11/06/multipage-web-to-print-templates-options/#comments</comments>
+		<pubDate>Sun, 06 Nov 2011 23:43:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=893</guid>
+		<description><![CDATA[Just added a new simple web-to-print feature to control file generation for multipage templates. The default setting always was to exclude pages users never updated. This works for some, but not other web-to-print templates. Now you have a choice of: exclude default (not updated) pages include default pages as is in the template require all [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Just added a new simple web-to-print feature to control file generation for multipage templates.</p>
+<p>The default setting always was to exclude pages users never updated. This works for some, but not other web-to-print templates.</p>
+<p>Now you have a choice of:</p>
+<ul>
+<li>exclude default (not updated) pages</li>
+<li>include default pages as is in the template</li>
+<li>require all pages to be updated before checking out</li>
+</ul>
+<p>The setting is controlled on template details page.</p>
+<p><a href="../../../wp-content/uploads/2011/11/web-to-print-multipage-template-setting.png"><img class="aligncenter size-full wp-image-894" title="web-to-print multipage template settings" src="../../../wp-content/uploads/2011/11/web-to-print-multipage-template-setting.png" alt="web-to-print multipage template settings" width="502" height="445" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2011/11/06/multipage-web-to-print-templates-options/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Template re-processing</title>
+		<link>http://www.zetaprints.com/blog/2011/09/26/template-reprocessing/</link>
+		<comments>http://www.zetaprints.com/blog/2011/09/26/template-reprocessing/#respond</comments>
+		<pubDate>Tue, 27 Sep 2011 03:39:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=866</guid>
+		<description><![CDATA[We keep adding new web-to-print features to our system. Some of them are not backward compatible and require template re-processing. We decided against automatic re-processing of all templates because of the risk something goes wrong with the template and no one notices until an order is printed. We added a feature to re-process templates manually [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We keep adding new web-to-print features to our system. Some of them are not backward compatible and require template re-processing. We decided against automatic re-processing of all templates because of the risk something goes wrong with the template and no one notices until an order is printed.</p>
+<p>We added a feature to re-process templates manually if they are out of date.</p>
+<p>At the moment almost all templates are out of date. You can re-process them manually from template overview page.</p>
+<p style="text-align: center;"><a href="../../../wp-content/uploads/2011/09/web2print-reprocess.png"><img class="aligncenter size-full wp-image-867" title="web-to-print-reprocess" src="../../../wp-content/uploads/2011/09/web2print-reprocess.png" alt="web-to-print-reprocess" width="419" height="268" /></a></p>
+<p>&nbsp;</p>
+<p><strong>Do not re-process templates unless you need to. Leaving them as-is won&#8217;t affect anything.</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2011/09/26/template-reprocessing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Web-to-print template import to Magento</title>
+		<link>http://www.zetaprints.com/blog/2011/08/24/web-to-print-template-import-to-magento/</link>
+		<comments>http://www.zetaprints.com/blog/2011/08/24/web-to-print-template-import-to-magento/#respond</comments>
+		<pubDate>Wed, 24 Aug 2011 23:06:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=828</guid>
+		<description><![CDATA[Importing templates from your web-to-print to Magento and creating products out of them is an easy process. Run the profile and you are done. What comes next is a hassle &#8211; enabling those products one by one, sorting them into categories, etc, etc. Our latest beta release makes it even easier. You can now create [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a title="importing web-to-print data" href="../../../../magentohelp/import-web-to-print-data/index.html">Importing templates</a> from your web-to-print to Magento and <a title="create web-to-print products" href="../../../../magentohelp/create-simple-web-to-print-products/index.html">creating products</a> out of them is an easy process. Run the profile and you are done. What comes next is a hassle &#8211; enabling those products one by one, sorting them into categories, etc, etc.</p>
+<p>Our latest beta release <a title="web-to-print category creation" href="../../../../magentohelp/auto-category-creation/index.html">makes it even easier</a>.</p>
+<p>You can now create products and put them into pre-defined categories or into a single category so they are easy to find and manipulate. This feature is available starting from the latest beta release (<em>Version 1.9.1 beta 21</em>).</p>
+<p><a href="../../../../magentohelp/auto-category-creation/index.html"><img class="aligncenter" title="web-to-print category matching" src="../../../../magentohelp/wp-content/uploads/2011/08/web-to-print_and_magento_catalogs.png" alt="web-to-print category matching" width="598" height="275" /></a></p>
+<h2>More productivity tools for web-to-print and dynamic imaging</h2>
+<p>Check out <a title="web-to-print administration" href="../../../../magentohelp/category/administration/index.html">Administration section</a> on our <a title="dynamic imaging and web-to-print help" href="../../../../magentohelp/index.html">Magento web-to-print help site.</a> We made quite a few extensions, scripts and shortcuts to make it quicker and easier to manage your web-to-print store.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2011/08/24/web-to-print-template-import-to-magento/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Interactive web-to-print personalization</title>
+		<link>http://www.zetaprints.com/blog/2011/07/28/interactive-web-to-print-personalization/</link>
+		<comments>http://www.zetaprints.com/blog/2011/07/28/interactive-web-to-print-personalization/#respond</comments>
+		<pubDate>Fri, 29 Jul 2011 01:32:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=811</guid>
+		<description><![CDATA[We had interactive personalization for web-to-print products available for a quite a while. A brand new help post explains how to turn it on on your web-to-print site. Make sure you run 1.9.1 beta 14 or later for it to function correctly. All previous versions have significant faults in that area of code. You can [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We had interactive personalization for web-to-print products available for a quite a while. A <a title="interactive personalization" href="../../../../magentohelp/enable-interactive-personalization/index.html">brand new help post</a> explains how to turn it on on your web-to-print site. Make sure you run <em>1.9.1 beta 14</em> or later for it to function correctly. All previous versions have significant faults in that area of code.</p>
+<p>You can try in action in this <a title="demo web-to-print and dynamic imaging" href="../../../../magento/index.php/interactive/fsbo-combo-package-yard-sign-left-and-right-arrow-signs.html">demo web-to-print product</a>.</p>
+<p><img class="aligncenter" title="web-to-print personalization" src="../../../../wp-content/uploads/2010/04/magento_web-to-print_variable_images.png" alt="web-to-print personalization" width="455" height="638" /></p>
+<p style="text-align: center;"><img class="aligncenter" title="web-to-print personalization" src="../../../../magentohelp/wp-content/uploads/2011/07/magento_zpadvancedtheme_global_activation.png" alt="web-to-print personalization" width="596" height="405" /></p>
+<p style="text-align: left;">And while writing this blog post I found a <a title="web-to-print issues" href="http://code.google.com/p/magento-w2p/issues/detail?id=617">small hole in the feature</a>. Just letting you know we&#8217;ll be patching it soon, in case you encounter it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2011/07/28/interactive-web-to-print-personalization/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Reflection &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/reflection/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Image reflection</title>
+		<link>http://www.zetaprints.com/help/dynamic-imaging-reflection/</link>
+		<pubDate>Thu, 24 Dec 2009 12:56:12 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Reflection]]></category>
+		<category><![CDATA[Transparency]]></category>
+
+		<guid isPermaLink="false">/help/?p=8465</guid>
+		<description><![CDATA[A cool dynamic imaging effect with a reflective image changing scenery while retaining the original reflection. Here&#8217;s a trick to help you achieve this in a web-to-print or dynamic imaging template. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size as the [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Reflected text</title>
+		<link>http://www.zetaprints.com/help/reflected-text/</link>
+		<comments>http://www.zetaprints.com/help/reflected-text/#comments</comments>
+		<pubDate>Tue, 07 Oct 2008 22:15:39 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Reflection]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=951</guid>
+		<description><![CDATA[Add a text reflection in your web-to-print templates and make the illusion like the text is standing on a glossy surface. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size as the paper size of your template and place it as a [&#8230;]]]></description>
+		<wfw:commentRss>http://www.zetaprints.com/help/reflected-text/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

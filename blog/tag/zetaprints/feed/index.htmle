@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>zetaprints &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/tag/zetaprints/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>New user management feaures</title>
+		<link>http://www.zetaprints.com/blog/2008/04/07/new-user-management-feaures/</link>
+		<comments>http://www.zetaprints.com/blog/2008/04/07/new-user-management-feaures/#respond</comments>
+		<pubDate>Mon, 07 Apr 2008 07:42:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-Print]]></category>
+		<category><![CDATA[web-to-print features]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[ZetaPrints features]]></category>
+		<category><![CDATA[zetaprints]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=194</guid>
+		<description><![CDATA[Released only minutes ago, some long awaited user management features to make life of web-to-print printer accounts easier. Add user and User profile page You can add a user to the web-to-print database and then assign the user to multiple web-to-print catalogs using a new user profile page. You can still do it per-catalog. Full [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Released only minutes ago, some long awaited user management features to make life of <em>web-to-print printer accounts</em> easier.</p>
+<h2>Add user and User profile page</h2>
+<p>You can add a user to the web-to-print database and then assign the user to multiple web-to-print catalogs using a new user profile page. You can still do it <a title="web-to-print user management" href="../../../../help/adding-new-users/index.html">per-catalog</a>.</p>
+<p>Full user profiles can be viewed on the new user profile page. Profiles accessible through <em>Add user</em> or clicking on user name in lists of users per catalog.</p>
+<p><img src="../../../../help/wp-content/uploads/2008/04/new-31-300x117.gif" alt="" width="300" height="117" /></p>
+<p>You can edit profiles of your customers, but only for those without a password. Once the password is set up the profile can be edited by the user only.  <a title="centralized web-to-print user management" href="../../../../help/user-management-centralized/index.html">More &#8230;</a></p>
+<h2>Anonymous orders can be assigned to users</h2>
+<p>An order placed by an unregistered user can be assigned to an existing user or a new one. Click on Assign to user link on order details page and follow the instruction.  <a title="anonymous web-to-print orders" href="../../../../help/anonymous-orders/index.html">More &#8230;</a></p>
+<p><img src="../../../../help/wp-content/uploads/2008/04/new-41.gif" alt="" width="515" height="354" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2008/04/07/new-user-management-feaures/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

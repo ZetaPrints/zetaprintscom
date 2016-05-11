@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Overview &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/category/overview/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Web-to-print express demo installation on Magento</title>
+		<link>http://www.zetaprints.com/magentohelp/web-to-print-demo-installation-on-magento/</link>
+		<pubDate>Mon, 26 Mar 2012 09:19:05 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Overview]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=13658</guid>
+		<description><![CDATA[Want to quickly try our web-to-print extension for Magento in your online store? Follow these express installation steps and end up with a web-to-print enabled Magento store connected to a demo ZetaPrints account. 1. Install the web-to-print extension Installing the extension is identical as with any other Magento extension. Login to your Magento administration panel and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Want to quickly try our <a title="Magento web-to-print extension page" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> for Magento in your online store? Follow these express installation steps and end up with a web-to-print enabled Magento store connected to a demo ZetaPrints account.<span id="more-13658"></span></p>
+<h2>1. Install the web-to-print extension</h2>
+<p>Installing the extension is identical as with any other Magento extension. Login to your Magento administration panel and navigate to <em>System / Magento Connect / Magento Connect Manager</em>.</p>
+<p>Get the extension installation key from Magento’s <a title="Magento web-to-print extension page" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> page. Paste the installation key in the corresponding field of <em>Magento Connect Manager</em> and hit <strong>Install</strong>.</p>
+<p><img class="alignnone size-full wp-image-13661" title="Magento connect manager" src="../../../wp-content/uploads/2012/03/magento_connect_manager.png" alt="Magento connect manager" width="589" height="300" /></p>
+<h2>2. Import web-to-print data</h2>
+<p>Our web-to-print extension is setup to work out of the box with a <strong>demo</strong> ZetaPrints account so that you can populate your store with templates and try the extension even before setting up your own web-to-print portal. This step actually synchronizes the templates from the <strong>demo</strong> ZetaPrints account with your Magento store.</p>
+<p>Web-to-print data is imported by running the &#8220;<strong>ZetaPrints template synchronization</strong>&#8221; profile.</p>
+<p>Navigate to <em>System &gt; Import/Export &gt; </em><em>Dataflow – Advance Profiles</em>, select <em>ZetaPrints templates synchronization</em> profile and click on <em>Run Profile</em> tab on the left. Next click <em>Run Profile in Popup</em> button. It will initiate a data importing process which may take several minutes.</p>
+<p><img class="alignnone size-full wp-image-13665" title="Run ZetaPrints template synchronization profile" src="../../../wp-content/uploads/2012/03/run_zetaprints_template_sync_profile.png" alt="Run ZetaPrints template synchronization profile" width="595" height="241" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/run_zetaprints_template_sync_profile-300x121.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/run_zetaprints_template_sync_profile.png 595w" sizes="(max-width: 595px) 100vw, 595px" /></p>
+<h2>3. Create web-to-print categories</h2>
+<p>At ZetaPrints end, templates are grouped in <a title="About web-to-print catalogs" href="../../../../help/about-catalogs/">catalogs</a>. During this step, the extension will <a title="Magento auto category creation" href="../../../auto-category-creation/">automatically create Magento categories</a> for all of the web-to-print portal catalogs in the demo account.</p>
+<p>This is done by running the &#8220;<strong>ZetaPrints catalogues creation</strong>&#8221; profile. Navigate to <em>System &gt; Import/Export &gt; </em><em>Dataflow – Advance Profiles </em>and run the<em> ZetaPrints catalogues creation </em>profile.<em><br />
+</em></p>
+<h2>4. Create web-to-print products</h2>
+<p>Now it&#8217;s time to create Magento products for all the imported templates and arrange them in their categories. This is also an automated process that only requires running a profile.</p>
+<p>Navigate to <em>System &gt; Import/Export &gt; </em><em>Dataflow – Advance Profiles </em>and run the<em> ZetaPrints simple products creation </em>profile.<em><br />
+</em></p>
+<h2>5. Try it as a customer</h2>
+<p>You are all set! Navigate to the front end of your store and play around with your new web-to-print products.</p>
+<p><strong>Note.</strong> Stores with multiple store views need an additional step to <a title="How to enable web-to-print products" href="../../../how-to-enable-web-to-print-product/">enable the products</a> in the front end.</p>
+<h2>Custom installation</h2>
+<p>As an alternative, you can read the detailed <a title="Magento web-to-print installation steps" href="../../installation-steps/">step-by-step installation instructions</a> or <a title="Premium support - Magento and web-to-print extension installation" href="../../../../premium/index.php/web-to-print-support/magento-web-to-print-set-up.html">purchase premium support</a> and have us install Magento and the web-to-print extension for you.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Free Magento AMI on AWS</title>
+		<link>http://www.zetaprints.com/magentohelp/free-magento-ami-on-aws/</link>
+		<pubDate>Sun, 16 Jan 2011 21:20:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Overview]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12388</guid>
+		<description><![CDATA[Our good friends at GreenGecko maintain an up to date version of a free Magento AMI (Amazon Machine Image) on AWS (Amazon Web Services). It is a set up of a Linux server providing a LAMP stack to drive a bare-bones Magento instance with a bundle of admin and support applications. Basic server management is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Our good friends at <a title="Linux and Magento support" href="http://www.greengecko.co.nz">GreenGecko</a> maintain an up to date version of a free Magento AMI (Amazon Machine Image) on AWS (Amazon Web Services). It is a set up of a Linux server providing a LAMP stack to drive a bare-bones Magento instance with a bundle of admin and support applications.</p>
+<p>Basic server management is performed using the <a href="http://webmin.com">Webmin</a> package. This allows you to perform all the usual sys admin procedures in a standard manner from any browser-enabled client.</p>
+<h2>Current AMI</h2>
+<p><strong>The latest details on the AMI and up to date installation instructions can be found on <a title="Magento on Amazon EC2" href="http://www.greengecko.co.nz/magento_on_amazon_ec2">GreenGecko website</a>.</strong> They maintain the latest version in US-East zone, but can copy it to other zones on request.</p>
+<p>Other versions can be found by owner ID: 859714128294</p>
+<h2>Installation</h2>
+<p>After ensuring that http traffic is able to traverse the Amazon firewall, launch the AMI in your preferred zone &#8211; this image is ok for micro, small and medium instance types, although the lack of power of the micro instance may well prove frustrating or all but small test setups. All login and access details will display on the home page of the site after launch. Copy the details, disable the page and change all the passwords immediately to avoid hacking of your new server. That&#8217;s it! You&#8217;re now up and running your own Magento server.</p>
+<p>To allow for ftp and admin access to the server, it is necessary to open ports 50000 to 51000 ( for passive ftp ), and 10000 ( for webmin ) in the firewall.</p>
+<p>To enable the mail server, you will need to perform some more configuration, which is covered later.</p>
+<h2>IP address change</h2>
+<p>If you change the IP address of the server &#8211; for example by assigning an Elastic IP address, you will need to reboot the server. This is because both Magento and the ftp server need to be reconfigured to use the new address, and scripts to check and update are configured to run on every reboot of the server. <strong>NOTE!</strong> If you then assign your own hostname to this server, the database must be modified and this script disabled. More on this later.</p>
+<h2>Domain name change</h2>
+<p>You need to reboot the instance if the domain name changed. Magento is updated with the current domain name as part of the reboot.</p>
+<h2>Maintenance and support</h2>
+<h3>For ZetaPrints customers</h3>
+<p>We offer paid <a title="wWeb-to-print and dynamic imaging support" href="../../../../premium/">premium support</a> to our existing and prospective customers using or considering to use our <a title="Web-to-print software" href="../../../../category/web-to-print-software/">web-to-print</a> and <a title="Dynamic imaging software" href="../../../../category/dynamic-imaging/">dynamic imaging </a>technology.</p>
+<h3>For all others</h3>
+<p>The instance is maintained by good guys from <a title="Linux and Magento support" href="http://www.greengecko.co.nz/">GreenGecko</a>. Contact them directly for your maintenance and support requirements.</p>
+<h3>Issue reporting</h3>
+<p>Bugs or feedback can be <a title="Magento AMI issue reporting " href="http://code.google.com/p/magento-w2p/issues/entry?template=Magento%20AMI">reported directly</a> to our development team.</p>
+<h2>Web-to-print extension</h2>
+<p>Our <a title="magento web-to-print" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">web-to-print extension</a> is NOT included in the AMI. The Magento installation comes as a <a title="Magento community edition" href="http://www.magentocommerce.com/product/community-edition">default community edition</a> set up. Follow our <a title="Magento web-to-print installation" href="../../installation-steps/">web-to-print installation guide</a>.</p>
+<h2>AMI details</h2>
+<h3>Installed Software</h3>
+<ul>
+<li>Operating System: Ubuntu Linux</li>
+<li>Apache</li>
+<li>Mysql</li>
+<li>PHP, Zend, Suhosin</li>
+<li>Magento</li>
+<li>Sendmail</li>
+<li>Dovecot</li>
+<li>Clamav</li>
+<li>Proftpd</li>
+<li>Webmin</li>
+</ul>
+<h3>Default Accounts</h3>
+<ul>
+<li>Magento: magento/magento1 ( http://[hostname]/admin )</li>
+<li>Webmin: webmin/webmin1 ( https://[hostname]:10000 )</li>
+<li>Mysql: root/magento1</li>
+<li>ftp: magento/magento1 ( ftp://[hostname] )</li>
+</ul>
+<p><strong>webmin</strong> can be used to change the <strong>webmin</strong> and <strong>magento ftp</strong> account passwords, and the magento application itself to change the backend password.</p>
+<h2>Manual configuration required to enable extra functionality</h2>
+<h4>ftp</h4>
+<p>To ensure passive ftp works correctly, please ensure that ports 50000 to 51000 are open in the Amazon firewall. Note: Passive ftp is the default option for products such as <a title="FTP client" href="http://filezilla-project.org/download.php">filezilla</a>.</p>
+<h3>mail</h3>
+<p>Sending out emails works out of the box. Call in a system administrator to configure incoming emails or consider a hosted email service from a different provider.</p>
+<p>AWS places limits on outgoing emails. Fill in <a title="Contact AWS" href="http://aws.amazon.com/contact-us/">email limit increase form</a> to have the limit removed.</p>
+<p>The IP address you are using is likely to be <a title="Spam DB check" href="http://www.iptools.com/dnstools.php?tool=spam_db&user_data=&submit=Check">blacklisted</a> by major spam database providers.</p>
+<h2>Remote access (SSH)</h2>
+<p>SSH works as in a default Ubuntu install. To access your instance, use:</p>
+<p><em>ssh -i [identity file of Amazon account this instance was started under] ubuntu@[hostname]</em><br />
+replacing the text in []&#8217;s with the relevant text from your install. Once logged in , this account has full <a title="About SUDO" href="http://en.wikipedia.org/wiki/Sudo">sudo</a> rights.<br />
+<strong> </strong></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Site map</title>
+		<link>http://www.zetaprints.com/magentohelp/magento-web-to-print-site-map/</link>
+		<pubDate>Wed, 29 Dec 2010 03:33:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Overview]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12291</guid>
+		<description><![CDATA[Overview Magento web-to-print overview Get started Web-to-print release notes Site map Free Magento AMI on AWS Web-to-print express demo installation on Magento Web-to-print installation 01. Prerequisites 03. Install web-to-print extension 06. ZetaPrints synchronization settings 07. Import data 04. Theme configuration 08. Create products 09. Register a master account 10. Set up your domain 02. Install [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><ul id="category-list">
+
+	<li onclick="this.className = this.className=='ch' ? '' : 'ch'" id="cat_917"> <a href="../">Overview</a>
+		<ul>
+			<li><a href="../../../magento-web-to-print-overview/">Magento web-to-print overview</a></li>
+			<li><a href="../../../magento/">Get started</a></li>
+			<li><a href="../../../04-release-notes/">Web-to-print release notes</a></li>
+			<li><a href="../../../magento-web-to-print-site-map/">Site map</a></li>
+			<li><a href="../../../free-magento-ami-on-aws/">Free Magento AMI on AWS</a></li>
+			<li><a href="../../../web-to-print-demo-installation-on-magento/">Web-to-print express demo installation on Magento</a></li>
+		</ul></li>
+	<li onclick="this.className = this.className=='ch' ? '' : 'ch'" id="cat_1"> <a href="../../installation-steps/">Web-to-print installation</a>
+		<ul>
+			<li><a href="../../../web-to-print-extension-prerequisites/">01. Prerequisites</a></li>
+			<li><a href="../../../web-to-print-magento-install/">03. Install web-to-print extension</a></li>
+			<li><a href="../../../zetaprints-synchronization-settings/">06. ZetaPrints synchronization settings</a></li>
+			<li><a href="../../../import-web-to-print-data/">07. Import data</a></li>
+			<li><a href="../../../theme-configuration/">04. Theme configuration</a></li>
+			<li><a href="../../../create-simple-web-to-print-products/">08. Create products</a></li>
+			<li><a href="../../../register-a-master-account/">09. Register a master account</a></li>
+			<li><a href="../../../set-up-your-domain/">10. Set up your domain</a></li>
+			<li><a href="../../../install-magento/">02. Install Magento</a></li>
+			<li><a href="../../../clear-magento-cache/">05. Clear Magento cache</a></li>
+		</ul></li>
+	<li onclick="this.className = this.className=='ch' ? '' : 'ch'" id="cat_1134"> <a href="../../administration/">Web-to-print administration</a>
+		<ul>
+			<li><a href="../../../linking-magento-products-to-web-to-print-templates/">Linking products to templates</a></li>
+			<li><a href="../../../magento-web-to-print-localization/">Translations</a></li>
+			<li><a href="../../../magento-order-management/">Order management</a></li>
+			<li><a href="../../../magento-order-status/">Order status</a></li>
+			<li><a href="../../../magento-product-presentation/">Product presentation</a></li>
+			<li><a href="../../../image-size-adjustment-for-magento/">Image size adjustment</a></li>
+			<li><a href="../../../allow-file-download-in-magento/">File downloading</a></li>
+			<li><a href="../../../magento-pdf-proof/">PDF proof</a></li>
+			<li><a href="../../../magento-product-relations/">Product relationships</a></li>
+			<li><a href="../../../usermanagement/">User management</a></li>
+		</ul></li>
+	<li onclick="this.className = this.className=='ch' ? '' : 'ch'" id="cat_1157"> <a href="../../themes-for-web-to-print/">Web-to-print themes</a>
+		<ul>
+			<li><a href="../../../custom-theme-integration/">Custom theme: integration</a></li>
+			<li><a href="../../../custom-2step-theme/">Custom theme: two-step</a></li>
+			<li><a href="../../../theme-switcher-extension/">Theme switcher extension</a></li>
+			<li><a href="../../../magento-theme-hiearachy/">Magento theme hiearachy</a></li>
+			<li><a href="../../../hellothemes-for-web-to-print/">HelloThemes for web-to-print</a></li>
+			<li><a href="../../../byuing-a-theme-for-web-to-print/">Byuing a theme for web-to-print</a></li>
+			<li><a href="../../../enable-interactive-personalization/">Interactive personalization theme</a></li>
+		</ul></li>
+	<li onclick="this.className = this.className=='ch' ? '' : 'ch'" id="cat_1135"> <a href="../../developer/">Web-to-print for developers</a>
+		<ul>
+			<li><a href="../../../remove-session-id-from-mageto-url/">Remove Session ID from URL</a></li>
+			<li><a href="../../../custom-loader-icon-in-magento/">Custom loader icon</a></li>
+			<li><a href="../../../javascript-files/">JavaScript files</a></li>
+			<li><a href="../../../interaction-overview/">Interaction overview</a></li>
+			<li><a href="../../../user-management/">User management</a></li>
+			<li><a href="../../../magentoproducts/">Product creation / updates</a></li>
+			<li><a href="../../../redefined-functions/">Redefined functions</a></li>
+			<li><a href="../../../templates-import/">Templates import</a></li>
+			<li><a href="../../../zp-api-user-guide/">API user guide</a></li>
+			<li><a href="../../../conditional-add-to-cart-button/">Conditional &#8220;Add to cart&#8221; button</a></li>
+		</ul></li>
+	<li onclick="this.className = this.className=='ch' ? '' : 'ch'" id="cat_570"> <a href="../../access-control/">Access control plugin</a>
+		<ul>
+			<li><a href="../../../magento-access-control-for-dynamic-imaging/">Access control extension</a></li>
+		</ul></li>
+	<li onclick="this.className = this.className=='ch' ? '' : 'ch'" id="cat_1142"> <a href="../../approval-admin/">Order approval plugin</a>
+		<ul>
+			<li><a href="../../../magento-order-approval/">Order approval extension</a></li>
+			<li><a href="../../../order-approval-notification-email/">Order approval notification eMail</a></li>
+			<li><a href="../../../order-approval-uninstall/">Order approval uninstall</a></li>
+		</ul></li>
+	<li onclick="this.className = this.className=='ch' ? '' : 'ch'" id="cat_1143"> <a href="../../file-attachments/">Dynamic attachments plugin</a>
+		<ul>
+			<li><a href="../../../dynamic-file-attachments/">Dynamic File Attachments extension</a></li>
+			<li><a href="../../../setup-cron-jobs/">Setup cron jobs</a></li>
+			<li><a href="../../../delete-old-attachments/">Delete old attachments</a></li>
+		</ul></li>
+	<li onclick="this.className = this.className=='ch' ? '' : 'ch'" id="cat_1144"> <a href="../../fixed-quantities-plugin/">Fixed quantities plugin</a>
+		<ul>
+			<li><a href="../../../fixed-quantity/">Fixed quantity for web-to-print</a></li>
+			<li><a href="../../../fixed-quantity-under-the-hood/">Fixed quantity: under the hood</a></li>
+			<li><a href="../../../bulk-edit-fixed-quantities/">Bulk edit fixed quantities</a></li>
+			<li><a href="../../../complex-products-with-fixed-quantities/">Complex products with fixed quantities</a></li>
+			<li><a href="../../../fixed-quantity-uninstall/">Fixed Quantity uninstall</a></li>
+		</ul></li>
+	<li onclick="this.className = this.className=='ch' ? '' : 'ch'" id="cat_607"> <a href="../../template-errors/">Troubleshooting</a>
+		<ul>
+			<li><a href="../../../magento-imaging-troubleshooting/">Troubleshooting</a></li>
+			<li><a href="../../../faq-2/">FAQ for web-to-print</a></li>
+			<li><a href="../../../incompatible-magento-extensions/">Incompatible Magento extensions</a></li>
+		</ul></li>
+	<li onclick="this.className = this.className=='ch' ? '' : 'ch'" id="cat_1042"> <a href="../../support/">Support</a>
+		<ul>
+			<li><a href="../../../magento-web-to-print-support/">Magento web-to-print support</a></li>
+			<li><a href="../../../other-magento-support/">Other Magento support</a></li>
+		</ul></li>
+	<li onclick="this.className = this.className=='ch' ? '' : 'ch'" id="cat_1150"> <a href="../../distribution-map-plugin/">Distribution map plugin</a>
+		<ul>
+			<li><a href="../../../distribution-map-extension/">Distribution map extension</a></li>
+		</ul></li>
+	<li onclick="this.className = this.className=='ch' ? '' : 'ch'" id="cat_1149"> <a href="../../web-to-print-store-builder/">Web-to-print store builder</a>
+		<ul>
+			<li><a href="../../../shipping-configuration/">Shipping configuration</a></li>
+			<li><a href="../../../amazon-server-set-up-for-web-to-print/">Amazon server set up for web-to-print</a></li>
+			<li><a href="../../../initial-magento-configuration/">Initial Magento config</a></li>
+			<li><a href="../../../magento-newsletter/">Magento Newsletter</a></li>
+		</ul></li>
+</ul>
+</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Web-to-print release notes</title>
+		<link>http://www.zetaprints.com/magentohelp/04-release-notes/</link>
+		<pubDate>Tue, 19 Oct 2010 10:16:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Overview]]></category>
+		<category><![CDATA[Documentation]]></category>
+		<category><![CDATA[Notes]]></category>
+
+		<guid isPermaLink="false">http://ec2-184-72-207-169.compute-1.amazonaws.com/magentohelp/?p=11651</guid>
+		<description><![CDATA[Please, read our release notes for compatibility issues and bug fixes in our web-to-print extension for Magento before applying any updates. See help pages for additional extensions for their specific release notes. You can view the extension development process on our open Google code project page and even get involved by reporting any issues you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Please, read our <a title="Magento web-to-print release notes" href="http://code.google.com/p/magento-w2p/wiki/ReleaseNotes" target="_self">release notes</a> for compatibility issues and bug fixes in our <a title="Magento web-to-print extension" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> for Magento before applying any updates.<span id="more-11651"></span></p>
+<p>See help pages for additional extensions for their specific release notes.</p>
+<p>You can view the extension development process on our open <a title="Magento web-to-print project page" href="http://code.google.com/p/magento-w2p/" target="_self">Google code project page</a> and even get involved by reporting any <a href="http://code.google.com/p/magento-w2p/issues/list">issues</a> you may have encountered using our Magento extensions.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Get started</title>
+		<link>http://www.zetaprints.com/magentohelp/magento/</link>
+		<pubDate>Mon, 12 Apr 2010 13:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Overview]]></category>
+		<category><![CDATA[Ecommerce]]></category>
+		<category><![CDATA[Extension]]></category>
+		<category><![CDATA[Online store]]></category>
+
+		<guid isPermaLink="false">/help/?p=9281</guid>
+		<description><![CDATA[Magento is a powerful e-commerce platform for building online stores. We created an open source extension to bring the power of ZetaPrints dynamic imaging and web-to-print back-end to any Magento store. Running a Magento store requires technical expertise or assistance of IT professionals. This page is a basic overview of our web-to-print solution for Magento. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Magento is a powerful e-commerce platform for building online <a title="Web-to-print storefront" href="../../../../printers/web-to-print-storefront/" target="_self">stores</a>. We created an open source extension to bring the power of ZetaPrints <a title="Dynamic imaging" href="../../../../category/dynamic-imaging/" target="_self">dynamic imaging</a> and <a title="Web-to-print service" href="../../../../category/web-to-print-software/" target="_self">web-to-print</a> back-end to any Magento store. <span id="more-9281"></span></p>
+<p>Running a Magento store requires technical expertise or assistance of IT professionals. This page is a basic overview of our web-to-print solution for Magento.</p>
+<table style="border: none; border-spacing: 3px; margin: 0px; margin-left: -13px;" border="0">
+<tbody>
+<tr>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../wp-content/magento_icons/demo.png');">Watch a <a href="../../../wp-content/magento_demo/magento_demo.html">video presentation</a></td>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../wp-content/magento_icons/api_key.png');"><a href="../../../../help/how-to-get-api-key/">Get an API key</a>, <a href="../../../zetaprints-synchronization-settings/">configure</a> w2p extension</td>
+</tr>
+<tr>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../wp-content/magento_icons/printer_signup.png');"><a href="../../../../printers/web-to-print-sign-up/">Sign up</a> for ZetaPrints printer account</td>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../wp-content/magento_icons/create_template.png');"><a href="../../../../help/category/template-preparation/">Create templates</a>, <a href="../../../../help/upload-your-first-template/">upload to ZP</a> and <a href="../../../../help/test-your-template/">test</a></td>
+</tr>
+<tr>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../wp-content/magento_icons/subdomain.png');">Get a <a href="../../../../help/domain-name-set-up/">subdomain</a>, link to ZP, login to claim it</td>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../wp-content/magento_icons/import_template.png');"><a href="../../../import-data/">Import templates</a> into Magento</td>
+</tr>
+<tr>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../wp-content/magento_icons/instal_magento.png');"><a href="http://www.magentocommerce.com/knowledge-base/entry/magento-installation-guide">Instal Magento</a></td>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../wp-content/magento_icons/conf_prices.png');">Configure <a href="../../../../help/prices-and-payments/">prices</a>, <a href="../../../magento-access-control-for-dynamic-imaging/">access control</a>, etc</td>
+</tr>
+<tr>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../wp-content/magento_icons/instal_w2p.png');"><a href="../../../instal-guide/">Install</a> web-to-print <a href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">extension</a></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2>Express demo installation</h2>
+<p>Want to quickly try our <a title="Magento web-to-print extension page" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> for Magento in your online store? Follow these <a title="Quick demo install of web-to-print extension" href="../../../web-to-print-demo-installation-on-magento/">express installation steps</a> and end up with a web-to-print enabled Magento store connected to a demo ZetaPrints account.</p>
+<h2>Installation steps</h2>
+<ol class="listzp">
+<li><a title="Web-to-print extension prerequisites" href="../../../web-to-print-extension-prerequisites/" target="_self">Prerequisites</a></li>
+<li><a title="Install Magento" href="../../../install-magento/" target="_self">Install Magento, if not already installed</a></li>
+<li><a title="Install web-to-print extension for Magento" href="../../../web-to-print-magento-install/" target="_self">Install the web-to-print extension for Magento</a></li>
+<li><a title="Web-to-print Magento theme" href="../../../web-to-print-magento-theme/" target="_self">Configure the default theme</a></li>
+<li><a title="Clear Magento cache and refresh your session" href="../../../clear-magento-cache/" target="_self">Clear Magento cache</a></li>
+<li><a title="Web-to-print Magento configuration" href="../../../zetaprints-synchronization-settings/" target="_self">Configure web-to-print synchronization settings</a></li>
+<li><a title="Import web-to-print data" href="../../../import-web-to-print-data/" target="_self">Import templates from ZetaPrints catalogs</a></li>
+<li><a title="Simple web-to-print products in magento" href="../../../create-simple-web-to-print-products/">Create simple products from the imported templates</a></li>
+<li><a title="Sign up a printer account with ZetaPrints" href="../../../register-a-master-account/" target="_self">Register a master account</a></li>
+<li><a title="Set up a custom domain name" href="../../../set-up-your-domain/" target="_self">Set up your custom domain</a></li>
+<li><a title="Configure Magento product attributes" href="../../../configure-product-attributes/" target="_self">Configure product attributes</a></li>
+</ol>
+<div class="all_topics_link"><a title="View all web-to-print Magento topics" href="../../../" target="_self">All topics</a></div>
+<h2>Access control</h2>
+<p>There are 2 different modes you can use in the ZetaPrint extension for Magento:</p>
+<ul class="listing">
+<li>a public site and</li>
+<li>a corporate site</li>
+</ul>
+<p>A corporate site requires access control. This feature is available in Magento <a title="compare editions" href="http://www.magentocommerce.com/product/compare">Enterprise Edition</a>. We also created a simple <a title="Magento access control" href="https://www.magentocommerce.com/magento-connect/category-access-control.html">extension for access control</a> to help you get it going before upgrading to Enterprise Edition.</p>
+<p>Extension support and questions: <a href="mailto:support@zetaprints.com">support@zetaprints.com</a></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Magento web-to-print overview</title>
+		<link>http://www.zetaprints.com/magentohelp/magento-web-to-print-overview/</link>
+		<pubDate>Tue, 06 Oct 2009 10:17:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Overview]]></category>
+		<category><![CDATA[Introduction]]></category>
+		<category><![CDATA[web-to-print extension]]></category>
+
+		<guid isPermaLink="false">/help/?p=7783</guid>
+		<description><![CDATA[Magento web-to-print extension allows e-commerce operators build their online stores using an open source platform and utilize the power of ZetaPrints dynamic imaging and web-to-print back-end. About ZetaPrints ZetaPrints is an online personalization engine used for web-to-print and dynamic imaging. The system is based on user-uploaded templates built in vector-graphics applications. ZetaPrints has a set [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Magento web-to-print extension allows e-commerce operators build their online <a title="Web-to-print storefront" href="../../../../printers/web-to-print-storefront/" target="_self">stores</a> using an open source platform and utilize the power of ZetaPrints <a title="Dynamic imaging" href="../../../../category/dynamic-imaging/" target="_self">dynamic  imaging</a> and <a title="Web-to-print service" href="../../../../category/web-to-print-software/" target="_self">web-to-print</a> back-end. <span id="more-7783"></span></p>
+<h2>About ZetaPrints</h2>
+<p><a title="Web-to-print and Dynamic imaging" href="../../../../" target="_self">ZetaPrints</a> is an online personalization engine used for web-to-print and dynamic imaging. The system is based on user-uploaded <a title="Web-to-print templates" href="../../../../printers/web-to-print-templates/" target="_self">templates</a> built in vector-graphics applications. ZetaPrints has a set of <a title="Web-to-print API" href="../../../../help/category/api/" target="_self">API</a>s, but it is not extensible on its own as it is a fully hosted system. The API can be used to exchange data with ZetaPrints and consume its services from within other applications.</p>
+<h2>About Magento</h2>
+<p>Magento is an open source e-commerce platform <a title="Magento ecommerce platform" href="http://www.magentocommerce.com/" target="_self">www.magentocommerce.com</a>. It has plugins and extensions infrastructure. It&#8217;s main purpose is to build online stores. The default configuration is limited to public stores. There are extensions to control user access and implement stores with limited user access.</p>
+<h2>Selling customized products</h2>
+<p class="flash">Watch a <a href="../../../wp-content/magento_demo/magento_demo.html" target="_blank">Flash demonstration</a> on this topic</p>
+<p>Magento is geared up to selling finished products. A user would normally browse the catalog, add products to cart, pay, download or have them delivered. Selling template-based products requires one more step &#8211; personalization. Personalization is done by ZetaPrints using native Magento interface.</p>
+<p>Once the design is customized the control is passed back to Magento along with necessary IDs to complete the order and obtain the files. The user never leaves the Magento store and is unaware that some services were provided by ZetaPrints.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

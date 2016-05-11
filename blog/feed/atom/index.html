@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en-US"
+  xml:base="http://www.zetaprints.com/blog/wp-atom.php"
+   >
+	<title type="text">On web to print sofware, solutions and hosted services</title>
+	<subtitle type="text">From web to print and everything in between</subtitle>
+
+	<updated>2013-08-02T10:44:32Z</updated>
+
+	<link rel="alternate" type="text/html" href="../../" />
+	<id>http://www.zetaprints.com/blog/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="index.html" />
+
+	<generator uri="https://wordpress.org/" version="4.4.1">WordPress</generator>
+	<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Repeating fields in web-to-print templates bug]]></title>
+		<link rel="alternate" type="text/html" href="../../2013/08/02/forward-updates-in-web-to-print-templates-bug/" />
+		<id>http://www.zetaprints.com/blog/?p=1126</id>
+		<updated>2013-08-02T10:44:32Z</updated>
+		<published>2013-08-02T10:36:02Z</published>
+		<category scheme="http://www.zetaprints.com/blog" term="Problems and outages" /><category scheme="http://www.zetaprints.com/blog" term="Web-to-Print" />		<summary type="html"><![CDATA[Multi-page web-to-print templates can have text and image fields shared between multiple pages. The user can change it only on one page where it is encountered for the first time. All the other pages in the same web-to-print template will reuse the previously entered value. We had a problem with our web-to-print engine updating pages [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/blog/2013/08/02/forward-updates-in-web-to-print-templates-bug/"><![CDATA[<p>Multi-page web-to-print templates can have <a title="Repeating web-to-print fields" href="../../../help/repeating-fields/">text and image fields shared between multiple pages</a>.</p>
+<p>The user can change it only on one page where it is encountered for the first time. All the other pages in the same web-to-print template will reuse the previously entered value.</p>
+<p>We had a problem with our web-to-print engine updating pages it didn&#8217;t need to update when the shared fields were involved. If an update failed the user had to start over. This problem has now been fixed.</p>
+<p>There is still a performance limitation. If a field spans too many pages with a lot of images it may take too long to update them all resulting in a time-out. Please, let us know if you encounter this situation.</p>
+<p>&nbsp;</p>
+]]></content>
+			<link rel="replies" type="text/html" href="../../2013/08/02/forward-updates-in-web-to-print-templates-bug/index.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="../../2013/08/02/forward-updates-in-web-to-print-templates-bug/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Lost files]]></title>
+		<link rel="alternate" type="text/html" href="../../2013/07/31/lost-files/" />
+		<id>http://www.zetaprints.com/blog/?p=1120</id>
+		<updated>2013-08-01T07:55:35Z</updated>
+		<published>2013-07-31T21:02:47Z</published>
+		<category scheme="http://www.zetaprints.com/blog" term="Problems and outages" />		<summary type="html"><![CDATA[One of the servers had a fault that went unnoticed for two weeks at the beginning of July. It was not saving files to the permanent storage while still reporting that everything was OK. By the time we realised there was a problem we lost 500 templates and 9000 images uploaded around that time. We [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/blog/2013/07/31/lost-files/"><![CDATA[<p>One of the servers had a fault that went unnoticed for two weeks at the beginning of July. It was not saving files to the permanent storage while still reporting that everything was OK. By the time we realised there was a problem we lost 500 templates and 9000 images uploaded around that time.</p>
+<p>We are trying to recover the files from other distributed locations, but many are lost forever.</p>
+<h3><a href="../../wp-content/uploads/2013/07/web-to-print-404.png"><img class=" wp-image-1121 alignnone" alt="web-to-print-404" src="../../wp-content/uploads/2013/07/web-to-print-404.png" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2013/07/web-to-print-404-300x133.png 300w, http://www.zetaprints.com/blog/wp-content/uploads/2013/07/web-to-print-404.png 496w" sizes="(max-width: 496px) 100vw, 496px" /></a></h3>
+<h3>Symptoms</h3>
+<p>Templates with no preview files, images with no thumbnails (just the name), orders with no previews.</p>
+<h3>What to do</h3>
+<p>Please, re-upload the missing files and regenerate orders.</p>
+<h3>Apology</h3>
+<p>Everything fails at some stage, but its is completely unacceptable that the file loss went for so long. We added more checks to the code for the future and the sysadmin responsible for the monitoring volunteered to spend a weekend working for a local Fair Trade shop.</p>
+<p>Sorry, our bad <img src="../../wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+]]></content>
+			<link rel="replies" type="text/html" href="../../2013/07/31/lost-files/index.html#comments" thr:count="1"/>
+		<link rel="replies" type="application/atom+xml" href="../../2013/07/31/lost-files/feed/atom/" thr:count="1"/>
+		<thr:total>1</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Speed up your web-to-print checkout]]></title>
+		<link rel="alternate" type="text/html" href="../../2013/07/22/speed-up-your-web-to-print-checkout/" />
+		<id>http://www.zetaprints.com/blog/?p=1113</id>
+		<updated>2013-07-22T06:49:54Z</updated>
+		<published>2013-07-22T06:49:54Z</published>
+		<category scheme="http://www.zetaprints.com/blog" term="web-to-print features" />		<summary type="html"><![CDATA[ZetaPrints generates output files as part of the checkout process for all types of orders. It can slow down the checkout and make it appear frozen. Users don&#8217;t like to wait and give up before completing the order. We added an optional feature to speed up the checkout process for slow templates. Check on &#8220;delayed [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/blog/2013/07/22/speed-up-your-web-to-print-checkout/"><![CDATA[<p>ZetaPrints generates output files as part of the checkout process for all types of orders. It can slow down the checkout and make it appear frozen. Users don&#8217;t like to wait and give up before completing the order. We added an optional feature to speed up the checkout process for slow templates.</p>
+<p><a href="../../wp-content/uploads/2013/07/output-Files-options1.png"><img class="alignleft size-full wp-image-1115" alt="output-Files-options" src="../../wp-content/uploads/2013/07/output-Files-options1.png" width="487" height="254" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2013/07/output-Files-options1-300x156.png 300w, http://www.zetaprints.com/blog/wp-content/uploads/2013/07/output-Files-options1.png 487w" sizes="(max-width: 487px) 100vw, 487px" /></a></p>
+<p>Check on &#8220;delayed file generation&#8221; option (highlighted green) to skip the file generation step at the checkout. It will significantly reduce the time it takes to complete the order.</p>
+<p>No files will be generated immediately, but as a printer, you will need to press &#8220;generate files&#8221; link on the order details before downloading them.</p>
+<p>This option applies to orders placed directly in your zetaprints portal or in Magento via the API.</p>
+<p>Delayed file generation is set per template, but you can use <a title="Bulk-editing web-to-print templates" href="../../../help/bulk-editing-templates/">bulk editing</a> to set this option per catalog.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="../../2013/07/22/speed-up-your-web-to-print-checkout/index.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="../../2013/07/22/speed-up-your-web-to-print-checkout/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[PayPal issues &#8211; web-to-print orders are not paid]]></title>
+		<link rel="alternate" type="text/html" href="../../2013/01/28/paypal-issues-web-to-print-orders-are-not-paid/" />
+		<id>http://www.zetaprints.com/blog/?p=1107</id>
+		<updated>2013-01-28T20:55:47Z</updated>
+		<published>2013-01-28T20:55:47Z</published>
+		<category scheme="http://www.zetaprints.com/blog" term="Problems and outages" />		<summary type="html"><![CDATA[All web-to-print orders paid via PayPal rely on a confirmation sent back to us from PayPal. It appears they stopped sending them about 20 hours ago. Their system status update isn&#8217;t very specific, but lots of other sites posted similar notes. Looks like their problems started on Jan 27 and are continuing. Notification: Some impact [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/blog/2013/01/28/paypal-issues-web-to-print-orders-are-not-paid/"><![CDATA[<p>All web-to-print orders paid via PayPal rely on a confirmation sent back to us from PayPal. It appears they stopped sending them about 20 hours ago.</p>
+<p>Their system status update isn&#8217;t very specific, but lots of other sites posted similar notes.</p>
+<p>Looks like their problems started on Jan 27 and are continuing.</p>
+<p><a href="https://www.x.com/content/notification-some-impact-paypal-api-jan-28">Notification: Some impact to PayPal API &#8211; Jan 28</a></p>
+<p><a href="https://www.x.com/content/update-4-issue-receiving-instant-payment-notifications-ipns-jan-27">Update 4: Issue in receiving Instant Payment Notifications (IPNs) &#8211; Jan 27</a></p>
+<p><a href="https://www.x.com/content/follow-major-impact-express-checkout-paypal-apis-virtual-terminal-and-website-payments-pro">Follow-up: Major Impact to Express Checkout, PayPal APIs, Virtual Terminal, and Website Payments Pro Payflow Edition (PayPal Payments Pro in US) &#8211; Jan 27</a></p>
+<p>Web-to-print orders are being processed, but not released for download or moved into ToPrint folder without the payment confirmation from PayPal.</p>
+<p>Web-to-print orders that do not require a PayPal payment are not affected.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="../../2013/01/28/paypal-issues-web-to-print-orders-are-not-paid/index.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="../../2013/01/28/paypal-issues-web-to-print-orders-are-not-paid/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Volumes are down]]></title>
+		<link rel="alternate" type="text/html" href="../../2012/10/31/volumes-are-down/" />
+		<id>http://www.zetaprints.com/blog/?p=1104</id>
+		<updated>2012-10-31T21:29:48Z</updated>
+		<published>2012-10-31T21:29:48Z</published>
+		<category scheme="http://www.zetaprints.com/blog" term="Marketing" />		<summary type="html"><![CDATA[We noticed that the overall ordering volumes are down in the USA. There are several possible reasons: 1. The presidential elections. They hurt business. 2. We had about 8 hours of downtime due to Amazon Web Services failure. 3. Sandy European and other volumes are on the up.]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/blog/2012/10/31/volumes-are-down/"><![CDATA[<p>We noticed that the overall ordering volumes are down in the USA. There are several possible reasons:</p>
+<p>1. The presidential elections. They hurt business.</p>
+<p>2. We had about 8 hours of downtime due to Amazon Web Services failure.</p>
+<p>3. Sandy</p>
+<p>European and other volumes are on the up.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="../../2012/10/31/volumes-are-down/index.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="../../2012/10/31/volumes-are-down/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Amazon hosting failure]]></title>
+		<link rel="alternate" type="text/html" href="../../2012/10/22/amazon-hosting-failure/" />
+		<id>http://www.zetaprints.com/blog/?p=1098</id>
+		<updated>2012-10-22T19:40:35Z</updated>
+		<published>2012-10-22T19:39:35Z</published>
+		<category scheme="http://www.zetaprints.com/blog" term="Problems and outages" />		<summary type="html"><![CDATA[Amazon is having problems with their storage system in N. Virginia data center, where most of our instances are located. It&#8217;s been going on for the last couple of hours and we hope they are fixing it. In the meantime the site is down. We are started relocation to a new zone, but it will [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/blog/2012/10/22/amazon-hosting-failure/"><![CDATA[<p>Amazon is having problems with their storage system in N. Virginia data center, where most of our instances are located. It&#8217;s been going on for the last couple of hours and we hope they are fixing it.</p>
+<p>In the meantime the site is down.</p>
+<p>We are started relocation to a new zone, but it will take few more hours and result in some data loss. The recent transaction are likely to be missing.</p>
+<p><a href="../../wp-content/uploads/2012/10/AWS-failure.png"><img class="aligncenter size-full wp-image-1099" title="AWS-failure" src="../../wp-content/uploads/2012/10/AWS-failure.png" alt="" width="1043" height="549" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2012/10/AWS-failure-1024x538.png 1024w, http://www.zetaprints.com/blog/wp-content/uploads/2012/10/AWS-failure.png 1043w" sizes="(max-width: 1043px) 100vw, 1043px" /></a></p>
+]]></content>
+			<link rel="replies" type="text/html" href="../../2012/10/22/amazon-hosting-failure/index.html#comments" thr:count="3"/>
+		<link rel="replies" type="application/atom+xml" href="../../2012/10/22/amazon-hosting-failure/feed/atom/" thr:count="3"/>
+		<thr:total>3</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Missing files in web-to-print orders]]></title>
+		<link rel="alternate" type="text/html" href="../../2012/09/19/missing-files-in-web-to-print-orders/" />
+		<id>http://www.zetaprints.com/blog/?p=1095</id>
+		<updated>2012-09-19T22:55:45Z</updated>
+		<published>2012-09-19T22:55:45Z</published>
+		<category scheme="http://www.zetaprints.com/blog" term="Problems and outages" />		<summary type="html"><![CDATA[We have just fixed a problem with one of the servers that affected web-to-print file generation. A lot of web-to-print orders were coming through without the files and had to be regenerated. Sometimes the regeneration failed too if it hit the same faulty server. We fixed the problem. Please, click on Generate files in the [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/blog/2012/09/19/missing-files-in-web-to-print-orders/"><![CDATA[<p>We have just fixed a problem with one of the servers that affected web-to-print file generation.</p>
+<p>A lot of web-to-print orders were coming through without the files and had to be regenerated. Sometimes the regeneration failed too if it hit the same faulty server.</p>
+<p>We fixed the problem. Please, click on Generate files in the order details they are missing and they should appear. Email us immediately if they don&#8217;t.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="../../2012/09/19/missing-files-in-web-to-print-orders/index.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="../../2012/09/19/missing-files-in-web-to-print-orders/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Web-to-print profiles fix after upgrading to Magento 1.7]]></title>
+		<link rel="alternate" type="text/html" href="../../2012/09/09/web-to-print-profiles-fix-after-upgrading-to-magento-1-7/" />
+		<id>http://www.zetaprints.com/blog/?p=1090</id>
+		<updated>2012-09-09T21:26:15Z</updated>
+		<published>2012-09-09T21:26:15Z</published>
+		<category scheme="http://www.zetaprints.com/blog" term="Bugs and fixes" />		<summary type="html"><![CDATA[Magento has a bug where it doesn&#8217;t copy over the existing profiles after an upgrade to version 1.7. Follow these instructions to manually insert the necessary code via Magento admin interface and restore your web-to-print import functionality. ZetaPrints web-to-print templates synchronization &#60;action type="webtoprint/templates-synchronization" method="parse" /&#62; &#60;action type="webtoprint/products-updating" method="map" /&#62; ZetaPrints web-to-print catalogues creation &#60;action type="webtoprint/catalogues-creation" [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/blog/2012/09/09/web-to-print-profiles-fix-after-upgrading-to-magento-1-7/"><![CDATA[<p>Magento has a bug where it doesn&#8217;t copy over the existing profiles after an upgrade to version 1.7.</p>
+<p>Follow these instructions to manually insert the necessary code via Magento admin interface and restore your web-to-print import functionality.</p>
+<h3>ZetaPrints web-to-print templates synchronization</h3>
+<pre>&lt;action type="webtoprint/templates-synchronization" method="parse" /&gt;
+&lt;action type="webtoprint/products-updating" method="map" /&gt;</pre>
+<h3>ZetaPrints web-to-print catalogues creation</h3>
+<pre>&lt;action type="webtoprint/catalogues-creation" method="parse" /&gt;</pre>
+<h3>ZetaPrints virtual products creation</h3>
+<pre>&lt;action type="webtoprint/products-creation" method="map" product-type="virtual" /&gt;</pre>
+<h3>ZetaPrints simple products creation</h3>
+<pre>&lt;action type="webtoprint/products-creation" method="map" product-type="simple" /&gt;</pre>
+<p>&nbsp;</p>
+]]></content>
+			<link rel="replies" type="text/html" href="../../2012/09/09/web-to-print-profiles-fix-after-upgrading-to-magento-1-7/index.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="../../2012/09/09/web-to-print-profiles-fix-after-upgrading-to-magento-1-7/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Payments date wipe-out]]></title>
+		<link rel="alternate" type="text/html" href="../../2012/08/14/payments-date-wipe-out/" />
+		<id>http://www.zetaprints.com/blog/?p=1087</id>
+		<updated>2012-08-14T23:22:00Z</updated>
+		<published>2012-08-14T23:22:00Z</published>
+		<category scheme="http://www.zetaprints.com/blog" term="Problems and outages" />		<summary type="html"><![CDATA[Someone pressed a wrong button a few minutes ago, ignored the warning and pressed OK to confirm. As a result, all printer payments are showing as &#8216;2012-08-10&#8217;. We are working on restoring the data from a backup.]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/blog/2012/08/14/payments-date-wipe-out/"><![CDATA[<p>Someone pressed a wrong button a few minutes ago, ignored the warning and pressed OK to confirm.</p>
+<p>As a result, all printer payments are showing as &#8216;2012-08-10&#8217;. We are working on restoring the data from a backup.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="../../2012/08/14/payments-date-wipe-out/index.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="../../2012/08/14/payments-date-wipe-out/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+					</author>
+		<title type="html"><![CDATA[Serious network issues]]></title>
+		<link rel="alternate" type="text/html" href="../../2012/07/31/serious-network-issues/" />
+		<id>http://www.zetaprints.com/blog/?p=1080</id>
+		<updated>2012-08-01T02:29:52Z</updated>
+		<published>2012-08-01T02:29:52Z</published>
+		<category scheme="http://www.zetaprints.com/blog" term="Web-to-Print" />		<summary type="html"><![CDATA[We are having significant networking problems with patchy packet loss resulting in dropped connections and pages not loading fully. Our magento users are not affected as much because their users see only the magento site, but the problems communicating with ZetaPrints remain nonetheless. We are trying to resolve the problem with Amazon Web Services at [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/blog/2012/07/31/serious-network-issues/"><![CDATA[<p>We are having significant networking problems with patchy packet loss resulting in dropped connections and pages not loading fully. Our magento users are not affected as much because their users see only the magento site, but the problems communicating with ZetaPrints remain nonetheless.</p>
+<p><a href="../../wp-content/uploads/2012/07/www.zetaprints.com_.png"><img class="aligncenter size-full wp-image-1081" title="Ping test" src="../../wp-content/uploads/2012/07/www.zetaprints.com_.png" alt="" width="571" height="514" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2012/07/www.zetaprints.com_-300x270.png 300w, http://www.zetaprints.com/blog/wp-content/uploads/2012/07/www.zetaprints.com_.png 571w" sizes="(max-width: 571px) 100vw, 571px" /></a></p>
+<p>We are trying to resolve the problem with Amazon Web Services at the moment. Unfortunately there is not much we can do.</p>
+<p>There are reports of multiple orders being placed by users because they get no response to pressing the Order button. Please, let us know if you were affected and we&#8217;ll adjust the billing.</p>
+<p>&nbsp;</p>
+]]></content>
+			<link rel="replies" type="text/html" href="../../2012/07/31/serious-network-issues/index.html#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="../../2012/07/31/serious-network-issues/feed/atom/" thr:count="0"/>
+		<thr:total>0</thr:total>
+		</entry>
+	</feed>
+
+<!-- Localized -->

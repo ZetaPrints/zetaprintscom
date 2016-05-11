@@ -1,0 +1,748 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="verify-v1" content="GACnn9+1c3JzusKbMwxWr+f9dKvqx8As8sbHI8tNyxA=" />
+  <meta name="keywords" content="web-to-print, online printing, zetaprints, online print ordering" />
+  <title>On web to print sofware, solutions and hosted services</title>
+  <script type="text/javascript" src="../../wp-content/themes/water-zp-3/jslib.js"></script>
+  <meta name="generator" content="ZetaPrints"/> <!-- leave this for stats -->
+  <link rel="stylesheet" href="../../wp-content/themes/water-zp-3/style.css" type="text/css" media="all" />
+  <link href="../../wp-content/themes/water-zp-3/style-fixed.css" rel="stylesheet" type="text/css" />
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../feed/index.html" />
+  <link rel="alternate" type="text/xml" title="RSS .92" href="../../feed/rss/index.html" />
+  <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../../feed/atom/index.html" />
+  <!--link rel="pingback" href="http://www.zetaprints.com/blog/xmlrpc.php" /-->
+  		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.zetaprints.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cat-post-tree-ajax-css'  href='../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2-ver=0.7.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='top_css-css'  href='../../wp-content/themes/water-zp-3/top-menu-ver=4.4.1.css' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='top_css_ie-css'  href='../../wp-content/themes/water-zp-3/top-menu-ie-ver=4.4.1.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='../../wp-content/themes/water-zp-3/js/top-menu.js?ver=4.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CatPostAjax = {"ajaxurl":"http:\/\/www.zetaprints.com\/blog\/wp-admin\/admin-ajax.php","nice_ajax_tree_img":"http:\/\/www.zetaprints.com\/blog\/wp-content\/plugins\/cat-post-tree-ajax\/img\/","type":null,"id":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2.js?ver=4.4.1'></script>
+<script type='text/javascript' src='../../wp-content/plugins/zpecards/js/zp.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='../../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc-rsd.php.html" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.1" />
+<meta property="og:site_name" content="On web to print sofware, solutions and hosted services" />
+<meta property="og:type" content="article" />
+<link type="text/css" rel="stylesheet" href="../../wp-content/plugins/zpecards/css/zpEcards.css" />
+<script type='text/javascript' src='../../wp-includes/js/tw-sack.min.js?ver=1.6.1'></script>
+  <!--[if IE]>
+  <style>
+  
+  </style>
+  <![EndIf]-->
+  <style type="text/css" media="print">
+  #header, #footer, #rightcol, #logo, .social_bookmark, .post-rel, .postmetadata, #questionMark, p.nocomments {display:none}
+  </style>
+  <link media="screen" type="text/css" href="../../wp-content/themes/water-zp-3/grid.css" rel="stylesheet"/>
+  <script type='text/javascript' src="../../wp-content/themes/water-zp-3/js/grid.js" ></script>
+</head>
+
+<body>
+  <div id="header-container" class="clearfix container">
+    <div id="header">
+      <div class="logo">
+        <a href="../../../index.html"><img src="../../wp-content/themes/water-zp-3/images/logo.gif" alt="ZetaPrints Web-to-print home"/></a>
+        <h1><a href="../../index.html"><span>ZetaPrints</span> blog</a></h1>
+        <h3>Web-to-Print &amp; dynamic imaging</h3>
+      </div>
+      <form method="get" id="searchform" action="http://www.zetaprints.com/blog/">
+        <div>
+          <input type="text" value=""  name="s" id="s" />
+          <input type="image" id="searchsubmit" alt="Search" src="../../wp-content/themes/water-zp-3/images/search_btn.gif" />
+        </div>
+      </form>
+      <div class="nav">
+    <ul class="main" id="top-drop-menu">
+        <li>
+            <a href="../../../index.html" title="Zetaprints home">Home</a>
+        </li><li class="drop">
+            <a href="../../../help/index.html" class="drop-down-link">Help</a>
+            <ul>
+                <li>
+                    <a href="../../../help/index.html" class="drop-down-link">Web-to-print help</a>
+                </li>
+                <li>
+                    <a href="../../../magentohelp/index.html" class="drop-down-link">Magento help</a>
+                </li>
+				<li>
+					<a href="../../../premium/index.html" class="drop-down-link">Premium support</a>
+				</li>
+				<li>
+					<a href="../../../directory/index.html" class="drop-down-link">Resources</a>
+				</li>
+				<li class="last">
+					<a href="../../../userhelp/index.html" class="drop-down-link">End user help</a>
+				</li>
+            </ul>
+        </li><li>
+            <a href="../../index.html" title="Web to print blog">Blog</a>
+        </li><li>
+            <a href="../../../packages/sign-up-for-web-to-print/index.html" title="Sign up for web-to-print">Sign up</a>
+        </li><li class="no_border">
+            <a href="http://zetaprints.com" title="Web to print system">Log in</a>
+        </li>
+    </ul>
+</div>
+<!-- nav -->
+    </div> <!-- header -->
+  </div> <!-- container -->
+  <div id="content-container" class="container clearfix">
+    <div id="rightcol">
+      <ul>
+        		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+					<li>
+				<a href="../../2013/08/02/forward-updates-in-web-to-print-templates-bug/index.html">Repeating fields in web-to-print templates bug</a>
+						</li>
+					<li>
+				<a href="../../2013/07/31/lost-files/index.html">Lost files</a>
+						</li>
+					<li>
+				<a href="../../2013/07/22/speed-up-your-web-to-print-checkout/index.html">Speed up your web-to-print checkout</a>
+						</li>
+					<li>
+				<a href="../../2013/01/28/paypal-issues-web-to-print-orders-are-not-paid/index.html">PayPal issues &#8211; web-to-print orders are not paid</a>
+						</li>
+					<li>
+				<a href="../../2012/10/31/volumes-are-down/index.html">Volumes are down</a>
+						</li>
+					<li>
+				<a href="../../2012/10/22/amazon-hosting-failure/index.html">Amazon hosting failure</a>
+						</li>
+					<li>
+				<a href="../../2012/09/19/missing-files-in-web-to-print-orders/index.html">Missing files in web-to-print orders</a>
+						</li>
+					<li>
+				<a href="../../2012/09/09/web-to-print-profiles-fix-after-upgrading-to-magento-1-7/index.html">Web-to-print profiles fix after upgrading to Magento 1.7</a>
+						</li>
+					<li>
+				<a href="../../2012/08/14/payments-date-wipe-out/index.html">Payments date wipe-out</a>
+						</li>
+					<li>
+				<a href="../../2012/07/31/serious-network-issues/index.html">Serious network issues</a>
+						</li>
+				</ul>
+		</li>
+		<li id="niceajaxtree-widget-3" class="widget cat-post-ajax-tree"><h2 class="widgettitle"><span class="widgettitle">Topics</span></h2>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/announcements/index.html"
+	title="View all posts in Announcements">Announcements</a>
+<span
+	class="arrow cat-item-3">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-3" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/api/index.html"
+	title="View all posts in API">API</a>
+<span
+	class="arrow cat-item-65">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-65" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/blogroll/index.html"
+	title="View all posts in Blogroll">Blogroll</a>
+<span
+	class="arrow cat-item-2">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-2" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/bugs-and-fixes/index.html"
+	title="View all posts in Bugs and fixes">Bugs and fixes</a>
+<span
+	class="arrow cat-item-147">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-147" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/customer-web-to-print-sites/index.html"
+	title="View all posts in Customer web-to-print sites">Customer web-to-print sites</a>
+<span
+	class="arrow cat-item-149">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-149" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/freebies/index.html"
+	title="View all posts in Freebies">Freebies</a>
+<span
+	class="arrow cat-item-146">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-146" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/graphic-design/index.html"
+	title="View all posts in Graphic design">Graphic design</a>
+<span
+	class="arrow cat-item-4">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-4" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/ideas-and-opinions/index.html"
+	title="View all posts in Ideas and opinions">Ideas and opinions</a>
+<span
+	class="arrow cat-item-5">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-5" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/junk-mail-collection/index.html"
+	title="View all posts in Junk mail collection">Junk mail collection</a>
+<span
+	class="arrow cat-item-6">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-6" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/known-issues/index.html"
+	title="View all posts in Known issues">Known issues</a>
+<span
+	class="arrow cat-item-17">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-17" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/marketing/index.html"
+	title="View all posts in Marketing">Marketing</a>
+<span
+	class="arrow cat-item-7">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-7" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/payments-2/index.html"
+	title="View all posts in Payments">Payments</a>
+<span
+	class="arrow cat-item-150">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-150" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/premium-support/index.html"
+	title="View all posts in Premium support">Premium support</a>
+<span
+	class="arrow cat-item-151">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-151" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/printer-update/index.html"
+	title="View all posts in Printer update">Printer update</a>
+<span
+	class="arrow cat-item-8">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-8" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/printer-update-history/index.html"
+	title="View all posts in Printer update history">Printer update history</a>
+<span
+	class="arrow cat-item-18">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-18" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/printing-industry-reviews/index.html"
+	title="View all posts in Printing industry reviews">Printing industry reviews</a>
+<span
+	class="arrow cat-item-10">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-10" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/problems-and-outages/index.html"
+	title="View all posts in Problems and outages">Problems and outages</a>
+<span
+	class="arrow cat-item-56">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-56" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/scam-buster/index.html"
+	title="View all posts in Scams">Scams</a>
+<span
+	class="arrow cat-item-12">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-12" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/update-summaries/index.html"
+	title="View all posts in Update summaries">Update summaries</a>
+<span
+	class="arrow cat-item-19">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-19" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/user-update-history/index.html"
+	title="View all posts in User update history">User update history</a>
+<span
+	class="arrow cat-item-20">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-20" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print/index.html"
+	title="View all posts in Web-to-Print">Web-to-Print</a>
+<span
+	class="arrow cat-item-13">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-13" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-features/index.html"
+	title="View all posts in web-to-print features">web-to-print features</a>
+<span
+	class="arrow cat-item-53">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-53" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-help/index.html"
+	title="View all posts in Web-to-print help">Web-to-print help</a>
+<span
+	class="arrow cat-item-145">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-145" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-reviews/index.html"
+	title="View all posts in Web-to-Print reviews">Web-to-Print reviews</a>
+<span
+	class="arrow cat-item-14">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-14" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-software/index.html"
+	title="View all posts in web-to-print software">web-to-print software</a>
+<span
+	class="arrow cat-item-54">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-54" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-storefront/index.html"
+	title="View all posts in Web-to-print storefront">Web-to-print storefront</a>
+<span
+	class="arrow cat-item-148">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-148" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/whaling/index.html"
+	title="View all posts in Whaling">Whaling</a>
+<span
+	class="arrow cat-item-15">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-15" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/index.html"
+	title="View all posts in ZetaPrints features">ZetaPrints features</a>
+<span
+	class="arrow cat-item-16">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-16" style="display:none;">
+</div>
+</div>
+</li>
+      </ul>
+    </div>
+    <div id="leftcol">
+      <div id="news" class="clearfix">
+        <div id="newswrap">
+            <div class="post" id="post-708">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2011/04/27/reliability-lessons/index.html" rel="bookmark" title="Permanent Link to Reliability lessons">Reliability lessons</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/problems-and-outages/index.html" rel="category tag">Problems and outages</a></small></div>
+              <small>April 27th, 2011 <!-- by admin --></small>
+              <div class="entry">
+    <p>This outage was bad enough. Bad on Amazon, but also bad on us. In the end it&#8217;s our fault &#8211;<strong> assume nothing, trust no one</strong>. We trusted in AWS promise to keep zones separate and the core services running. Lesson learned. Here are a few ideas we want to implement in the near future.</p>
+<h2>Missing terabyte</h2>
+<h3>Option 1</h3>
+<p>There is still hope we&#8217;ll get our missing terabyte of data back and quickly restore all missing images. Unfortunately Amazon is less than responsive at the moment, but they promised to look into this. It would be the best solution.</p>
+<h3>Option 2</h3>
+<p>We may need to ask you to re-upload your images, but this would be done via FTP as a bulk upload. You will simply upload everything you think may be relevant. Our software would crunch the images and match them against the database. No need for you to manually reassign them. Still, an unnecessary headache for you.</p>
+<p>We will remove missing images from the database after some time or on your request to stop them appearing altogether.</p>
+<p>There will also be a special web page to see what images are missing.</p>
+<h2>Data storage reliability</h2>
+<h3>Backups</h3>
+<p>We don&#8217;t believe in them. A back up is only as good as the last restore. There is always data loss with backups anyway.</p>
+<h3>Replication</h3>
+<p>All printer data will be mirrored to a different type of storage (EBS/S3) within Amazon at no additional cost to customers. It will effectively double our costs, though. A hit we are willing to take.<br />
+We will offer an option of replicating all data to a different provider like Rackspace at additional cost.</p>
+<h3>Hot mirrors</h3>
+<p>We will maintain a ready to go mirror of the software with a different provider, probably Rackspace in case AWS fails again.</p>
+<p>Moving so much data between 2 different systems on a short notice when everyone is probably trying to the same is not going to be feasible. Only those paying for off-site replication will be able continue with minimal interruption. All the others will be able to continue, but the downtime will be longer with some data loss.</p>
+<h3>No-w2p ordering</h3>
+<p>Our magento <a title="web to print for magento" href="../../../magento-web-to-print/index.html">web to print extension</a> will allow a fall-back option of taking orders without a preview in case the system is down.<br />
+All the fields will be populated and images uploaded, but the artwork would need to be prepared manually.</p>
+<p>This is already in the <a title="web to print extension development" href="http://code.google.com/p/magento-w2p/issues/detail?id=539">development plan</a>.</p>
+<h2>Faulty orders</h2>
+<p>We will wave fees for any faulty orders. Email us early in May with the list. We will not run the billing cycle until well into May.</p>
+<h2>Thank you for your tolerance and support</h2>
+<p>We had quite a few phone calls and emails. Everyone is frustrated, but no one freaked out or yelled at us. We&#8217;d better go start working on the solution again.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2011/04/27/reliability-lessons/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-700">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2011/04/27/old-user-images-not-availalbe/index.html" rel="bookmark" title="Permanent Link to Old user images not availalbe">Old user images not availalbe</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/problems-and-outages/index.html" rel="category tag">Problems and outages</a></small></div>
+              <small>April 27th, 2011 <!-- by admin --></small>
+              <div class="entry">
+    <p>We hid all pre-outage user images away from user libraries until we either get the data back from Amazon or know it&#8217;s not recoverable. There is still hope.</p>
+<h2>Missing images</h2>
+<h3>Printer images</h3>
+<p>Printer and designer image libraries have all thumbnails and very few original images. If the missing images are used they come up blank on previews and in PDFs. We will either remove the missing one completely or restore them when we know the fate of the missing terabyte.</p>
+<h3>Stock images with templates</h3>
+<p>Some images are just assigned to templates and are not in any library at all. They continue to show on template / product pages, but will come up blank if the originals are missing. We will clean them up or restore together with printer and user images.</p>
+<h2>Faulty orders</h2>
+<p>There will be a fair amount of faulty orders with blank images and you may even be charged for them. Please, email us early next month with the total number of such orders. We will definitely wave the charges.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2011/04/27/old-user-images-not-availalbe/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-698">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2011/04/27/removing-user-images/index.html" rel="bookmark" title="Permanent Link to Removing user images">Removing user images</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/problems-and-outages/index.html" rel="category tag">Problems and outages</a></small></div>
+              <small>April 27th, 2011 <!-- by admin --></small>
+              <div class="entry">
+    <p>We still don&#8217;t have our lost terabyte back.</p>
+<p>Users see their images in the image library, select them and get blank space instead.</p>
+<p>We will temporarily hide user images from their libraries and then start a gradual restore process from cached data on instances that survived the outage. Users will have to upload images again if they want to use them while we are trying to restore the data.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2011/04/27/removing-user-images/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-694">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2011/04/27/missing-terabyte/index.html" rel="bookmark" title="Permanent Link to Missing terabyte">Missing terabyte</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/problems-and-outages/index.html" rel="category tag">Problems and outages</a></small></div>
+              <small>April 27th, 2011 <!-- by admin --></small>
+              <div class="entry">
+    <p>We are back up and running after a 5hr long outage, but now on crutches.</p>
+<p>And, all user and stock image are sitting on a drive AWS is trying to make available to us again. In other words, we don&#8217;t have them right now.</p>
+<h3>How it affects you</h3>
+<p>Most of user and printer images uploaded before the outage are missing. Their thumbs and small previews are still there, but the originals are on the missing drive.</p>
+<p>If someone selects an image with a missing original it will come up blank on the preview and in the order file. There should be no errors generated.</p>
+<p>This is confusing to users and is likely to result in a drop in orders.</p>
+<h3>What to do about it</h3>
+<p>Nothing a this stage. We are waiting for AWS to give us our data back. They only started working on it an hr ago. There must be a long queue of similar requests. <img src="../../wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h3>Why did it happen?</h3>
+<p>AWS started having issues with storage on Thursday. We noticed that some customer websites went down. Few hours later we started seeing the same problems in our servers. We held it together through the outage loosing instances and disks, but still having 100% of the data available and the sites running.</p>
+<p>We tried to back up the data during the outage, but it simply didn&#8217;t work. AWS systems were too overloaded for this. We decided to play nice and didn&#8217;t persist.</p>
+<p>Today AWS officially declared the outage over. The next moment the last alive disk with 1TB of user images started getting errors. 30 minutes later we lost some more critical data and had to stop everything to maintain data consistency.</p>
+<h3>How it was supposed to work</h3>
+<p>It just wasn&#8217;t supposed to fail all at once. Amazon has a motto &#8220;Everything fails&#8221;. They should add &#8221; at once&#8221;. This is what happened.</p>
+<p>Our data is replicated across multiple drives on independent servers running in different zones. If one goes down the data is still somewhere on another server. This strategy failed miserably in the current event of everything being down.</p>
+<h3>Conclusion</h3>
+<p>Jumping from AWS to maybe Rackspace is not going to make much difference. They may have the same extensive failure. Anyone can. We will be looking at replicating the data and keeping hot backup systems on different platforms. If AWS is down we run off Rackspace and vice versa. It is a major undertaking and a very costly one. Let the dust settle first.</p>
+<p>We will update you on the situation with user and printer images in the coming hours.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2011/04/27/missing-terabyte/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-690">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2011/04/26/the-system-is-down/index.html" rel="bookmark" title="Permanent Link to The system is down &#8230; and up again">The system is down &#8230; and up again</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/problems-and-outages/index.html" rel="category tag">Problems and outages</a></small></div>
+              <small>April 26th, 2011 <!-- by admin --></small>
+              <div class="entry">
+    <p>Thanx Amazon.</p>
+<p>We&#8217;ll keep you posted.</p>
+<p>We are up, but on crutches. Took us 5 hrs to restore most of it.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2011/04/26/the-system-is-down/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-687">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2011/04/26/aws-is-still-crook/index.html" rel="bookmark" title="Permanent Link to AWS is still crook">AWS is still crook</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/problems-and-outages/index.html" rel="category tag">Problems and outages</a></small></div>
+              <small>April 26th, 2011 <!-- by admin --></small>
+              <div class="entry">
+    <p>Our beloved hosting company, Amazon Web Services or AWS for short is still crook.</p>
+<p>We are having constant disk failures across multiple servers. It sure impacts on the end users because the site produces a huge number of errors.</p>
+<p>There is little we can do at the moment. Waiting for AWS postmortem and possibly changes to their SLA.</p>
+<p>The promise of their service is high reliability of the storage and zone isolation. This recent outage shows that wasn&#8217;t the case. The outage spanned the entire region.</p>
+<p>Jumping the ship and rushing to move elsewhere would be unwise. It&#8217;s unlikely Rackspace or some other provider is any better. What we need to do is add more redundancy and better contingency to the service.</p>
+<p>&nbsp;</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2011/04/26/aws-is-still-crook/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-685">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2011/04/25/15-minute-investment-in-web-to-print-you-wont-regret/index.html" rel="bookmark" title="Permanent Link to 15-minute investment in web-to-print you won&#8217;t regret">15-minute investment in web-to-print you won&#8217;t regret</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/marketing/index.html" rel="category tag">Marketing</a></small></div>
+              <small>April 25th, 2011 <!-- by admin --></small>
+              <div class="entry">
+    <p>Submit your web-to-print site to <a title="DMOZ directory" href="http://www.dmoz.org/docs/en/add.html">DMOZ</a>.</p>
+<p>It&#8217;s free, takes 15 min and pays back handsomely over time.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2011/04/25/15-minute-investment-in-web-to-print-you-wont-regret/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-682">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2011/04/23/printers-storefront-manuals/index.html" rel="bookmark" title="Permanent Link to Printer&#8217;s storefront manuals">Printer&#8217;s storefront manuals</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/web-to-print-help/index.html" rel="category tag">Web-to-print help</a></small></div>
+              <small>April 23rd, 2011 <!-- by admin --></small>
+              <div class="entry">
+    <p>We started publishing our internal manuals for building Magento-based storefronts for printers and similar types of business. The manuals are used by our staff and external contractors to standardize processes, including those for <a title="web-to-print and dynamic imaging support" href="../../../premium/index.html">premium support</a>. The thing is, following them is not a rocket science. One doesn&#8217;t need to be a programmer to do most of the tasks they involve:</p>
+<ul>
+<li><a title="web-to-print site set up on AWS" href="../../../magentohelp/amazon-server-set-up-for-web-to-print/index.html">launching a Magento server</a></li>
+<li>configuring Magento website</li>
+<li>installing web-to-print</li>
+<li>managing orders and products</li>
+<li>etc</li>
+</ul>
+<p>Our first manual is for <a title="web-to-print site set up on AWS" href="../../../magentohelp/amazon-server-set-up-for-web-to-print/index.html">setting up a Magento server</a>. It should be easy to follow for anyone with a bit of IT knowledge.So, if you want to do it yourself &#8211; get it cracking.</p>
+<h2>With or without web-to-print, still a storefront</h2>
+<p>The manuals revolve around our <a title="magento web-to-print and dynamic imaging" href="../../../magento-web-to-print/index.html">web-to-print and dynamic imaging extension</a> for Magento, but it is actually optional. Skip the web-to-print steps and you end up with a generic storefront for selling print or print-related products and services. We hope it will help businesses to upgrade their existing storefronts and move away from often overpriced and poorly performing proprietary e-commerce systems.</p>
+<p>&nbsp;</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2011/04/23/printers-storefront-manuals/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-679">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2011/04/21/aws-is-having-problems/index.html" rel="bookmark" title="Permanent Link to AWS is having problems">AWS is having problems</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/problems-and-outages/index.html" rel="category tag">Problems and outages</a></small></div>
+              <small>April 21st, 2011 <!-- by admin --></small>
+              <div class="entry">
+    <p>Looks like we may have some downtime. AWS (Amazon Web Services) is having problems with storage.</p>
+<p style="padding-left: 60px;"><strong>Performance issues: Instance connectivity, latency and error rates.</strong><br />
+<em>Friday, 22 April 2011 02:40</em><br />
+In addition to the EBS volume latencies, EBS-backed instances in the US-EAST-1 region are failing at a high rate. This is due to a high error rate for creating new volumes in this region.</p>
+<p>We see some of our instanced being next to useless with the number of errors they generate. It&#8217;s all in Amazon&#8217;s hands at the moment. <a title="AWS status update" href="http://status.aws.amazon.com/rss/EC2.rss">Stay tuned</a>.</p>
+<p style="text-align: center;"><a href="../../wp-content/uploads/2011/04/status-aws-amazon-com.png"><img class="size-medium wp-image-680 aligncenter" title="status-aws-amazon-com" src="../../wp-content/uploads/2011/04/status-aws-amazon-com-300x240.png" alt="" width="300" height="240" /></a></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2011/04/21/aws-is-having-problems/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-675">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2011/04/12/web-to-print-in-asia-pacific/index.html" rel="bookmark" title="Permanent Link to Web-to-print in Asia-Pacific">Web-to-print in Asia-Pacific</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/announcements/index.html" rel="category tag">Announcements</a></small></div>
+              <small>April 12th, 2011 <!-- by admin --></small>
+              <div class="entry">
+    <p><em>Web to print</em> in <a title="Amazon in Singapore" href="http://aws.amazon.com/about-aws/whats-new/2010/04/29/announcing-asia-pacific-singapore-region/">South-East Asia Pacific</a> has become a notch easier to set up thanx to an awesome <a title="Linux support and administration" href="http://www.greengecko.co.nz">Linux support company</a> that keeps maintaining and updating free Magento AMIs on Amazon.</p>
+<h2>Free Magento AMI in Singapore</h2>
+<p>Look for <em>ami-a81c65fa</em> or look by owner ID <em>859714128294</em></p>
+<h2>Free Magento AMI in US East</h2>
+<p>Look for <em>ami-b86c91d1</em> or look by owner ID <em>859714128294</em></p>
+<h2>Magento AMI in other zones</h2>
+<p>Contact the image owner via their <a title="magento hosting specialists" href="http://www.greengecko.co.nz/opensource/linux/magento-hosting.html">Magento Hosting web page</a>.</p>
+<h2>Web to print and other extensions</h2>
+<p>The newly updated AMI&#8217;s run Magento 1.5.0.1, mail, ftp, webmin and some other goodies to help you get started. No extensions are installed by default, but they are easy to add.</p>
+<p>Go to the instance home page right after launch to get your access details. Follow <a title="web-to-print installation" href="../../../magentohelp/category/installation-steps/index.html">web-to-print installation instructions</a>, if you want our web-to-print at all. Otherwise enjoy the freebie.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2011/04/12/web-to-print-in-asia-pacific/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="navigation">
+            <div class="alignleft"><a href="../9/index.html" >&laquo; Older Entries</a></div>
+            <div class="alignright"><a href="../7/index.html" >Newer Entries &raquo;</a></div>
+          </div>
+          <br /><br /><br /><br />
+        </div>
+      </div>
+      <hr />
+    </div>
+  </div>
+
+<div id="footer-container" class="container">
+  <div id="footer">
+    <div id="bottomnav">
+      <!-- a id="pagecounter" href="http://whos.amung.us/show/9bm3msts"><img src="http://whos.amung.us/widget/9bm3msts" alt="hit counter" border="0" height="29" width="81" /></a -->
+      <ul>
+        <li class="first"><a href="../../../about-us/index.html" title="About ZetaPrints">About ZetaPrints</a></li>
+        <li><a href="../../../about-us/contact-us/index.html" title="Contact us">Contact us</a></li>
+        <li><a href="http://zetaprints.com/" title="Log in">Log in</a></li>
+        <li><a href="../../../web-to-print-legal/privacy-policy/index.html" title="Privacy policy">Privacy</a></li>
+        <li><a href="../../../sitemap/index.html" title="Sitemap">Sitemap</a></li>
+        <li><a href="../../../about-us/summary-of-terms-and-conditions/index.html" title="Terms and conditions">Terms of Service</a></li>
+        <li><a href="../../index.html" title="Web-to-print Blog">Web-to-print Blog</a></li>
+        <li><a href="../../../help/index.html" title="Web-to-print Help">Web-to-print Help</a></li>
+      </ul>
+    </div>
+    <p><a href="../../index.html" title="Web-to-print Blog"><img class="footer-icon" alt="Blog" src="../../wp-content/themes/water-zp-3/images/blog.png"/></a>&nbsp;
+<a href="http://twitter.com/zetaprints" title="Follow us on twitter"><img class="footer-icon" alt="Twitter" src="../../wp-content/themes/water-zp-3/images/twitter_16.png"/></a>&nbsp;
+&copy; 2006-2012 ZetaPrints Ltd. All rights reserved. Powered by <a href="http://wordpress.org">WordPress</a>.</p>
+    <a href="#header" title="Back to Top" class="top-btn">Back to Top</a>
+  </div>
+</div>
+
+<script type="text/javascript">
+    (function(){
+        var ga = document.createElement('script');
+        ga.type="text/javascript";
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1132851-1']);
+    _gaq.push(['_trackPageview']);
+</script>
+</body>
+</html>
+
+<!-- Localized -->

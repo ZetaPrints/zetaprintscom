@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Configuration &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/configuration/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>10. Create simple products</title>
+		<link>http://www.zetaprints.com/help/create-simple-web-to-print-products/</link>
+		<pubDate>Fri, 04 Dec 2009 10:02:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Magento]]></category>
+		<category><![CDATA[Configuration]]></category>
+		<category><![CDATA[web-to-print extension]]></category>
+
+		<guid isPermaLink="false">/help/?p=8279</guid>
+		<description><![CDATA[Step 9 Step 10 &#8211; Create simple products Step 11 Once your web-to-print templates are imported into the Magento database you can create simple products for those templates. Only templates that have no matching products are used to create new simple web-to-print products. Simple products vs. other product types Simple products can be generated automatically [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>06. Theme configuration</title>
+		<link>http://www.zetaprints.com/help/theme-configuration/</link>
+		<pubDate>Wed, 07 Oct 2009 11:08:56 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Magento]]></category>
+		<category><![CDATA[Configuration]]></category>
+		<category><![CDATA[Theme]]></category>
+
+		<guid isPermaLink="false">/help/?p=7926</guid>
+		<description><![CDATA[Step 5 Step 6 &#8211; Configure default theme Step 7 A theme cannot be modified automatically during the install. Use the theme provided with the package as the first step and then modify your default theme to work with design personalization. Navigate to System/Configuration and choose Design tab. Leave the current package name at its [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>09. Import data</title>
+		<link>http://www.zetaprints.com/help/import-web-to-print-data/</link>
+		<pubDate>Tue, 06 Oct 2009 16:34:02 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Magento]]></category>
+		<category><![CDATA[Configuration]]></category>
+		<category><![CDATA[web-to-print extension]]></category>
+
+		<guid isPermaLink="false">/help/?p=7866</guid>
+		<description><![CDATA[Step 8 Step 9 &#8211; Import templates Step 10 Once the web-to-print extension is installed and configured you can import the data from your ZetaPrints portal. All your catalogs and templates are imported initially. Only new and updated templates are imported on subsequent runs. Data import needs to be initiated manually. ZetaPrints templates synchronization profile [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>08. ZetaPrints Synchronization settings</title>
+		<link>http://www.zetaprints.com/help/zetaprints-synchronization-settings/</link>
+		<pubDate>Tue, 06 Oct 2009 15:12:37 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Magento]]></category>
+		<category><![CDATA[Configuration]]></category>
+		<category><![CDATA[web-to-print extension]]></category>
+
+		<guid isPermaLink="false">/help/?p=7847</guid>
+		<description><![CDATA[Step 7 Step 8 &#8211; Configure settings Step 9 Your Magento store needs to be synchronized with your ZetaPrints web-to-print portal. Log in to Magento as a store administrator, navigate to System/Configuration in the top menu and click on ZetaPrints Sync tab in the menu on the left. ZetaPrints URL URL to the home page [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>03. Prerequisites</title>
+		<link>http://www.zetaprints.com/help/web-to-print-extension-prerequisites/</link>
+		<pubDate>Tue, 06 Oct 2009 11:52:58 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Magento]]></category>
+		<category><![CDATA[Configuration]]></category>
+		<category><![CDATA[web-to-print extension]]></category>
+
+		<guid isPermaLink="false">/help/?p=7812</guid>
+		<description><![CDATA[Step 2 Step 3 &#8211; Check prerequisites Step 4 Lets make sure we have everything ready before proceeding with Magento installation. You need to make sure that your server is properly configured. Most servers will work out of the box. Some will need to be adjusted. URL File Access For data import from ZetaPrints into [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

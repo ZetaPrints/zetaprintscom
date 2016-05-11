@@ -1,0 +1,892 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="verify-v1" content="GACnn9+1c3JzusKbMwxWr+f9dKvqx8As8sbHI8tNyxA=" />
+  <meta name="keywords" content="web-to-print, online printing, zetaprints, online print ordering" />
+  <title>On web to print sofware, solutions and hosted services</title>
+  <script type="text/javascript" src="../../wp-content/themes/water-zp-3/jslib.js"></script>
+  <meta name="generator" content="ZetaPrints"/> <!-- leave this for stats -->
+  <link rel="stylesheet" href="../../wp-content/themes/water-zp-3/style.css" type="text/css" media="all" />
+  <link href="../../wp-content/themes/water-zp-3/style-fixed.css" rel="stylesheet" type="text/css" />
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../feed/index.html" />
+  <link rel="alternate" type="text/xml" title="RSS .92" href="../../feed/rss/index.html" />
+  <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../../feed/atom/index.html" />
+  <!--link rel="pingback" href="http://www.zetaprints.com/blog/xmlrpc.php" /-->
+  		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.zetaprints.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cat-post-tree-ajax-css'  href='../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2-ver=0.7.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='top_css-css'  href='../../wp-content/themes/water-zp-3/top-menu-ver=4.4.1.css' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='top_css_ie-css'  href='../../wp-content/themes/water-zp-3/top-menu-ie-ver=4.4.1.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='../../wp-content/themes/water-zp-3/js/top-menu.js?ver=4.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CatPostAjax = {"ajaxurl":"http:\/\/www.zetaprints.com\/blog\/wp-admin\/admin-ajax.php","nice_ajax_tree_img":"http:\/\/www.zetaprints.com\/blog\/wp-content\/plugins\/cat-post-tree-ajax\/img\/","type":null,"id":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2.js?ver=4.4.1'></script>
+<script type='text/javascript' src='../../wp-content/plugins/zpecards/js/zp.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='../../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc-rsd.php.html" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.1" />
+<meta property="og:site_name" content="On web to print sofware, solutions and hosted services" />
+<meta property="og:type" content="article" />
+<link type="text/css" rel="stylesheet" href="../../wp-content/plugins/zpecards/css/zpEcards.css" />
+<script type='text/javascript' src='../../wp-includes/js/tw-sack.min.js?ver=1.6.1'></script>
+  <!--[if IE]>
+  <style>
+  
+  </style>
+  <![EndIf]-->
+  <style type="text/css" media="print">
+  #header, #footer, #rightcol, #logo, .social_bookmark, .post-rel, .postmetadata, #questionMark, p.nocomments {display:none}
+  </style>
+  <link media="screen" type="text/css" href="../../wp-content/themes/water-zp-3/grid.css" rel="stylesheet"/>
+  <script type='text/javascript' src="../../wp-content/themes/water-zp-3/js/grid.js" ></script>
+</head>
+
+<body>
+  <div id="header-container" class="clearfix container">
+    <div id="header">
+      <div class="logo">
+        <a href="../../../index.html"><img src="../../wp-content/themes/water-zp-3/images/logo.gif" alt="ZetaPrints Web-to-print home"/></a>
+        <h1><a href="../../index.html"><span>ZetaPrints</span> blog</a></h1>
+        <h3>Web-to-Print &amp; dynamic imaging</h3>
+      </div>
+      <form method="get" id="searchform" action="http://www.zetaprints.com/blog/">
+        <div>
+          <input type="text" value=""  name="s" id="s" />
+          <input type="image" id="searchsubmit" alt="Search" src="../../wp-content/themes/water-zp-3/images/search_btn.gif" />
+        </div>
+      </form>
+      <div class="nav">
+    <ul class="main" id="top-drop-menu">
+        <li>
+            <a href="../../../index.html" title="Zetaprints home">Home</a>
+        </li><li class="drop">
+            <a href="../../../help/index.html" class="drop-down-link">Help</a>
+            <ul>
+                <li>
+                    <a href="../../../help/index.html" class="drop-down-link">Web-to-print help</a>
+                </li>
+                <li>
+                    <a href="../../../magentohelp/index.html" class="drop-down-link">Magento help</a>
+                </li>
+				<li>
+					<a href="../../../premium/index.html" class="drop-down-link">Premium support</a>
+				</li>
+				<li>
+					<a href="../../../directory/index.html" class="drop-down-link">Resources</a>
+				</li>
+				<li class="last">
+					<a href="../../../userhelp/index.html" class="drop-down-link">End user help</a>
+				</li>
+            </ul>
+        </li><li>
+            <a href="../../index.html" title="Web to print blog">Blog</a>
+        </li><li>
+            <a href="../../../packages/sign-up-for-web-to-print/index.html" title="Sign up for web-to-print">Sign up</a>
+        </li><li class="no_border">
+            <a href="http://zetaprints.com" title="Web to print system">Log in</a>
+        </li>
+    </ul>
+</div>
+<!-- nav -->
+    </div> <!-- header -->
+  </div> <!-- container -->
+  <div id="content-container" class="container clearfix">
+    <div id="rightcol">
+      <ul>
+        		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+					<li>
+				<a href="../../2013/08/02/forward-updates-in-web-to-print-templates-bug/index.html">Repeating fields in web-to-print templates bug</a>
+						</li>
+					<li>
+				<a href="../../2013/07/31/lost-files/index.html">Lost files</a>
+						</li>
+					<li>
+				<a href="../../2013/07/22/speed-up-your-web-to-print-checkout/index.html">Speed up your web-to-print checkout</a>
+						</li>
+					<li>
+				<a href="../../2013/01/28/paypal-issues-web-to-print-orders-are-not-paid/index.html">PayPal issues &#8211; web-to-print orders are not paid</a>
+						</li>
+					<li>
+				<a href="../../2012/10/31/volumes-are-down/index.html">Volumes are down</a>
+						</li>
+					<li>
+				<a href="../../2012/10/22/amazon-hosting-failure/index.html">Amazon hosting failure</a>
+						</li>
+					<li>
+				<a href="../../2012/09/19/missing-files-in-web-to-print-orders/index.html">Missing files in web-to-print orders</a>
+						</li>
+					<li>
+				<a href="../../2012/09/09/web-to-print-profiles-fix-after-upgrading-to-magento-1-7/index.html">Web-to-print profiles fix after upgrading to Magento 1.7</a>
+						</li>
+					<li>
+				<a href="../../2012/08/14/payments-date-wipe-out/index.html">Payments date wipe-out</a>
+						</li>
+					<li>
+				<a href="../../2012/07/31/serious-network-issues/index.html">Serious network issues</a>
+						</li>
+				</ul>
+		</li>
+		<li id="niceajaxtree-widget-3" class="widget cat-post-ajax-tree"><h2 class="widgettitle"><span class="widgettitle">Topics</span></h2>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/announcements/index.html"
+	title="View all posts in Announcements">Announcements</a>
+<span
+	class="arrow cat-item-3">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-3" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/api/index.html"
+	title="View all posts in API">API</a>
+<span
+	class="arrow cat-item-65">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-65" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/blogroll/index.html"
+	title="View all posts in Blogroll">Blogroll</a>
+<span
+	class="arrow cat-item-2">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-2" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/bugs-and-fixes/index.html"
+	title="View all posts in Bugs and fixes">Bugs and fixes</a>
+<span
+	class="arrow cat-item-147">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-147" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/customer-web-to-print-sites/index.html"
+	title="View all posts in Customer web-to-print sites">Customer web-to-print sites</a>
+<span
+	class="arrow cat-item-149">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-149" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/freebies/index.html"
+	title="View all posts in Freebies">Freebies</a>
+<span
+	class="arrow cat-item-146">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-146" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/graphic-design/index.html"
+	title="View all posts in Graphic design">Graphic design</a>
+<span
+	class="arrow cat-item-4">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-4" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/ideas-and-opinions/index.html"
+	title="View all posts in Ideas and opinions">Ideas and opinions</a>
+<span
+	class="arrow cat-item-5">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-5" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/junk-mail-collection/index.html"
+	title="View all posts in Junk mail collection">Junk mail collection</a>
+<span
+	class="arrow cat-item-6">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-6" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/known-issues/index.html"
+	title="View all posts in Known issues">Known issues</a>
+<span
+	class="arrow cat-item-17">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-17" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/marketing/index.html"
+	title="View all posts in Marketing">Marketing</a>
+<span
+	class="arrow cat-item-7">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-7" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/payments-2/index.html"
+	title="View all posts in Payments">Payments</a>
+<span
+	class="arrow cat-item-150">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-150" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/premium-support/index.html"
+	title="View all posts in Premium support">Premium support</a>
+<span
+	class="arrow cat-item-151">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-151" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/printer-update/index.html"
+	title="View all posts in Printer update">Printer update</a>
+<span
+	class="arrow cat-item-8">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-8" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/printer-update-history/index.html"
+	title="View all posts in Printer update history">Printer update history</a>
+<span
+	class="arrow cat-item-18">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-18" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/printing-industry-reviews/index.html"
+	title="View all posts in Printing industry reviews">Printing industry reviews</a>
+<span
+	class="arrow cat-item-10">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-10" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/problems-and-outages/index.html"
+	title="View all posts in Problems and outages">Problems and outages</a>
+<span
+	class="arrow cat-item-56">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-56" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/scam-buster/index.html"
+	title="View all posts in Scams">Scams</a>
+<span
+	class="arrow cat-item-12">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-12" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/update-summaries/index.html"
+	title="View all posts in Update summaries">Update summaries</a>
+<span
+	class="arrow cat-item-19">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-19" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/user-update-history/index.html"
+	title="View all posts in User update history">User update history</a>
+<span
+	class="arrow cat-item-20">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-20" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print/index.html"
+	title="View all posts in Web-to-Print">Web-to-Print</a>
+<span
+	class="arrow cat-item-13">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-13" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-features/index.html"
+	title="View all posts in web-to-print features">web-to-print features</a>
+<span
+	class="arrow cat-item-53">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-53" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-help/index.html"
+	title="View all posts in Web-to-print help">Web-to-print help</a>
+<span
+	class="arrow cat-item-145">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-145" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-reviews/index.html"
+	title="View all posts in Web-to-Print reviews">Web-to-Print reviews</a>
+<span
+	class="arrow cat-item-14">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-14" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-software/index.html"
+	title="View all posts in web-to-print software">web-to-print software</a>
+<span
+	class="arrow cat-item-54">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-54" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-storefront/index.html"
+	title="View all posts in Web-to-print storefront">Web-to-print storefront</a>
+<span
+	class="arrow cat-item-148">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-148" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/whaling/index.html"
+	title="View all posts in Whaling">Whaling</a>
+<span
+	class="arrow cat-item-15">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-15" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/index.html"
+	title="View all posts in ZetaPrints features">ZetaPrints features</a>
+<span
+	class="arrow cat-item-16">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-16" style="display:none;">
+</div>
+</div>
+</li>
+      </ul>
+    </div>
+    <div id="leftcol">
+      <div id="news" class="clearfix">
+        <div id="newswrap">
+            <div class="post" id="post-23">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2006/12/29/greetings/index.html" rel="bookmark" title="Permanent Link to Greetings!">Greetings!</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/web-to-print-reviews/index.html" rel="category tag">Web-to-Print reviews</a></small></div>
+              <small>December 29th, 2006 <!-- by admin --></small>
+              <div class="entry">
+    <p class="MsoTitle" style="text-align:left;" align="left"><span style="font-weight:normal;">My name is Randy Boulter, and I have been asked by </span><a href="../../../index.html">Zetaprints</a><span style="font-weight:normal;"> to write a series of reviews of currently available web-to-print products and services.</span><span>  </span>I have a diverse technical background, with a degree in Digital Electronics and 20-plus years experience in various digital technologies.<span>  </span>The list of potential review candidates is quite large, and I hope you will join me over the next few months as I post several reviews each week to this blog.</p>
+<p class="MsoTitle">
+<p class="MsoTitle">&nbsp;</p>
+<p class="MsoNormal">
+<p class="MsoNormal">&nbsp;</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2006/12/29/greetings/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-22">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2006/12/24/christmas-is-almost-here/index.html" rel="bookmark" title="Permanent Link to Christmas is almost here">Christmas is almost here</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/blogroll/index.html" rel="category tag">Blogroll</a></small></div>
+              <small>December 24th, 2006 <!-- by admin --></small>
+              <div class="entry">
+    <p>Hey everyone! It’s good to be in NZ. Everything happens here many hours before it happens again anywhere else.</p>
+<p>I hope the weather is awesome and the dinner is good and the relations are not giving you too much trouble. Whatever your religion is, enjoy the night and the celebration.</p>
+<p>And while you are thinking if you still have some room for that last piece of turkey, watch this &#8230;</p>
+<p>[youtube=&#8221;http://www.youtube.com/watch?v=RW1Jpf6Y0oQ&#8221;]</p>
+<p>Give generously <a href="http://www.oxfamunwrapped.org.nz/shopping.asp">here</a>.</p>
+<p>Have a good Christmas everyone!</p>
+<p>Cheers,<br />
+Max</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2006/12/24/christmas-is-almost-here/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-21">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2006/12/23/sendoutcards-another-scam/index.html" rel="bookmark" title="Permanent Link to SendOutCards &#8211; another scam?">SendOutCards &#8211; another scam?</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/scam-buster/index.html" rel="category tag">Scams</a></small></div>
+              <small>December 23rd, 2006 <!-- by admin --></small>
+              <div class="entry">
+    <p>I came across <strong>www.sendoutcards.com</strong> in an Internet traffic report on online gift and flowers shopping traffic. The site registered as #1 for the duration of a user visit. It clocked 20 minutes on average!!!</p>
+<p>I had never heard about that site and asked a few American mates if they had. None of them did. It was interesting, but I quickly figured out why the visit duration was so long.<br />
+It’s simple. Ever been going in circles? Go to sendoutcards and you will. It took me ~ 10 minutes to figure out that there is no way for me do what they promise – send a real postcard from my desktop. I’ve got an eye for those things, so no surprise it takes 20 mins to figure that out for an unsuspecting surfer.</p>
+<p>In essence, it’s a referral system where you need to pay a membership fee (up to $700), attend a seminar, do some training and then you’ll be able to knock on doors and promote sending postcards online. A strange way to market an online business, I have to admit. Looks very much like a scam.</p>
+<h3>Need an answer? Google it! </h3>
+<p>And so I did. Funny enough, the top PPC advert was saying</p>
+<blockquote><p>Is it a scam?<br />
+Get the truth. Read consumer<br />
+reviews on over 1000 opportunities!<br />
+www.alwaysresearch.com
+</p></blockquote>
+<p>Sounds encouraging, doesn’t it? </p>
+<p>The first page has a lot of junk blog posts, but page 2 was interesting with some insights in the operation of the company. Here are some observations:</p>
+<p>&#8211; it’s a pure pyramid where you make money on referrals, not on producing any value<br />
+&#8211; the distributors build it on the cheap<br />
+&#8211; recommended stock photos site is &#8230; because the photos are $1 to $3 and they admit they look crap<br />
+&#8211; recommended image editing software is something from Microsoft called Picture It.<br />
+&#8211; they have multiple distribution levels like in a pyramid system</p>
+<h3>No, you can’t use SendOutCards</h3>
+<p>A lot of referral sites promise a FREE card. The links always go some dodgy sites or emails @aol.com<br />
+None of the links took me to any ordering page. The farthest I got was a thank you screen after filling in a contact request form. Tough luck. Neither you can send anything directly thru SendOutCards. Go try it. I’m keen to hear from anyone who succeeds.</p>
+<h3>No, it’s not a scam</h3>
+<h3>
+<p>It doesn’t look like a scam, but it’s obviously a very dodgy enterprise. Just doesn’t look right, unless you like to listen to another mad distributor trying to sell you a bunch of $1-worth postcards as the best thing since pealed potato.</p>
+<p>My quick search didn’t reveal any complaints about them, but some people were asking the same question as me and reaching the same conclusion that it’s just a pyramid. There was a suggestion that there is trouble because when a pyramid raises its fees then its only to prolong their unsustainable referral program. Been there, seen that.</p>
+</h3>
+<h3>Technology</h3>
+<p>Not sure what they use, but judging by what I saw in their demos on the website it’s something really basic. You have an image with people. Then you add balloons and people will insert text into those balloons. The site was flash-based and it’s probably what is used for the rest of their web-to-print, if you can call it this way.</p>
+<p>There is one more thing – you can’t have a good design on good paper with high quality print all for $1 with a distributor share in it.</p>
+<p><strong>Hey, are you swapping your good old iPod for that new Microsoft’s “wonder” called Zune?</strong></p>
+<p>Check this excellent idea on how to dispose your iPod safely </p>
+<p>[youtube=&#8221;http://www.youtube.com/watch?v=B8H29jU8Wrs&#8221;]</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2006/12/23/sendoutcards-another-scam/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-20">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2006/12/22/outsourcing-in-printing-industry-and-your-business/index.html" rel="bookmark" title="Permanent Link to Outsourcing in printing industry and your business">Outsourcing in printing industry and your business</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/web-to-print/index.html" rel="category tag">Web-to-Print</a></small></div>
+              <small>December 22nd, 2006 <!-- by admin --></small>
+              <div class="entry">
+    <p>Outsourcing is squeezing many printing businesses out of the market. It is just one the pressure factors a printing business is facing these days. Some people say there are always two sides of the coin and other people say that one’s loss is the other’s find. Let’s look into the obvious.</p>
+<p>Outsourcing is a hot issue in other industries too. ICT was all abuzz a couple of years ago about Americans loosing jobs to their Indian colleagues. Nothing changed, really, but the world got used to it and I think it’s good. I’m proud to employ people from all over the globe. I say <span style="font-style:italic;">thank you</span> to people from all over the globe who gave me jobs in the last few years.</p>
+<h3>Aussies got worried</h3>
+<p><span>So, printing is heading to Asia. China listed printing industry as <a href="http://www.jagat.or.jp/story_memo_view.asp?StoryID=8087">one of its priorities</a>. Rightfully so! Printing is not very commodity-dependent and is not too energy consuming, if compared to other industries. Printers around the world got worried. The doom and gloom reached Australia to the extent that they dispatched a “reconnaissance mission” to find out what kind of threat China is to them.</span>
+<p class="MsoNormal"></p>
+<p><span><a href="http://www.printnet.com.au/">PrintNet</a>, a website for Australian Printing Industries Association <a href="http://www.printnet.com.au/news_items/china_unveiled.html">published a report</a> with the results of the trip. It’s not all gloom and doom any more. They say there are as many opportunities as there are threats.<br />
+</span></p>
+<h3>Outsourcing benefits</h3>
+<p>1. Cost<br />
+2. Cost<br />
+3. Cost</p>
+<h3>Critical outsourcing difficulties</h3>
+<p>1. Four to eight weeks between the sign off and delivery</p>
+<h3>Mitigated outsourcing difficulties</h3>
+<p>Time zone difference, language barrier, cultural barrier, proofing are all easily overcome by agents and print brokers that reside where the customers are. There is not difference to the customer between the local agent and a local printing business.</p>
+<h3>What can be outsourced</h3>
+<p>&#8211; anything that can wait a few weeks, no matter how small the run is.</p>
+<h3>What cannot be outsourced</h3>
+<p>&#8211; products that are needed NOW</p>
+<h3>What can be done about outsourcing</h3>
+<p>There are thing that an individual printer can do and there are things that only industry bodies can do.</p>
+<p>At the individual business level the best thing is to diversify into products that cannot be outsourced effectively. There are just too many of them to list here. Every printer knows what kind of products customers need “yesterday” and what kind of products can wait for weeks in pre-press without the customer calling back.<br />
+The key to success here is turnaround time. If you can print a job on the same day or overnight while still being more or less competitive in the pricing then you are a winner.</p>
+<p>Printing industry bodies can help their members in many ways, but they <a href="http://www.printnet.com.au/news_items/vic_print_tender_postponement.html">can’t stop outsourcing</a>. It’s a waste of time and will only <a href="http://www.printnet.com.au/news_items/vic_print_tender.html">delay the agony</a>:<br />
+&#8211; help printers understand if their particular business is at risk and how soon the risk may materialize<br />
+&#8211; <span style="font-weight:bold;">begin to advocate for less printing</span> …….?????? !!!!!!!!!! Did I say that?</p>
+<h3>Less printing is better</h3>
+<p>This may sound ridiculous, but no, it’s just cynical. The point is to start beating the drums as soon as a big printing contract goes overseas. Take for example some government department issuing a big tender that is likely to be won by a large print-buyer / print-broker and end up in China for the bulk of it. Fine with us, but we’ll ask you a question: <b>Why do you need so much stuff printed? Can you deliver the information in a cheaper and more effective way? Can it be simply published on the website or emailed?</b><br />
+The answer depends on the amount of pressure you put on them. Most likely it’s YES, but some printing is still required. You’ve just scored a win, because the smaller run is more likely to be done locally and ON DEMAND.</p>
+<h2>Greenies are printer’s best friends</h2>
+<p>At least this is true as far as outsourcing goes. A printing lobby advocating for less printing is a very strange and suspicious thing to happen. Leave it to the greenies. There are 101 reasons why printing should not be done at all and they are the best people to advocate for it. It may sound cynical, but it can be the only way for survival of smaller pockets of printing industry when that mighty outsourcing wave comes.</p>
+<h3>Print ON DEMAND / Print NOW</h3>
+<p>Printers that move into ON DEMAND and NOW area are going to survive if they enter the market early and build a good reputation.</p>
+<p><b>Time to act!</b></p>
+<p>And if I didn&#8217;t make you worried with this post I&#8217;ll hit you hard with an overview of electronic paper. Book publishers and sign makers beware! <img src="../../wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>For now, take a break, look on the funny side of it</p>
+<p>[youtube=&#8221;http://www.youtube.com/watch?v=9_uHlXji0do&#8221;]</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2006/12/22/outsourcing-in-printing-industry-and-your-business/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-19">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2006/12/22/the-weight-of-a-postcard/index.html" rel="bookmark" title="Permanent Link to The weight of a postcard">The weight of a postcard</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/web-to-print/index.html" rel="category tag">Web-to-Print</a></small></div>
+              <small>December 22nd, 2006 <!-- by admin --></small>
+              <div class="entry">
+    <p>The world’s gone digital. iPods, PDAs, almighty-cellphones, emails, txt, you name it.<br />
+People are bombarded with electronic messages from all directions. Some are important, some are just unwanted interruption. The value of an electronic message is quite low, unless it’s something really special. The ability of electronic messages to make impact on us is probably lower that it used to be. I don’t have a proof for this, thou.</p>
+<h3>Put yourself in these situations</h3>
+<p><b>Well-meaning spam</b></p>
+<p>You get an email with a message of peace and love from some religious organisation. What do you do? Probably mark it as junk without opening.<br />
+&#8211; it is not personal<br />
+&#8211; you don’t know who sent it<br />
+&#8211; you get too much spam anyway</p>
+<p>You get an email from someone you don’t know with the same message …<br />
+There is a great chance your junk mail filter won’t even show it to you. To you it’s still junk even if it was sent by a real person.</p>
+<p><b>Well meaning junk mail</b></p>
+<p>Back to the real world of printed junk mail or whatever you call a leaflet about peace and love put into you letterbox alongside with all the other sales and specials. I hope you recycle. The chance you read it is tiny.</p>
+<p><b>A postcard</b></p>
+<p>I’d think it’s a different story. You get a postcard. It has a stamp. It says something, it was addressed to your home address, but not personally to you. It’s signed by a person you’ve never heard of. It says “<span style="font-style:italic;">Domestic violence is evil. You don’t own your wife or your kids. They have their rights too. </span>” And so on, and so forth. What am I on about, you may rightfully ask?</p>
+<p>I accidentally stumbled across an article called “<a href="http://thestar.com.my/lifestyle/story.asp?file=/2006/12/10/lifefocus/16256196&sec=lifefocus" target="_blank">What women want&#8230; is freedom from fear</a>” in a Malaysian publication <a href="http://thestar.com.my/" target="_blank">The Star</a>.</p>
+<p>I’ve been to Malaysia and it’s a beautiful country. It’s a very diverse country, a real mix of cultures and races. Not sure it’s as democratic as other countries, but it’s obviously very civilized and women there want to be more and more independent. It can be pricy. Not every looser can stand it. <b>Here comes the violence.</b></p>
+<p>Some women got organized and printed a small run of postcards highlighting the problem. It was a dangerous undertaking for some of them. They had to keep their names secret.</p>
+<p><a href="http://thestar.com.my/archives/2006/12/10/lifefocus/sm_03combi.jpg"><img style="display:block;text-align:center;cursor:pointer;width:400px;margin:0 auto 10px;" src="http://thestar.com.my/archives/2006/12/10/lifefocus/sm_03combi.jpg" alt="" border="0" /></a></p>
+<p>The cards were placed in trendy restaurants and bars as “pick-me cards”. They had some success in drawing attention and the media. Not enough to change anything. It’s expensive and you just can’t print enough without some mighty sponsors.</p>
+<h3>Now, here is an idea</h3>
+<p>They need:<br />
+&#8211; several catchy designs for their cards<br />
+&#8211; a friendly printer<br />
+&#8211; a friendly journo<br />
+&#8211; a friendly <a href="../../../index.html" target="_blank">web-to-print provider</a></p>
+<p>What they do:<br />
+Set up a simple website on the problem. A few pages will do. Place a link to a web-to-print site with the postcards.<br />
+Anyone can come to the site, click on the link, personalize the message on the card or maybe upload a photo of the injuries or something, pay a very small fee (cost of printing the card, presumably + postage), nominate a recipient and click SEND.</p>
+<p>The card gets printed by the printer and posted. Someone finds it in the letter box a few days later. Consider the impact. Not the same as an email, isn’t it? Even more so if it’s the wife-beater himself.</p>
+<p>It may sound crazy, but may well be worth a try. I “know” someone who will provide a <a href="../../../index.html" target="_blank">web-to-print service</a> for this. A risky move, I’d say. Someone can easily mount a DoS on the service or try to hack it. We’ll see.</p>
+<p>Just to finish on a more peaceful and relaxing note … Have a listen. I really enjoyed this clip.</p>
+<p>[youtube=&#8221;http://www.youtube.com/watch?v=SYGHyBsBWqM&#8221;]</p>
+<p>Cheers,<br />
+Max</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2006/12/22/the-weight-of-a-postcard/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-18">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2006/12/22/vistaprint-more-than-the-average-printer/index.html" rel="bookmark" title="Permanent Link to VistaPrint &#8211; more than the average printer">VistaPrint &#8211; more than the average printer</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/scam-buster/index.html" rel="category tag">Scams</a></small></div>
+              <small>December 22nd, 2006 <!-- by admin --></small>
+              <div class="entry">
+    <p>Just a quick note to respond to <a href="https://beta.blogger.com/comment.g?blogID=156569969849741580&postID=4997478022782747557">John&#8217;s comment</a> about VistaPrint.</p>
+<p>There is no free lunch and it has been proved many times over. VistaPrint is just another example, and by the look of it a nasty one.</p>
+<p>First of all, there is a lot of spin about the company itself. I remember the PR they were pushing to investors a few months ago. It was saying something about patents and that they will delay entry of a competitor to the market.<br />
+Don&#8217;t want to be rude, but it&#8217;s just bullshit. I saw those patents. A pure PR exercise. Read what this guy has to say about <a href="http://www.thestreet.com/pf/comment/investing/10287799.html">investing in VistaPrint</a>.</p>
+<p>Another interesting theme about them is &#8230; customer complaints and their unwillingless to resolve them. See <a href="http://engtech.wordpress.com/2006/08/02/is-vistaprint-a-scam/">this post</a> on wordpress.com</p>
+<p>And finally, a few ideas on how they make the money from free business cards.<br />
+&#8211; sell your details as the most accurate to spammers and scammers (they are very accurate indeed and many people will pay premium $$$ to get hold of them)<br />
+&#8211; sign you up with a reward programm you never asked for. You get charged on a regular basis until you notice and begin to dispute it. The rumor has it that people have troubles stopping the charges and very few got their $$$ back.</p>
+<h3>Free business cards did you say?</h3>
+<p><b><br />
+Better Business Bureau ranked <a href="http://www.bosbbb.org/news/complaints_top_10.asp">VistaPrint the 2nd most complained business</a></p>
+<p>Another collection of <a href="http://www.consumeraffairs.com/online/vistaprint.html">complaints against VistaPrint</a>.</p>
+<p></b></p>
+<p>In fact, I&#8217;ve been asking around and found someone local who ordered from them about a year ago. This lady told me the quality was below average and she has no intention dealing with them again.</p>
+<p>Now, <span style='font-size:larger;'>I&#8217;m going to run an experiment.</span>I will order from them using a clean never ever listed anywhere email, a brand new PO Box and so on. <span style='font-size:larger;'>Watch this space!</span></p>
+<p>Now, follow my instructions:<br />
+&#8211; log out<br />
+&#8211; go outside and discovere there is a whole life out there! <img src="../../wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://bp3.blogger.com/_0gW0BxiasBk/RYKSQiRl3eI/AAAAAAAAAAM/_NvDjPyKdnQ/s1600-h/GET_OFF.jpg"><img style="display:block;text-align:center;cursor:hand;margin:0 auto 10px;" src="http://bp3.blogger.com/_0gW0BxiasBk/RYKSQiRl3eI/AAAAAAAAAAM/_NvDjPyKdnQ/s400/GET_OFF.jpg" border="0" /></a></p>
+<p>If you didn&#8217;t listen to me and stayed on, there is a <a href="http://carcino.gen.nz/images/index.php/4745ed0f/515e29d1">really funny website</a>. Enjoy!</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2006/12/22/vistaprint-more-than-the-average-printer/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-17">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2006/12/22/tough-questions-for-a-web-to-print-vendor/index.html" rel="bookmark" title="Permanent Link to Tough questions for a web-to-print vendor">Tough questions for a web-to-print vendor</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/web-to-print/index.html" rel="category tag">Web-to-Print</a></small></div>
+              <small>December 22nd, 2006 <!-- by admin --></small>
+              <div class="entry">
+    <p>So, you are facing a choice of buying a system versus using a service. A tough call!</p>
+<p>Really, everything depends on the requirements. There is no one straightforward answer either way. What is good in one situation may be unacceptable in the other. We won’t get into too much discussion about this part of the decision making.</p>
+<p>What I want to mention in this quick post is specific to web-to-print.</p>
+<h3>First of all, a decent web-to-print is <a href="http://aralbalkan.com/759">computationally intensive</a></h3>
+<p>I’m not talking about some text manipulation using a <a href="http://partners.adobe.com/public/developer/pdf/topic.html">PDF library</a>. I mean <a href="http://zetaprints.com/?page=user-rego;CorporateID=D96E74EA-28F1-4738-846E-1701F16E8827">something quite complex with multiple user images, texts on paths, clipping paths, conditional formatting, various text effects and transformations</a>. Notice, all that is in the variable part of the template!<br />
+A file like this may take a few seconds to open, then every manipulation will take some milliseconds adding to the total time, then generating a JPEG or even worse a PDF file as the final output for printing. We are talking seconds here on a reasonably powerful multi-CPU machine.</p>
+<h3>The second thing to understand is the peak in usage.</h3>
+<p>Take a log file of a B2B system serving customers in a particular time zone. I bet there will be 2 humps and the rest will be almost flat.<br />
+People come to the office, have coffees, go to meetings. The peak in activity is usually between 09:30-11:30 and 13:30-16:00. It’s only 4,5 hrs out of 24!<br />
+80% of your orders will come thru within these 2 short timeslots.</p>
+<p>Server utilisation<br />
+If you think you can serve all your orders using only one server you either going to have very few orders or see people queuing up and some giving up. Too bad. Time to think of the licensing model you signed up to: per site (good), per box (add more CPUs), per CPU (they got you!).<br />
+<a href="http://www.digitalvideoediting.com/articles/viewarticle.jsp?id=83846">Adding more CPUs</a> solves the problem only to some extent. A 4-CPU machine may only be 50% faster because of all the other bottlenecks. Its cost can be up to 3 times more than a dual-CPU machine. Then here come all the other licenses, unless you are lucky to run it on Linux.</p>
+<h3>What to ask your vendor</h3>
+<p>Ignore the sales pitch. Ask the vendor some technical questions and insist on giving you definitive answers and even making them part of the contract.</p>
+<p><b>How long will take to process a template of a certain complexity?</b></p>
+<p><b>How long will take on a template that is even more complex?</b></p>
+<p><b>What are the performance indicators on speed of image manipulation?</b></p>
+<p><b>What is the performance increase if you add 1 more CPU?</b></p>
+<p><b>What does the licensing say about adding more CPUs?</b></p>
+<p><b>What is the utilization curve or how does the performance scale with increase in utilization?</b><br />
+Just to expand on this one …<br />
+Processing 2 requests at the same time may be 4 times slower, processing 3 may be 9 times slower and so on.</p>
+<h3>What if they tell you that it all depends and so on?</h3>
+<p>Ask them for statistics from other sites. <b>They are probably selling you a lemon.</b></p>
+<p>If they finally sold you a lemon and it just won&#8217;t work, there is always a workaround <img src="../../wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>[youtube=&#8221;http://www.youtube.com/watch?v=7Mr6zlc2mm8&#8243;]</p>
+<p>Happy printing!</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2006/12/22/tough-questions-for-a-web-to-print-vendor/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-16">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2006/12/22/how-to-beat-global-online-printers-at-their-own-game-part-ii/index.html" rel="bookmark" title="Permanent Link to How to beat global online printers at their own game &#8211; Part II">How to beat global online printers at their own game &#8211; Part II</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/web-to-print/index.html" rel="category tag">Web-to-Print</a></small></div>
+              <small>December 22nd, 2006 <!-- by admin --></small>
+              <div class="entry">
+    <p>In my yesterday’s posting I listed 3 main weak spots of global online printers:</p>
+<p>&#8211; poor designs<br />
+&#8211; small choice of designs when narrowed down to a category or style<br />
+&#8211; questionable quality (not necessary bad, but it’s not clear what it will look like on paper)</p>
+<p>I’d also add one more &#8211; complicated interface. It doesn’t apply to VistaPrint, thou. Have a look at <a href="http://www.overnightprints.com/main.php?A=designer&step=2&BG=img/nb/f43208ff7cd02f_full.jpg&bgback=img/nb/f43208ff7cd02f_full.jpg">OverNightPrints</a>. I find them very complicated.<br />
+A completely opposite opinion was expressed by a friend of mine who does a lot of orders with OverNightPrints and thinks that <a href="http://zetaprints.com/?page=user-rego;CorporateID=FF25708E-6E2C-4CA4-944F-CE6E74749F6D">ZetaPrint’s web-to-print</a> interface is too simple.</p>
+<p>Enough of yep-yep-yep, bad-bad-bad.<br />
+A bit on the positive side for all the other small printers…</p>
+<p>Good designs, great choice</p>
+<p>It’s unrealistic for a small printing shop to produce thousands of great designs for their customers to choose from. It is plain stupid to tell a customer to go find a designer and get a design done. Very few will ever bother. It is too expensive to provide design service onsite for small one-off runs.</p>
+<p>How about a single design central with web-to-print?<br />
+Something with thousands of templates produced by different designers for different occasions. You can choose with the customer right then and there.  The rest is easy. The customer would type in details, pay a few dollars online and download a press-ready PDF file. Maybe 15 minutes? OK, make it 20 to have a proper look. The customization shouldn’t take more than 3 minutes. All done while you are busy doing other stuff around the shop.</p>
+<p>Sounds too easy and unrealistic. Well, there is no service like this at the moment. Watch this space and pssst … don’t tell anyone. We are busy here making it all happen.</p>
+<h3>Quality stock, quality print, quality service</h3>
+<p>You obviously need to excel in what you do, unless you try to compete on price and loose it in the end anyway.<br />
+There is a clear advantage in being local. Your customers can touch and feel that stock. They don’t need to learn the difference between 200gsm gloss and 300gsm satin. It’s so much better to touch it and just point your finger at “<span style="font-style:italic;">This one, please.</span>”.<br />
+Of cause the print quality must be good. It must be really good or they won’t come back.</p>
+<h3>Price</h3>
+<p>Well, it’s hard to compete with the enterprises of scale on price alone. I’d say that 10% to 20% price difference on a small business cards order won’t make any difference to the consumer. The effect is more psychological here – “<span style="font-style:italic;">VistaPrint is half your price!</span>” and the rest doesn’t matter.</p>
+<p>I’d expect 30% difference to be in the range when you can say something about print quality and stock. Anything more than that 30% difference and you need to be a very good salesman to convince the customer.</p>
+<h3>Marketing</h3>
+<p>Marketing online to a local audience using web-to-print is much cheaper than doing it country-wide or globally. The cost per click would be something around $1-$3. Your ad may say something like “<span style="font-weight:bold;">Order online with your local printer. Pickup or overnight delivery.</span>”. That would be a better proposition than from some obscure printer without any local contact details.</p>
+<p>Thinking of a small town situation (just like the one I’m in) it would make perfect sense to stick a large poster in your front window</p>
+<p><b>100 business cards for $xx while you wait</b><br />
+<b>Choose from 5000 designs</b><br />
+<b>www.your-local-printer.com</b></p>
+<p>A footpath sign and maybe a banner outside won’t cost you much either.<br />
+Don’t forget that if you do great funky business cards for one builder then all his mates will come to you too. The word-of-mouth advertising is probably your most powerful weapon here.</p>
+<h3>Corporates</h3>
+<p>And the usual bread and butter of a local printer &#8211; small businesses around you. Set them up online. It’s not gonna <a href="../../../index-pricing.html">cost </a>you anything. A small leaflet drop around the CBD with the URL of your website is all what’s needed, assuming you can take orders online.</p>
+<h3>Conclusion</h3>
+<p>There is no silver bullet and there is no one simple answer. A design portal with web-to-print can be a powerful tool in your hands. Then it comes down to the quality of your service and how effectively you market it.</p>
+<p>And as usual, on the lighter side of things &#8230;</p>
+<p><img src='http://imgs.xkcd.com/comics/marketing_interview.png' /></p>
+<p>Check <a href="http://xkcd.com">xkcd.com</a> for more <img src="../../wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2006/12/22/how-to-beat-global-online-printers-at-their-own-game-part-ii/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-15">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2006/12/22/how-to-beat-global-online-printers-at-their-own-game-part-i/index.html" rel="bookmark" title="Permanent Link to How to beat global online printers at their own game &#8211; Part I">How to beat global online printers at their own game &#8211; Part I</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/web-to-print/index.html" rel="category tag">Web-to-Print</a></small></div>
+              <small>December 22nd, 2006 <!-- by admin --></small>
+              <div class="entry">
+    <p>You probably all heard about <a href="http://www.vistaprint.com">VistaPrint</a>. You must have, if you ever <a href="http://www.google.co.nz/search?hl=en&q=business+cards&btnG=Search&meta=">searched for some kind of printing</a> in a search engine. VistaPrint usually comes on top. If you are lucky enough to be from the Antipodes (that’s us, Kiwis and Aussies) there is a chance you heard about <a href="http://www.theonlineprinter.com.au/">TheOnlinePrinter</a>. These two pay anything up to $14 per click in Google to be at the top of the search, but their prices are hard to beat.</p>
+<p>They know how to do printing business online. VistaPrint is <a href="http://quote.morningstar.com/Quote/Quote.aspx?ticker=VPRT">listed in Nasdaq</a> and seems to be doing well. The OnlinePrinter is a more modest operation, but looking at the resent revamp of their website it cost them a few dollars. Money well spent.</p>
+<p>So, they have the money, they are at the top of Google Ads, their prices are unbeatable and they take orders online. This is just the right mix to attract a small business for something like business cards or a small promotional item. Do small local printers stand a chance there?<br />
+Not the way they operate at the moment, but not all is lost.</p>
+<h2>First of all, let’s look at the weak spots. </h2>
+<h3>VistaPrint weaknesses</h3>
+<p><b>Awful designs</b><br />
+They must be paying their designers peanuts coz they obviously got monkeys. All designs look the same with very small variations. They are quite bleak and unattractive.</p>
+<p><span style="font-weight:bold;">Limited number of designs</span><br />
+There are 28 business card categories totalling approximately at 1,400 designs. Sounds like a lot, but in fact it’s not. I would have real troubles choosing anything decent there.</p>
+<p><span style="font-weight:bold;">Questionable quality</span><br />
+As a consumer, how do I know what it’s going to look and feel like on paper?<br />
+How would I know the difference between 200gsm and 350gsm?<br />
+Most people won’t even know what that means!<br />
+The site looks cheap, the designs look cheap, the price is low … what shall one think? The card will look cheap as well.<br />
+This may not be necessary true because I heard they do really good quality on good stock. Never seen that myself, thou.<br />
+Their strong point here is giving away free business cards. It’s an awesome word-of-mouth advertising aproach.</p>
+<p><span style="font-weight:bold;">So, we got VistaPrint on 3 points.</span></p>
+<h3>The OnlinePrinter</h3>
+<p>This website has a lot of promises, but is similar to VistaPrint in style. They offer approximately 120 business card designs that looked even worse than Vista’s. Then I had to use Flash plug-in to customize it like in a desktop publishing application. <span style="font-style:italic;">Hang on a minute, mate …. I’m a plumber. What do you want from me? If I could do designs I wouldn’t be a plumber. I don’t want and cannot customize and align and do what you ask me to do. Just can’t be bothered!</span></p>
+<p><span style="font-weight:bold;">So, we got The OnlinePrinter on a few points as well. </span></p>
+<p>Now it’s time to exploit these 3 weaknesses to your own advantage. More on this in Part II.</p>
+<p>And while you are waiting there is a little bit of screen printing. Not for faint-hearted! <img src="../../wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>[youtube=&#8221;http://www.youtube.com/watch?v=j4GHON9KHZU&#8221;]</p>
+<p>I like the application of AmericanExpress there :-))</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2006/12/22/how-to-beat-global-online-printers-at-their-own-game-part-i/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-14">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2006/12/22/my-new-hobby-%E2%80%93-junk-mail-collection/index.html" rel="bookmark" title="Permanent Link to My new hobby – junk mail collection">My new hobby – junk mail collection</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/junk-mail-collection/index.html" rel="category tag">Junk mail collection</a></small></div>
+              <small>December 22nd, 2006 <!-- by admin --></small>
+              <div class="entry">
+    <p>Hey folks, how’s your letter box coping with the tons of pre-Christmas junk?<br />
+Mine is splitting sides.</p>
+<p>I watched a steady stream of junk delivery boys and girls stopping at my letterbox labelled “No junk mail”. Never mind. At least I recycle.</p>
+<p>I weighed it at the end of the day &#8211; about 300grams.  A quick search on The Net returned a <a href="http://www.woodconsumption.org/products/paper.pdf">document</a> by a Resource Conservation Alliance. Here are some facts:</p>
+<p>Paper produced worldwide: 300 million tons or 40% of logged trees (legally logged only?)<br />
+The US consumes 4 million tons of copy paper, 2 million books, 350 million magazines and 25 billion newspapers annually.<br />
+Junk mail: 90 billion pieces per ann in the US alone.</p>
+<p>Where does it all end up?<br />
+To the tip &#8211; 40% of all solid waste is paper (for US municipal landfills).</p>
+<p>These numbers are not supported by any research in the paper I obtained, but what I believe is there are too many trees being logged. So, my new hobby is …</p>
+<h3>I will collect every piece of junk mail put into my letterbox in 2007</h3>
+<p>Not sure what I will do with it and what my … will say about the endless boxes with fire hazard in the garage.</p>
+<p>On the lighter side of things, I discovered that I’m a possession of 2 cute envelope openers if you believe what you see here …</p>
+<p>[youtube=&#8221;http://www.youtube.com/watch?v=QmroaYVD_so&#8221;]</p>
+<p>Enjoy the rest of your weekend. Mine is over. 12 past midnight, Monday. <img src="../../wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2006/12/22/my-new-hobby-%25e2%2580%2593-junk-mail-collection/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="navigation">
+            <div class="alignleft"><a href="../34/index.html" >&laquo; Older Entries</a></div>
+            <div class="alignright"><a href="../32/index.html" >Newer Entries &raquo;</a></div>
+          </div>
+          <br /><br /><br /><br />
+        </div>
+      </div>
+      <hr />
+    </div>
+  </div>
+
+<div id="footer-container" class="container">
+  <div id="footer">
+    <div id="bottomnav">
+      <!-- a id="pagecounter" href="http://whos.amung.us/show/9bm3msts"><img src="http://whos.amung.us/widget/9bm3msts" alt="hit counter" border="0" height="29" width="81" /></a -->
+      <ul>
+        <li class="first"><a href="../../../about-us/index.html" title="About ZetaPrints">About ZetaPrints</a></li>
+        <li><a href="../../../about-us/contact-us/index.html" title="Contact us">Contact us</a></li>
+        <li><a href="http://zetaprints.com/" title="Log in">Log in</a></li>
+        <li><a href="../../../web-to-print-legal/privacy-policy/index.html" title="Privacy policy">Privacy</a></li>
+        <li><a href="../../../sitemap/index.html" title="Sitemap">Sitemap</a></li>
+        <li><a href="../../../about-us/summary-of-terms-and-conditions/index.html" title="Terms and conditions">Terms of Service</a></li>
+        <li><a href="../../index.html" title="Web-to-print Blog">Web-to-print Blog</a></li>
+        <li><a href="../../../help/index.html" title="Web-to-print Help">Web-to-print Help</a></li>
+      </ul>
+    </div>
+    <p><a href="../../index.html" title="Web-to-print Blog"><img class="footer-icon" alt="Blog" src="../../wp-content/themes/water-zp-3/images/blog.png"/></a>&nbsp;
+<a href="http://twitter.com/zetaprints" title="Follow us on twitter"><img class="footer-icon" alt="Twitter" src="../../wp-content/themes/water-zp-3/images/twitter_16.png"/></a>&nbsp;
+&copy; 2006-2012 ZetaPrints Ltd. All rights reserved. Powered by <a href="http://wordpress.org">WordPress</a>.</p>
+    <a href="#header" title="Back to Top" class="top-btn">Back to Top</a>
+  </div>
+</div>
+
+<script type="text/javascript">
+    (function(){
+        var ga = document.createElement('script');
+        ga.type="text/javascript";
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1132851-1']);
+    _gaq.push(['_trackPageview']);
+</script>
+</body>
+</html>
+
+<!-- Localized -->

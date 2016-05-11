@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>anonymous user &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/anonymous-user/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Anonymous users</title>
+		<link>http://www.zetaprints.com/help/anonymous-users/</link>
+		<pubDate>Mon, 20 Oct 2008 21:21:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[anonymous user]]></category>
+		<category><![CDATA[Order management]]></category>
+
+		<guid isPermaLink="false">/help/?p=1772</guid>
+		<description><![CDATA[Access to public web-to-print catalogs does not require registration. Our web-to-print software encourages users to register, but they may choose not to. You can register them after they placed an order if they gave you enough details in the address/delivery fields. Normally users are identified by their email address. Anonymous users are identified by a [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

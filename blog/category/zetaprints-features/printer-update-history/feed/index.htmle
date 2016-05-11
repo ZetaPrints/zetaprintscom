@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Printer update history &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/category/zetaprints-features/printer-update-history/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Are you running WordPress?</title>
+		<link>http://www.zetaprints.com/blog/2009/07/14/are-you-running-wordpress/</link>
+		<comments>http://www.zetaprints.com/blog/2009/07/14/are-you-running-wordpress/#respond</comments>
+		<pubDate>Tue, 14 Jul 2009 10:27:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Printer update history]]></category>
+		<category><![CDATA[web-to-print features]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=451</guid>
+		<description><![CDATA[How to get more traffic We&#8217;ve just released a WordPress plugin for an image generator. The plugin can connect to your catalogs and users will be able to email your designs as e-cards. It is not possible to email directly from Flash. The server-side part of the plugin handles all the configuration and emailing. There [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>How to get more traffic</h2>
+<p>We&#8217;ve just released a <a title="E-cards plugin" href="../../../../../help/tools/ecards-plugin-for-wordpress/index.html">WordPress plugin for an image generator</a>.</p>
+<p>The plugin can connect to your catalogs and users will be able to email your designs as e-cards.</p>
+<p>It is not possible to email directly from Flash. The server-side part of the plugin handles all the configuration and emailing.</p>
+<p>There are a couple of minor glitches, still, but overall it is usable.</p>
+<p>This service is free. You are not paying anything. There is a link on every design page in Flash to jump to the ordering page.</p>
+<p>Make a few simple templates your audience may want to use and let them have a bit of fun before they are ready to order.  Ideally, you need to approach other blogs and ask them to embed this to get more traffic to your site.</p>
+<h2>Magento</h2>
+<p>We&#8217;ve been flat out working on Magento web-to-print integration. It is now in a stable beta stage. You can grab it directly from <a title="web-to-print store" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">Magento website</a>. Contact <a title="Contact ZetaPrints" href="mailto:support@zetaprints.com" target="_self">support@zetaprints.com</a> if you run into any glitches. We are giving full installation assistance at this stage. This is an<a title="open source web-to-print" href="http://code.google.com/p/magento-w2p/"> open source project</a>, so you can always get your own developers to turn it into a web-to-print store you want.</p>
+<h2>Upcoming features</h2>
+<p>Three main streams of work:</p>
+<ul>
+<li>Improve Text.1, Text.2 <a title="Web-to-print text fields" href="../../../../../help/text-fields-naming-overview/index.html">web-to-print ext field linking</a> and Text~ fields with per-char formatting</li>
+<li>Add custom blocks of text to let you write your own emails and insert some user or order details.</li>
+<li>Improve search, including searching by size and download file type.</li>
+</ul>
+<p>A re-designed <a title="PayPal for web-to-print" href="http://code.google.com/p/paypal-pro-wordpress-gateway/">PayPal Pro plugin for WordPress</a> is coming out soon too. It should reduce number of declined transactions as PayPal may get fussy with it&#8217;s hosted payments page.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/07/14/are-you-running-wordpress/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Editing saved orders and more</title>
+		<link>http://www.zetaprints.com/blog/2009/05/12/editing-saved-orders-and-more/</link>
+		<comments>http://www.zetaprints.com/blog/2009/05/12/editing-saved-orders-and-more/#respond</comments>
+		<pubDate>Tue, 12 May 2009 13:56:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Printer update history]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=413</guid>
+		<description><![CDATA[We fixed an old bug that prevented printers completing saved web-to-print orders on behalf of customers. As a bonus, there is a choice of checking out or updating the preview from a a saved web-to-print order. Users don&#8217;t need to update a preview to check out a saved order. There is a risk the preview [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We fixed an old bug that prevented printers completing saved web-to-print orders on behalf of customers.</p>
+<p>As a bonus, there is a choice of checking out or updating the preview from a a saved web-to-print order. Users don&#8217;t need to update a preview to check out a saved order. There is a risk the preview and output files can be out of sync if the template files have changed since the order was saved. Keep an eye out for a day or two. We are fixing up this one as well.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/05/12/editing-saved-orders-and-more/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>JavaScript and Cookies blocking</title>
+		<link>http://www.zetaprints.com/blog/2009/05/01/javascript-and-cookies-blocking/</link>
+		<comments>http://www.zetaprints.com/blog/2009/05/01/javascript-and-cookies-blocking/#respond</comments>
+		<pubDate>Fri, 01 May 2009 06:40:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Printer update history]]></category>
+		<category><![CDATA[web-to-print features]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=399</guid>
+		<description><![CDATA[There is a small number of web-to-print users with very tight security settings in their browser. Some of them made it intentionally tight, some are using a computer configured by someone else. The first category enable/disable cookies and JavaScript as needed. The second have no idea. We added a special notice for them and help [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There is a small number of web-to-print users with very tight security settings in their browser. Some of them made it intentionally tight, some are using a computer configured by someone else. The first category enable/disable cookies and JavaScript as needed. The second have no idea.</p>
+<p>We added a special notice for them and help pages on how to resolve it. Unfortunately, only so of them can do it themselves.</p>
+<p><a href="http://ec2-67-202-43-115.compute-1.amazonaws.com/blog/wp-content/uploads/2009/05/web-to-print-cookies.png"><img class="size-full wp-image-400" title="web-to-print-cookies" src="http://ec2-67-202-43-115.compute-1.amazonaws.com/blog/wp-content/uploads/2009/05/web-to-print-cookies.png" alt="web-to-print cookies" width="495" height="334" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2009/05/web-to-print-cookies-300x202.png 300w, http://www.zetaprints.com/blog/wp-content/uploads/2009/05/web-to-print-cookies.png 495w" sizes="(max-width: 495px) 100vw, 495px" /></a></p>
+<p>Please, synchronize your <a title="web-to-print help" href="../../../../../help/custom-help-pages/index.html">custom web-to-print help</a> pages to make sure the links to instructions are not broken. The easiest way to do it is to copy our content as is.</p>
+<h2>How to test the messages and links</h2>
+<p>Disable cookies and JavaScript for for your domain (temporarily!) and click on Home or any other link and you should see the warnings at the top &#8211; left corner.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/05/01/javascript-and-cookies-blocking/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Web-to-print interface changes tomorrow</title>
+		<link>http://www.zetaprints.com/blog/2009/04/13/web-to-print-interface-changes-tomorrow/</link>
+		<comments>http://www.zetaprints.com/blog/2009/04/13/web-to-print-interface-changes-tomorrow/#respond</comments>
+		<pubDate>Mon, 13 Apr 2009 13:23:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Printer update history]]></category>
+		<category><![CDATA[web-to-print features]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=357</guid>
+		<description><![CDATA[We&#8217;ve been stuck with some new features for the last 2 weeks. Things piled up and the update got much bigger than we expected. Usually, the updates are small to minimize the impact. This time it&#8217;s going to be noticeable. The roll-out will start on Tue evening, Australia EST time zone or GMT +10. Some [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We&#8217;ve been stuck with some new features for the last 2 weeks. Things piled up and the update got much bigger than we expected. Usually, the updates are small to minimize the impact. This time it&#8217;s going to be noticeable.</p>
+<p>The roll-out will start on Tue evening, Australia EST time zone or GMT +10. Some downtime is possible if we need to restart the cluster.</p>
+<h2>Web-to-print preview page changes</h2>
+<ul>
+<li>Tabbed interface to bring description, prices, options, checkout, links, etc into a single manageable group.</li>
+<li>Image fields get tabs as well to allow image uploading, stock photos, composite orders (use previous orders as images).</li>
+<li>A color picker (RGB and CMYK) for image fields.</li>
+<li>Checkout form has moved to the top.</li>
+</ul>
+<h2>Image management page</h2>
+<p>Additional field properties to allow a combination of user images, stock photos, color picker, etc.</p>
+<h2>Order list</h2>
+<p>An interactive calendar to pick dates instead of entering in the search form.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/04/13/web-to-print-interface-changes-tomorrow/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Image library upgrade</title>
+		<link>http://www.zetaprints.com/blog/2009/02/25/image-library-upgrade/</link>
+		<comments>http://www.zetaprints.com/blog/2009/02/25/image-library-upgrade/#respond</comments>
+		<pubDate>Wed, 25 Feb 2009 22:50:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Printer update history]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=334</guid>
+		<description><![CDATA[Image mangement has just become wee bit easier &#8211; we upgraded the image library and template images sections. Images can be organised into folders, copied and edited right on the site. Check it out. Detailed explanations posted on web-to-print help site.]]></description>
+				<content:encoded><![CDATA[<p>Image mangement has just become wee bit easier &#8211; we upgraded the image library and template images sections.</p>
+<p>Images can be organised into folders, copied and edited right on the site. Check it out.</p>
+<p>Detailed explanations posted on <a title="web to print help" href="../../../../../help/image-library/index.html">web-to-print help</a> site.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/02/25/image-library-upgrade/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>X4 &#038; missing fonts</title>
+		<link>http://www.zetaprints.com/blog/2009/02/14/x4-missing-fonts/</link>
+		<comments>http://www.zetaprints.com/blog/2009/02/14/x4-missing-fonts/#respond</comments>
+		<pubDate>Sat, 14 Feb 2009 06:11:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Printer update history]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=326</guid>
+		<description><![CDATA[You can try to upload X4 files, but gently-gently. We are still testing and may roll-back any time. Looks like we are having problems with some fonts. They disappear at random. It&#8217;s being looked into right now. Tell us if you spot any other problems.]]></description>
+				<content:encoded><![CDATA[<p>You can try to upload X4 files, but gently-gently. We are still testing and may roll-back any time.</p>
+<p>Looks like we are having problems with some fonts. They disappear at random. It&#8217;s being looked into right now.</p>
+<p>Tell us if you spot any other problems.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/02/14/x4-missing-fonts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Time zones</title>
+		<link>http://www.zetaprints.com/blog/2009/01/10/time-zones/</link>
+		<comments>http://www.zetaprints.com/blog/2009/01/10/time-zones/#respond</comments>
+		<pubDate>Sun, 11 Jan 2009 03:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Printer update history]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[time zone]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=293</guid>
+		<description><![CDATA[Please, go to your details page and choose a time zone for your web-to-print portal. All orders used to be in UTC +12. Now they are in UTC time, unless you set your time zone. Navigate to DETAILS page. The drop down list of zones is in the second group of controls. Check if you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Please, go to your details page and choose a time zone for your web-to-print portal.</p>
+<p>All orders used to be in UTC +12. Now they are in UTC time, unless you set your time zone.</p>
+<p>Navigate to DETAILS page. The drop down list of zones is in the second group of controls. Check if you need daytime saving. Press SAVE button. Check if the time was set corectly when it displays your details summary. Go back and adjust, if needed.</p>
+<p>We set time zones for some web to print portals where we knew the time zone for sure. Please, double-check anyway.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/01/10/time-zones/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Out of the pit</title>
+		<link>http://www.zetaprints.com/blog/2009/01/05/out-of-the-pit/</link>
+		<comments>http://www.zetaprints.com/blog/2009/01/05/out-of-the-pit/#respond</comments>
+		<pubDate>Mon, 05 Jan 2009 20:43:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Printer update history]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=291</guid>
+		<description><![CDATA[We&#8217;ve been stuck with an infrastructure upgrade to our web-to-print system for months now, but there is a bit of light at the end of this long dark tunnel. Bug fixes and minor updates A few old (and new) bugs were fixed in the last few days. Error pages were all messed up, permalinks didn&#8217;t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We&#8217;ve been stuck with an infrastructure upgrade to our <a title="web to print system " href="http://zetaprints.com">web-to-print system</a> for months now, but there is a bit of light at the end of this long dark tunnel.</p>
+<h2>Bug fixes and minor updates</h2>
+<p>A few old (and new) bugs were fixed in the last few days. Error pages were all messed up, permalinks didn&#8217;t always show correctly, non-Latin letters were getting into user-friendly URLs, etc. About 20 bugs were fixed today alone.</p>
+<p>Several areas got minor improvements that you may or may not notice.</p>
+<p>The most notable update is the change to how optional web-to-print template features are handled.</p>
+<p>They used to be all optional and users kept missing them. Now users have to make a choice from the list, unless the list contains a blank option (nothing). The value is not cached in the DB, meaning that they have to make a choice for every order.</p>
+<h2>Infrastructure preview</h2>
+<p>Our architecture is based on a small cluster of computers. We had a reasonably reliable application cluster for all the image and vector processing, but the DB and web servers were not flexible enough to grow beyond a certain size. We reached that size back in September 2008. Now the main problems are behind and new web and file servers can be added as needed. It is as easy as slipping a new box in the rack. Still quite a few things to iron out before checking this off as &#8220;done&#8221;.</p>
+<h2>Performance and missing files</h2>
+<p>We keep &#8220;loosing&#8221; files from time to time. They may disappear for a few seconds, a few minutes or a few hours. Approximately 10 files were affected today, which is a fraction of a fraction of a percent of daily volumes, but still, it is not acceptable. We are working on this elusive problem and your help will be greatly appreciated &#8211; just tell us that something&#8217;s missing as soon as possible.</p>
+<p>Peak hour performance can be slightly degraded. We run on 1/2 the power of the database. It was OK for low traffic over holidays, but it started picking up today. We need few more days before the DB servers are back into full swing.</p>
+<p>Thanx everyone for your patience with us!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/01/05/out-of-the-pit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Planned outage</title>
+		<link>http://www.zetaprints.com/blog/2008/12/02/planned-outage/</link>
+		<comments>http://www.zetaprints.com/blog/2008/12/02/planned-outage/#respond</comments>
+		<pubDate>Wed, 03 Dec 2008 04:21:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Printer update history]]></category>
+		<category><![CDATA[Problems and outages]]></category>
+		<category><![CDATA[planned outage]]></category>
+		<category><![CDATA[power]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=276</guid>
+		<description><![CDATA[Update: We had a word from the ISP the outage was canceled. ZetaPrints system will be switched off for up to 2 hours on Sat/Sun for maintenance. Our ISP will be changing the power wiring in the rack and there is no way we can have the servers running at the same time. Expected time [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Update:</strong> We had a word from the ISP the outage was canceled.</p>
+<p><span style="text-decoration: line-through;">ZetaPrints system will be switched off for up to 2 hours on Sat/Sun for maintenance.</span></p>
+<p><span style="text-decoration: line-through;">Our ISP will be changing the power wiring in the rack and there is no way we can have the servers running at the same time.</span></p>
+<h3><span style="text-decoration: line-through;">Expected time</span></h3>
+<p><span style="text-decoration: line-through;">NZ/AU: early Sunday</span></p>
+<p><span style="text-decoration: line-through;">Europe: Saturday afternoon</span></p>
+<p><span style="text-decoration: line-through;">N/America: Saturday morning</span></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2008/12/02/planned-outage/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Public access + registration</title>
+		<link>http://www.zetaprints.com/blog/2008/11/24/public-access-registration/</link>
+		<comments>http://www.zetaprints.com/blog/2008/11/24/public-access-registration/#respond</comments>
+		<pubDate>Tue, 25 Nov 2008 01:53:13 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Printer update history]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=264</guid>
+		<description><![CDATA[Choosing public access + user registration for a web to print catalog will force users to register before placing an order, but browsing catalogs and updating previews will still be open to anyone. More on this in a help article. Remember, that registration is an unnecessary step from the user point of view. Giving them [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Choosing public access + user registration for a web to print catalog will force users to register before placing an order, but browsing catalogs and updating previews will still be open to anyone. More on this in a <a title="web-to-print access control" href="../../../../../help/public-access-with-registration/index.html">help article</a>.</p>
+<p>Remember, that registration is an unnecessary step from the user point of view. Giving them a form with a dozen of fields is bad enough. Asking them to confirm their email can be the straw that burns the fuse and they leave.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2008/11/24/public-access-registration/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

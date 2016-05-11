@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>eps &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/tag/eps/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>EPS support extended</title>
+		<link>http://www.zetaprints.com/blog/2009/01/26/eps-support-extended/</link>
+		<comments>http://www.zetaprints.com/blog/2009/01/26/eps-support-extended/#respond</comments>
+		<pubDate>Mon, 26 Jan 2009 12:10:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+		<category><![CDATA[eps]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=307</guid>
+		<description><![CDATA[We are making progress on EPS support. Our web-to-print can understand most of level 3 files, except for those created in Acrobat 7 or later. We also fixed the bug that stopped processing of most level 2 files. Please, try again. We log all failed EPS uploads and analyze the files.]]></description>
+				<content:encoded><![CDATA[<p>We are making progress on EPS support. Our web-to-print can understand most of level 3 files, except for those created in Acrobat 7 or later.</p>
+<p>We also fixed the bug that stopped processing of most level 2 files.</p>
+<p>Please, try again. We log all failed EPS uploads and analyze the files.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/01/26/eps-support-extended/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

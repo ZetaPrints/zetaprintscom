@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Preview &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/tag/preview/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Theme switcher extension</title>
+		<link>http://www.zetaprints.com/magentohelp/theme-switcher-extension/</link>
+		<pubDate>Tue, 10 May 2011 12:20:03 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Web-to-print themes]]></category>
+		<category><![CDATA[Preview]]></category>
+		<category><![CDATA[Skins]]></category>
+		<category><![CDATA[Themes]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12769</guid>
+		<description><![CDATA[This extension is no longer supported. A fun feature for your web-to-print store to let customers choose from a variety of front-end themes. Our free Theme switcher extension for Magento adds a feature to the front-end of your web-to-print store enabling users to switch between different themes. This could prove quite useful if you like [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h4><span style="color: #ff0000;">This extension is no longer supported.</span></h4>
+<p>A fun feature for your web-to-print store to let customers choose from a variety of front-end themes.<span id="more-12769"></span></p>
+<div style="display: table;">
+<p><img class="alignnone size-full wp-image-12788" style="margin-top: 15px; float: right;" title="Magento theme switcher front-end block" src="../../../wp-content/uploads/2011/05/magento_theme_switcher_front-end.png" alt="" width="424" height="469" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/05/magento_theme_switcher_front-end-271x300.png 271w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/05/magento_theme_switcher_front-end.png 424w" sizes="(max-width: 424px) 100vw, 424px" /></p>
+<div style="position: relative; top: 15px; display: inline;">
+<p>Our free <a title="Theme switcher extension for Magento" href="https://www.magentocommerce.com/magento-connect/ZetaPrints/extension/6454/zetaprints_theme" target="_self">Theme switcher</a> extension for Magento adds a feature to the front-end of your web-to-print store enabling users to switch between different themes.</p>
+<p>This could prove quite useful if you like your customers to be able to choose their favorite look of your web-to-print shop themselves.</p>
+</div>
+</div>
+<h2>Theme switcher installation</h2>
+<p>Installation process is identical to all other extension installations.</p>
+<p><img class="alignnone size-full wp-image-12541" title="Magento connect manager" src="../../../wp-content/uploads/2011/04/magento_connect_manager.png" alt="" width="572" height="231" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/04/magento_connect_manager-300x121.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/04/magento_connect_manager.png 572w" sizes="(max-width: 572px) 100vw, 572px" /></p>
+<p>Open Magento Connect Manager (<em>System/Configuration/Magento Connect Manager</em>), paste the <a title="Theme switcher extension for Magento" href="https://www.magentocommerce.com/magento-connect/ZetaPrints/extension/6454/zetaprints_theme" target="_self">extension key</a> and hit <strong>Install</strong>.</p>
+<h2>Configuration</h2>
+<p>The theme selection block becomes visible on the front end only after configuration. Navigate to <em>System &gt; Configuration &gt; Design &gt; Themes Switcher</em> and highlight the themes you want to appear in the switcher list.</p>
+<p><img class="alignnone size-full wp-image-12783" title="Magento theme switcher configuration" src="../../../wp-content/uploads/2011/05/magento_theme_switcher_configuration.png" alt="" width="569" height="502" /></p>
+<p><strong>Note.</strong> Hold <em>Ctrl</em> to select multiple themes.</p>
+<p>The default theme switcher position is top of the right side bar but this location can be changed through the <strong>Choose switcher block</strong> drop-down menu.</p>
+<p>If you want to apply special custom styling, use the default <strong>zp-switcher</strong> CSS class or assign a special class name using <strong>Switcher css class name</strong> field.</p>
+<p>Selecting a theme for the switcher will enable it for all design options (<em>locale, layout, templates, skin</em>) but will not change whatever is set as default <a title="Magento custom theme integration" href="../../../custom-theme-integration/" target="_self">theme</a>. This is useful when you want to use a default theme with some special features like <a title="Web-to-print and dynamic imaging" href="../../../../" target="_self">web-to-print or dynamic imaging</a>.</p>
+<h2>Web-to-print compatibility</h2>
+<p>The extension allows preview of any installed theme in any package, except CSS-only themes. It is fully compatible with our <a title="web-to-print and dynamic imaging" href="../../../magento-web-to-print-overview/">web-to-print extension</a>.</p>
+<h2>Links</h2>
+<ul>
+<li><a title="Theme switcher in our web-to-print demo store" href="../../../../magento/" target="_self">Demo</a></li>
+<li><a title="Theme switcher extension source code" href="http://code.google.com/p/magento-w2p/source/browse/#svn%2Fbranches%2FTheme_Switcher" target="_self">Source code</a></li>
+<li><a title="Theme switcher extension issue list" href="http://code.google.com/p/magento-w2p/issues/list" target="_self">Issues</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Product presentation</title>
+		<link>http://www.zetaprints.com/magentohelp/magento-product-presentation/</link>
+		<pubDate>Thu, 13 May 2010 13:04:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-print administration]]></category>
+		<category><![CDATA[base image]]></category>
+		<category><![CDATA[Custom image]]></category>
+		<category><![CDATA[Preview]]></category>
+
+		<guid isPermaLink="false">/help/?p=9899</guid>
+		<description><![CDATA[The products in your web-to-print and dynamic imaging Magento store can be presented in different ways. Custom preview images By default, the initial image of the product is the template&#8217;s preview image, or in multi-page templates, the first page of the template. Magento has a feature called &#8220;Base image&#8221; which is a custom image for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The products in your web-to-print and dynamic imaging Magento <a title="Magento web-to-print demo store" href="../../../../magento/" target="_self">store</a> can be presented in different ways.<span id="more-9899"></span></p>
+<h2>Custom preview images</h2>
+<p>By default, the initial image of the product is the template&#8217;s preview image, or in <a title="Web-to-print multi-page templates" href="../../../../help/multi-page-templates/" target="_self">multi-page templates</a>, the first page of the template. Magento has a feature called &#8220;Base image&#8221; which is a custom image for products that shows within   a zoom control on the product page.</p>
+<div style="display: table;"><img style="margin: 5px; float: right;" title="Magento web-to-print calendar preview" src="../../../wp-content/uploads/2010/05/magento_web-to-print_calendar_preview.png" alt="Magento web-to-print calendar preview" width="338" height="504" /></p>
+<div style="position: relative; top: 35px; display: inline;">Let&#8217;s say you wish to show a product as it is used in real life (e.g. a personalized daily task <a title="Web-to-print creating eps variables calendar" href="../../../../help/eps-variables/" target="_self">calendar</a>). Instead of showing the calendar itself as the product image, you can show it displayed on an office wall. This can be achieved using by using a custom <em>Base image</em> for the product.</div>
+</div>
+<div style="display: table;"><img style="margin: 5px; float: left;" title="Magento web-to-print manage products" src="../../../wp-content/uploads/2010/05/magento_web-to-print_manage_products.png" alt="Magento web-to-print manage products" width="320" height="173" /></p>
+<div style="position: relative; top: 35px; display: inline;">Navigate to the producs settings page in your Magento Admin Panel (<em>Catalog/Manage Products</em>).</div>
+</div>
+<div style="display: table;"><img style="margin: 5px; float: right;" title="Magento web-to-print product image" src="../../../wp-content/uploads/2010/05/magento_web-to-print_product_images.png" alt="Magento web-to-print product image" width="253" height="343" /></p>
+<div style="position: relative; top: 35px; display: inline;">Click on <strong>Images</strong> tab in <em>Product Information</em> menu.</div>
+</div>
+<p><em>Browse</em> for the custom base image in your local hard drive and hit <strong>Upload Files</strong>.</p>
+<div style="display: table;"><img style="margin: 5px; float: left;" title="Magento web-to-print set base image" src="../../../wp-content/uploads/2010/05/magento_web-to-print_set_base_image.png" alt="Magento web-to-print set base image" width="398" height="388" /></p>
+<div style="position: relative; top: 35px; display: inline;">Set the new image as the base image by checking its box in the <strong>Base Image</strong> column of the table and <em>Save</em> your settings.</div>
+</div>
+<div style="display: table;"><img style="margin: 5px; float: right;" title="magento_web-to-print_base_image_display" src="../../../wp-content/uploads/2010/05/magento_web-to-print_base_image_display.png" alt="magento_web-to-print_base_image_display" width="359" height="357" /></p>
+<div style="position: relative; top: 35px; display: inline;">The product page for your Calendar template will now show the new image as the first preview of the product.</div>
+</div>
+<h2>Product presentation behavior</h2>
+<p>There are a few options regarding the product page behavior. Navigate to <strong>Design</strong> tab on <em>Product information</em> page to chose from a list of available themes in the <strong>Custom Design</strong> drop-down menu.</p>
+<p><img class="alignnone size-full wp-image-9931" title="Magento web-to-print themes" src="../../../wp-content/uploads/2010/05/magento_web-to-print_themes.png" alt="Magento web-to-print themes" width="532" height="274" /></p>
+<h3>Single step theme</h3>
+<p>This is the default theme (<strong>zptheme</strong>). A base image (if assigned) is displayed within a zoom control when the product page is loaded for the first time. The base image and the zoom control are replaced with the template&#8217;s image when the customer updates a preview.</p>
+<h3>2-step theme</h3>
+<p>The two step theme (<strong>zp2steptheme</strong>) separates the product page into 2 steps. The base image (if assigned) shows up only on the first step which is a product info page and has no personalization form. The customer needs to click <strong>Personalize</strong> in order to navigate to the second step page which has the personalization form and the original template preview image.</p>
+<h3>Interactive personalization theme</h3>
+<p>Use this theme (<strong>zpadvancedtheme</strong>) to allow <a title="Magento web-to-print interactive personalization" href="../../../../magento-web-to-print/magento-interactive-personalization/" target="_self">interactive personalization</a> based on a &#8220;point and click&#8221; method. The base image behavior is identical to the single step theme.</p>
+<h3>Custom themes</h3>
+<p>The <a title="Magento web-to-print theme configuration" href="../../../theme-configuration/" target="_self">default ZetaPrints theme</a> has some custom code that enables all the cool  web-to-print features. You can also <a title="web-to-print enabled themes" href="http://code.google.com/p/magento-w2p/wiki/ThemeChanges">create custom themes</a> your self or with the help of a developer.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

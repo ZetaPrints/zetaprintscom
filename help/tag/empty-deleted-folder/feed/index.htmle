@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Empty deleted folder &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/empty-deleted-folder/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>How to empty Deleted folder</title>
+		<link>http://www.zetaprints.com/help/how-to-empty-deleted-folder/</link>
+		<pubDate>Thu, 10 Jul 2008 13:59:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Order management]]></category>
+		<category><![CDATA[Delete orders]]></category>
+		<category><![CDATA[Empty deleted folder]]></category>
+		<category><![CDATA[Permanently remove]]></category>
+
+		<guid isPermaLink="false">/help/?p=217</guid>
+		<description><![CDATA[Orders page has link Empty next to Deleted folder. Clicking on the link will permanently remove some orders from Deleted. Not all web-to-print orders are removed from Deleted folder. Only the following orders are deleted: older than the set retention period for the catalog (between 1 and 6 months) paid for (by the printer to [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

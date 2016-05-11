@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Introduction &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/tag/introduction/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Magento web-to-print overview</title>
+		<link>http://www.zetaprints.com/magentohelp/magento-web-to-print-overview/</link>
+		<pubDate>Tue, 06 Oct 2009 10:17:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Overview]]></category>
+		<category><![CDATA[Introduction]]></category>
+		<category><![CDATA[web-to-print extension]]></category>
+
+		<guid isPermaLink="false">/help/?p=7783</guid>
+		<description><![CDATA[Magento web-to-print extension allows e-commerce operators build their online stores using an open source platform and utilize the power of ZetaPrints dynamic imaging and web-to-print back-end. About ZetaPrints ZetaPrints is an online personalization engine used for web-to-print and dynamic imaging. The system is based on user-uploaded templates built in vector-graphics applications. ZetaPrints has a set [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Magento web-to-print extension allows e-commerce operators build their online <a title="Web-to-print storefront" href="../../../../printers/web-to-print-storefront/" target="_self">stores</a> using an open source platform and utilize the power of ZetaPrints <a title="Dynamic imaging" href="../../../../category/dynamic-imaging/" target="_self">dynamic  imaging</a> and <a title="Web-to-print service" href="../../../../category/web-to-print-software/" target="_self">web-to-print</a> back-end. <span id="more-7783"></span></p>
+<h2>About ZetaPrints</h2>
+<p><a title="Web-to-print and Dynamic imaging" href="../../../../" target="_self">ZetaPrints</a> is an online personalization engine used for web-to-print and dynamic imaging. The system is based on user-uploaded <a title="Web-to-print templates" href="../../../../printers/web-to-print-templates/" target="_self">templates</a> built in vector-graphics applications. ZetaPrints has a set of <a title="Web-to-print API" href="../../../../help/category/api/" target="_self">API</a>s, but it is not extensible on its own as it is a fully hosted system. The API can be used to exchange data with ZetaPrints and consume its services from within other applications.</p>
+<h2>About Magento</h2>
+<p>Magento is an open source e-commerce platform <a title="Magento ecommerce platform" href="http://www.magentocommerce.com/" target="_self">www.magentocommerce.com</a>. It has plugins and extensions infrastructure. It&#8217;s main purpose is to build online stores. The default configuration is limited to public stores. There are extensions to control user access and implement stores with limited user access.</p>
+<h2>Selling customized products</h2>
+<p class="flash">Watch a <a href="../../../wp-content/magento_demo/magento_demo.html" target="_blank">Flash demonstration</a> on this topic</p>
+<p>Magento is geared up to selling finished products. A user would normally browse the catalog, add products to cart, pay, download or have them delivered. Selling template-based products requires one more step &#8211; personalization. Personalization is done by ZetaPrints using native Magento interface.</p>
+<p>Once the design is customized the control is passed back to Magento along with necessary IDs to complete the order and obtain the files. The user never leaves the Magento store and is unaware that some services were provided by ZetaPrints.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

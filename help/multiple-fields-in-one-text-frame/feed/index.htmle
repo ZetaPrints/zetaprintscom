@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Multiple fields in one text frame</title>
+	<atom:link href="http://www.zetaprints.com/help/multiple-fields-in-one-text-frame/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help/multiple-fields-in-one-text-frame/</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Thu, 09 Apr 2009 22:25:56 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>By: Don</title>
+		<link>http://www.zetaprints.com/help/multiple-fields-in-one-text-frame/comment-page-1/#comment-8</link>
+		<dc:creator><![CDATA[Don]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2007 14:12:34 +0000</pubDate>
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/template-preparation/%post-name%/#comment-8</guid>
+		<description><![CDATA[I had some difficulty with setting a complex multiple field text frame.  
+
+I found that this worked:
+City; Zip; Area Code; Phone Number; Fax Area Code; Fax Number
+
+{city}, State {Zip}
+[Phone [({555})] {###-####}
+[Fax [({555})] {###-####}
+
+
+But this did not:
+Street Address; City; Zip; Area Code; Phone Number; Fax Area Code; Fax Number
+
+{Street Address}
+{city}, State {Zip}
+[Phone [({555})] {###-####}
+[Fax [({555})] {###-####} 
+
+What we discovered (help and I) was that there is a limit to the length of the field list that you use.
+
+I discovered the following:
+1. white space after the semi-colon seems unneccessary
+2. the length permitted is about 66 characters and then it truncates
+
+I finally wound up using this:
+[{Street Address}
+[{city}, State {Zip}
+[Phone {#}
+[Fax {#}
+[{Other} {#}
+invisible character (&lt;a href=&quot;http://help.zetaprints.com/multiple-fields-in-one-text-frame/#comment-7&quot; rel=&quot;nofollow&quot;&gt;see hint above&lt;/a&gt;)
+
+along with this in the Name value of the Object Data 
+Address;City;Zip;Phone;Fax;Other Desc.;Other Ph
+
+I then used number formatting to control the phone number input.
+http://help.zetaprints.com/phone-number-formatting/#more-33
+
+Address;City;Zip;Phone;Fax;Other Desc.;Other Ph;leave blank]]></description>
+		<content:encoded><![CDATA[<p>I had some difficulty with setting a complex multiple field text frame.  </p>
+<p>I found that this worked:<br />
+City; Zip; Area Code; Phone Number; Fax Area Code; Fax Number</p>
+<p>{city}, State {Zip}<br />
+[Phone [({555})] {###-####}<br />
+[Fax [({555})] {###-####}</p>
+<p>But this did not:<br />
+Street Address; City; Zip; Area Code; Phone Number; Fax Area Code; Fax Number</p>
+<p>{Street Address}<br />
+{city}, State {Zip}<br />
+[Phone [({555})] {###-####}<br />
+[Fax [({555})] {###-####} </p>
+<p>What we discovered (help and I) was that there is a limit to the length of the field list that you use.</p>
+<p>I discovered the following:<br />
+1. white space after the semi-colon seems unneccessary<br />
+2. the length permitted is about 66 characters and then it truncates</p>
+<p>I finally wound up using this:<br />
+[{Street Address}<br />
+[{city}, State {Zip}<br />
+[Phone {#}<br />
+[Fax {#}<br />
+[{Other} {#}<br />
+invisible character (<a href="http://help.zetaprints.com/multiple-fields-in-one-text-frame/#comment-7" rel="nofollow">see hint above</a>)</p>
+<p>along with this in the Name value of the Object Data<br />
+Address;City;Zip;Phone;Fax;Other Desc.;Other Ph</p>
+<p>I then used number formatting to control the phone number input.<br />
+<a href="http://help.zetaprints.com/phone-number-formatting/#more-33" rel="nofollow">http://help.zetaprints.com/phone-number-formatting/#more-33</a></p>
+<p>Address;City;Zip;Phone;Fax;Other Desc.;Other Ph;leave blank</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Don</title>
+		<link>http://www.zetaprints.com/help/multiple-fields-in-one-text-frame/comment-page-1/#comment-7</link>
+		<dc:creator><![CDATA[Don]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2007 13:54:30 +0000</pubDate>
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/template-preparation/%post-name%/#comment-7</guid>
+		<description><![CDATA[&quot;This allows you to remove the entire line and shift the other lines up or &lt;b&gt;down&lt;/b&gt;, depending on the vertical alignment.&quot;
+
+This does not appear to work for the last item in the text frame with alignment set to down.  If you make the last item optional with a [ preceeding it, then you will simply get an empty line instead of the shift downward that you expect.  To compensate for this apparent limitation in Corel X3, what I did (on recommendation of the help department) was to include a hidden character on the bottom line.  What I did was to include a white period (full stop) on my white background document with a font size of 0.01.  Highlight the text and change font color to white (docked color picker) and changed font (docket character formatting).
+
+Then the next to last line (the last now being &quot;dummy text&quot;) when preceded with a [ and with vertical alignment set to down, would shift all content down as expected.]]></description>
+		<content:encoded><![CDATA[<p>&#8220;This allows you to remove the entire line and shift the other lines up or <b>down</b>, depending on the vertical alignment.&#8221;</p>
+<p>This does not appear to work for the last item in the text frame with alignment set to down.  If you make the last item optional with a [ preceeding it, then you will simply get an empty line instead of the shift downward that you expect.  To compensate for this apparent limitation in Corel X3, what I did (on recommendation of the help department) was to include a hidden character on the bottom line.  What I did was to include a white period (full stop) on my white background document with a font size of 0.01.  Highlight the text and change font color to white (docked color picker) and changed font (docket character formatting).</p>
+<p>Then the next to last line (the last now being &#8220;dummy text&#8221;) when preceded with a [ and with vertical alignment set to down, would shift all content down as expected.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Localized -->

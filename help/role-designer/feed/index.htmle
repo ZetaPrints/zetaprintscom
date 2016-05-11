@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Role: Designer</title>
+	<atom:link href="http://www.zetaprints.com/help/role-designer/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help/role-designer/</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Thu, 09 Apr 2009 22:25:56 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>By: About catalogs &#124; Web-to-print Help</title>
+		<link>http://www.zetaprints.com/help/role-designer/comment-page-1/#comment-52</link>
+		<dc:creator><![CDATA[About catalogs &#124; Web-to-print Help]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2008 04:37:09 +0000</pubDate>
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/role-designer/#comment-52</guid>
+		<description><![CDATA[[...] Designers can create new catalogs only when logged in under http:/zetaprints.com. Designers&#8217; catalogs and the templates in them can be accessed by anyone. Every designer gets a default catalog which is hidden from others to test any new templates before making them visible to the public. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Designers can create new catalogs only when logged in under http:/zetaprints.com. Designers&#8217; catalogs and the templates in them can be accessed by anyone. Every designer gets a default catalog which is hidden from others to test any new templates before making them visible to the public. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Localized -->

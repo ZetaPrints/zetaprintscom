@@ -1,0 +1,884 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="verify-v1" content="GACnn9+1c3JzusKbMwxWr+f9dKvqx8As8sbHI8tNyxA=" />
+  <meta name="keywords" content="web-to-print, online printing, zetaprints, online print ordering" />
+  <title>On web to print sofware, solutions and hosted services</title>
+  <script type="text/javascript" src="../../wp-content/themes/water-zp-3/jslib.js"></script>
+  <meta name="generator" content="ZetaPrints"/> <!-- leave this for stats -->
+  <link rel="stylesheet" href="../../wp-content/themes/water-zp-3/style.css" type="text/css" media="all" />
+  <link href="../../wp-content/themes/water-zp-3/style-fixed.css" rel="stylesheet" type="text/css" />
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../feed/index.html" />
+  <link rel="alternate" type="text/xml" title="RSS .92" href="../../feed/rss/index.html" />
+  <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../../feed/atom/index.html" />
+  <!--link rel="pingback" href="http://www.zetaprints.com/blog/xmlrpc.php" /-->
+  		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.zetaprints.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cat-post-tree-ajax-css'  href='../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2-ver=0.7.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='top_css-css'  href='../../wp-content/themes/water-zp-3/top-menu-ver=4.4.1.css' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='top_css_ie-css'  href='../../wp-content/themes/water-zp-3/top-menu-ie-ver=4.4.1.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='../../wp-content/themes/water-zp-3/js/top-menu.js?ver=4.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CatPostAjax = {"ajaxurl":"http:\/\/www.zetaprints.com\/blog\/wp-admin\/admin-ajax.php","nice_ajax_tree_img":"http:\/\/www.zetaprints.com\/blog\/wp-content\/plugins\/cat-post-tree-ajax\/img\/","type":null,"id":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2.js?ver=4.4.1'></script>
+<script type='text/javascript' src='../../wp-content/plugins/zpecards/js/zp.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='../../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc-rsd.php.html" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.1" />
+<meta property="og:site_name" content="On web to print sofware, solutions and hosted services" />
+<meta property="og:type" content="article" />
+<link type="text/css" rel="stylesheet" href="../../wp-content/plugins/zpecards/css/zpEcards.css" />
+<script type='text/javascript' src='../../wp-includes/js/tw-sack.min.js?ver=1.6.1'></script>
+  <!--[if IE]>
+  <style>
+  
+  </style>
+  <![EndIf]-->
+  <style type="text/css" media="print">
+  #header, #footer, #rightcol, #logo, .social_bookmark, .post-rel, .postmetadata, #questionMark, p.nocomments {display:none}
+  </style>
+  <link media="screen" type="text/css" href="../../wp-content/themes/water-zp-3/grid.css" rel="stylesheet"/>
+  <script type='text/javascript' src="../../wp-content/themes/water-zp-3/js/grid.js" ></script>
+</head>
+
+<body>
+  <div id="header-container" class="clearfix container">
+    <div id="header">
+      <div class="logo">
+        <a href="../../../index.html"><img src="../../wp-content/themes/water-zp-3/images/logo.gif" alt="ZetaPrints Web-to-print home"/></a>
+        <h1><a href="../../index.html"><span>ZetaPrints</span> blog</a></h1>
+        <h3>Web-to-Print &amp; dynamic imaging</h3>
+      </div>
+      <form method="get" id="searchform" action="http://www.zetaprints.com/blog/">
+        <div>
+          <input type="text" value=""  name="s" id="s" />
+          <input type="image" id="searchsubmit" alt="Search" src="../../wp-content/themes/water-zp-3/images/search_btn.gif" />
+        </div>
+      </form>
+      <div class="nav">
+    <ul class="main" id="top-drop-menu">
+        <li>
+            <a href="../../../index.html" title="Zetaprints home">Home</a>
+        </li><li class="drop">
+            <a href="../../../help/index.html" class="drop-down-link">Help</a>
+            <ul>
+                <li>
+                    <a href="../../../help/index.html" class="drop-down-link">Web-to-print help</a>
+                </li>
+                <li>
+                    <a href="../../../magentohelp/index.html" class="drop-down-link">Magento help</a>
+                </li>
+				<li>
+					<a href="../../../premium/index.html" class="drop-down-link">Premium support</a>
+				</li>
+				<li>
+					<a href="../../../directory/index.html" class="drop-down-link">Resources</a>
+				</li>
+				<li class="last">
+					<a href="../../../userhelp/index.html" class="drop-down-link">End user help</a>
+				</li>
+            </ul>
+        </li><li>
+            <a href="../../index.html" title="Web to print blog">Blog</a>
+        </li><li>
+            <a href="../../../packages/sign-up-for-web-to-print/index.html" title="Sign up for web-to-print">Sign up</a>
+        </li><li class="no_border">
+            <a href="http://zetaprints.com" title="Web to print system">Log in</a>
+        </li>
+    </ul>
+</div>
+<!-- nav -->
+    </div> <!-- header -->
+  </div> <!-- container -->
+  <div id="content-container" class="container clearfix">
+    <div id="rightcol">
+      <ul>
+        		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+					<li>
+				<a href="../../2013/08/02/forward-updates-in-web-to-print-templates-bug/index.html">Repeating fields in web-to-print templates bug</a>
+						</li>
+					<li>
+				<a href="../../2013/07/31/lost-files/index.html">Lost files</a>
+						</li>
+					<li>
+				<a href="../../2013/07/22/speed-up-your-web-to-print-checkout/index.html">Speed up your web-to-print checkout</a>
+						</li>
+					<li>
+				<a href="../../2013/01/28/paypal-issues-web-to-print-orders-are-not-paid/index.html">PayPal issues &#8211; web-to-print orders are not paid</a>
+						</li>
+					<li>
+				<a href="../../2012/10/31/volumes-are-down/index.html">Volumes are down</a>
+						</li>
+					<li>
+				<a href="../../2012/10/22/amazon-hosting-failure/index.html">Amazon hosting failure</a>
+						</li>
+					<li>
+				<a href="../../2012/09/19/missing-files-in-web-to-print-orders/index.html">Missing files in web-to-print orders</a>
+						</li>
+					<li>
+				<a href="../../2012/09/09/web-to-print-profiles-fix-after-upgrading-to-magento-1-7/index.html">Web-to-print profiles fix after upgrading to Magento 1.7</a>
+						</li>
+					<li>
+				<a href="../../2012/08/14/payments-date-wipe-out/index.html">Payments date wipe-out</a>
+						</li>
+					<li>
+				<a href="../../2012/07/31/serious-network-issues/index.html">Serious network issues</a>
+						</li>
+				</ul>
+		</li>
+		<li id="niceajaxtree-widget-3" class="widget cat-post-ajax-tree"><h2 class="widgettitle"><span class="widgettitle">Topics</span></h2>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/announcements/index.html"
+	title="View all posts in Announcements">Announcements</a>
+<span
+	class="arrow cat-item-3">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-3" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/api/index.html"
+	title="View all posts in API">API</a>
+<span
+	class="arrow cat-item-65">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-65" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/blogroll/index.html"
+	title="View all posts in Blogroll">Blogroll</a>
+<span
+	class="arrow cat-item-2">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-2" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/bugs-and-fixes/index.html"
+	title="View all posts in Bugs and fixes">Bugs and fixes</a>
+<span
+	class="arrow cat-item-147">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-147" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/customer-web-to-print-sites/index.html"
+	title="View all posts in Customer web-to-print sites">Customer web-to-print sites</a>
+<span
+	class="arrow cat-item-149">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-149" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/freebies/index.html"
+	title="View all posts in Freebies">Freebies</a>
+<span
+	class="arrow cat-item-146">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-146" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/graphic-design/index.html"
+	title="View all posts in Graphic design">Graphic design</a>
+<span
+	class="arrow cat-item-4">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-4" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/ideas-and-opinions/index.html"
+	title="View all posts in Ideas and opinions">Ideas and opinions</a>
+<span
+	class="arrow cat-item-5">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-5" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/junk-mail-collection/index.html"
+	title="View all posts in Junk mail collection">Junk mail collection</a>
+<span
+	class="arrow cat-item-6">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-6" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/known-issues/index.html"
+	title="View all posts in Known issues">Known issues</a>
+<span
+	class="arrow cat-item-17">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-17" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/marketing/index.html"
+	title="View all posts in Marketing">Marketing</a>
+<span
+	class="arrow cat-item-7">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-7" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/payments-2/index.html"
+	title="View all posts in Payments">Payments</a>
+<span
+	class="arrow cat-item-150">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-150" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/premium-support/index.html"
+	title="View all posts in Premium support">Premium support</a>
+<span
+	class="arrow cat-item-151">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-151" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/printer-update/index.html"
+	title="View all posts in Printer update">Printer update</a>
+<span
+	class="arrow cat-item-8">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-8" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/printer-update-history/index.html"
+	title="View all posts in Printer update history">Printer update history</a>
+<span
+	class="arrow cat-item-18">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-18" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/printing-industry-reviews/index.html"
+	title="View all posts in Printing industry reviews">Printing industry reviews</a>
+<span
+	class="arrow cat-item-10">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-10" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/problems-and-outages/index.html"
+	title="View all posts in Problems and outages">Problems and outages</a>
+<span
+	class="arrow cat-item-56">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-56" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/scam-buster/index.html"
+	title="View all posts in Scams">Scams</a>
+<span
+	class="arrow cat-item-12">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-12" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/update-summaries/index.html"
+	title="View all posts in Update summaries">Update summaries</a>
+<span
+	class="arrow cat-item-19">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-19" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/user-update-history/index.html"
+	title="View all posts in User update history">User update history</a>
+<span
+	class="arrow cat-item-20">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-20" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print/index.html"
+	title="View all posts in Web-to-Print">Web-to-Print</a>
+<span
+	class="arrow cat-item-13">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-13" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-features/index.html"
+	title="View all posts in web-to-print features">web-to-print features</a>
+<span
+	class="arrow cat-item-53">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-53" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-help/index.html"
+	title="View all posts in Web-to-print help">Web-to-print help</a>
+<span
+	class="arrow cat-item-145">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-145" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-reviews/index.html"
+	title="View all posts in Web-to-Print reviews">Web-to-Print reviews</a>
+<span
+	class="arrow cat-item-14">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-14" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-software/index.html"
+	title="View all posts in web-to-print software">web-to-print software</a>
+<span
+	class="arrow cat-item-54">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-54" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-storefront/index.html"
+	title="View all posts in Web-to-print storefront">Web-to-print storefront</a>
+<span
+	class="arrow cat-item-148">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-148" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/whaling/index.html"
+	title="View all posts in Whaling">Whaling</a>
+<span
+	class="arrow cat-item-15">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-15" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/index.html"
+	title="View all posts in ZetaPrints features">ZetaPrints features</a>
+<span
+	class="arrow cat-item-16">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-16" style="display:none;">
+</div>
+</div>
+</li>
+      </ul>
+    </div>
+    <div id="leftcol">
+      <div id="news" class="clearfix">
+        <div id="newswrap">
+            <div class="post" id="post-131">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/02/11/2007-02-11-sunday/index.html" rel="bookmark" title="Permanent Link to 2007 &#8211; 02 &#8211; 11, Sunday">2007 &#8211; 02 &#8211; 11, Sunday</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/zetaprints-features/update-summaries/index.html" rel="category tag">Update summaries</a></small></div>
+              <small>February 11th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <h2>Update highlights</h2>
+<p><strong>&#8211; Changes and improvements to the registration process<br />
+&#8211; Copy Template bug fixed<br />
+&#8211; Clone Catalogue bug fixed<br />
+&#8211; Share Template URL feature</strong></p>
+<h2>Read more in individual sections</h2>
+<p><a href="http://web-to-print.zetaprints.com/2007/02/11/share-template-url/">Share Template URL</a></p>
+<p><a href="http://web-to-print.zetaprints.com/2007/02/11/registration/">User registration</a></p>
+<p><a href="http://web-to-print.zetaprints.com/2007/02/11/copy-template-copy-catalogue-bug-fixes/">Copy Template / Copy Catalogue bug fixes</a></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/02/11/2007-02-11-sunday/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-130">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/02/11/registration/index.html" rel="bookmark" title="Permanent Link to Registration">Registration</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/zetaprints-features/printer-update-history/index.html" rel="category tag">Printer update history</a></small></div>
+              <small>February 11th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>There are 2 ways of user registration: add users to the list or self-registration for web-to-print.</p>
+<p><strong>Add users to the list of web-to-print catalogue users</strong></p>
+<p>Any user added to the list gets a registration email with a link, which takes them straight into the catalogue skipping any registration formalities. However, users are reminded to complete registration &#8230;</p>
+<p><img src="http://webtoprint.files.wordpress.com/2007/02/new-3.gif" alt="new-3.gif" /></p>
+<p>and are asked for a password upon placing the first order &#8230;</p>
+<p><img src="http://webtoprint.files.wordpress.com/2007/02/new-4.gif" alt="new-4.gif" /></p>
+<p><strong>Self-registration</strong></p>
+<p>A user may click on Register link at the top-right of the page regardless if there are public catalogues or not. The user’s email would be checked, details taken and a registration email dispatched to confirm the email address.<br />
+At the same time, the printer gets an email with all the user details.</p>
+<p>The user gets either a generic message or is taken back to public catalogues, if any.</p>
+<p><img src="http://webtoprint.files.wordpress.com/2007/02/new-5.gif" alt="new-5.gif" /></p>
+<hr /><img src="http://webtoprint.files.wordpress.com/2007/02/new-6.gif" alt="new-6.gif" /></p>
+<hr /><img src="http://webtoprint.files.wordpress.com/2007/02/new-7.gif" alt="new-7.gif" /></p>
+<hr /><img src="http://webtoprint.files.wordpress.com/2007/02/new-8.gif" alt="new-8.gif" /></p>
+<hr /><img src="http://webtoprint.files.wordpress.com/2007/02/new-9.gif" alt="new-9.gif" /></p>
+<p>Adding a registered email to the list will trigger another registration email, but with a delay of 3 seconds per email.</p>
+<p>An attempt to self-register with a registered email address takes the user to a lost password form.</p>
+<p><strong>One email – one role</strong></p>
+<p>An email registered as a designer or printer cannot be registered as a user. The system will reject the address without giving any more detail. This feature will be improved to make it more informative.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/02/11/registration/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-122">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/02/11/copy-template-copy-catalogue-bug-fixes/index.html" rel="bookmark" title="Permanent Link to Copy Template / Copy Catalogue bug fixes">Copy Template / Copy Catalogue bug fixes</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/zetaprints-features/printer-update-history/index.html" rel="category tag">Printer update history</a></small></div>
+              <small>February 11th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>Copying a template creates a new copy in the destination catalogue. The user stays in the source catalogue, in the context of the source template. A message reminds the user what actually happened.</p>
+<p>Creating a copy of a catalogue copies all template files over as if they were uploaded by the user. None of the catalogue details are copied. The new catalogue gets name &#8212; CLONE &#8212;. The access control is set to CORPORATE, meaning that users need to be added to list.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/02/11/copy-template-copy-catalogue-bug-fixes/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-121">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/02/11/share-template-url/index.html" rel="bookmark" title="Permanent Link to Share Template URL">Share Template URL</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/zetaprints-features/user-update-history/index.html" rel="category tag">User update history</a></small></div>
+              <small>February 11th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>All templates from public catalogues have “Share with others” link at the top. The page behind the link shows a choice of different HTML options for embedding in blogs or any other web pages.</p>
+<blockquote><p><img src="http://webtoprint.files.wordpress.com/2007/02/new-1.gif" alt="new-1.gif" />
+</p></blockquote>
+<hr /><strong>Sample page with links:</strong></p>
+<p><img src="http://webtoprint.files.wordpress.com/2007/02/new-2.gif" alt="new-2.gif" /><br />
+<strong>An example of embedding all images: </strong></p>
+<p><a href="http://www.hotissues.org.nz/?page=template;TemplateID=ADA10AA3-BA20-4488-8A00-E64762461C80" title="Click to personlize this now" target="_blank"><img src="http://www.hotissues.org.nz/thumb/54c779ec-1772-4018-b3a6-b5d307a5f1e5-0.jpg" style="border:1px dotted black;margin-right:10px;" alt="Page 1" /><img src="http://www.hotissues.org.nz/thumb/54c779ec-1772-4018-b3a6-b5d307a5f1e5-1.jpg" style="border:1px dotted black;margin-right:10px;" alt="Page 2" /></a></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/02/11/share-template-url/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-118">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/02/03/junk-mail-report-%E2%80%93-january-%E2%80%9807/index.html" rel="bookmark" title="Permanent Link to Junk mail report – January ‘07">Junk mail report – January ‘07</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/junk-mail-collection/index.html" rel="category tag">Junk mail collection</a></small></div>
+              <small>February 3rd, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>For those from the Northern Hemisphere I have to note that January is the slowest month in New Zealand. It is the peak of summer and time for holidays<br />
+and annual leaves. Nothing happens until mid-February.</p>
+<p>However, our test letterbox managed to accumulate a remarkable collection of junk mail – almost 2 kilos of waste!</p>
+<p>The worst offenders were local <strong>supermarkets, hardware and appliances stores came in 1.8kg of junk</strong>:</p>
+<p><a href="http://webtoprint.files.wordpress.com/2007/02/junk-all.JPG" title="All junk for January"><img src="http://webtoprint.files.wordpress.com/2007/02/junk-all.thumbnail.JPG" alt="All junk for January" hspace="3" vspace="3" /></a><a href="http://webtoprint.files.wordpress.com/2007/02/junk-food.JPG" title="Food and supermarkets"><img src="http://webtoprint.files.wordpress.com/2007/02/junk-food.thumbnail.JPG" alt="Food and supermarkets" hspace="3" vspace="3" /></a><a href="http://webtoprint.files.wordpress.com/2007/02/junk-junkfood.JPG" title="Junk food"><img src="http://webtoprint.files.wordpress.com/2007/02/junk-junkfood.thumbnail.JPG" alt="Junk food" hspace="3" vspace="3" /></a><a href="http://webtoprint.files.wordpress.com/2007/02/junk-local.JPG" title="Local junk"><img src="http://webtoprint.files.wordpress.com/2007/02/junk-local.thumbnail.JPG" alt="Local junk" hspace="3" vspace="3" /></a><a href="http://webtoprint.files.wordpress.com/2007/02/vista.JPG" title="Thick Vista"><img src="http://webtoprint.files.wordpress.com/2007/02/vista.thumbnail.JPG" alt="Thick Vista" hspace="3" vspace="3" /></a></p>
+<p><strong>The Warehouse and The Warehouse stationery accounted for almost half of it</strong>.<br />
+The rest was shared between</p>
+<ul>
+<li>Farmers</li>
+<li>Bond + Bond</li>
+<li>Harvey Norman</li>
+<li>Mitre 10</li>
+<li>Bunnings</li>
+<li>Newbolds</li>
+<li>Dowsons shoes</li>
+<li>Briscoes</li>
+<li>Noel Leeming</li>
+<li>K-Mart</li>
+<li>Toyworld</li>
+<li>Postie+</li>
+<li>Dick Smith</li>
+<li>Placemakers</li>
+<li>Big Save Furniture</li>
+<li>Arbuckles</li>
+<li>Whitcoulls</li>
+<li>Repco</li>
+<li>Horizon Media</li>
+<li>JK Kids Gear</li>
+<li>PaperPlus</li>
+<li>Hannahs</li>
+<li>SuperCheap Auto</li>
+<li>EcoMist</li>
+</ul>
+<p>The <strong>food section came in 0.5 kg</strong> and consisted mainly of the local <strong>Countdown </strong>and <strong>New World</strong> with an occasional <strong>Woolworths</strong>.</p>
+<p><strong>The junk food section was surprisingly thin</strong> with only:</p>
+<ul>
+<li>PizzaHutt – 3 pages</li>
+<li>Domino’s Pizza – 2 pages, 3 coupons</li>
+<li>KFC – 1 page</li>
+</ul>
+<p>A special &#8220;Thank You&#8221; goes to Microsoft for sending out a reminder of its new operating system on a stunning looking postcard printed on at least 350gsm paper.</p>
+<p><strong>Small local businesses and charities looked tiny compared to the rest of the pile</strong>:<br />
+2 education provider<br />
+5 gyms<br />
+1 donation appeal<br />
+1 toy-shop opening announcement</p>
+<h2>Projection</h2>
+<p>According to New Zealand Post database, there are approximately 1,300,000 letterboxes in urban delivery areas. Assume that they all received the same amount of 1.8kg of junk during January then it stands for 1,300,000 x 1.8 = <strong>2,340 tons of wasted paper for 4 mln population</strong>.</p>
+<h2>Conclusion</h2>
+<p>January’s junk mail is small fraction of what was delivered around Christmas time. Nonetheless, it is wasteful and annoying practice. The first <strong>call goes out to New World, Countdown and The Wharehouse to stop wasting trees and stand on the side of the environment</strong>.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/02/03/junk-mail-report-%25e2%2580%2593-january-%25e2%2580%259807/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-111">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/29/web-to-print-against-whaling/index.html" rel="bookmark" title="Permanent Link to Web-to-print against whaling">Web-to-print against whaling</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/web-to-print/index.html" rel="category tag">Web-to-Print</a>, <a href="../../category/whaling/index.html" rel="category tag">Whaling</a></small></div>
+              <small>January 29th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>Japanese whaling fleet is killing whales somewhere around the Southern Ocean. The Greenpeace is helplessly searching for them along with Sea Shepherd. The fleet has a $25,000 bounty on its masts, but no luck so far.</p>
+<h2>What else can we do to stop whaling?</h2>
+<p>There is one simple idea – let&#8217;s stir the public opinion in Japan, Iceland and Norway. Any of these countries backing down on whaling will be a major blow to the whole pro-whaling camp.</p>
+<p><strong>How about we send them postcards using <a href="../../../index-flash.html">Zetaprints web-to-print</a>?</strong></p>
+<h2>Here is a plan&#8230;</h2>
+<p>I&#8217;ve set up a template for a simple DL-size postcard. It’s the maximum size for the minimal postage (NZ$1.5 or ~ US$1). My mate runs a printing business and will print them at cost. Once printed, it will be addressed to a random postal address in Japan. The preference will be given to their local media outlets and small businesses. This will ensure maximum coverage.</p>
+<p>The postcard is intended to explain our anti-whaling position to ordinary Japanese people and tell them that this is an important issue to us. Although, the card is not addressed to anyone in particular, it has a personal touch to it:<br />
+&#8211; it is a custom card, not a large issue<br />
+&#8211; it is signed by a real person that cared enough to pay a few dollars for this<br />
+&#8211; it has a photo of the person or maybe the entire family</p>
+<p>I think the cards will provoke a lot of curiosity in the recipients and will be a likely topic of conversations. The more cards we send the more they will notice.</p>
+<p>The next step will be to seek corporate sponsorship to cover the printing and postage and get even larger volumes though. Anyone with a cheque out there?</p>
+<h2>Send your postcard now</h2>
+<p><a href="http://zetaprints.com/?page=template;TemplateID=4F893454-3A76-48A0-B2A6-2C9A26AD2B02" title="Click to personalize this now" target="_blank"><img src="http://zetaprints.com/thumb/7d3ffb07-c41f-4c29-92f7-1b105eac3d96-0.jpg" style="border:1px dotted black;margin-right:10px;" alt="Front side" /><img src="http://zetaprints.com/thumb/7d3ffb07-c41f-4c29-92f7-1b105eac3d96-1.jpg" style="border:1px dotted black;margin-right:10px;" alt="Back side" /></a></p>
+<p>The idea is to keep the message positive and try to relate to Japanese people. Most of them do not support whaling, but this is not widely discussed there and doesn’t have as high profile as in the West.</p>
+<p><strong>Call to all designers</strong>: please, contribute your anti-whaling designs and ideas. I’ll be more than happy to put them on the site as templates.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/29/web-to-print-against-whaling/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-110">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/23/the-spirit-of-malaysian-design/index.html" rel="bookmark" title="Permanent Link to The Spirit of Malaysian Design">The Spirit of Malaysian Design</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/graphic-design/index.html" rel="category tag">Graphic design</a></small></div>
+              <small>January 23rd, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>In a fast paced world, where things change in a blink of the eye, sometimes we lose sight of what is truly important. Things scream out for our attention, demanding our time. There is simply so much to take in, that at times I do suffer information overload. In Malaysia, things are developing fast, and competition is very stiff at times, especially in the design industry. Every year, new graduates come out, some entering existing companies, others establishing their own little startups, powered by enthusiasm and led by their dreams. In this big field, how do we really differentiate ourselves, yet be able to deliver designs that will suit our clients’ needs?</p>
+<p>At times like these, I often question the whole situation and yearn for a simpler time. There is a Malay proverb which goes like this “Sesat di hujung jalan, baik balik ke pangkal jalan”. It literally means, When lost at the end of the road, it’s best to go back to root. Its true meaning, of course, means that whenever we’ve diverted away from our original path, it’s best to return to the root of the matter. So whenever I feel that I’ve forgotten what Malaysian design is all about, I turn to the works of Mohammad Nor Khalid, more commonly known as Lat. And who, you may ask, exactly is Lat?</p>
+<h2>Lat: Examination of a Nation</h2>
+<p align="left"><a href="http://webtoprint.files.wordpress.com/2007/01/lathello1.gif" title="Lat1"><img src="http://webtoprint.files.wordpress.com/2007/01/lathello1.thumbnail.gif" alt="Lat1" align="left" /></a>Lat is a well known cartoonist in Malaysia. He has been drawing ever since he was a child in primary school. In fact, his first published cartoon was published when he was merely 12, a book called “Tiga Sekawan” (3 Friends). He went into journalism, first as a reporter, but his artistic ability, his keen sense of observation and his taste for satire led him to his true calling, that of a cartoonist. His most defining work would be The Kampung Boy, a cartoon autobiography of his childhood (Kampung means village in Malay). Details of Malaysian life and culture are beautifully captured and stereotypes of Malaysian life and attitudes spring to life inside the pages of his cartoons.</p>
+<p><a href="http://webtoprint.files.wordpress.com/2007/01/lathouse.gif" title="Lat house"><img src="http://webtoprint.files.wordpress.com/2007/01/lathouse.thumbnail.gif" alt="Lat house" align="left" /></a>Lat’s style of drawing is minimalistic, often line drawings on a white background. His rendition of Malaysian scenery is stunning, often very accurate, showing his attention to detail. Observe the details on this drawing of a traditional malay house, in a rural setting. On the far left, by the staircase leading up to the house, you can notice a contraption made to divert water that falls down from the rooftop down to the ceramic container at the bottom. An overturned tin can which serves as a bucket is kept on top of a stick just by the container.</p>
+<h2>A Eyeful of Malaysia, Lat-style</h2>
+<p><a href="http://webtoprint.files.wordpress.com/2007/01/nasi-lemak.gif" title="Stall 1"></a><a href="http://webtoprint.files.wordpress.com/2007/01/chinese-shop.gif" title="stall 2"></a><a href="http://webtoprint.files.wordpress.com/2007/01/file1.gif" title="2 shops"></a><a href="http://webtoprint.files.wordpress.com/2007/01/file1.gif" title="2 shops"></a></p>
+<p align="left"><a href="http://webtoprint.files.wordpress.com/2007/01/nasi-lemak.gif" title="Stall 1"><img src="http://webtoprint.files.wordpress.com/2007/01/nasi-lemak.thumbnail.gif" alt="Stall 1" /></a><a href="http://webtoprint.files.wordpress.com/2007/01/indian-shop.gif" title="stall 3"><img src="http://webtoprint.files.wordpress.com/2007/01/indian-shop.thumbnail.gif" alt="stall 3" /></a><a href="http://webtoprint.files.wordpress.com/2007/01/chinese-shop.gif" title="stall 2"><img src="http://webtoprint.files.wordpress.com/2007/01/chinese-shop.thumbnail.gif" alt="stall 2" /></a><br />
+In these 3 pictures, Lat focuses on Malaysian racial diversity, showcasing 3 different eateries, a Malay nasi lemak (rice) stall, a Chinese coffeeshop (hole-in-the-wall for those across the Atlantic) and an Indian rice shop (note the two western tourists at the right hand corner, underneath the staircase). These 3 pictures on their own are not meant to be funny, rather they’re a graphic rendition of Malaysian life, snapshots of Malaysia so to speak. It is in this that Lat excels in, and his cartoons are a collection of snapshots of Malaysia throughout the years, marking the changes.
+</p>
+<p align="left"><a href="http://webtoprint.files.wordpress.com/2007/01/kampungboy.jpg" title="Kampungboy"><img src="http://webtoprint.files.wordpress.com/2007/01/kampungboy.thumbnail.jpg" alt="Kampungboy" align="left" /></a>His career has spanned at least 4 decades, in which he has published numerous cartoon books, editorial and satirical cartoons lampooning politics in Malaysia and other lighthearted ways of highlighting social and cultural issues in Malaysia. In the last 10 years, he has slowed down, and it is a shame that most Malaysian youth nowadays are not even familiar with his name, nor with his works.</p>
+<p>Why do I hold Lat in such high esteem? It is perhaps that in his work he shows Malaysia as it truly is, the simple beauty and the stark ugliness, the mix of old fashioned values at odds with the fast-changing development of times, a society trying to make sense of its surroundings, and trying to find its place in this world. By taking a break and laughing over his cartoons, I remind myself of what is simple in this world, and perhaps in that, I am able to find myself again.</p>
+<h2>Closing Thoughts</h2>
+<p>To me, this simple man embodies the spirit of Malaysian design. I just wish that most of us are able to remain true to ourselves and still be able to meet the challenges of the design industry. It is possible to be a success and still be ourselves. Lat did it. So can we.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/23/the-spirit-of-malaysian-design/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-101">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/23/printing-in-house-%E2%80%93-still-too-hard/index.html" rel="bookmark" title="Permanent Link to Printing in-house – still too hard">Printing in-house – still too hard</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/printing-industry-reviews/index.html" rel="category tag">Printing industry reviews</a></small></div>
+              <small>January 23rd, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>Laser colour printers are <a href="http://reviews.cnet.com/4566-3155_7-0.html?filter=500172_3809665_500170_88575_500170_90103_100021_10194774_500428_68447_&tag=dffl3_1&sort=lowPrice9+asc" target="_blank">as affordable as never before</a>. The prices have fallen through the floor and keep falling even further. Printer manufacturers hope that businesses will do more printing in-house as the prices fall, but this may be misguided. This post analyses why printing in-house is still not a very good idea.</p>
+<h2>Dodgy marketing and pushy sales</h2>
+<p>Not all printer manufactures are up-front with their customers regarding the real costs of printing. Very few of them provide any information on the “Cost Per Page” or CPP and even less of them disclose the cost of ownership over a certain period. Their excuse that “it all depends” is lame in the eyes of the consumer. Consumers want some indication and will not make a purchasing decision until they are sure they won’t open their wallet for a day-time robbery on consumables, as they do for ink-jets.</p>
+<p>Unfortunately, most manufacturers stick to pushy sales tactics that do not genuinely highlight strengths and weaknesses of a particular device. Getting reliable information beyond what is said in a glossy brochure is not always easy either.</p>
+<h2>Test prints and technical advice</h2>
+<p>Providing an opportunity to do full colour test prints can be the best point-of-sale marketing. It’s hard to resist when you see a stunning quality picture appearing before your eyes.<br />
+Many sales people are simply not qualified enough to sell a colour laser printer. The technology is quite complex and people do ask questions they wouldn’t ask buying a B/W printer.</p>
+<h2>Full colour printing – what for?</h2>
+<p>It’s a good question. Obviously, businesses would like to do full colour printing in house, if it was easy enough to do and cost them less overall than outsourcing it to a printing company. The likely candidates for in-house printing are marketing and presentation products, as well as stationery, like business cards, letterheads, compli-slips and so on. Individuals would like to print photos, images, postcards, small posters and other things for fun or leisure.</p>
+<p><strong>Can business do printing in-house even if they had a colour printer?<br />
+Only to a very limited extent!</strong></p>
+<h2>Manufacturers are missing the reality</h2>
+<p>The actual process of printing out a page is only a small step in a larger process that consists of:</p>
+<p>&#8211; <strong>the inception</strong> – the idea exists in someone’s head or as a rough sketch on a whiteboard<br />
+&#8211; <strong>layout </strong>– usually outsourced to a professional designer<br />
+&#8211; <strong>content </strong>– prepared in-house and passed onto the designers<br />
+&#8211; <strong>printing </strong>– yes, can do this now<br />
+&#8211; <strong>finishing and assembling</strong> – includes cutting, folding, stapling, binding, laminating</p>
+<p>Production of effective marketing materials requires much more than plain colour printing.<br />
+Somehow printer manufacturers ignore the rest of the process and tend to think in the terms of B/W printing of documents on plain A4.</p>
+<p>A more detailed analysis of the missing bits will follow in the coming posts.</p>
+<h2>What others say</h2>
+<p><strong>Jim Lyons</strong> (a very reputable voice in printer manufacturing) posted his observations on adoption of full colour printing in his “<a href="http://jimlyonsobservations.blogspot.com/2007/01/observations-all-color-all-time.html">Observations: All Color All The Time?</a>” article.</p>
+<p><strong>Vince Ferraro</strong>, a Vice President of Worldwide Marketing for the HP LaserJet Business Unit, had an <a href="http://h20325.www2.hp.com/blogs/laserjet/archive/2006/12/15/2085.html">interesting post on in-house marketing</a> that only proves the point that HP still thinks in terms of B/W printing process upgraded to full colour.</p>
+<p>Compare what <strong>Frank J. Romano</strong>, professor emeritus from School of Print Media in Rochester Institute of Technology was saying <a href="http://print.rit.edu/pubs/picrm200405.pdf">about printing trends back in 2004</a>.</p>
+<p><strong>Xerox </strong>has a <a href="http://www.office.xerox.com/small-business/printing_brochures/enus.html">special page for printers</a> recommended for in-house printing. The page includes a handful of document templates and layouts.</p>
+<p>Speaking of Xerox &#8230;<br />
+Remember that good old joke of making a copy of something &#8230; very private? Here are 2 variations in case you haven&#8217;t seen them <img src="../../wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>European version:<br />
+[youtube=&#8221;http://www.youtube.com/watch?v=6QobgQuSFDQ&#8221;]</p>
+<p>Japaneese version:<br />
+[youtube=&#8221;http://www.youtube.com/watch?v=a12nBoBQ2qk&#8221;]</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/23/printing-in-house-%25e2%2580%2593-still-too-hard/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-100">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/21/assembly-of-elements/index.html" rel="bookmark" title="Permanent Link to Assembly of Elements">Assembly of Elements</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/graphic-design/index.html" rel="category tag">Graphic design</a></small></div>
+              <small>January 21st, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p class="style23" align="center"><font face="georgia"><a href="http://web-to-print.zetaprints.com/?attachment_id=109" rel="attachment wp-att-109" title="elements.jpg"><img src="http://webtoprint.files.wordpress.com/2007/01/elements.jpg" alt="elements.jpg" align="middle" /></a></font></p>
+<p align="justify"><font face="georgia">This article is the the fourth and final of my series on the key elements of design. After having individually placed color, font and texture in the spotlight, it is just proper to culminate with something that will put all these elements together; after all, the reason why we dig into these elements one-by-one is so they can be put (together) into proper use in this thing we call <strong>design</strong>.</font></p>
+<p align="justify"><font face="georgia">In conformity with the previous articles, this writing will stray from high-falluting assertations and focus only on the practical aspects.</font></p>
+<p align="center"><font face="georgia"> </font></p>
+<p align="center"><font face="georgia"><strong>VOCABULARY REVIEW </strong></font></p>
+<p align="justify"><font face="georgia">References  such as this <a href="http://dictionary.reference.com/">online  dictionary</a> provide several definitions of the word design. The ones relevant to our topic are as follows:</font></p>
+<p align="left"><font face="georgia"><strong><a href="http://dictionary.reference.com/browse/design">de·sign</a></strong></font></p>
+<ol>    <font face="georgia"></p>
+<li>
+<p align="left">to  	prepare the preliminary sketch or the plans for (a work to be  	executed), especially to plan the form and structure of &#8230;</p>
+</li>
+<li>
+<p align="left">to  	plan and fashion artistically or skillfully.</p>
+</li>
+<li>
+<p align="left">organization  	or structure of formal elements in a work of art; composition.</p>
+</li>
+<li>
+<p align="left">adaptation  	of means to a preconceived end.</p>
+</li>
+<p></font></ol>
+<p align="center"><font face="georgia"><a href="http://web-to-print.zetaprints.com/?attachment_id=110" rel="attachment wp-att-110" title="purposeful.jpg"><img src="http://webtoprint.files.wordpress.com/2007/01/purposeful.jpg" alt="purposeful.jpg" align="middle" /></a></font></p>
+<p align="justify"><font face="georgia">In  the field of computer programming,  web authoring and digital art, the definition of design <strong>should</strong> in essence encompass all of the above. That is, priority should not be of aesthetics alone. Rather, aesthetic value should be well balanced with that of functionality.</font></p>
+<p align="justify"><font face="georgia"><strong>PURPOSE OF DESIGN </strong></font></p>
+<p align="center"><font face="georgia"><a href="http://web-to-print.zetaprints.com/?attachment_id=111" rel="attachment wp-att-111" title="guide.jpg"><img src="http://webtoprint.files.wordpress.com/2007/01/guide.jpg" alt="guide.jpg" align="middle" /></a></font></p>
+<p align="justify"><font face="georgia">The reason for design is what the designer should center on when putting all the bits and pieces together. In other words, what the end product is for should never be put aside during conceptualization and assembly. And what is the real purpose of design? Almost always, the answer would be and should be <em>to stimulate the end user&#8217;s  behavior</em>. Projects are not made for self gratification; they are done to produce results. In the IT world, the result desired is for the finished project to make the viewer or user to do something such as buy a product, sign up for membership, or simply to convince them to believe in that thing which the project is about. This being the guiding rule, the choice of color, font and texture and their assembly should be such that the completed design is able to compel its audience to a desired action or conviction.</font></p>
+<p align="justify"><font face="georgia"><strong>FROM SELECTION OF ELEMENTS TO ASSEMBLY </strong></font></p>
+<p><font face="georgia"><a href="http://web-to-print.zetaprints.com/?attachment_id=112" rel="attachment wp-att-112" title="yinyang.jpg"><img src="http://webtoprint.files.wordpress.com/2007/01/yinyang.jpg" alt="yinyang.jpg" align="left" /></a></font></p>
+<p align="justify"><font face="georgia">Let&#8217;s say the specific desired end-user-behavior has been clearly identified. The challenge now is for the designer to balance visual appeal with usability. He has to come up with something that would create a purposeful blending of all his design elements; something that stimulate audience behavior, causing them to reflect and interact with what they see.</font></p>
+<p align="justify"><font face="georgia">Some  pointers to consider when blending in design elements:</font></p>
+<ul>    <font face="georgia"></p>
+<li>
+<p align="justify">Chose colors that speak of the product in question. Keep in mind that some colors actually conflict with some ideas. For instance, the color blue should not be used in themes about food. Blue ruins the appetite. That is why you would seldom see blue-colored food.</p>
+</li>
+<li>
+<p align="justify">Limit the use of special fonts to headings and titles or logos. For the majority of the text, chose fonts that have a general appeal.</p>
+</li>
+<li>
+<p align="justify">Textures should be used sparingly. Only the newbies and mediocre designers would be too excited to use a whole selection of (contrasting) textures at the same time.</p>
+</li>
+<li>
+<p align="justify">If you put one element on top of another, make sure they don&#8217;t bleed into each other. They should be matching in their conceptual value but should maintain distinct visibility.</p>
+</li>
+<li>
+<p align="justify">Do not stray from you general motif. If you are designing for Valentine&#8217;s be careful not to use  green in a way that will make you  end up having something for Christmas.</p>
+</li>
+<p></font></ul>
+<p align="justify"><font face="georgia">You can only achieve real aesthetic appeal if you have assembled everything harmoniously. Anything contradicting is hurting to the eyes.</font></p>
+<p align="justify"><font face="georgia"> </font></p>
+<p align="justify"><font face="georgia"><strong>FINAL CHECK</strong></font></p>
+<p align="justify"><font face="georgia">Before posting your work, close everything and then reopen. View your page from a bit of distance and contemplate if you have assembled meaningfully. Think like a viewer and see for yourself if your design is compelling enough to elicit the desired response. If it has flaws, go back to the drawing board and redo what has to be redone.</font></p>
+<ul>    <font face="georgia"></p>
+<li>
+<p align="justify">Do  	your individual design elements speak the same thought? Do they  	agree with one another? All conflicts must be resolved. <a href="http://web-to-print.zetaprints.com/?attachment_id=113" rel="attachment wp-att-113" title="check.jpg"><img src="http://webtoprint.files.wordpress.com/2007/01/check.jpg" alt="check.jpg" align="right" hspace="20" /></a></p>
+</li>
+<li>
+<p align="justify">Does  	your design, in its totality, communicate the exact thing that  	should be said? Will it not mislead your audience?</p>
+</li>
+<li>
+<p align="justify">Is information communicated in an effective (and easy) way? Make sure your end-user does not need to do any trial-and-error or guessing.</p>
+</li>
+<p></font></ul>
+<p align="left"><font face="georgia">Note  that all items in this checklist are  in regard to functionality  and usability.</font></p>
+<p align="justify"><font face="georgia"> </font></p>
+<p align="justify"><font face="georgia"><strong>A LI&#8217;L BIT MORE TO PONDER ON</strong></font></p>
+<p align="justify"><font face="georgia">If your design is too plain, nobody would need your design expertise. If your design is too complicated, nobody would understand what you&#8217;ve created. If your design is too new, your viewers would look for something they&#8217;re accustomed to. If your design is too old, your viewers would say you have no originality, no ingenuity. If your design has too much “special features”, your audience will get lost inside your jungle of unnecessary add-ons and will totally miss the most important thing there.</font></p>
+<p align="justify"><font face="georgia">It is always wise and practical to have just the right dose of what is needed. A good designer is one who has good control aside from good taste. His design is always the right stuff because it&#8217;s made with the right ingredients in the right proportions. That is why he gets more audience and that is how he wins citations.</font></p>
+<p align="justify"><font face="georgia">Good  luck and here&#8217;s wishing you&#8217;ll be looking at your finished work with a  smiling sigh and say, “<strong><em>I&#8217;m good!</em></strong>”</font></p>
+<p align="justify"><font face="georgia">^_^  Gracey</font></p>
+<p align="justify"><font face="georgia"> </font></p>
+<p align="justify"><font face="georgia">PS:</font></p>
+<p align="justify"><font face="georgia">Here&#8217;s another greeting card you can use. Add more text or print it as is on glossy photo paper. Cut along the edges, leaving no white space, then paste it onto heavy card stock of complimenting color. Finish off by adding a dainty ribbon.</font></p>
+<p align="center"><font face="georgia"><a href="http://web-to-print.zetaprints.com/?attachment_id=114" rel="attachment wp-att-114" title="blue_card.jpg"><img src="http://webtoprint.files.wordpress.com/2007/01/blue_card.jpg" alt="blue_card.jpg" align="middle" /></a></font></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/21/assembly-of-elements/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-93">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/21/2007-01-21-sunday/index.html" rel="bookmark" title="Permanent Link to 2007 &#8211; 01 &#8211; 21, Sunday">2007 &#8211; 01 &#8211; 21, Sunday</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/zetaprints-features/update-summaries/index.html" rel="category tag">Update summaries</a></small></div>
+              <small>January 21st, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <h2>Update highlights</h2>
+<p><strong>&#8211; public access (no registration required) option for catalogues<br />
+&#8211; use Open Type fonts with PostScript outlines<br />
+</strong></p>
+<h2>Read more in individual sections</h2>
+<p><a target="_blank" href="http://web-to-print.zetaprints.com/2007/01/21/business-name-is-optional-in-catalogues/">Business name is optional in catalogues</a></p>
+<p><a target="_blank" href="http://web-to-print.zetaprints.com/2007/01/21/102/">Unsuccessful registration notification</a></p>
+<p><a target="_blank" href="http://web-to-print.zetaprints.com/2007/01/21/public-access-enabled-now/">Public access enabled now</a></p>
+<p><a target="_blank" href="http://web-to-print.zetaprints.com/2007/01/21/use-of-post-script-fonts/">Use of Post Script fonts</a></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/21/2007-01-21-sunday/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="navigation">
+            <div class="alignleft"><a href="../30/index.html" >&laquo; Older Entries</a></div>
+            <div class="alignright"><a href="../28/index.html" >Newer Entries &raquo;</a></div>
+          </div>
+          <br /><br /><br /><br />
+        </div>
+      </div>
+      <hr />
+    </div>
+  </div>
+
+<div id="footer-container" class="container">
+  <div id="footer">
+    <div id="bottomnav">
+      <!-- a id="pagecounter" href="http://whos.amung.us/show/9bm3msts"><img src="http://whos.amung.us/widget/9bm3msts" alt="hit counter" border="0" height="29" width="81" /></a -->
+      <ul>
+        <li class="first"><a href="../../../about-us/index.html" title="About ZetaPrints">About ZetaPrints</a></li>
+        <li><a href="../../../about-us/contact-us/index.html" title="Contact us">Contact us</a></li>
+        <li><a href="http://zetaprints.com/" title="Log in">Log in</a></li>
+        <li><a href="../../../web-to-print-legal/privacy-policy/index.html" title="Privacy policy">Privacy</a></li>
+        <li><a href="../../../sitemap/index.html" title="Sitemap">Sitemap</a></li>
+        <li><a href="../../../about-us/summary-of-terms-and-conditions/index.html" title="Terms and conditions">Terms of Service</a></li>
+        <li><a href="../../index.html" title="Web-to-print Blog">Web-to-print Blog</a></li>
+        <li><a href="../../../help/index.html" title="Web-to-print Help">Web-to-print Help</a></li>
+      </ul>
+    </div>
+    <p><a href="../../index.html" title="Web-to-print Blog"><img class="footer-icon" alt="Blog" src="../../wp-content/themes/water-zp-3/images/blog.png"/></a>&nbsp;
+<a href="http://twitter.com/zetaprints" title="Follow us on twitter"><img class="footer-icon" alt="Twitter" src="../../wp-content/themes/water-zp-3/images/twitter_16.png"/></a>&nbsp;
+&copy; 2006-2012 ZetaPrints Ltd. All rights reserved. Powered by <a href="http://wordpress.org">WordPress</a>.</p>
+    <a href="#header" title="Back to Top" class="top-btn">Back to Top</a>
+  </div>
+</div>
+
+<script type="text/javascript">
+    (function(){
+        var ga = document.createElement('script');
+        ga.type="text/javascript";
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1132851-1']);
+    _gaq.push(['_trackPageview']);
+</script>
+</body>
+</html>
+
+<!-- Localized -->

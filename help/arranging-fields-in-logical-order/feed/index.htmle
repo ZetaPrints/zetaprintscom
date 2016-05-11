@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Arranging fields in logical order</title>
+	<atom:link href="http://www.zetaprints.com/help/arranging-fields-in-logical-order/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help/arranging-fields-in-logical-order/</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Thu, 09 Apr 2009 22:25:56 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>By: From image to web-to-print template &#124; Web-to-print Help</title>
+		<link>http://www.zetaprints.com/help/arranging-fields-in-logical-order/comment-page-1/#comment-47</link>
+		<dc:creator><![CDATA[From image to web-to-print template &#124; Web-to-print Help]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2008 03:24:58 +0000</pubDate>
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/template-preparation/%post-name%/#comment-47</guid>
+		<description><![CDATA[[...] if the elements in the object browser appear in the same order as you would want them to appear in the form for user input. In this example Game name appears first, when it should appear after Time to play [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] if the elements in the object browser appear in the same order as you would want them to appear in the form for user input. In this example Game name appears first, when it should appear after Time to play [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Localized -->

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en-US"
+  xml:base="http://www.zetaprints.com/help/wp-atom.php"
+   >
+	<title type="text">Web-to-print and Dynamic Imaging Help</title>
+	<subtitle type="text">Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</subtitle>
+
+	<updated>2013-12-11T02:20:17Z</updated>
+
+	<link rel="alternate" type="text/html" href="../../index.html" />
+	<id>http://www.zetaprints.com/help/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="index.html" />
+
+	<generator uri="https://wordpress.org/" version="4.4.1">WordPress</generator>
+	<entry>
+		<author>
+			<name>JuroZeta</name>
+					</author>
+		<title type="html"><![CDATA[Bulk editing text fields]]></title>
+		<link rel="alternate" type="text/html" href="../../bulk-editing-text-fields/index.html" />
+		<id>http://www.zetaprints.com/help/?p=11050</id>
+		<updated>2012-07-23T20:41:17Z</updated>
+		<published>2012-07-23T11:48:27Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="Text fields management" />		<summary type="html"><![CDATA[The Text fields page for each template offers a way of editing the templates&#8217; text field parameters and copying them in bulk, across similar fields throughout the catalog. This feature should come in handy when you want to set certain rules for multiple text fields from templates in your catalogs at once. Edit web-to-print text [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>JuroZeta</name>
+					</author>
+		<title type="html"><![CDATA[Free signage web-to-print templates]]></title>
+		<link rel="alternate" type="text/html" href="../../free-outdoor-sign-web-to-print-templates/index.html" />
+		<id>http://www.zetaprints.com/help/?p=11010</id>
+		<updated>2012-06-15T07:25:11Z</updated>
+		<published>2012-06-14T12:03:41Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="Product guides" />		<summary type="html"><![CDATA[Do you need free realestate outdoor sign web-to-print templates ready to go? We have a few yard sign web-to-print templates free to download and use in your own web-to-print stores. You can try out a few of them in our demo store. For Sale by Owner web-to-print templates These FSBO web-to-print templates have variable background [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>JuroZeta</name>
+					</author>
+		<title type="html"><![CDATA[Leader dots]]></title>
+		<link rel="alternate" type="text/html" href="../../leader-dots/index.html" />
+		<id>http://www.zetaprints.com/help/?p=10967</id>
+		<updated>2012-04-04T01:42:42Z</updated>
+		<published>2012-04-04T00:17:28Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="Text fields" />		<summary type="html"><![CDATA[Leader dots are used to fill in the empty space between tabs and make it visually easier for the reader to connect two parts of the same line. The use of leader dots is common with: Tables of content in books, magazines etc. Restaurant menus Schedules Event flyers Brochures Business cards This post explains how [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>JuroZeta</name>
+					</author>
+		<title type="html"><![CDATA[Wrapping paper]]></title>
+		<link rel="alternate" type="text/html" href="../../wrapping-web-to-print-paper/index.html" />
+		<id>http://www.zetaprints.com/help/?p=10888</id>
+		<updated>2011-12-21T21:36:00Z</updated>
+		<published>2011-12-22T04:36:13Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="Product guides" />		<summary type="html"><![CDATA[Wrapping paper is a kind of paper designed mainly for gift wrapping. Its purpose is purely decorative but also to ensure the element of surprise for the item it hides inside. Lets see what we need to know before creating a wrapping paper web-to-print template. Things to consider: high image resolution &#8211; at 300 DPI [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+						<uri>http://www.mysite.com</uri>
+					</author>
+		<title type="html"><![CDATA[Template reprocessing]]></title>
+		<link rel="alternate" type="text/html" href="../../template-reprocessing/index.html" />
+		<id>http://www.zetaprints.com/help/?p=10841</id>
+		<updated>2011-09-27T12:25:56Z</updated>
+		<published>2011-09-22T03:17:02Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="Template management" />		<summary type="html"><![CDATA[Uploaded web-to-print and dynamic imaging templates are processed into a special internal format for preview and PDF generation. Sometimes templates need to be re-processed to enable new features. New web-to-print features In some cases, new web-to-print and dynamic imaging features rely on the way the templates were processed and won&#8217;t work with templates processed before [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+						<uri>http://www.mysite.com</uri>
+					</author>
+		<title type="html"><![CDATA[Magento and API billing]]></title>
+		<link rel="alternate" type="text/html" href="../../magento-and-api-billing/index.html" />
+		<id>http://www.zetaprints.com/help/?p=10829</id>
+		<updated>2011-10-14T14:22:11Z</updated>
+		<published>2011-09-19T10:25:25Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="Billing" />		<summary type="html"><![CDATA[Magento and API billing works slightly differently from billing for the core web-to-print interface. API web-to-print orders There are two types of web-to-print order requests: save order complete order Normal charges apply when ZetaPrints generates output files, which happens when complete order function is called. Save order is usually non-billable, unless the template has an [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>JuroZeta</name>
+					</author>
+		<title type="html"><![CDATA[Non-breaking space in web-to-print documents]]></title>
+		<link rel="alternate" type="text/html" href="../../non-breaking-space-in-web-to-print-documents/index.html" />
+		<id>http://www.zetaprints.com/help/?p=10766</id>
+		<updated>2011-07-17T05:44:12Z</updated>
+		<published>2011-07-16T10:40:04Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="Text fields" />		<summary type="html"><![CDATA[Some texts, like phone numbers, make sense only when the whole string stays together. Breaking the groups of digits into separate lines looks odd and confusing. By using non-breaking spaces and non-breaking hyphens we can force the web-to-print and dynamic imaging engine to keep a string of text together. Lets try it on a business [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>JuroZeta</name>
+					</author>
+		<title type="html"><![CDATA[Custom text field in the checkout form]]></title>
+		<link rel="alternate" type="text/html" href="../../custom-text-field-in-the-checkout-form/index.html" />
+		<id>http://www.zetaprints.com/help/?p=10796</id>
+		<updated>2011-07-13T07:22:43Z</updated>
+		<published>2011-07-12T11:37:28Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="Prices and payments" /><category scheme="http://www.zetaprints.com/help" term="Checkout" /><category scheme="http://www.zetaprints.com/help" term="Optional features" />		<summary type="html"><![CDATA[You may sometimes require a free text field in the checkout form. This extra field option can prove useful for a number of reasons (discount coupons, specific contact details and other questions). Lets add an extra text field in the checkout form where customers can provide a discount coupon code. Navigate to the template details [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+						<uri>http://www.mysite.com</uri>
+					</author>
+		<title type="html"><![CDATA[List of scripts]]></title>
+		<link rel="alternate" type="text/html" href="../../list-of-web-to-print-scripts/index.html" />
+		<id>http://www.zetaprints.com/help/?p=10299</id>
+		<updated>2012-07-06T16:19:11Z</updated>
+		<published>2011-05-24T18:19:03Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="Branding" />		<summary type="html"><![CDATA[This post contains a list of available scripts to add interactivity to a ZetaPrints web-to-print portal. The scripts can be turned on and off by copying script URLs. All scripts are released as open source and can be modified and re-used. Enabling scripts Copy the URLs of scripts you want to turn on into JavaScript [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>JuroZeta</name>
+					</author>
+		<title type="html"><![CDATA[Using CorelDRAW styles for sub-lists]]></title>
+		<link rel="alternate" type="text/html" href="../../using-coreldraw-styles-for-sub-lists/index.html" />
+		<id>http://www.zetaprints.com/help/?p=10397</id>
+		<updated>2010-07-12T13:27:55Z</updated>
+		<published>2010-07-07T15:55:26Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="Text fields" /><category scheme="http://www.zetaprints.com/help" term="Bullets" /><category scheme="http://www.zetaprints.com/help" term="List" /><category scheme="http://www.zetaprints.com/help" term="Sub-list" />		<summary type="html"><![CDATA[A basic list can be able to contain second level bullets. Since each input field in a text frame can have a special custom style assigned to it, we can use this to set up sub-list styles in our web-to-print and dynamic imaging templates. Lets add a sub-list option to our list with different bullet [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>JuroZeta</name>
+					</author>
+		<title type="html"><![CDATA[Using CorelDRAW styles for lists]]></title>
+		<link rel="alternate" type="text/html" href="../../using-coreldraw-styles-for-lists/index.html" />
+		<id>http://www.zetaprints.com/help/?p=10352</id>
+		<updated>2010-07-12T13:27:46Z</updated>
+		<published>2010-07-06T12:25:06Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="Text fields" /><category scheme="http://www.zetaprints.com/help" term="Bullets" /><category scheme="http://www.zetaprints.com/help" term="List" />		<summary type="html"><![CDATA[The bullet-proof method of creating bulleted lists is by using CorelDRAW styles. This will ensure a reliable behavior of the lists you&#8217;ve incorporated in your web-to-print and dynamic imaging templates. Graphic and Text styles CorelDRAW styles can be located and edited through the Graphic and Text styles docker (Window / Dockers / Graphic and Text [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+						<uri>http://www.mysite.com</uri>
+					</author>
+		<title type="html"><![CDATA[Custom domains explained]]></title>
+		<link rel="alternate" type="text/html" href="../../domain-name-set-up/index.html" />
+		<id>http://www.zetaprints.com/help/?p=10318</id>
+		<updated>2010-07-12T13:37:03Z</updated>
+		<published>2010-06-29T05:39:55Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="Custom domains" /><category scheme="http://www.zetaprints.com/help" term="cname" /><category scheme="http://www.zetaprints.com/help" term="dns" /><category scheme="http://www.zetaprints.com/help" term="domains" /><category scheme="http://www.zetaprints.com/help" term="URL" />		<summary type="html"><![CDATA[Web-to-print portals running on ZetaPrints web-to-print and dynamic imaging platform need to be placed under custom domain names to get full functionality and API access. This post explains how custom domain names are used. API key and branding API access to web-to-print portals and customization (branding) are only available via custom domain names. You need [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>JuroZeta</name>
+					</author>
+		<title type="html"><![CDATA[How to get API key]]></title>
+		<link rel="alternate" type="text/html" href="../../how-to-get-api-key/index.html" />
+		<id>http://www.zetaprints.com/help/?p=10302</id>
+		<updated>2011-10-14T14:28:22Z</updated>
+		<published>2010-06-25T17:14:02Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="API &amp; integration" /><category scheme="http://www.zetaprints.com/help" term="API key" />		<summary type="html"><![CDATA[The API key is available to holders of master (printer, publisher, business) account only. Step 1 &#8211; Register a printer account Master account holders have full control over their virtual web-to-print sites. Sign up as a printer with ZetaPrints to gain full access to ZetaPrints web-to-print and dynamic imaging features. Step 2 &#8211; Custom domain [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+						<uri>http://www.mysite.com</uri>
+					</author>
+		<title type="html"><![CDATA[Shape coordinates for editing]]></title>
+		<link rel="alternate" type="text/html" href="../../shape-coordinates-for-editing/index.html" />
+		<id>http://www.zetaprints.com/help/?p=10277</id>
+		<updated>2010-06-13T23:15:44Z</updated>
+		<published>2010-06-12T05:06:41Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="API &amp; integration" /><category scheme="http://www.zetaprints.com/help" term="coordinates" /><category scheme="http://www.zetaprints.com/help" term="image editing" /><category scheme="http://www.zetaprints.com/help" term="shapes" />		<summary type="html"><![CDATA[Dynamic imaging shapes can be located on the preview image using relative coordinates as explained in Shape metadata post. ZetaPrints dynamic imaging and web-to-print system accepts a number of parameters with every text and image field to move/crop/resize the shapes they are in. This post explains how the coordinates should be calculated. The coordinate system [&#8230;]]]></summary>
+		</entry>
+		<entry>
+		<author>
+			<name>admin</name>
+						<uri>http://www.mysite.com</uri>
+					</author>
+		<title type="html"><![CDATA[Shape metadata]]></title>
+		<link rel="alternate" type="text/html" href="../../dynamic-imaging-shape-metadata/index.html" />
+		<id>http://www.zetaprints.com/help/?p=10271</id>
+		<updated>2010-09-14T11:37:22Z</updated>
+		<published>2010-06-12T04:21:57Z</published>
+		<category scheme="http://www.zetaprints.com/help" term="API &amp; integration" /><category scheme="http://www.zetaprints.com/help" term="coordinates" /><category scheme="http://www.zetaprints.com/help" term="Page" /><category scheme="http://www.zetaprints.com/help" term="position" /><category scheme="http://www.zetaprints.com/help" term="shapes" />		<summary type="html"><![CDATA[Web-to-print templates contain information about shape and field position, alignment, anchor points and other metadata to assist with client side scripting and interactive editing in dynamic imaging and web-to-print applications. This post describes some of the metadata parameters and concepts. Coordinates The system of coordinates is based on the visible part of a page design [&#8230;]]]></summary>
+		</entry>
+	</feed>
+
+<!-- Localized -->

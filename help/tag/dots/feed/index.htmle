@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dots &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/dots/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Infinite dots</title>
+		<link>http://www.zetaprints.com/help/infinite-dots/</link>
+		<pubDate>Mon, 31 Aug 2009 13:54:13 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[dots]]></category>
+		<category><![CDATA[PowerClip]]></category>
+
+		<guid isPermaLink="false">/help/?p=7428</guid>
+		<description><![CDATA[A design inspired by art of Yayoi Kusama, but technically is similar to our color blindness test test design technique.  Here&#8217;s a design where the same dotted pattern is used as a PowerClip container of a variable image field and the text frame contains that same image. Before you start / Create the pattern for [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

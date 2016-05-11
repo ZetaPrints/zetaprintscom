@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Text tricks &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/text-tricks/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Corner text</title>
+		<link>http://www.zetaprints.com/help/image-generation-corner-text/</link>
+		<pubDate>Mon, 07 Dec 2009 14:13:30 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Graffiti]]></category>
+		<category><![CDATA[Perspective]]></category>
+		<category><![CDATA[reality]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=8293</guid>
+		<description><![CDATA[This is a simple trick achieved with the help of CorelDRAW Envelope tool. Use this technique to simulate a realistic text perspective on a corner of a wall in your web-to-print and dynamic imaging templates. Before you start Import the background image (photo of a corner wall) in your CorelDRAW template document; Input the dummy [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Font patterns VS PowerClip patterns</title>
+		<link>http://www.zetaprints.com/help/font-patterns-vs-powerclip-patterns/</link>
+		<pubDate>Tue, 13 Jan 2009 12:16:43 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Fonts]]></category>
+		<category><![CDATA[Font manipulation]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=3973</guid>
+		<description><![CDATA[The art of wood inserts and incrustation can can be added to your web to print designs as if they were tailor-made. This technique is demonstrated on wood inserts, but can be applied to other substrates like tiles, textile or texture. PowerClip approach Using text fields as PowerClip containers is an easy way to achieve [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Modifying fonts for effects</title>
+		<link>http://www.zetaprints.com/help/modifying-fonts-for-effects/</link>
+		<pubDate>Fri, 19 Dec 2008 21:33:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Fonts]]></category>
+		<category><![CDATA[Font manipulation]]></category>
+		<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=3540</guid>
+		<description><![CDATA[Some designs look impossible as web to print templates because of the amount of manipulation by hand they need. Using modified fonts may help with turning seemingly custom designs into web to print ones. Photoshop approach Click to view PS tutorial In this example the text is placed on a canvas and the stitches are [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Watermarks</title>
+		<link>http://www.zetaprints.com/help/watermarks/</link>
+		<pubDate>Thu, 11 Sep 2008 14:29:31 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Protection]]></category>
+		<category><![CDATA[Text tricks]]></category>
+		<category><![CDATA[web-to-print]]></category>
+
+		<guid isPermaLink="false">/help/?p=439</guid>
+		<description><![CDATA[The watermark is a widely used protection method by designers. You can add a text, image or any kind of shaped watermark to your templates to protect them from being used without permission. A sample CDR file can be downloaded from your Sample Stationery catalog (go to Summary page). Example You can add a watermark [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Using text as a PowerClip container</title>
+		<link>http://www.zetaprints.com/help/using-text-as-a-powerclip-container/</link>
+		<pubDate>Thu, 21 Aug 2008 02:45:36 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Image fields]]></category>
+		<category><![CDATA[Image inside text]]></category>
+		<category><![CDATA[Miscelaneous]]></category>
+		<category><![CDATA[Power Clip]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=327</guid>
+		<description><![CDATA[Artistic text can be used as a PowerClip container in web-to-print templates with both, the text and the image inside it as variable fields. Watch a Flash demonstration on this topic Example / Start by setting the input field names for the image placeholder and the Artistic text inside the Object manager (Window/Dockers/Object Manager). / [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Conditional text removal</title>
+		<link>http://www.zetaprints.com/help/conditional-removal-of-parts-of-the-text/</link>
+		<pubDate>Wed, 13 Aug 2008 21:31:36 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=283</guid>
+		<description><![CDATA[Some parts of text may need to appear only if other parts are present. E.g. Ph. shows only if there is a phone number, Fax only if there is a fax number. A sample CDR file can be downloaded from your Sample Stationery catalog (go to Summary page). Example Sometimes phone numbers contain an extension [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Conditional line removal</title>
+		<link>http://www.zetaprints.com/help/conditional-line-removal/</link>
+		<pubDate>Wed, 13 Aug 2008 18:45:34 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Optional text]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=277</guid>
+		<description><![CDATA[Sometimes the entire line needs to be removed from the web-to-print template if some of its parts are empty and the rest of the text should shift up or down.  It is  done using a single [square bracket. A sample CDR file can be downloaded from your Sample Stationery catalog (go to Summary page). Example [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Conditional object removal</title>
+		<link>http://www.zetaprints.com/help/conditional-object-removal/</link>
+		<pubDate>Wed, 13 Aug 2008 05:27:14 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[Optional Objects]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=273</guid>
+		<description><![CDATA[Some objects need to be removed from the your web-to-print template if some other elements are not present. E.g.  a balloon should only show if there is text inside it. A sample CDR file can be downloaded from your Sample Stationery catalog (go to Summary page). A comic book style balloon should only be visible [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Auto font resizing</title>
+		<link>http://www.zetaprints.com/help/auto-font-resizing/</link>
+		<pubDate>Tue, 12 Aug 2008 23:17:21 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=265</guid>
+		<description><![CDATA[A paragraph text frame can be set to to fit as much text in its boundary as entered by user with automatic font resizing. Watch a Flash demonstration on this topic A sample CDR file can be downloaded from your Sample Stationery web-to-print catalog (go to Summary page). Example A paragraph text frame to auto [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Multiple fields in a text frame 2</title>
+		<link>http://www.zetaprints.com/help/web-to-print-fields-2/</link>
+		<pubDate>Tue, 12 Aug 2008 02:12:04 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=259</guid>
+		<description><![CDATA[Sometimes web-to-print designs require flexibility and multiple fields within the same text frame.  This can be done using {curly brackets} and field names as the shape name. Watch a Flash demonstration on this topic A sample CDR file can be downloaded from your Sample Stationery catalog (go to Summary page). Example The phone number and [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Multiple fields in a text frame 1</title>
+		<link>http://www.zetaprints.com/help/web-to-print-fields-1/</link>
+		<pubDate>Sat, 09 Aug 2008 04:05:58 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=252</guid>
+		<description><![CDATA[Some web-to-print designs require multiple fields reside in a single text frame. It can be done using {curly brackets} and # as the object name in Object Manager to tell the web-to-print engine this text frame has variable fields in it. Watch a Flash demonstration on this topic A sample CDR file can be downloaded [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Tabbed indentation</title>
+		<link>http://www.zetaprints.com/help/tabbed-indentation/</link>
+		<pubDate>Tue, 24 Jun 2008 10:57:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[Align]]></category>
+		<category><![CDATA[Indent]]></category>
+		<category><![CDATA[Text Alignment]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=213</guid>
+		<description><![CDATA[Second a subsequent lines of a text field in a web-to-print template can be aligned to a tabbed position so the user input is automatically aligned the same way. Example Before user input was applied: After the user input was applied: Note, that this is a single paragraph text frame as illustrated in the image [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Advanced text with bullets</title>
+		<link>http://www.zetaprints.com/help/advanced-text-with-bullets/</link>
+		<comments>http://www.zetaprints.com/help/advanced-text-with-bullets/#comments</comments>
+		<pubDate>Mon, 23 Jun 2008 15:36:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[Bullets]]></category>
+		<category><![CDATA[List]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=207</guid>
+		<description><![CDATA[Lists with bullets can be mixed and matched with plain text within the same text frame using {brackets} or even made [optional] in web-to-print templates. Markup example Object name: Header;Intro;Features;Description {Header} [{Intro text } [{Feature 1 Feature 2 Feature 3} {Detailed description } Explanation Enclose bulleted text in {brackets} spanning multiple lines, if needed. Placing [&#8230;]]]></description>
+		<wfw:commentRss>http://www.zetaprints.com/help/advanced-text-with-bullets/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Paragraph style matching</title>
+		<link>http://www.zetaprints.com/help/paragraph-style-matching/</link>
+		<pubDate>Mon, 23 Jun 2008 04:55:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[Style matching]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=204</guid>
+		<description><![CDATA[Paragraph frames marked as fields retain their formatting with user input. E.g. if paragraph 1 is red and paragraph 2 is blue, they text entered by a user will be formatted red and blue as well. The entire text frame in the example on the left is one input field. The user input on the [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Yes/No checkboxes</title>
+		<link>http://www.zetaprints.com/help/yesno-checkboxes/</link>
+		<pubDate>Mon, 12 May 2008 08:00:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Text fields management]]></category>
+		<category><![CDATA[Check]]></category>
+		<category><![CDATA[Checkbox]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=197</guid>
+		<description><![CDATA[Sometimes it is necessary to give web-to-print users only Yes/No option instead of free text input, but YES would translate into a tick on a check box in the design and NO would translate to an empty check box. In the template Download sample web-to-print template (CorelDRAW X3). 1. Create the check boxes 2. Create [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Troubleshooting &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/category/template-errors/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Incompatible Magento extensions</title>
+		<link>http://www.zetaprints.com/magentohelp/incompatible-magento-extensions/</link>
+		<pubDate>Wed, 02 Nov 2011 14:56:08 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Troubleshooting]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=13405</guid>
+		<description><![CDATA[There are some extension out there that don&#8217;t mix well with some of our own extensions. This page lists all third party extensions that were reported as incompatible with Magento extensions developed by ZetaPrints. The reason why incompatibility occurs is primarily because multiple extensions affect same files in your Magento installation. In such cases you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There are some extension out there that don&#8217;t mix well with some of our own <a title="Magento extensions developed by ZetaPrints" href="https://www.magentocommerce.com/magento-connect/developer/ZetaPrints#extensions">extensions</a>. This page lists all third party extensions that were reported as incompatible with Magento extensions developed by <a title="ZetaPrints web-to-print and dynamic imaging" href="../../../../">ZetaPrints</a>.<span id="more-13405"></span></p>
+<p>The reason why incompatibility occurs is primarily because multiple extensions affect same files in your Magento installation. In such cases you will either have to remove the incompatible extension or uninstall our extension. Another option might be to <a title="Magento web-to-print partners" href="../../../../magento-web-to-print/magento-partners/">get a professional</a> Magento developer to resolve the issue for you, if possible.</p>
+<p><strong>Note.</strong> Read the <a title="Magento web-to-print frequently asked questions" href="../../../faq-2/">FAQ&#8217;s</a> and <a title="Magento web-to-print troubleshooting" href="../../../magento-imaging-troubleshooting/">troubleshoot</a> your problems before reporting incompatible extensions.</p>
+<table id="incop_ext_tbl">
+<tbody>
+<tr id="incop_ext_tbl_head">
+<td colspan="2"><strong>Extensions incompatible with ZetaPrints <a title="Web-to-print extension for Magento" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">Web-to-print extension</a></strong></td>
+</tr>
+<tr>
+<td colspan="2"><a title="Magento EasyTabs extension" href="http://www.magentocommerce.com/magento-connect/TemplatesMaster/extension/1725/magento-easytabs">Magento EasyTabs</a></td>
+</tr>
+<tr>
+<td colspan="2"><a title="Magento Customer Quote extension" href="http://www.boostmyshop.com/english/extension-devis.html">Customer Quote extension by Boost my Shop</a></td>
+</tr>
+<tr>
+<td id="incop_ext_tbl_blank"></td>
+<td id="incop_ext_tbl_report"><a title="Report incompatible extension" href="mailto:support@zetaprints.com">Report incompatible extension</a></td>
+</tr>
+</tbody>
+</table>
+<p>Please <a title="Report incompatible extension" href="mailto:support@zetaprints.com">notify us</a> if you run into a Magento extension that is incompatible with any of our own <a title="Magento extensions developed by ZetaPrints" href="https://www.magentocommerce.com/magento-connect/developer/ZetaPrints#extensions">extensions</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>FAQ for web-to-print</title>
+		<link>http://www.zetaprints.com/magentohelp/faq-2/</link>
+		<pubDate>Mon, 25 Oct 2010 12:23:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Troubleshooting]]></category>
+
+		<guid isPermaLink="false">http://ec2-184-72-207-169.compute-1.amazonaws.com/magentohelp/?p=11684</guid>
+		<description><![CDATA[Check your problem for a possible solution before sending a request for help to support@zetaprints.com. Be sure to also check the list of known incompatible extensions and find out if you have any of them installed in your Magento store. Web-to-print installation and configuration Q: Magento cannot find the extension by the key I gave [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Check your problem for a possible solution before sending a request for help to <a title="Contact us" href="mailto:support@zetaprints.com" target="_blank">support@zetaprints.com</a>.<span id="more-11684"></span></p>
+<p>Be sure to also check the list of <a title="Incompatible Magento extensions" href="../../../incompatible-magento-extensions/">known incompatible extensions</a> and find out if you have any of them installed in your Magento store.</p>
+<h2>Web-to-print installation and configuration</h2>
+<p><strong>Q: Magento cannot find the extension by the key I gave it.</strong></p>
+<p style="padding-left: 30px;"><strong>A:</strong> Check in <em>MagentoConnect </em>settings that you have <em>Beta/Alpha/Stable</em> settings set to match the version you are trying to install.</p>
+<p style="padding-left: 30px;"><strong>A:</strong> Check the key. There are different versions of it for different versions of Magento.</p>
+<p><strong>Q: Extension installed, but I don&#8217;t see the configuration tab</strong></p>
+<p style="padding-left: 30px;"><strong>A:</strong> Most likely it&#8217;s your cache. Disable it, uninstall the extension and install again. If this doesn&#8217;t help try logging out of the admin and logging back in.</p>
+<h2>No personalization available</h2>
+<p><strong>Q: I installed the extension, imported my templates, but there is no way to personalize the products. I see Add to cart buttons and it adds them directly to the cart if I click on it.</strong></p>
+<blockquote><p><strong>A: </strong>You are using a custom theme. See <a title="Magento custom theme integration" href="../../../custom-theme-integration/" target="_self">Custom theme: integration</a> and <a title="Magento custom two-step theme" href="../../../custom-2step-theme/" target="_self">Custom theme: two-step</a> pages for customization instructions. Alternatively, use the default ZetaPrints theme provided with the plugin. This can be configured on ZetaPrints <em>configuration page</em> in Magento.</p></blockquote>
+<h2>Interactive personalization</h2>
+<p><strong>Q: Clicking on a highlighted shape on the preview image freezes the interactive personalization editor. </strong></p>
+<blockquote><p><strong>A:</strong> The template was uploaded a while ago and needs to be <a title="Web-to-print template re-processing" href="../../../../help/template-reprocessing/">reprocessed</a> to be able to handle new features.</p></blockquote>
+<h2>Templates won&#8217;t import</h2>
+<p><strong>Q: Running the profile for templates importing results in &#8220;<em>Error in receiving list of catalogs</em>&#8221; message.</strong></p>
+<p style="padding-left: 30px;"><strong>A:</strong> First of all, read the error message it gives you. Most likely the answer is staring you in the face.</p>
+<blockquote><p><strong>A: </strong>Double-check the domain name and API key in the configuration.</p>
+<p><strong>A: </strong>Check that your ZetaPrints profile has no IP address restriction activated.</p>
+<p><strong>A: </strong>Error in receiving details for template <em>_template_guid_</em>. Leaving the template unmodified.</p>
+<p><strong>A: </strong>Check that the template exists in your ZetaPrints portal.</p>
+<p><strong>A: </strong>Error in receiving list of templates for <em>catalog _catalog_name_</em></p>
+<p><strong>A: </strong>Check that the catalog exists in your ZetaPrints portal.</p></blockquote>
+<p><strong>Q: Running the profile for templates synchronization results in &#8220;<em>Error in receiving catalogs: Zetaprints error: ; Curl error:</em>&#8221; message.</strong></p>
+<blockquote><p><strong>A:</strong> You may have used the wrong ZetaPrints domain name or you haven&#8217;t <a title="Web-to-print custom domain setup" href="../../../../help/domain-name-set-up/">activated</a> your custom domain yet.</p></blockquote>
+<blockquote><p><strong>A: </strong>Server misconfiguration.</p></blockquote>
+<h2>Theme customization for web-to-print and dynamic imaging</h2>
+<p><strong>Q: I followed <a title="web-to-print enabled themes" href="../../../custom-theme-integration/">instructions to enable web-to-print and dynamic imaging</a>, but it still won&#8217;t work on my site.</strong></p>
+<p style="padding-left: 30px;"><strong>A:</strong> You could have missed something. Double check the code. See if you get any errors in the logs.</p>
+<p style="padding-left: 30px;"><strong>A:</strong> Check if you have web-to-print and dynamic imaging theme included the <a title="web-to-print theme integration" href="../../../theme-configuration/">theme hierarchy</a></p>
+<p style="padding-left: 30px;"><strong>A: </strong>Use <em>FireBug </em>or a similar tool to see what files are loaded on our <a title="demo web-to-print and dynamic imaging" href="../../../../magento/">demo dynamic imaging site</a> compared to your test installation. Compare the versions both sites running, but it should be quite similar.</p>
+<p style="padding-left: 30px;"><strong>A:</strong> Check if you get any JS errors after the page have loaded. Your theme may have class names or ids missing.</p>
+<p style="padding-left: 30px;"><strong>A:</strong> Make sure the site works properly with our default web-to-print theme before enabling your custom theme.</p>
+<h2>Default preview isn&#8217;t showing</h2>
+<p><strong>Q: The default preview image isn&#8217;t showing. Update preview seems to work, but the preview isn&#8217;t showing again. I can see the preview by clicking on <em>Share preview</em> link URL.</strong></p>
+<p style="padding-left: 30px;"><strong>A: </strong>The structure of the preview container was modified in your theme or by some other extension. See Custom theme requirements section in <a title="web-to-print theme integration" href="../../../custom-theme-integration/">Custom web-to-print theme integration</a> manual.</p>
+<h2>Orders</h2>
+<p><strong>Q: I&#8217;m able to place the order but the output files are missing.</strong></p>
+<p style="padding-left: 30px;"><strong>A: </strong>If the output files are present on web-to-print portal side, the problem is with Magento not registering the response from ZetaPrints. This can be caused by short database timeout. Try increasing your database timeout settings.</p>
+<h2>Translations</h2>
+<p><strong>Q: I uploaded CSV files with translations, but the site is not translated.</strong></p>
+<p style="padding-left: 30px;"><strong>A: </strong>Check if the files are broken by opening them in a spreadsheet application like MS Excel</p>
+<h2>Nothing works!</h2>
+<p><strong>Q: I get all sorts of strange errors</strong></p>
+<p style="padding-left: 30px;">A: Make sure your site works flawlessly without any web-to-print and dynamic imaging enabled.</p>
+<p><strong>Q: ZetaPrints support is not helpful</strong></p>
+<p style="padding-left: 30px;"><strong>A: </strong>We are happy to point reasonably skilled people in the right direction. Try to provide us with detailed information about your installation. You may try our premium <a title="Premium web-to-print and dynamic imaging services" href="../../../../premium/">web-to-print and dynamic imaging support</a> as an easy alternative to have it all done for you.</p>
+<blockquote>
+<ul>
+<li>URL of the admin (if different from default)</li>
+<li>Link to a web-to-print product on your site</li>
+<li>Detailed description of the problem</li>
+<li>Screenshots of web-to-print settings page</li>
+<li>Screenshots of faulty screens or problem replication instructions</li>
+</ul>
+</blockquote>
+<p><strong>Q: I can&#8217;t make it work, I don&#8217;t want to pay ZetaPrints to make it work for me, I want someone to help me for free so I can make money from it</strong></p>
+<p style="padding-left: 30px;"><strong>A:</strong> Read about possible <a title="web-to-print and dynamic imaging support" href="../../../magento-web-to-print-support/">web-to-print and dynamic imaging support options</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Troubleshooting</title>
+		<link>http://www.zetaprints.com/magentohelp/magento-imaging-troubleshooting/</link>
+		<pubDate>Wed, 25 Aug 2010 14:34:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Troubleshooting]]></category>
+		<category><![CDATA[Bugs]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[Solution]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/help/?p=10562</guid>
+		<description><![CDATA[Common causes of problems with web-to-print extension for Magento: Incorrect configuration &#8211; missing steps, attributes not added, etc. Incorrect settings &#8211; check your ZetaPrints portal address. Use of custom theme &#8211; use our default theme if you do not know how to integrate the extension into a custom theme. File system permissions &#8211; make sure [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Common causes of problems with <a title="Magento web-to-print extension" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> for Magento:<span id="more-10562"></span></p>
+<ul>
+<li>Incorrect <a title="Web-to-print Magento configuration" href="../../../zetaprints-synchronization-settings/" target="_self">configuration</a> &#8211; missing <a title="Magento installation steps" href="../../../magento/" target="_self">steps</a>, attributes not added, etc.</li>
+<li>Incorrect settings &#8211; check your ZetaPrints portal address.</li>
+<li>Use of custom theme &#8211; use our <a title="Magento web-to-print theme configuration" href="../../../theme-configuration/" target="_self">default theme</a> if you do not know how to integrate the extension into a <a title="Magento custom theme integration" href="http://code.google.com/p/magento-w2p/wiki/CustomThemeNative" target="_self">custom theme</a>.</li>
+<li>File system permissions &#8211; make sure all writable folders have write access for Magento.</li>
+<li>Incompatible extensions &#8211; check if any third party extension you have installed is <a title="Incompatible Magento extensions" href="../../../incompatible-magento-extensions/">reported as incompatible</a> with our extensions.</li>
+</ul>
+<h2>Logging</h2>
+<p>Most problems can be resolved by looking at the logs.</p>
+<div style="display: table;">
+<p><img style="margin: 5px; float: right;" title="Magento enable loging" src="../../../wp-content/uploads/2010/08/magento_loging_enabled.png" alt="web-to-print storefront logging" width="400" height="327" /></p>
+<div style="position: relative; top: 15px; display: inline;">Enable logging in Magento at <em>System/Configuration/Developer/Log Settings</em> in admin interface.</div>
+</div>
+<p>All interactions will be logged into Magento log file (<em>system.log</em>) file in the <em>var/log</em> folder of Magento. The file cannot be accessed from outside, unless you explicitly allow so.</p>
+<h2>IP restriction</h2>
+<p>Your printer settings may only allow access from a single IP address. The symptom would be an error on data import or no templates are imported when there are definitely new or updated ones.</p>
+<div style="display: table;">
+<p><img style="margin: 5px; float: left;" title="Magento no IP restrictions" src="../../../wp-content/uploads/2010/08/magento_no_ip_restrictions.png" alt="web-to-print storefront IP" width="388" height="319" /></p>
+<div style="position: relative; top: 15px; display: inline;">Go to your ZetaPrints portal, log in as a printer and navigate to <a title="How to get API key" href="../../../../help/how-to-get-api-key/" target="_self">API</a> page. Make sure there is no restriction on the IP address or the IP is correct.</div>
+</div>
+<h2>Error on importing</h2>
+<ul>
+<li>Check <a title="Web-to-print Magento configuration" href="../../../zetaprints-synchronization-settings/" target="_self">configuration</a> page for correct <a title="How to get API key" href="../../../../help/how-to-get-api-key/" target="_self">API key</a> and <a title="Set up a custom domain name" href="../../../set-up-your-domain/" target="_self">domain</a> name.</li>
+<li>Check if the <a title="Magento data import profile XML" href="../../../import-web-to-print-data/" target="_self">profile XML</a> is generated correctly</li>
+<li>Read about <a title="Magento web-to-print data import" href="../../../import-web-to-print-data/" target="_self">importing templates</a>.</li>
+</ul>
+<h2>Nothing imports</h2>
+<ul>
+<li>Check if you have any templates to import</li>
+<li>Check if your settings import hidden templates or just the public ones &#8211; there may be nothing to import.</li>
+<li>Check if you have an IP restriction (see <a title="How to get API key" href="../../../../help/how-to-get-api-key/" target="_self">API page</a> on ZP)</li>
+</ul>
+<h2>File uploading limit</h2>
+<p>PHP has an option to limit the size of uploaded files. If your customers need to upload files larger than 2MB you have to increase this limit.</p>
+<p>Open PHP config file <em>php.ini</em>, find <em>upload_max_filesize</em> option and set its value in megabytes. For example:</p>
+<div class="codecolorer-container ini mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br /></div></td><td><div class="ini codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #666666; font-style: italic;">; Maximum allowed size for uploaded files.</span><br />
+<span style="color: #000099;">upload_max_filesize</span> <span style="color: #000066; font-weight:bold;">=</span><span style="color: #660066;"> 10M</span></div></td></tr></tbody></table></div>
+<p>Also check <em>post_max_size</em> option in the PHP configuration file. The value of the option should be bigger than value of <em>upload_max_filesize</em> option.</p>
+<p>Example:</p>
+<div class="codecolorer-container ini mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br /></div></td><td><div class="ini codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #666666; font-style: italic;">; Maximum size of POST data that PHP will accept.</span><br />
+<span style="color: #000099;">post_max_size</span> <span style="color: #000066; font-weight:bold;">=</span><span style="color: #660066;"> 12M</span></div></td></tr></tbody></table></div>
+<h2>XSL support</h2>
+<p>The extension requires XSL (XSLT) support. The presence of an XSL component is checked during the installation. It can be aborted if the component is absent. Contact your sysadmin or the hosting company to have it installed.</p>
+<h2>Session ID</h2>
+<p>Some <a title="Magento web-to-print extension features" href="../../../../magento-web-to-print/features/" target="_self">features</a> included in Magento <a title="ZetaPrints web-to-print" href="../../../../" target="_self">web-to-print</a> extension may not function correctly with a SID in the URL. We recommend to <a title="Remove session ID from your Magento store" href="../../../remove-session-id-from-mageto-url/" target="_self">remove it</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

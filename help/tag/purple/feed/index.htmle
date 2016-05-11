@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Purple &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/purple/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Zeta skin</title>
+		<link>http://www.zetaprints.com/help/zeta-skin/</link>
+		<pubDate>Fri, 12 Dec 2008 11:17:20 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Skins]]></category>
+		<category><![CDATA[Branding]]></category>
+		<category><![CDATA[Color scheme]]></category>
+		<category><![CDATA[Custom]]></category>
+		<category><![CDATA[Free]]></category>
+		<category><![CDATA[Purple]]></category>
+
+		<guid isPermaLink="false">/help/?p=3448</guid>
+		<description><![CDATA[This is a FREE modern look custom web to print skin with a light purple color scheme that you can use in your web-to-print website. CSS URL: http://www.zetaprints.com/skins/Zeta/main.css Designed by Javier Tapia Download skin files. Learn how to assign this skin to your ZetaPrints hosted web-to-print website.]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

@@ -1,0 +1,733 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="verify-v1" content="GACnn9+1c3JzusKbMwxWr+f9dKvqx8As8sbHI8tNyxA=" />
+  <meta name="keywords" content="web-to-print, online printing, zetaprints, online print ordering" />
+  <title>   Known issues | On web to print sofware, solutions and hosted services</title>
+  <script type="text/javascript" src="../../../wp-content/themes/water-zp-3/jslib.js"></script>
+  <meta name="generator" content="ZetaPrints"/> <!-- leave this for stats -->
+  <link rel="stylesheet" href="../../../wp-content/themes/water-zp-3/style.css" type="text/css" media="all" />
+  <link href="../../../wp-content/themes/water-zp-3/style-fixed.css" rel="stylesheet" type="text/css" />
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../../feed/index.html" />
+  <link rel="alternate" type="text/xml" title="RSS .92" href="../../../feed/rss/index.html" />
+  <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../../../feed/atom/index.html" />
+  <!--link rel="pingback" href="http://www.zetaprints.com/blog/xmlrpc.php" /-->
+  <link rel="alternate" type="application/rss+xml" title="On web to print sofware, solutions and hosted services &raquo; Known issues Category Feed" href="feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.zetaprints.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cat-post-tree-ajax-css'  href='../../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2-ver=0.7.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='top_css-css'  href='../../../wp-content/themes/water-zp-3/top-menu-ver=4.4.1.css' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='top_css_ie-css'  href='../../../wp-content/themes/water-zp-3/top-menu-ie-ver=4.4.1.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='../../../wp-content/themes/water-zp-3/js/top-menu.js?ver=4.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CatPostAjax = {"ajaxurl":"http:\/\/www.zetaprints.com\/blog\/wp-admin\/admin-ajax.php","nice_ajax_tree_img":"http:\/\/www.zetaprints.com\/blog\/wp-content\/plugins\/cat-post-tree-ajax\/img\/","type":"cat","id":"17"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2.js?ver=4.4.1'></script>
+<script type='text/javascript' src='../../../wp-content/plugins/zpecards/js/zp.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='../../../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc-rsd.php.html" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.1" />
+<meta property="og:site_name" content="On web to print sofware, solutions and hosted services" />
+<meta property="og:type" content="article" />
+<link type="text/css" rel="stylesheet" href="../../../wp-content/plugins/zpecards/css/zpEcards.css" />
+<script type='text/javascript' src='../../../wp-includes/js/tw-sack.min.js?ver=1.6.1'></script>
+  <!--[if IE]>
+  <style>
+  
+  </style>
+  <![EndIf]-->
+  <style type="text/css" media="print">
+  #header, #footer, #rightcol, #logo, .social_bookmark, .post-rel, .postmetadata, #questionMark, p.nocomments {display:none}
+  </style>
+  <link media="screen" type="text/css" href="../../../wp-content/themes/water-zp-3/grid.css" rel="stylesheet"/>
+  <script type='text/javascript' src="../../../wp-content/themes/water-zp-3/js/grid.js" ></script>
+</head>
+
+<body>
+  <div id="header-container" class="clearfix container">
+    <div id="header">
+      <div class="logo">
+        <a href="../../../../index.html"><img src="../../../wp-content/themes/water-zp-3/images/logo.gif" alt="ZetaPrints Web-to-print home"/></a>
+        <h1><a href="../../../index.html"><span>ZetaPrints</span> blog</a></h1>
+        <h3>Web-to-Print &amp; dynamic imaging</h3>
+      </div>
+      <form method="get" id="searchform" action="http://www.zetaprints.com/blog/">
+        <div>
+          <input type="text" value=""  name="s" id="s" />
+          <input type="image" id="searchsubmit" alt="Search" src="../../../wp-content/themes/water-zp-3/images/search_btn.gif" />
+        </div>
+      </form>
+      <div class="nav">
+    <ul class="main" id="top-drop-menu">
+        <li>
+            <a href="../../../../index.html" title="Zetaprints home">Home</a>
+        </li><li class="drop">
+            <a href="../../../../help/index.html" class="drop-down-link">Help</a>
+            <ul>
+                <li>
+                    <a href="../../../../help/index.html" class="drop-down-link">Web-to-print help</a>
+                </li>
+                <li>
+                    <a href="../../../../magentohelp/index.html" class="drop-down-link">Magento help</a>
+                </li>
+				<li>
+					<a href="../../../../premium/index.html" class="drop-down-link">Premium support</a>
+				</li>
+				<li>
+					<a href="../../../../directory/index.html" class="drop-down-link">Resources</a>
+				</li>
+				<li class="last">
+					<a href="../../../../userhelp/index.html" class="drop-down-link">End user help</a>
+				</li>
+            </ul>
+        </li><li>
+            <a href="../../../index.html" title="Web to print blog">Blog</a>
+        </li><li>
+            <a href="../../../../packages/sign-up-for-web-to-print/index.html" title="Sign up for web-to-print">Sign up</a>
+        </li><li class="no_border">
+            <a href="http://zetaprints.com" title="Web to print system">Log in</a>
+        </li>
+    </ul>
+</div>
+<!-- nav -->
+    </div> <!-- header -->
+  </div> <!-- container -->
+
+<div id="content-container" class="container clearfix">
+        <div id="rightcol">
+      <ul>
+        		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+					<li>
+				<a href="../../../2013/08/02/forward-updates-in-web-to-print-templates-bug/index.html">Repeating fields in web-to-print templates bug</a>
+						</li>
+					<li>
+				<a href="../../../2013/07/31/lost-files/index.html">Lost files</a>
+						</li>
+					<li>
+				<a href="../../../2013/07/22/speed-up-your-web-to-print-checkout/index.html">Speed up your web-to-print checkout</a>
+						</li>
+					<li>
+				<a href="../../../2013/01/28/paypal-issues-web-to-print-orders-are-not-paid/index.html">PayPal issues &#8211; web-to-print orders are not paid</a>
+						</li>
+					<li>
+				<a href="../../../2012/10/31/volumes-are-down/index.html">Volumes are down</a>
+						</li>
+					<li>
+				<a href="../../../2012/10/22/amazon-hosting-failure/index.html">Amazon hosting failure</a>
+						</li>
+					<li>
+				<a href="../../../2012/09/19/missing-files-in-web-to-print-orders/index.html">Missing files in web-to-print orders</a>
+						</li>
+					<li>
+				<a href="../../../2012/09/09/web-to-print-profiles-fix-after-upgrading-to-magento-1-7/index.html">Web-to-print profiles fix after upgrading to Magento 1.7</a>
+						</li>
+					<li>
+				<a href="../../../2012/08/14/payments-date-wipe-out/index.html">Payments date wipe-out</a>
+						</li>
+					<li>
+				<a href="../../../2012/07/31/serious-network-issues/index.html">Serious network issues</a>
+						</li>
+				</ul>
+		</li>
+		<li id="niceajaxtree-widget-3" class="widget cat-post-ajax-tree"><h2 class="widgettitle"><span class="widgettitle">Topics</span></h2>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../announcements/index.html"
+	title="View all posts in Announcements">Announcements</a>
+<span
+	class="arrow cat-item-3">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-3" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../api/index.html"
+	title="View all posts in API">API</a>
+<span
+	class="arrow cat-item-65">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-65" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../blogroll/index.html"
+	title="View all posts in Blogroll">Blogroll</a>
+<span
+	class="arrow cat-item-2">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-2" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../bugs-and-fixes/index.html"
+	title="View all posts in Bugs and fixes">Bugs and fixes</a>
+<span
+	class="arrow cat-item-147">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-147" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../customer-web-to-print-sites/index.html"
+	title="View all posts in Customer web-to-print sites">Customer web-to-print sites</a>
+<span
+	class="arrow cat-item-149">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-149" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../freebies/index.html"
+	title="View all posts in Freebies">Freebies</a>
+<span
+	class="arrow cat-item-146">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-146" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../graphic-design/index.html"
+	title="View all posts in Graphic design">Graphic design</a>
+<span
+	class="arrow cat-item-4">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-4" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../ideas-and-opinions/index.html"
+	title="View all posts in Ideas and opinions">Ideas and opinions</a>
+<span
+	class="arrow cat-item-5">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-5" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../junk-mail-collection/index.html"
+	title="View all posts in Junk mail collection">Junk mail collection</a>
+<span
+	class="arrow cat-item-6">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-6" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="index.html"
+	title="View all posts in Known issues">Known issues</a>
+<span
+	class="arrow cat-item-17 collapse">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-17" style="">
+<ul><li><a href='../../../2007/01/11/access-url-recognition/index.html' class='di__50 postlink'>Access URL recognition</a></li><li><a href='../../../2007/01/11/asynchronous-order-processing/index.html' class='di__46 postlink'>Asynchronous order processing</a></li><li><a href='../../../2007/01/11/image-management-and-file-transfer-help/index.html' class='di__42 postlink'>Image management and file transfer help</a></li><li><a href='../../../2007/01/11/large-lists-of-catalogues-are-difficult-to-manage/index.html' class='di__44 postlink'>Large lists of catalogues are difficult to manage</a></li><li><a href='../../../2007/01/11/list-of-products-disappears/index.html' class='di__40 postlink'>List of products disappears</a></li><li><a href='../../../2008/10/16/minor-bug-fixes/index.html' class='di__242 postlink'>Minor bug fixes</a></li><li><a href='../../../2007/01/11/missing-image-effects/index.html' class='di__47 postlink'>Missing image effects</a></li><li><a href='../../../2009/10/03/new-registration-login/index.html' class='di__482 postlink'>New registration / login</a></li><li><a href='../../../2007/01/11/page-update-%E2%80%93-one-at-a-time/index.html' class='di__45 postlink'>Page update – one at a time</a></li><li><a href='../../../2007/01/11/template-defaults/index.html' class='di__49 postlink'>Template defaults</a></li><li><a href='../../../2007/01/11/template-details-screen-is-getting-too-big/index.html' class='di__48 postlink'>Template details screen is getting too big</a></li><li><a href='../../../2007/01/11/template-file-re-upload-workflow/index.html' class='di__41 postlink'>Template file re-upload workflow</a></li><li><a href='../../../2007/01/11/template-keywords/index.html' class='di__43 postlink'>Template keywords</a></li><li><a href='../../../2007/01/11/truncated-fields/index.html' class='di__51 postlink'>Truncated fields</a></li><li><a href='../../../2008/01/17/web-to-print-registration-bug/index.html' class='di__174 postlink'>Web-to-print registration bug</a></li></ul></div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../marketing/index.html"
+	title="View all posts in Marketing">Marketing</a>
+<span
+	class="arrow cat-item-7">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-7" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../payments-2/index.html"
+	title="View all posts in Payments">Payments</a>
+<span
+	class="arrow cat-item-150">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-150" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../premium-support/index.html"
+	title="View all posts in Premium support">Premium support</a>
+<span
+	class="arrow cat-item-151">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-151" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../printer-update/index.html"
+	title="View all posts in Printer update">Printer update</a>
+<span
+	class="arrow cat-item-8">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-8" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../printer-update-history/index.html"
+	title="View all posts in Printer update history">Printer update history</a>
+<span
+	class="arrow cat-item-18">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-18" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../printing-industry-reviews/index.html"
+	title="View all posts in Printing industry reviews">Printing industry reviews</a>
+<span
+	class="arrow cat-item-10">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-10" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../problems-and-outages/index.html"
+	title="View all posts in Problems and outages">Problems and outages</a>
+<span
+	class="arrow cat-item-56">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-56" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../scam-buster/index.html"
+	title="View all posts in Scams">Scams</a>
+<span
+	class="arrow cat-item-12">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-12" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../update-summaries/index.html"
+	title="View all posts in Update summaries">Update summaries</a>
+<span
+	class="arrow cat-item-19">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-19" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../user-update-history/index.html"
+	title="View all posts in User update history">User update history</a>
+<span
+	class="arrow cat-item-20">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-20" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../web-to-print/index.html"
+	title="View all posts in Web-to-Print">Web-to-Print</a>
+<span
+	class="arrow cat-item-13">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-13" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../web-to-print-features/index.html"
+	title="View all posts in web-to-print features">web-to-print features</a>
+<span
+	class="arrow cat-item-53">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-53" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../web-to-print-help/index.html"
+	title="View all posts in Web-to-print help">Web-to-print help</a>
+<span
+	class="arrow cat-item-145">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-145" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../web-to-print-reviews/index.html"
+	title="View all posts in Web-to-Print reviews">Web-to-Print reviews</a>
+<span
+	class="arrow cat-item-14">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-14" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../web-to-print-software/index.html"
+	title="View all posts in web-to-print software">web-to-print software</a>
+<span
+	class="arrow cat-item-54">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-54" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../web-to-print-storefront/index.html"
+	title="View all posts in Web-to-print storefront">Web-to-print storefront</a>
+<span
+	class="arrow cat-item-148">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-148" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../whaling/index.html"
+	title="View all posts in Whaling">Whaling</a>
+<span
+	class="arrow cat-item-15">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-15" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../index.html"
+	title="View all posts in ZetaPrints features">ZetaPrints features</a>
+<span
+	class="arrow cat-item-16">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-16" style="display:none;">
+</div>
+</div>
+</li>
+      </ul>
+    </div>
+    <div id="leftcol" class="cat_17">
+              
+            <div class="cattitle">
+				<b>Posts in: </b><span class="cattitle-text">Known issues</span><span class="cattitle-collapse"></span>
+			</div>
+            <div id="categorybox">
+				                <div id="category-list">
+                    <ul><li><h2><a href="../../../2007/01/11/access-url-recognition/index.html" rel="bookmark" title="Permanent Link to Access URL recognition">Access URL recognition</a></h2></li><li><h2><a href="../../../2007/01/11/asynchronous-order-processing/index.html" rel="bookmark" title="Permanent Link to Asynchronous order processing">Asynchronous order processing</a></h2></li><li><h2><a href="../../../2007/01/11/image-management-and-file-transfer-help/index.html" rel="bookmark" title="Permanent Link to Image management and file transfer help">Image management and file transfer help</a></h2></li><li><h2><a href="../../../2007/01/11/large-lists-of-catalogues-are-difficult-to-manage/index.html" rel="bookmark" title="Permanent Link to Large lists of catalogues are difficult to manage">Large lists of catalogues are difficult to manage</a></h2></li><li><h2><a href="../../../2007/01/11/list-of-products-disappears/index.html" rel="bookmark" title="Permanent Link to List of products disappears">List of products disappears</a></h2></li><li><h2><a href="../../../2008/10/16/minor-bug-fixes/index.html" rel="bookmark" title="Permanent Link to Minor bug fixes">Minor bug fixes</a></h2></li><li><h2><a href="../../../2007/01/11/missing-image-effects/index.html" rel="bookmark" title="Permanent Link to Missing image effects">Missing image effects</a></h2></li><li><h2><a href="../../../2009/10/03/new-registration-login/index.html" rel="bookmark" title="Permanent Link to New registration / login">New registration / login</a></h2></li></ul>
+                    <ul><li><h2><a href="../../../2007/01/11/page-update-%E2%80%93-one-at-a-time/index.html" rel="bookmark" title="Permanent Link to Page update – one at a time">Page update – one at a time</a></h2></li><li><h2><a href="../../../2007/01/11/template-defaults/index.html" rel="bookmark" title="Permanent Link to Template defaults">Template defaults</a></h2></li><li><h2><a href="../../../2007/01/11/template-details-screen-is-getting-too-big/index.html" rel="bookmark" title="Permanent Link to Template details screen is getting too big">Template details screen is getting too big</a></h2></li><li><h2><a href="../../../2007/01/11/template-file-re-upload-workflow/index.html" rel="bookmark" title="Permanent Link to Template file re-upload workflow">Template file re-upload workflow</a></h2></li><li><h2><a href="../../../2007/01/11/template-keywords/index.html" rel="bookmark" title="Permanent Link to Template keywords">Template keywords</a></h2></li><li><h2><a href="../../../2007/01/11/truncated-fields/index.html" rel="bookmark" title="Permanent Link to Truncated fields">Truncated fields</a></h2></li><li><h2><a href="../../../2008/01/17/web-to-print-registration-bug/index.html" rel="bookmark" title="Permanent Link to Web-to-print registration bug">Web-to-print registration bug</a></h2></li></ul>
+                    <div class="clear"></div>      
+                </div>
+            </div>
+
+                
+
+        <div id="news" class="clearfix">
+            <div id="newswrap">
+
+                                                                <div class="post" id="post-50">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2007/01/11/access-url-recognition/index.html" rel="bookmark" title="Permanent Link to Access URL recognition">Access URL recognition</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a></small></div>
+                            <small>11/01/2007 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>Access URL will be automatically recognised when a printer logs in using a new access URL for the first time. The URL needs to be entered manually at present. It’s quite confusing for many printers.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-46">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2007/01/11/asynchronous-order-processing/index.html" rel="bookmark" title="Permanent Link to Asynchronous order processing">Asynchronous order processing</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a></small></div>
+                            <small>11/01/2007 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>Users should not wait for their order files to be prepared. The plan is to change the final file preparation to an asynchronous process where the user gets an instant message that the order is being processed. The order page will be refreshed every 10 seconds. The payments will still be processed and the order should be completed by the time the payment is done.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-42">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2007/01/11/image-management-and-file-transfer-help/index.html" rel="bookmark" title="Permanent Link to Image management and file transfer help">Image management and file transfer help</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a></small></div>
+                            <small>11/01/2007 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>There are no help documents for image management and file transfer. This is because these features are in a state of flux and haven’t been finalized yet.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-44">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2007/01/11/large-lists-of-catalogues-are-difficult-to-manage/index.html" rel="bookmark" title="Permanent Link to Large lists of catalogues are difficult to manage">Large lists of catalogues are difficult to manage</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a></small></div>
+                            <small>11/01/2007 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>Some printers and designers have grown their catalogues to a 3-digit numbers. The lists are getting hard to manage. The suggestion is to show only top X recently used  catalogues in the menu and all of them on the home page, but in an easy-searchable form. No search function is planned at this stage. Printers and designers can use their browser to search the page.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-40">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2007/01/11/list-of-products-disappears/index.html" rel="bookmark" title="Permanent Link to List of products disappears">List of products disappears</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a></small></div>
+                            <small>11/01/2007 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>Sometimes the list of products disappears from under its heading (catalogue name) in a user view. This doesn’t happen often and is no more than a nuisance.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-242">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2008/10/16/minor-bug-fixes/index.html" rel="bookmark" title="Permanent Link to Minor bug fixes">Minor bug fixes</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a>, <a href="../../web-to-print-software/index.html" rel="category tag">web-to-print software</a></small></div>
+                            <small>16/10/2008 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>No, we are not finished with the web-to-print infrastructure upgrade, but there is a breather and a light at the end of the tunnel.</p>
+<p>A critical piece of file replication s/w went live last night and seems to be holding on OK. Fingers crossed.</p>
+<p>In the meantime, it came to our attention that we missed a few very embarrassing bugs in order lists. First, Next, Last, Previous links didn&#8217;t always work. More like they worked only occasionally. They should be fine now. Sorry about it. <img src="../../../wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>By popular demand, we removed Feedback text box for unregistered users. They can always click on Contact Us link and send you an email. Too many users were sending important information without leaving any contact details.</p>
+<p>Logged in users get Feedback text box in the same place as before.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-47">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2007/01/11/missing-image-effects/index.html" rel="bookmark" title="Permanent Link to Missing image effects">Missing image effects</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a></small></div>
+                            <small>11/01/2007 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>Some image properties such as paragraph wrapping, shade and a few others are not applied to user images correctly, which causes a lot of grief with some templates.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-482">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2009/10/03/new-registration-login/index.html" rel="bookmark" title="Permanent Link to New registration / login">New registration / login</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a>, <a href="../../web-to-print-software/index.html" rel="category tag">web-to-print software</a></small></div>
+                            <small>03/10/2009 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>An update was rolled our a few hrs ago to all web-to-print sites.</p>
+<p>We changed the way web-to-print users register for public catalogs where registration is required.</p>
+<p>They now see a small registration form as part of the order form where they are asked to enter their email address or log in. The ORDER button is disabled until they either register or log in.</p>
+<p>There are a couple of known issues with the update and we&#8217;ll be working through them in the coming hours.</p>
+<p>At the same time we launched a &#8220;garbage collector&#8221; to delete old order files. You may notice that web-to-print orders older than 3 months don&#8217;t have the files any more. You can regenerate the files, if you need to. No charges apply.</p>
+<p>Users will see a message saying that files were archived, if the files were actually available to users. In most cases they are not.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-45">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2007/01/11/page-update-%E2%80%93-one-at-a-time/index.html" rel="bookmark" title="Permanent Link to Page update – one at a time">Page update – one at a time</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a></small></div>
+                            <small>11/01/2007 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>Previews should be updated one page at a time. Currently, all pages are updated at the same time.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-49">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2007/01/11/template-defaults/index.html" rel="bookmark" title="Permanent Link to Template defaults">Template defaults</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a></small></div>
+                            <small>11/01/2007 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>Some template settings are common across all templates in a catalogue. There will be an option to set default template settings per catalogue, but they can be overridden in any template, if needed. Fields like Payment Required, Terms of Printing and “Hide” are the most likely candidates.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-48">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2007/01/11/template-details-screen-is-getting-too-big/index.html" rel="bookmark" title="Permanent Link to Template details screen is getting too big">Template details screen is getting too big</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a></small></div>
+                            <small>11/01/2007 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>Templates get more and more settings that take space on the screen in Template Details and Edit Template Details forms. The forms need to be more compact, but will not be split into multiple forms at this stage.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-41">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2007/01/11/template-file-re-upload-workflow/index.html" rel="bookmark" title="Permanent Link to Template file re-upload workflow">Template file re-upload workflow</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a></small></div>
+                            <small>11/01/2007 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>It appears that the next logical step after re-uploading a template is to test it. The following page at the moment is EDIT TEMPLATE DETAILS. This will be changed to TEST ORDER page.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-43">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2007/01/11/template-keywords/index.html" rel="bookmark" title="Permanent Link to Template keywords">Template keywords</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a></small></div>
+                            <small>11/01/2007 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>This feature is not complete yet. Templates will have keywords that can be listed or searched. Keyword popularity will be highlighted through its font size. All keywords for templates with unconstraint access will be submitted to Technorati and other similar sites.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-51">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2007/01/11/truncated-fields/index.html" rel="bookmark" title="Permanent Link to Truncated fields">Truncated fields</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a></small></div>
+                            <small>11/01/2007 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>Some fields are too small to take a particularly lengthy user input, but users do not always notice this. One option is to set a maximum field length.<br />
+We plan to make the graphic processor return information about any truncated fields back to the user. It will only work with paragraph text frames because artistic texts do no have bounding limits.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                                    <div class="post" id="post-174">
+                        <div class="posttitle">
+                            <h1 class="posttitle"><a href="../../../2008/01/17/web-to-print-registration-bug/index.html" rel="bookmark" title="Permanent Link to Web-to-print registration bug">Web-to-print registration bug</a></h1>
+                        </div>
+                        <div class="pcont">
+                            <div class="catfloat"><small><a href="index.html" rel="category tag">Known issues</a>, <a href="../printer-update-history/index.html" rel="category tag">Printer update history</a>, <a href="../../web-to-print/index.html" rel="category tag">Web-to-Print</a></small></div>
+                            <small>17/01/2008 <!-- by admin --></small>
+
+                            <div id="cat_pg_entry" class="entry">
+                                <p>Users cannot complete registration if they register for your web-to-print, do not confirm their email address, you add them to a web-to-print catalog, they click on the registration email and get the 404 page.</p>
+<p>Workaround: email <a title="Contact ZetaPrints" href="mailto:support@zetaprints.com" target="_self">support@zetaprints.com</a> every time you get an email about a new customer and add the customer to a password protected catalog.</p>
+<p>Expected resolution time: 24hrs.</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                
+                <div class="navigation">
+                    <div class="alignleft"></div>
+                    <div class="alignright"></div>
+                </div>
+            
+            <br /><br /><br /><br />
+            </div>
+        </div>
+        <hr />
+    </div>
+</div>
+<div id="footer-container" class="container">
+  <div id="footer">
+    <div id="bottomnav">
+      <!-- a id="pagecounter" href="http://whos.amung.us/show/9bm3msts"><img src="http://whos.amung.us/widget/9bm3msts" alt="hit counter" border="0" height="29" width="81" /></a -->
+      <ul>
+        <li class="first"><a href="../../../../about-us/index.html" title="About ZetaPrints">About ZetaPrints</a></li>
+        <li><a href="../../../../about-us/contact-us/index.html" title="Contact us">Contact us</a></li>
+        <li><a href="http://zetaprints.com/" title="Log in">Log in</a></li>
+        <li><a href="../../../../web-to-print-legal/privacy-policy/index.html" title="Privacy policy">Privacy</a></li>
+        <li><a href="../../../../sitemap/index.html" title="Sitemap">Sitemap</a></li>
+        <li><a href="../../../../about-us/summary-of-terms-and-conditions/index.html" title="Terms and conditions">Terms of Service</a></li>
+        <li><a href="../../../index.html" title="Web-to-print Blog">Web-to-print Blog</a></li>
+        <li><a href="../../../../help/index.html" title="Web-to-print Help">Web-to-print Help</a></li>
+      </ul>
+    </div>
+    <p><a href="../../../index.html" title="Web-to-print Blog"><img class="footer-icon" alt="Blog" src="../../../wp-content/themes/water-zp-3/images/blog.png"/></a>&nbsp;
+<a href="http://twitter.com/zetaprints" title="Follow us on twitter"><img class="footer-icon" alt="Twitter" src="../../../wp-content/themes/water-zp-3/images/twitter_16.png"/></a>&nbsp;
+&copy; 2006-2012 ZetaPrints Ltd. All rights reserved. Powered by <a href="http://wordpress.org">WordPress</a>.</p>
+    <a href="#header" title="Back to Top" class="top-btn">Back to Top</a>
+  </div>
+</div>
+
+<script type="text/javascript">
+    (function(){
+        var ga = document.createElement('script');
+        ga.type="text/javascript";
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1132851-1']);
+    _gaq.push(['_trackPageview']);
+</script>
+</body>
+</html>
+
+<!-- Localized -->

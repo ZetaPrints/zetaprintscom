@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: About catalogs</title>
+	<atom:link href="http://www.zetaprints.com/help/about-catalogs/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help/about-catalogs/</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Thu, 09 Apr 2009 22:25:56 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>By: dave123</title>
+		<link>http://www.zetaprints.com/help/about-catalogs/comment-page-1/#comment-10</link>
+		<dc:creator><![CDATA[dave123]]></dc:creator>
+		<pubDate>Sun, 02 Dec 2007 00:10:13 +0000</pubDate>
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/about-catalogs/#comment-10</guid>
+		<description><![CDATA[Hello, I am trying to upload a two page brochure. First page is 19 MB and the second page is 18 MB. When I try to download the second page it takes away the first one.  How do I upload a two-page document that is over 20 MB.
+
+Thank you, Dave]]></description>
+		<content:encoded><![CDATA[<p>Hello, I am trying to upload a two page brochure. First page is 19 MB and the second page is 18 MB. When I try to download the second page it takes away the first one.  How do I upload a two-page document that is over 20 MB.</p>
+<p>Thank you, Dave</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Localized -->

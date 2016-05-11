@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Custom domains &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/custom-domains/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Custom help pages</title>
+		<link>http://www.zetaprints.com/help/custom-help-pages/</link>
+		<pubDate>Sat, 25 Apr 2009 08:11:23 +0000</pubDate>
+		<dc:creator><![CDATA[admin2]]></dc:creator>
+				<category><![CDATA[Branding]]></category>
+		<category><![CDATA[Custom domains]]></category>
+		<category><![CDATA[user help]]></category>
+
+		<guid isPermaLink="false">/help/?p=5872</guid>
+		<description><![CDATA[ZetaPrints web-to-print portal provides basic user help pages. They are not specific to any particular brand and look as neutral as possible. You can redirect users to your own web-to-print help website with your own content. Default location Web-to-print user help is located in /userhelp/ folder under your domain name. E.g. if your web-to-print ordering [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Website stats</title>
+		<link>http://www.zetaprints.com/help/website-stats/</link>
+		<pubDate>Sun, 02 Dec 2007 17:32:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Website stats]]></category>
+		<category><![CDATA[Custom domains]]></category>
+		<category><![CDATA[Hit Counter]]></category>
+		<category><![CDATA[Statistics]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/website-stats/</guid>
+		<description><![CDATA[Some pages available to the public can have a third party hit counter embedded to provide you with website statistics and analysis. Third party services Web analytics services range from simple hit counters to complex solutions like Google Analytics. Some of them require embedding of JavaScript while others offer image embedding. ZetaPrints allows embedding of [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Homepage text</title>
+		<link>http://www.zetaprints.com/help/homepage-text-and-presentation/</link>
+		<pubDate>Wed, 13 Jun 2007 09:45:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Branding]]></category>
+		<category><![CDATA[Custom domains]]></category>
+		<category><![CDATA[Welcome message]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/homepage-text-and-presentation/</guid>
+		<description><![CDATA[This feature is available only after setting up your custom access URL A password protected homepage has a default message in your chosen language. The message can be replaced by you. The default demo is an unbranded demonstration of online ordering process and can also be replaced by you, if needed. The text and the [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Custom banner</title>
+		<link>http://www.zetaprints.com/help/custom-banner/</link>
+		<pubDate>Sun, 10 Jun 2007 01:12:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Branding]]></category>
+		<category><![CDATA[Banner]]></category>
+		<category><![CDATA[Custom domains]]></category>
+		<category><![CDATA[Customization]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/custom-banner/</guid>
+		<description><![CDATA[Your can upload your banner only after setting up a custom access URL. Default banner Every master account (printer, publisher, etc) can have a custom banner once the site was placed under your own domain name. The banner will be displayed on all pages. Upload the banner to your web server and grab the URL [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

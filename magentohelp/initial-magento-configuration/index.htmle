@@ -1,0 +1,495 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="verify-v1" content="GACnn9+1c3JzusKbMwxWr+f9dKvqx8As8sbHI8tNyxA=" />
+  <meta name="keywords" content="web-to-print, online printing, zetaprints, online print ordering" />
+  <title>   Initial Magento config | Magento web-to-print &amp; dynamic imaging</title>
+  <script type="text/javascript" src="../wp-content/themes/water-zp-3/jslib.js"></script>
+  <meta name="generator" content="ZetaPrints"/> <!-- leave this for stats -->
+  <link rel="stylesheet" href="../wp-content/themes/water-zp-3/style.css" type="text/css" media="all" />
+  <link href="../wp-content/themes/water-zp-3/style-fixed.css" rel="stylesheet" type="text/css" />
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../feed/" />
+  <link rel="alternate" type="text/xml" title="RSS .92" href="../feed/rss/" />
+  <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../feed/atom/" />
+  <!--link rel="pingback" href="http://www.zetaprints.com/magentohelp/xmlrpc.php" /-->
+  		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.zetaprints.com\/magentohelp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cat-post-tree-ajax-css'  href='../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-ver=0.7.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='top_css-css'  href='../wp-content/themes/water-zp-3/top-menu-ver=4.4.1.css' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='top_css_ie-css'  href='../wp-content/themes/water-zp-3/top-menu-ie-ver=4.4.1.css' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='codecolorer-css'  href='../wp-content/plugins/codecolorer/codecolorer-ver=0.9.9.css' type='text/css' media='screen' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='../wp-content/themes/water-zp-3/js/top-menu.js?ver=4.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CatPostAjax = {"ajaxurl":"http:\/\/www.zetaprints.com\/magentohelp\/wp-admin\/admin-ajax.php","nice_ajax_tree_img":"http:\/\/www.zetaprints.com\/magentohelp\/wp-content\/plugins\/cat-post-tree-ajax\/img\/","type":"post","id":"13186","cat":"1149"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax.js?ver=4.4.1'></script>
+<link rel='https://api.w.org/' href='../wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc-rsd.php.html" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Interactive personalization theme' href='../enable-interactive-personalization/' />
+<link rel='next' title='Auto category creation' href='../auto-category-creation/' />
+<meta name="generator" content="WordPress 4.4.1" />
+<link rel="canonical" href="index.html" />
+<link rel='shortlink' href='../index-p=13186.html' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed/index-url=http___www.zetaprints.com_magentohelp_initial-magento-configuration_.html" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed/index-url=http___www.zetaprints.com_magentohelp_initial-magento-configuration_&format=xml.html" />
+<meta property="og:site_name" content="Magento web-to-print &amp;amp; dynamic imaging" />
+<meta property="og:title" content="Initial Magento config" />
+<meta property="og:url" content="http://www.zetaprints.com/magentohelp/initial-magento-configuration/" />
+<meta property="og:type" content="article" />
+  <!--[if IE]>
+  <style>
+  
+  </style>
+  <![EndIf]-->
+  <style type="text/css" media="print">
+  #header, #footer, #rightcol, #logo, .social_bookmark, .post-rel, .postmetadata, #questionMark, p.nocomments {display:none}
+  </style>
+  <link media="screen" type="text/css" href="../wp-content/themes/water-zp-3/grid.css" rel="stylesheet"/>
+  <script type='text/javascript' src="../wp-content/themes/water-zp-3/js/grid.js" ></script>
+</head>
+
+<body>
+  <div id="header-container" class="clearfix container">
+    <div id="header">
+      <div class="logo">
+        <a href="../../"><img src="../wp-content/themes/water-zp-3/images/logo.gif" alt="ZetaPrints Web-to-print home"/></a>
+        <h1><a href="../"><span>ZetaPrints</span> magento</a></h1>
+        <h3>Web-to-Print &amp; dynamic imaging</h3>
+      </div>
+      <form method="get" id="searchform" action="http://www.zetaprints.com/magentohelp/">
+        <div>
+          <input type="text" value=""  name="s" id="s" />
+          <input type="image" id="searchsubmit" alt="Search" src="../wp-content/themes/water-zp-3/images/search_btn.gif" />
+        </div>
+      </form>
+      <div class="nav">
+    <ul class="main" id="top-drop-menu">
+        <li>
+            <a href="../../" title="Zetaprints home">Home</a>
+        </li><li class="drop">
+            <a href="../../help/" class="drop-down-link">Help</a>
+            <ul>
+                <li>
+                    <a href="../../help/" class="drop-down-link">Web-to-print help</a>
+                </li>
+                <li>
+                    <a href="../" class="drop-down-link">Magento help</a>
+                </li>
+				<li>
+					<a href="../../premium/" class="drop-down-link">Premium support</a>
+				</li>
+				<li>
+					<a href="../../directory/" class="drop-down-link">Resources</a>
+				</li>
+				<li class="last">
+					<a href="../../userhelp/" class="drop-down-link">End user help</a>
+				</li>
+            </ul>
+        </li><li>
+            <a href="../../blog/" title="Web to print blog">Blog</a>
+        </li><li>
+            <a href="../../packages/sign-up-for-web-to-print/" title="Sign up for web-to-print">Sign up</a>
+        </li><li class="no_border">
+            <a href="http://zetaprints.com" title="Web to print system">Log in</a>
+        </li>
+    </ul>
+</div>
+<!-- nav -->
+    </div> <!-- header -->
+  </div> <!-- container -->
+
+<link href="%3C/index-bloginfo('template_url')?.html>/js/jquery-ui-1.8.2.custom.css" rel="stylesheet" type="text/css"/>
+<script src="%3C/index-bloginfo('template_url')?.html>/js/jquery-ui-1.8.2.custom.min.js"></script>
+<script>
+  jQuery(document).ready(function(){
+    // init jQuery for tabs div
+    jQuery("#featuretabs").tabs({
+      select: function(event, ui){
+        jQuery( "a" ).blur(); // remove border for selected tab
+      }
+    })
+  });
+</script>
+<div id="content-container" class="container clearfix">
+      <div id="rightcol">
+      <ul>
+        <li id="text-3" class="widget widget_text"><h2 class="widgettitle">Premium support</h2>
+			<div class="textwidget"><div id="premium_menu_container">
+<ul id="premium_menu">
+<li><a href="../../premium/index.php/web-to-print-support.html" title="Web-to-print and dynamic imaging support">Installation, administration <img src="../../help/img/premium_go_ico.png" /></a></li>
+<li><a href="../../premium/index.php/templates.html" title="Web-to-print and dynamic imaging templates support">Template conversion <img src="../../help/img/premium_go_ico.png" /></a></li>
+</ul>
+</div></div>
+		</li>
+<li id="niceajaxtree-widget-3" class="widget cat-post-ajax-tree"><div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/overview/"
+	title="View all posts in Overview">Overview</a>
+<span
+	class="arrow cat-item-917">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-917" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/installation-steps/"
+	title="View all posts in Web-to-print installation">Web-to-print installation</a>
+<span
+	class="arrow cat-item-1">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/administration/"
+	title="View all posts in Web-to-print administration">Web-to-print administration</a>
+<span
+	class="arrow cat-item-1134">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1134" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/themes-for-web-to-print/"
+	title="View all posts in Web-to-print themes">Web-to-print themes</a>
+<span
+	class="arrow cat-item-1157">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1157" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/developer/"
+	title="View all posts in Web-to-print for developers">Web-to-print for developers</a>
+<span
+	class="arrow cat-item-1135">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1135" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/access-control/"
+	title="View all posts in Access control plugin">Access control plugin</a>
+<span
+	class="arrow cat-item-570">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-570" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/approval-admin/"
+	title="View all posts in Order approval plugin">Order approval plugin</a>
+<span
+	class="arrow cat-item-1142">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1142" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/file-attachments/"
+	title="View all posts in Dynamic attachments plugin">Dynamic attachments plugin</a>
+<span
+	class="arrow cat-item-1143">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1143" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/fixed-quantities-plugin/"
+	title="View all posts in Fixed quantities plugin">Fixed quantities plugin</a>
+<span
+	class="arrow cat-item-1144">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1144" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/template-errors/"
+	title="View all posts in Troubleshooting">Troubleshooting</a>
+<span
+	class="arrow cat-item-607">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-607" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/support/"
+	title="View all posts in Support">Support</a>
+<span
+	class="arrow cat-item-1042">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1042" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/distribution-map-plugin/"
+	title="View all posts in Distribution map plugin">Distribution map plugin</a>
+<span
+	class="arrow cat-item-1150">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1150" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/web-to-print-store-builder/"
+	title="View all posts in Web-to-print store builder">Web-to-print store builder</a>
+<span
+	class="arrow cat-item-1149 collapse">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1149" style="">
+<ul><li><a href='../amazon-server-set-up-for-web-to-print/' class='di__12635 postlink'>Amazon server set up for web-to-print</a></li><li><a href='index.html' class='di__13186 postlink'><strong>Initial Magento config</strong></a></li><li><a href='../magento-newsletter/' class='di__13225 postlink'>Magento Newsletter</a></li><li><a href='../shipping-configuration/' class='di__12509 postlink'>Shipping configuration</a></li></ul></div>
+</div>
+</li>
+		<li id="recent-posts-3" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Articles</h2>
+		<ul>
+					<li>
+				<a href="../web-to-print-extension-and-magento-compiler/">Compiling Magento with web-to-print</a>
+						</li>
+					<li>
+				<a href="../web-to-print-demo-installation-on-magento/">Web-to-print express demo installation on Magento</a>
+						</li>
+					<li>
+				<a href="../ignore-unpaid-web-to-print-orders/">Ignore unpaid orders</a>
+						</li>
+					<li>
+				<a href="../dynamic-imaging-products/">Dynamic imaging products</a>
+						</li>
+					<li>
+				<a href="../web-to-print-reports-in-magento/">Reports for web-to-print orders</a>
+						</li>
+				</ul>
+		</li>
+		      </ul>
+    </div>
+  <div id="leftcol">
+    <div id="news" class="clearfix">
+      <div id="newswrap">
+                              <div class="post" id="post-13186">
+              <h1 class="posttitle"><a href="index.html" rel="bookmark" title="Permanent Link: Initial Magento config">Initial Magento config</a></h1>
+              <div class="pcont">
+                <div class="catfloat"><small><a href="../category/web-to-print-store-builder/" rel="category tag">Web-to-print store builder</a></small></div>
+                <small>15/08/2011 <!-- by atanas --></small>
+                <div class="entry">
+                  <p>These are the most important settings that you should configure after installing Magento. Navigate to <em>System / Configuration</em> in your Magento admin panel.<!--more--></p>
+<h2>Basic configuration for web-to-print and dynamic imaging</h2>
+<p>There are quite a few settings that can be configured here, we are only interested in the relatively crucial ones to get your web-to-print store up and running. Lets start from the top and work our way down through the tabs.</p>
+<table id="hier_tbl_li">
+<tbody>
+<tr id="hier_tbl_head">
+<td style="text-align: center;"><strong>Configuration</strong></td>
+<td style="text-align: center;"><strong>Tab</strong></td>
+<td style="text-align: center;"><strong><strong>Section</strong></strong></td>
+<td style="text-align: center;"><strong>Role and recommended value<br />
+</strong></td>
+</tr>
+<tr>
+<td rowspan="8"><strong>General</strong></td>
+<td>Web</td>
+<td>Session cookie management</td>
+<td>By default Magento cookie lifetime is set at 3600 seconds (1 hour). This means that customers will be asked to log in after 60 minutes of inactivity which can be pretty annoying and cost you a sale.<br />
+Recommended value: 86400 (24 hours)</td>
+</tr>
+<tr>
+<td rowspan="4">Design</td>
+<td>Themes</td>
+<td>Read more about <a title="Magento web-to-print themes" href="../category/themes-for-web-to-print/">Magento web-to-print themes</a>.</td>
+</tr>
+<tr>
+<td>HTML Head</td>
+<td>
+<ul>
+<li>Upload a favicon image file, also known as &#8220;favorites icon&#8221;. Image size should be 16 x 16 px.</li>
+<li>Default Description and Keywords &#8211; Provide description and keywords for SEO purposes.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Header</td>
+<td>
+<ul>
+<li>Logo Image Src &#8211; URL path to the logo image file on your server</li>
+<li>Logo Image Alt &#8211; Alternative text for the logo image</li>
+<li>Welcome text &#8211; Welcome message displayed in the header before customers log in.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Footer</td>
+<td>Copyright</td>
+</tr>
+<tr>
+<td>Curency setup</td>
+<td>Currency Options</td>
+<td>Set a default currency for your store. Default value is US Dollar.</td>
+</tr>
+<tr>
+<td>Store email addresses</td>
+<td>Store email addresses</td>
+<td>Set <em>General</em>, <em>Sales</em> and <em>Support</em> email addresses that will appear as sender signatures in transactional emails.</td>
+</tr>
+<tr>
+<td>Contacts</td>
+<td>Contact Us</td>
+<td>Enable or Disable Magento native contact form.<br />
+Recommended value: Yes</td>
+</tr>
+<tr id="hier_tbl_head">
+<td colspan="4"></td>
+</tr>
+<tr>
+<td><strong>Catalog</strong></td>
+<td>ZetaPrints web-to-print</td>
+<td>Settings</td>
+<td>Configure <a title="ZetaPrints web-to-print synchronization settings" href="../zetaprints-synchronization-settings/">web-to-print synchronization settings</a>.</td>
+</tr>
+<tr id="hier_tbl_head">
+<td colspan="4"></td>
+</tr>
+<tr>
+<td rowspan="4"><strong>Sales</strong></td>
+<td>Checkout</td>
+<td>Checkout options</td>
+<td>Allow guest checkout if you want to permit customers to place orders without having to register accounts in your store.<br />
+Recommended value: No</td>
+</tr>
+<tr>
+<td>Shipping settings</td>
+<td>Settings</td>
+<td>Set shipping origin physical address. Read more about <a title="Magento shipping configuration" href="../shipping-configuration/">shipping configuration</a>.</td>
+</tr>
+<tr>
+<td>PayPal</td>
+<td>Merchant account</td>
+<td>Input email address associated with PayPal merchant account.</td>
+</tr>
+<tr>
+<td>Payment methods</td>
+<td>Saved CC, Check / Moneyorder</td>
+<td>Enable payment methods that you want accepted in your store.</td>
+</tr>
+<tr id="hier_tbl_head">
+<td colspan="4"></td>
+</tr>
+<tr>
+<td rowspan="2"><strong>Advanced</strong></td>
+<td>Admin</td>
+<td>Security</td>
+<td>Admin login session time in seconds.<br />
+Recommended value: 3600 (1 hour)</td>
+</tr>
+<tr>
+<td>Advanced</td>
+<td>Disable Modules Output</td>
+<td>This is where you can disable most of the Magento native modules, including:</p>
+<ul>
+<li>Newsletter</li>
+<li>Sitemap</li>
+<li>Wishlist</li>
+<li>Tags etc.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h2> Advanced configuration for web-to-print</h2>
+<p>Magento has many more tabs and settings to configure. Eventually, you will need to check them all to make your web-to-print store look polished and function efficiently.</p>
+<p>We recommend to allocate about an hour of your time and simply go through each and every of them. It will also help you familiarize yourself with what is possible in your brand new web-to-print store.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/magentohelp/initial-magento-configuration/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+                                    <div class="clear"></div>
+                  <div class="post-rel"><b>See also: </b><ul><li><a href="../shipping-configuration/" rel="bookmark" title="April 7, 2011">Shipping configuration</a></li>
+
+<li><a href="../magento-newsletter/" rel="bookmark" title="August 30, 2011">Magento Newsletter</a></li>
+
+<li><a href="../amazon-server-set-up-for-web-to-print/" rel="bookmark" title="April 22, 2011">Amazon server set up for web-to-print</a></li>
+</ul><!-- Similar Posts took 2.872 ms --></div>
+                  <p class="postmetadata alt"><small></small></p>
+                  <div class="clear"></div>
+                </div>
+              </div>
+            </div>
+                                    </div>
+    </div>
+  </div>
+</div> 
+<div id="footer-container" class="container">
+  <div id="footer">
+    <div id="bottomnav">
+      <!-- a id="pagecounter" href="http://whos.amung.us/show/9bm3msts"><img src="http://whos.amung.us/widget/9bm3msts" alt="hit counter" border="0" height="29" width="81" /></a -->
+      <ul>
+        <li class="first"><a href="../../about-us/" title="About ZetaPrints">About ZetaPrints</a></li>
+        <li><a href="../../about-us/contact-us/" title="Contact us">Contact us</a></li>
+        <li><a href="http://zetaprints.com/" title="Log in">Log in</a></li>
+        <li><a href="../../web-to-print-legal/privacy-policy/" title="Privacy policy">Privacy</a></li>
+        <li><a href="../../sitemap/" title="Sitemap">Sitemap</a></li>
+        <li><a href="../../about-us/summary-of-terms-and-conditions/" title="Terms and conditions">Terms of Service</a></li>
+        <li><a href="../../blog/" title="Web-to-print Blog">Web-to-print Blog</a></li>
+        <li><a href="../../help/" title="Web-to-print Help">Web-to-print Help</a></li>
+      </ul>
+    </div>
+    <p><a href="../../blog/" title="Web-to-print Blog"><img class="footer-icon" alt="Blog" src="../wp-content/themes/water-zp-3/images/blog.png"/></a>&nbsp;
+<a href="http://twitter.com/zetaprints" title="Follow us on twitter"><img class="footer-icon" alt="Twitter" src="../wp-content/themes/water-zp-3/images/twitter_16.png"/></a>&nbsp;
+&copy; 2006-2012 ZetaPrints Ltd. All rights reserved. Powered by <a href="http://wordpress.org">WordPress</a>.</p>
+    <a href="#header" title="Back to Top" class="top-btn">Back to Top</a>
+  </div>
+</div>
+
+<script type="text/javascript">
+    (function(){
+        var ga = document.createElement('script');
+        ga.type="text/javascript";
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1132851-1']);
+    _gaq.push(['_trackPageview']);
+</script>
+</body>
+</html>
+
+<!-- Localized -->

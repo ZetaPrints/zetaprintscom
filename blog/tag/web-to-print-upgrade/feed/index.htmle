@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>web-to-print upgrade &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/tag/web-to-print-upgrade/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>X5 support rollout</title>
+		<link>http://www.zetaprints.com/blog/2010/09/07/x5-support-rollout/</link>
+		<comments>http://www.zetaprints.com/blog/2010/09/07/x5-support-rollout/#respond</comments>
+		<pubDate>Tue, 07 Sep 2010 08:08:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[web-to-print upgrade]]></category>
+		<category><![CDATA[x5]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=612</guid>
+		<description><![CDATA[You can start uploading web-to-print templates in X5 format from now. It is not an official release as we expect some more problems may crop up in the coming days. Color management and color profiles seem to be a weak point at the moment. Please, contact us immediately in case of any problems in that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You can start uploading web-to-print templates in X5 format from now. It is not an official release as we expect some more problems may crop up in the coming days.</p>
+<p>Color management and color profiles seem to be a weak point at the moment. Please, contact us immediately in case of any problems in that or any other area of X5 support. The development team is on standby.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2010/09/07/x5-support-rollout/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

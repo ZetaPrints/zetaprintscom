@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Compatibility &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/tag/compatibility/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Product type compatibility</title>
+		<link>http://www.zetaprints.com/magentohelp/web-to-print-product-type-compatibility/</link>
+		<pubDate>Wed, 11 May 2011 16:59:44 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Web-to-print administration]]></category>
+		<category><![CDATA[Associate]]></category>
+		<category><![CDATA[Compatibility]]></category>
+		<category><![CDATA[Product types]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12800</guid>
+		<description><![CDATA[There are a few different product types in Magento. Here&#8217;s an overview on which ones can be associated with web-to-print templates. Magento supports the following 6 types of products: Simple Grouped Configurable Virtual Bundle Downloadable Simple This is the very basic type of product. Our free web-to-print extension supports this product type and is equipped [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There are a few different <a title="Magento product types" href="http://www.magentocommerce.com/wiki/modules_reference/english/mage_adminhtml/catalog_product/producttype" target="_self">product types</a> in Magento. Here&#8217;s an overview on which ones can be associated with <a title="Create web-to-print templates" href="../../../../help/template-creation/" target="_self">web-to-print templates</a>.<span id="more-12800"></span></p>
+<p><a title="Magento eCommerce platform" href="http://www.magentocommerce.com/" target="_self">Magento</a> supports the following 6 types of products:</p>
+<ol>
+<li><a href="#simple">Simple</a></li>
+<li><a href="#group">Grouped</a></li>
+<li><a href="#config">Configurable</a></li>
+<li><a href="#virtual">Virtual</a></li>
+<li><a href="#bundle">Bundle</a></li>
+<li><a href="#down">Downloadable</a></li>
+</ol>
+<h2><a href="down/"></a><a name="#simple">Simple</a></h2>
+<p>This is the very basic type of product. Our free <a title="Magento web-to-print extension" href="../../../magento-web-to-print-overview/" target="_self">web-to-print extension</a> supports this product type and is equipped with a auto-creating feature that allows you to <a title="Create simple or virtual web-to-print Magento products" href="../../../create-simple-web-to-print-products/" target="_self">automatically create</a> simple Magento products for all your <a title="Import web-to-print templates in Magento" href="../../../import-web-to-print-data/" target="_self">imported</a> web-to-print templates.</p>
+<p>Learn how to populate your store with a <a title="Simple and virtual web-to-print products" href="../../../create-simple-and-virtual-web-to-print-products/" target="_self">combination of simple and virtual</a> web-to-print products.</p>
+<h2><a name="group">Grouped</a></h2>
+<p>Grouped products allow you to create a new product using one or more existing products in your store. Unfortunately, simple products that have web-to-print templates associated with them <strong>cannot</strong> be grouped this way nor can a web-to-print template be associated with a grouped product directly.</p>
+<h2><a name="config">Configurable</a></h2>
+<p>Configurable products are supported. A web-to-print template can only be associated with a configurable product on a super product level. As an important requirement, you must assign the web-to-print template <strong>after</strong> creating and associating the <em>simple</em> products with the configurable super product. Ex:</p>
+<ol>
+<li>Create the configurable product</li>
+<li>Quick create the simple products (options) from within the configurable product</li>
+<li>Associate the simple products with the configurable one and <em>Save</em> the product</li>
+<li>Navigate to <strong>Web-to-print templates</strong> tab on product settings page and select the template you want associated with that configurable product</li>
+</ol>
+<p><strong>Note.</strong> Use configurable products if you want to keep track of your inventory. Otherwise, the same can be achieved by adding custom options to a simple product, which is far less complicated to create.</p>
+<h2><a name="virtual">Virtual</a></h2>
+<p>Same as for simple products, our free web-to-print extension supports this product type and is  equipped with a auto-creating feature that allows you to <a title="Create simple or virtual web-to-print Magento products" href="../../../create-simple-web-to-print-products/" target="_self">automatically create</a> virtual Magento products for all your <a title="Import web-to-print templates in Magento" href="../../../import-web-to-print-data/" target="_self">imported</a> web-to-print  templates.</p>
+<p>Learn how to populate your store with a <a title="Simple and virtual web-to-print products" href="../../../create-simple-and-virtual-web-to-print-products/" target="_self">combination of simple and virtual</a> web-to-print products.</p>
+<h2><a name="bundle">Bundle</a></h2>
+<p>Bundle products are not supported and web-to-print templates cannot be associated with them.</p>
+<h2><a name="down">Downloadable</a></h2>
+<p>Web-to-print templates can be associated with a downloadable product. This, however, may be redundant depending on what you&#8217;re trying to achieve. If you want to allow customers to download the personalized print-ready files generated from the web-to-print template, you don&#8217;t have to use a <em>downloadable product</em>. This can be done with <em>simple</em> or a <em>virtual</em> products. There are two ways to allow file downloading from customer order details page:</p>
+<ul>
+<li>Allow output file downloading for <a title="Allow file download in Magento per template" href="../../../allow-file-download-in-magento/" target="_self">specific products only</a></li>
+<li>Allow output file downloading for <a title="Override output file download permissions" href="../../../override-file-download-permissions/" target="_self">all products in your store</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

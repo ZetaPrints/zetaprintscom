@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Access control &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/category/access-control/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Public access with registration</title>
+		<link>http://www.zetaprints.com/help/public-access-with-registration/</link>
+		<pubDate>Mon, 24 Nov 2008 14:13:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Access control]]></category>
+		<category><![CDATA[anonymous access]]></category>
+		<category><![CDATA[user registration]]></category>
+
+		<guid isPermaLink="false">/help/?p=3062</guid>
+		<description><![CDATA[Web to print catalogs can be open for the public, but require registration to place an order. Users can see templates and update previews without registering, but they do have to provide a valid email. Otherwise it is the same as public access mode. Setting up access mode for web-to-print catalogs / / / Click [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Designer access</title>
+		<link>http://www.zetaprints.com/help/designer-access/</link>
+		<pubDate>Sun, 19 Oct 2008 11:16:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Account]]></category>
+		<category><![CDATA[Designers]]></category>
+
+		<guid isPermaLink="false">/help/?p=1667</guid>
+		<description><![CDATA[The web to print designer account allows designers to submit and manage their web to print templates and access some features of the web-to-print software. Personal catalogs under zetaprints.com Designers can create, modify and delete personal catalogs and templates when logged in to zetaprints.com web to print domain. These catalogs belong to the designer. There [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Printer access</title>
+		<link>http://www.zetaprints.com/help/printer-access/</link>
+		<pubDate>Sun, 19 Oct 2008 10:49:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Accounts]]></category>
+		<category><![CDATA[User management]]></category>
+
+		<guid isPermaLink="false">/help/?p=1665</guid>
+		<description><![CDATA[Web to print printer account is the topmost in the access hierarchy. The printer has full control over the set up of the web-to-print software. Printers can create, modify and delete catalogs, templates, users, orders, files, etc. A user cannot be physically deleted from the system, but the printer can revoke access to catalogs. Printers [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Public access</title>
+		<link>http://www.zetaprints.com/help/public-access/</link>
+		<pubDate>Sun, 19 Oct 2008 10:37:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Anonymous users]]></category>
+		<category><![CDATA[Order management]]></category>
+
+		<guid isPermaLink="false">/help/?p=1659</guid>
+		<description><![CDATA[Web to print catalogs can be open for anyone to see and order without any access control or registration. This is the recommended option if your customers are the general public or if you want your web-to-print products to be found via search engines. Add new users manually New users can be added to a [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Self-registration</title>
+		<link>http://www.zetaprints.com/help/self-registration/</link>
+		<pubDate>Sun, 19 Oct 2008 10:26:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Public]]></category>
+		<category><![CDATA[Restrictions]]></category>
+
+		<guid isPermaLink="false">/help/?p=1657</guid>
+		<description><![CDATA[Self-registration is a good choice when you want to hide the web to print catalog from the majority of the public, but keep it open to a certain segment of people. E.g. a web to print catalog is available to members of an online community. Catalogs with access by self-registration have a specially crafted link [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Corporate access</title>
+		<link>http://www.zetaprints.com/help/corporate-access/</link>
+		<pubDate>Sun, 19 Oct 2008 10:18:39 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Access control]]></category>
+		<category><![CDATA[corporate access]]></category>
+		<category><![CDATA[User management]]></category>
+
+		<guid isPermaLink="false">/help/?p=1655</guid>
+		<description><![CDATA[Corporate access keeps web to print catalogs hidden from public view. Only logged in users with appropriate access rights can see them. Adding new web-to-print users manually New users can be added to a catalog with corporate access by entering their email address on Users page of the catalog. User&#8217;s details and password can be [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>User access control</title>
+		<link>http://www.zetaprints.com/help/user-access-control/</link>
+		<pubDate>Mon, 04 Jun 2007 07:39:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Accounts]]></category>
+		<category><![CDATA[Catalogs]]></category>
+		<category><![CDATA[User management]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/accounts/%post-name%/</guid>
+		<description><![CDATA[Learn how to give access to catalogues for different usage scenarios. Watch a Flash demo on the topic. You can mix and match these options: Corporate-wide access Anyone with a corporate email address can self-register. It is a safe and convenient option for large number of users. The main benefit is that you don’t need [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

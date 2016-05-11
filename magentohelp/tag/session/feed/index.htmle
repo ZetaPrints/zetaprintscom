@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Session &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/tag/session/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>05. Clear Magento cache</title>
+		<link>http://www.zetaprints.com/magentohelp/clear-magento-cache/</link>
+		<pubDate>Thu, 01 Jul 2010 09:58:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-print installation]]></category>
+		<category><![CDATA[Cache]]></category>
+		<category><![CDATA[Session]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/help/?p=10348</guid>
+		<description><![CDATA[Step 4 Step 5 &#8211; Clear Magento cache Step 6 Magento requires its cache to be cleared after installing an extension. Go to System/Cache management and click on Flush Magento Cache. Log out / in Log out of your Magento administration panel and then log in again before proceeding to the next step.]]></description>
+				<content:encoded><![CDATA[<table class="m_install_nav">
+<tbody>
+<tr>
+<td class="m_install_prev"><a title="Step 4 - Configure default theme" href="../../../theme-configuration/" target="_self">Step 4</a></td>
+<td class="m_install_cur"><strong>Step 5</strong> &#8211; Clear Magento cache</td>
+<td class="m_install_next"><a title="Step 6 - Configure settings" href="../../../zetaprints-synchronization-settings/" target="_self">Step 6</a></td>
+</tr>
+</tbody>
+</table>
+<p>Magento requires its cache to be cleared after installing an extension. <span id="more-10348"></span></p>
+<p>Go to <em>System/Cache management</em> and click on <strong>Flush Magento Cache</strong>.</p>
+<p><img class="alignnone size-full wp-image-9136" title="Magento clear cache" src="../../../wp-content/uploads/2009/10/magento_clear_cache.png" alt="Magento clear cache" width="610" height="232" /></p>
+<h2>Log out / in</h2>
+<p>Log out of your Magento administration panel and then log in again before proceeding to the next step.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

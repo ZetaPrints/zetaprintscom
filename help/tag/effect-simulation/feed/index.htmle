@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Effect simulation &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/effect-simulation/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Blending as an alternative to Extrusion</title>
+		<link>http://www.zetaprints.com/help/blending-as-an-alternative-to-extrusion/</link>
+		<pubDate>Sun, 26 Jul 2009 19:07:12 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Blend]]></category>
+		<category><![CDATA[Effect simulation]]></category>
+		<category><![CDATA[Extrude]]></category>
+
+		<guid isPermaLink="false">/help/?p=6892</guid>
+		<description><![CDATA[Although CorelDRAW offers us an option of creating an extrusion with its Interactive Extrude tool designed for the purpose, we’re going to simulate the extrusion using CorelDRAW’s Interactive Blending tool to achieve better quality and avoid the unwanted pixelation, notorious for the Extrude tool. Here&#8217;s how you can create the 3D extrusion of the characters [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

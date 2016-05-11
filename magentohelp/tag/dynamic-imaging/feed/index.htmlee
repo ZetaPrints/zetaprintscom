@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dynamic imaging &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/tag/dynamic-imaging/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Access control extension</title>
+		<link>http://www.zetaprints.com/magentohelp/magento-access-control-for-dynamic-imaging/</link>
+		<pubDate>Tue, 02 Feb 2010 15:51:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Access control plugin]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[magento extension]]></category>
+
+		<guid isPermaLink="false">/help/?p=8883</guid>
+		<description><![CDATA[Magento is an open source e-commerce platform platform. We developed an open source extension for Magento access control to complement our web-to-print extension that allows you to incorporate your web-to-print and dynamic imaging templates in your Magento store. Our free extension The access control extension comes in handy when you want to hide certain products [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a title="Magento ecommerce platform" href="http://www.magentocommerce.com/" target="_self">Magento</a> is an open source e-commerce platform platform. We developed an <a title="magento access control source code" href="http://code.google.com/p/magento-w2p/source/browse/#svn/branches/ZetaPrints_AccessControl">open source</a> extension for <a title="Password protected categories" href="https://www.magentocommerce.com/magento-connect/category-access-control.html">Magento access control</a> to complement our <a title="Web-to-print ZetaPrints extension for Magento" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> that allows you to incorporate your web-to-print and dynamic imaging <a title="Web-to-print templates" href="../../printers/web-to-print-templates/" target="_self">templates</a> in your Magento store.<span id="more-8883"></span></p>
+<h3>Our free extension</h3>
+<p>The <a title="Password protected categories" href="https://www.magentocommerce.com/magento-connect/category-access-control.html">access control extension</a> comes in handy when you want to hide certain products (templates) from the general public or give access to certain products only to certain customers. For example, if you are running a print store for corporate customers and they all have their access limited to their own branded products and categories.</p>
+<h3>Mageparts paid alternative</h3>
+<p><strong></strong>As an alternative solution, you may also try MageParts&#8217; <a title="Restrict Categories access control extension for Magento" href="http://www.magentocommerce.com/magento-connect/restrict-categories.html">Restrict Categories</a> extension for Magento. It was tested compatible with our <a title="Web-to-print ZetaPrints extension for Magento" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> and they offer free support and bug fixes.</p>
+<h2>Installation</h2>
+<p>Your Magento website can <a title="Category access control for Magento" href="https://www.magentocommerce.com/magento-connect/category-access-control.html" target="_self">install the extension</a> automatically if you provide the right key.</p>
+<p><img class="alignnone size-full wp-image-8918" title="Magento install extension" src="../../../wp-content/uploads/2010/01/magento_install_extension.png" alt="Magento install extension" width="537" height="212" /></p>
+<p>Open Magento Connect Manager (<em>System/Configuration/Magento Connect Manager</em>), paste the extension key and hit <strong>Install</strong>.</p>
+<p>We recommend installing the latest stable release. Beta versions may have unresolved issues or experimental features.</p>
+<h2>Group creation</h2>
+<p>Access control is managed per user group. The extension comes with several pre-defined groups for registered and unregistered users. You need to create user groups to assign individual users to them.</p>
+<p>There are 3 pre-defined access groups in the extension:</p>
+<ul>
+<li><strong>NONE</strong> &#8211; Category products are not visible to any customer</li>
+<li><strong>ALL</strong> &#8211; Category products are visible to all customers</li>
+<li><strong>REGISTERED</strong> &#8211; Category products are visible only to registered customers</li>
+</ul>
+<p>To create additional user groups, go to <em>Customers/Customer groups</em> page in Magento admin and click on <strong>Add New Customer Group</strong> button in the top right corner.</p>
+<p><img class="alignnone size-full wp-image-8904" title="Magento add new customer group" src="../../../wp-content/uploads/2010/01/magento_add_new_customer_group.png" alt="Magento add new customer group" width="636" height="300" /></p>
+<p>Input the <em>Group Name</em>, chose the <em>Tax class</em> from the drop-down menu and click <strong>Save Customer Group</strong>.</p>
+<p><img class="alignnone size-full wp-image-8906" title="Magento create access group" src="../../../wp-content/uploads/2010/01/magento_create_access_group.png" alt="Magento create access group" width="599" height="268" /></p>
+<h2>Assigning users to groups</h2>
+<p>You can assign users to groups individually.</p>
+<div style="display: table;">
+<p><img style="margin: 5px; float: right;" title="Magento manage customers" src="../../../wp-content/uploads/2010/01/magento_manage_customers.png" alt="Magento manage customers" width="434" height="166" /></p>
+<div style="position: relative; top: 15px; display: inline;">Go to <em>Customers/Manage Customers</em> page in Magento admin.</div>
+</div>
+<p>Check the box next to the customer name(s), select<strong> Assign a customer group</strong> from the <em>Actions</em> drop-down menu and the group from the <em>Group</em> drop-down menu and click <strong>Submit</strong>.</p>
+<p><img title="Magento assign users to groups" src="../../../wp-content/uploads/2010/01/magento_assign_users_to_groups.png" alt="Magento assign users to groups" width="448" height="132" /></p>
+<p>The customer(s) is now added to the access group and has access to products that are in a category that has the access group assigned to it.</p>
+<h2>Configuring individual categories</h2>
+<div style="display: table;">
+<p><img style="margin: 5px; float: right;" title="Magento manage categories" src="../../../wp-content/uploads/2010/01/magento_manage_categories.png" alt="Magento manage categories" width="360" height="320" /></p>
+<div style="position: relative; top: 15px; display: inline;">To assign an access group to a category of products in your store, go to <em>Catalog/Manage Categories</em>.</div>
+</div>
+<p>Select the category and assign an access group (<em>hold <strong>Ctrl</strong> to select multiple groups</em>) in the <strong>Show to customer groups</strong> section of the <strong>General Information</strong> tab and click on <strong>Save Category</strong>.</p>
+<p><img class="alignnone size-full wp-image-8916" title="Magento assign access group" src="../../../wp-content/uploads/2010/01/magento_assign_access_group.png" alt="Magento assign access group" width="536" height="682" /></p>
+<p>Any user belonging to any of the access group(s) you selected will be able to see and order the products from that category.</p>
+<h2>Products in multiple categories</h2>
+<p>Some products may belong to multiple categories. Access if any of the categories is available to the user.</p>
+<p>For example, one of product&#8217;s categories is available to general public, so anyone can see the product regardless of the other categories.</p>
+<h2>Default configuration</h2>
+<p>There is one store-wide default configuration. It can be configured in <strong>Custom Groups Access Control</strong> section on <em>System/Configuration/Catalog</em> page in Magento admin. Changes to the default settings affect all categories with USE DEFAULT setting selected. It is also the initial access control setting for new categories.</p>
+<p><img class="alignnone size-full wp-image-8926" title="Magento default groups" src="../../../wp-content/uploads/2010/01/magento_default_groups.png" alt="Magento default groups" width="587" height="262" /></p>
+<h2>Links</h2>
+<ul>
+<li><a title="Access control extension overview" href="../../../../magento-web-to-print/magento-access-control/" target="_self">Extension overview</a></li>
+<li><a title="Access control extension source code" href="http://code.google.com/p/magento-w2p/source/browse/#svn/branches/ZetaPrints_AccessControl" target="_self">Source code</a></li>
+<li><a title="Access control extension issue list" href="http://code.google.com/p/magento-w2p/issues/list" target="_self">Issues</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

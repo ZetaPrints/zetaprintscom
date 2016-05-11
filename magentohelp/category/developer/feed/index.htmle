@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web-to-print for developers &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/category/developer/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Compiling Magento with web-to-print</title>
+		<link>http://www.zetaprints.com/magentohelp/web-to-print-extension-and-magento-compiler/</link>
+		<pubDate>Mon, 02 Apr 2012 12:51:58 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Web-to-print for developers]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=13690</guid>
+		<description><![CDATA[Magento’s code is spread out over a large number of modules. PHP search across a large number of include files has serious performance penalty. Magento compilation feature copies all the code into a single location. It doesn&#8217;t always work with our web-to-print extension. This post explains a quick workaround to make Magento compilation work on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Magento’s code is spread out over a large number of modules. PHP search across a large number of include files has serious performance penalty. Magento compilation feature copies all the code into a single location. It doesn&#8217;t always work with our web-to-print extension. This post explains a quick workaround to make Magento compilation work on your web-to-print or dynamic imaging website.<span id="more-13690"></span></p>
+<h2>How Magento compiler works</h2>
+<p>The compiler renames all files to include the fully qualified class name and puts them in a single folder. It ensured file name uniqueness.</p>
+<p>E.g.</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #b1b100;">include</span><span style="color: #339933;">/</span>src<span style="color: #339933;">/</span>Mage_Core_Model_Abstract<span style="color: #339933;">.</span>php<br />
+<span style="color: #b1b100;">include</span><span style="color: #339933;">/</span>src<span style="color: #339933;">/</span>Foo_Module_FooController<span style="color: #339933;">.</span>php<br />
+etc<span style="color: #339933;">...</span></div></td></tr></tbody></table></div>
+<p>Read more about Magento Compiler mode on <a title="About the Magento compiler by Alan Storm" href="http://alanstorm.com/magento_compiler_path">alanstorm.com</a></p>
+<h2>How to make web-to-print extension work with Magento compiler</h2>
+<p>After compilation process finished, follow these steps to make our <a title="web-to-print releases" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">web-to-print extension</a> for Magento work properly:</p>
+<h3>1. Edit includes/src/ZetaPrints_Api.php file</h3>
+<p>Replace the following string</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #b1b100;">require_once</span> <span style="color: #0000ff;">'zetaprints-api.php'</span><span style="color: #339933;">;</span></div></td></tr></tbody></table></div>
+<p>with this:</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #b1b100;">require_once</span> <span style="color: #0000ff;">'ZetaPrints/zetaprints-api.php'</span><span style="color: #339933;">;</span></div></td></tr></tbody></table></div>
+<h3>2. Copy XSLT files (compilation process doesn&#8217;t move them automatically)</h3>
+<p>Copy <strong>lib/ZetaPrints/xslt</strong> folder to <strong>includes/src/ZetaPrints</strong> folder.<strong><br />
+</strong></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Enable / Disable Fit-in-field image editing</title>
+		<link>http://www.zetaprints.com/magentohelp/activate-fit-in-field-image-editing/</link>
+		<pubDate>Wed, 26 Oct 2011 10:02:15 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Web-to-print for developers]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12584</guid>
+		<description><![CDATA[You can use a custom configuration XML file to (de)activate a special web-to-print extension feature that enables users to edit uploaded images in reference to the image field properties in the template. This feature is experimental in all web-to-print extension releases prior to 2.x. Fit-in-field image editing for web-to-print Variable image fields, in web-to-print or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You can use a <a title="Magento custom web-to-print configuration" href="../../../custom-configuration/" target="_self">custom configuration</a> <em>XML</em> file to (de)activate a special <a title="Web-to-print ZetaPrints extension for Magento" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> feature that enables users to edit uploaded images in reference to the image field properties in the template.<span id="more-12584"></span></p>
+<h4><span style="color: #ff0000;">This feature is experimental in all web-to-print extension releases prior to 2.x.</span></h4>
+<h2>Fit-in-field image editing for web-to-print</h2>
+<p>Variable <a title="Web-to-print and dynamic imaging variable image fields" href="../../../../help/image-fields-overview/" target="_self">image fields</a>, in web-to-print or dynamic imaging templates, have different sizes, proportions and quality requirements. The Fit-in-field feature ensures that customers <a title="Magento interactive image editing" href="../../../../magento-web-to-print/magento-interactive-image-editing/" target="_self">edit their uploaded images</a> in reference to the variable field where the image is used.</p>
+<p><img class="alignnone size-full wp-image-12616" title="Magento web-to-print fit in field feature" src="../../../wp-content/uploads/2011/04/magento_fit-in-field_feature.png" alt="" width="600" height="531" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/04/magento_fit-in-field_feature-300x265.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/04/magento_fit-in-field_feature.png 600w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+<h2>Enable / Disable Fit-in-field feature</h2>
+<p>Since release <strong>1.9.2.0beta15 (beta)</strong> of the <a title="Web-to-print ZetaPrints extension for Magento" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a>, the Fit-in-field <a title="Magento web-to-print extension features" href="../../../../magento-web-to-print/features/" target="_self">feature</a> is enabled by default.</p>
+<p>To deactivate this option in the <a title="Magento interactive image editing" href="../../../../magento-web-to-print/magento-interactive-image-editing/" target="_self">interactive image editing</a> menu in your Magento web-to-print store, add the following code inside the <strong>&lt;webtoprint&gt;</strong> nodes in the <em>custom-options.xml</em> file (located in <em>/app/code/community/ZetaPrints/WebToPrint/etc</em> folder of your Magento installation).</p>
+<div class="codecolorer-container xml mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;image-edit<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;in-context</span> <span style="color: #000066;">enabled</span>=<span style="color: #ff0000;">&quot;0&quot;</span> <span style="color: #000000; font-weight: bold;">/&gt;</span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/image-edit<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></div></td></tr></tbody></table></div>
+<p>Or, if you’re editing a custom option for the first time, upload a file named <strong>custom-options.xml</strong> manually to <em>/app/code/community/ZetaPrints/WebToPrint/etc</em> folder of your Magento installation, with the following file content:</p>
+<div class="codecolorer-container xml mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br />5<br />6<br />7<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;config<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;webtoprint<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;image-edit<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;in-context</span> <span style="color: #000066;">enabled</span>=<span style="color: #ff0000;">&quot;0&quot;</span> <span style="color: #000000; font-weight: bold;">/&gt;</span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/image-edit<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/webtoprint<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/config<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></div></td></tr></tbody></table></div>
+<p>You can enable it again by changing the value of &#8220;<em>in-context enabled</em>&#8221; to <strong>1</strong>, like so:</p>
+<div class="codecolorer-container xml mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;image-edit<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;in-context</span> <span style="color: #000066;">enabled</span>=<span style="color: #ff0000;">&quot;1&quot;</span> <span style="color: #000000; font-weight: bold;">/&gt;</span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/image-edit<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></div></td></tr></tbody></table></div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Magento theme hiearachy</title>
+		<link>http://www.zetaprints.com/magentohelp/magento-theme-hiearachy/</link>
+		<pubDate>Sat, 25 Jun 2011 13:15:57 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Web-to-print for developers]]></category>
+		<category><![CDATA[Web-to-print themes]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12900</guid>
+		<description><![CDATA[Magento themes follow a type of fallback hierarchy which is very similar to cascading in CSS. That means that there is one base theme (by default this is /app/design/frontend/base/default theme) that can handle any detail in a Magento site and there are one or more user defined themes that can override some or all parts [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Magento themes follow a type of fallback hierarchy which is very similar to cascading in CSS. That means that there is one base theme (by default this is <em>/app/design/frontend/base/default theme</em>) that can handle any detail in a Magento site and there are one or more <a title="Magento custom theme integration" href="../../../custom-theme-integration/" target="_self">user defined themes</a> that can override some or all parts of the base theme.<span id="more-12900"></span></p>
+<h2>Assigning custom themes</h2>
+<p>Admin-defined themes are set in Magento admin panel. There are a few ways to set user themes. You can</p>
+<ol>
+<li>set custom design in <em>System &gt; Design tab</em> or</li>
+<li>set the theme in <em>System &gt; Configuration &gt; Design</em></li>
+</ol>
+<p>First method should be used only for <em>short term</em> design changes such as holiday inspired themes or some other short therm event. By using the second method you can add your own default theme that can be used to look up features that cannot be found in your custom theme. Then you can have: <strong>User theme &gt; User default theme &gt; Base default theme</strong>. Any design resource (<em>phtml templates, xml layouts, translations, css, JavaScript, images</em>) are looked up in this order.</p>
+<p>You can also be more specific by setting user themes on lower level. You can set custom design by category, by product bases. You can set custom theme for each <em>CMS page</em> separately. Setting custom theme for category also gives the option to set that theme for all subcategories and/or products. The lower level you set a theme the more precedence it takes. Just like CSS.</p>
+<p>If an admin sets theme in <em>System &gt; Configuration &gt; Design</em> and then applies custom design in <em>System &gt; Design</em> the latter takes precedence and overrides any <em>System &gt; Configuration &gt; Design</em> settings for the store.</p>
+<p>If you define custom design on the lower levels mentioned above, it will override store design at that level.</p>
+<h2>Examples</h2>
+<p>Let&#8217;s see how Magento processes installed custom theme files. For instance, if category listing page calls for a template called <em>view.phtml</em> (in which case this template becomes a required file), but the application is unable to find the file in the theme highest in hierarchy, it will look to the next theme highest in hierarchy to find the file. Should this fail, it will continue working down the hierarchy of themes until it’s able to locate the file called <em>view.phtml</em>, upon which the application will load it to the store and terminate the search. This method of building design is called <strong>fallback</strong>, because the application &#8220;falls back&#8221; to the next possible source of required files in order to retrieve and load it.</p>
+<p><strong>Note.</strong> The theme highest in hierarchy is the theme that you assign through the <em>System &gt; Configuration &gt; Design</em>, and the theme lowest in hierarchy is the theme called <em>default</em> in base package that Magento automatically loads into the store. Highest theme may be overridden with lower level design settings.</p>
+<p>Let’s say you have three themes assigned to your store and each of these themes contain the following files:</p>
+<table id="hier_tbl_li">
+<tbody>
+<tr id="hier_tbl_head">
+<td style="text-align: center;"><strong>base/default </strong></td>
+<td style="text-align: center;"><strong>My theme 1 </strong></td>
+<td style="text-align: center;"><strong>My theme 2 </strong></td>
+</tr>
+<tr>
+<td rowspan="5">All required files</td>
+<td>templates/3-col-layout.phtml</td>
+<td>templates/3-col-layout.phtml</td>
+</tr>
+<tr>
+<td>templates/header.phtml</td>
+<td></td>
+</tr>
+<tr>
+<td>images/logo.gif</td>
+<td></td>
+</tr>
+<tr>
+<td>css/base.css</td>
+<td>css/base.css</td>
+</tr>
+<tr>
+<td>css/boxes.css</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Let’s also assume that the three themes are assigned this hierarchy:</p>
+<table id="hier_tbl_li">
+<tbody>
+<tr>
+<td>HIGHEST</td>
+<td>My theme 2</td>
+<td>set as store theme in admin</td>
+</tr>
+<tr>
+<td></td>
+<td>My theme 1</td>
+<td>set as user default theme</td>
+</tr>
+<tr>
+<td>LOWEST</td>
+<td>default</td>
+<td>default magento theme</td>
+</tr>
+</tbody>
+</table>
+<p>At close observation, you’ll see that there are few redundant files such as <em>templates/3-col-layout.phtml</em> and <em>css/base.css</em></p>
+<p>What does this mean?<br />
+Well, let us remind you that the files in above table are how you see the files in each theme folders and not how Magento sees it.</p>
+<p>Magento sees the same file structure like this:</p>
+<table id="hier_tbl_li">
+<tbody>
+<tr id="hier_tbl_head">
+<td style="text-align: center;"><strong>base/default </strong></td>
+<td style="text-align: center;"><strong>My theme 1 </strong></td>
+<td style="text-align: center;"><strong>My theme 2 </strong></td>
+</tr>
+<tr>
+<td rowspan="5">All required files</td>
+<td></td>
+<td>templates/3-col-layout.phtml</td>
+</tr>
+<tr>
+<td>templates/header.phtml</td>
+<td></td>
+</tr>
+<tr>
+<td>images/logo.gif</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>css/base.css</td>
+</tr>
+<tr>
+<td>css/boxes.css</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>You’ll notice how Magento ignores the version of the redundant file lower in hierarchy and recognizes only the version higher in hierarchy. This is because it’s already found the required file and need not search for it any longer, therefore terminating the search for that specific file while continuing the search for other required files yet to be found.</p>
+<h2>Further reading</h2>
+<p>This post is a high level overview to help skilled programmers understand the basics of theme hierarchy in Magento. You need to read <a title="Magento " href="http://www.magentocommerce.com/design_guide">current Magento documentation</a> for more detailed information.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Remove zptheme sidebars</title>
+		<link>http://www.zetaprints.com/magentohelp/remove-zptheme-sidebars/</link>
+		<pubDate>Mon, 02 May 2011 16:56:12 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Web-to-print for developers]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12407</guid>
+		<description><![CDATA[The modified theme that comes with our web-to-print extension adds two blocks to the sidebar of your store and a web-to-print info line in the footer. This post explains what you need to do to disable them. Remove web-to-print sidebar blocks The web-to-print enabled zptheme adds these two blocks to the right sidebar of your [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The modified theme that comes with our  <a title="Install web-to-print extension for Magento" href="../../installation-steps/" target="_self">web-to-print extension</a> adds two blocks to the sidebar of your store and a web-to-print info line in the footer. This post explains what you need to do to disable them.<span id="more-12407"></span></p>
+<h2>Remove web-to-print sidebar blocks</h2>
+<p>The web-to-print enabled <strong>zptheme</strong> adds these two blocks to the right sidebar of your <em>web-to-print storefront</em>.</p>
+<p><img class="alignnone size-full wp-image-12708" title="Magento web-to-print sidebar blocks" src="../../../wp-content/uploads/2011/02/magento_web-to-print_blocks.png" alt="" width="519" height="571" /></p>
+<p>To remove the &#8220;<strong>Download web-to-print extension</strong>&#8221; button and the &#8220;<strong>W2P Resources</strong>&#8221; blocks from the sidebar, navigate to <em>/app/design/frontend/default/zptheme/template/callouts</em> folder of your Magento installation. Download the <strong>right_col.phtml</strong> file, comment out its content and upload it back in.</p>
+<h2>Footer web-to-print info removal</h2>
+<p>By default, the <a title="Magento web-to-print extension" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> adds an info link in the footer containing extension name and version  number for troubleshooting.</p>
+<p><img class="alignnone size-full wp-image-12712" title="Magento web-to-print footer info" src="../../../wp-content/uploads/2011/02/magento_web-to-print_footer_info.png" alt="" width="491" height="172" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/02/magento_web-to-print_footer_info-300x105.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/02/magento_web-to-print_footer_info.png 491w" sizes="(max-width: 491px) 100vw, 491px" /></p>
+<p>If you wish to remove this from the footer in your store, add  the following code to the bottom of the <em>styles.css</em> file.</p>
+<div class="codecolorer-container css mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br /></div></td><td><div class="css codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #cc00cc;">#zetaprints-extension-version</span><br />
+<span style="color: #00AA00;">&#123;</span><br />
+<span style="color: #000000; font-weight: bold;">display</span><span style="color: #00AA00;">:</span><span style="color: #993333;">none</span><span style="color: #00AA00;">;</span><br />
+<span style="color: #00AA00;">&#125;</span></div></td></tr></tbody></table></div>
+<p>The global CSS file is usually located in <em>/skin/frontend/default/default/css</em> folder of your Magento installation.</p>
+<p><strong>Note.</strong> Most custom themes have their own <strong>style.css</strong> files which are located in <em>/skin/frontend/default/THEME/css</em> folders. In these cases, it’s better to add code there.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Custom configuration</title>
+		<link>http://www.zetaprints.com/magentohelp/custom-configuration/</link>
+		<pubDate>Tue, 19 Apr 2011 16:39:45 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Web-to-print for developers]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12555</guid>
+		<description><![CDATA[Our web-to-print extension for Magento can use custom configuration data from a special custom-options.xml file in order to override, activate or deactivate special web-to-print features. This file is intended to provide a way of storing rarely used configuration options without bloating the admin interface. Name of the file is custom-options.xml and it should be added [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Our <a title="Web-to-print ZetaPrints extension for Magento" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> for Magento can use custom configuration data from a special <em>custom-options.xml</em> file in order to override, activate or deactivate special <a title="Magento web-to-print extension features" href="../../../../magento-web-to-print/features/" target="_self">web-to-print features</a>.<span id="more-12555"></span></p>
+<p>This file is intended to provide a way of storing rarely used configuration options without bloating the admin interface. Name of the file is <strong>custom-options.xml</strong> and it should be added manually to <em><em>/app/code/community/ZetaPrints/WebToPrint/etc</em></em> folder of your Magento installation.</p>
+<p>The only required nodes in the file are <strong>&lt;config&gt;</strong> and <strong>&lt;webtoprint&gt;</strong>. Sample configuration file content:</p>
+<div class="codecolorer-container xml mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br />5<br />6<br />7<br />8<br />9<br />10<br />11<br />12<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;?xml</span> <span style="color: #000066;">version</span>=<span style="color: #ff0000;">&quot;1.0&quot;</span><span style="color: #000000; font-weight: bold;">?&gt;</span></span><br />
+<span style="color: #808080; font-style: italic;">&lt;!-- Sample options file, not to be included in extension distribution --&gt;</span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;config<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;webtoprint<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;cache</span> <span style="color: #000066;">type</span>=<span style="color: #ff0000;">&quot;user&quot;</span><span style="color: #000000; font-weight: bold;">&gt;</span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;enabled<span style="color: #000000; font-weight: bold;">&gt;</span></span></span>0<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/enabled<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/cache<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;colorpicker<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;show<span style="color: #000000; font-weight: bold;">&gt;</span></span></span>0<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/show<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/colorpicker<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/webtoprint<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/config<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></div></td></tr></tbody></table></div>
+<p>Everything between <em>&lt;webtoprint&gt;</em> can be retrieved using <em>getOptions</em> method of <em>ZetaPrints_WebToPrint_Model_Config</em> class. There is a method added in <em>app/code/community/ZetaPrints/WebToPrint/Helper/Data.php</em> file, to handle this. Method name is</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap">getCustomOptions<span style="color: #009900;">&#40;</span><span style="color: #000088;">$path</span> <span style="color: #339933;">=</span> <span style="color: #009900; font-weight: bold;">null</span><span style="color: #009900;">&#41;</span></div></td></tr></tbody></table></div>
+<p>It accepts optional parameter <em>$path</em> that allows to search for specific config node. For example, in the sample configuration file above, to search for enabled node of cache node you should pass <em>cache/enabled</em> as parameter of the method. Currently, the method is used to retrieve all stored values. Configuration is returned as <em>SimpleXMLElement</em> object that has all nodes as public members and can be encoded to <em>JSON</em> without modification.</p>
+<h2>XML schema</h2>
+<p>Users who use special <strong>XML</strong> editors could use <strong>XSD</strong> file as a helper while editing <em>custom-options.xml</em> file. Scheme is available <a title="Custom Magento web-to-print options scheme" href="http://code.google.com/p/magento-w2p/source/browse/trunk/app/code/community/ZetaPrints/WebToPrint/etc/custom-options.xsd" target="_self">here</a>.</p>
+<h2>Web-to-print custom configuration examples</h2>
+<p>Currently, you can use this custom configuration file to:</p>
+<ul>
+<li><a title="Override output file download permissions" href="../../../override-file-download-permissions/" target="_self">Override output file download permissions</a> &#8211; allow or deny customers to download generated output files from the store, regardless of template settings in your web-to-print portal.</li>
+</ul>
+<p>See this  <a title="Custom Magento web-to-print options scheme" href="http://code.google.com/p/magento-w2p/source/browse/trunk/app/code/community/ZetaPrints/WebToPrint/etc/custom-options.xsd" target="_self">XML schema</a> for full and detailed list of up to date configuration settings.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Override file download permissions</title>
+		<link>http://www.zetaprints.com/magentohelp/override-file-download-permissions/</link>
+		<pubDate>Tue, 19 Apr 2011 15:00:18 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Web-to-print for developers]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12579</guid>
+		<description><![CDATA[You can use a custom configuration XML file to allow output file download regardless of weather it&#8217;s permitted in template settings on your web-to-print portal. To enable file download in your Magento web-to-print store, add the following code inside the &#60;webtoprint&#62; nodes in the custom-options.xml file (located in /app/code/local/ZetaPrints/WebToPrint/etc folder of your Magento installation). 123&#60;file-download&#62; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You can use a <a title="Magento custom web-to-print configuration" href="../../../custom-configuration/" target="_self">custom configuration</a> <em>XML</em> file to allow output file download regardless of weather it&#8217;s <a title="Allow file download in Magento" href="../../../allow-file-download-in-magento/" target="_self">permitted in template settings</a> on your web-to-print portal.<span id="more-12579"></span></p>
+<p>To enable file download in your Magento web-to-print store, add the following code inside the <strong>&lt;webtoprint&gt;</strong> nodes in the <em>custom-options.xml</em> file (located in <em>/app/code/local/ZetaPrints/WebToPrint/etc</em> folder of your Magento installation).</p>
+<div class="codecolorer-container xml mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;file-download<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;users</span> <span style="color: #000066;">allow</span>=<span style="color: #ff0000;">&quot;1&quot;</span> <span style="color: #000000; font-weight: bold;">/&gt;</span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/file-download<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></div></td></tr></tbody></table></div>
+<p>Or, if you&#8217;re adding a custom option for the first time, upload a file named <strong>custom-options.xml</strong> manually to <em>/app/code/local/ZetaPrints/WebToPrint/etc</em> folder of your Magento installation, with the following File content:</p>
+<div class="codecolorer-container xml mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br />5<br />6<br />7<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;config<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;webtoprint<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;file-download<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;users</span> <span style="color: #000066;">allow</span>=<span style="color: #ff0000;">&quot;1&quot;</span> <span style="color: #000000; font-weight: bold;">/&gt;</span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/file-download<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/webtoprint<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/config<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></div></td></tr></tbody></table></div>
+<p>Read more about <a title="Magento custom web-to-print configuration" href="../../../custom-configuration/" target="_self">custom configuration</a> <em>XML</em> files.</p>
+<h2>Reversible effect</h2>
+<p>After making these modifications to the custom configuration file, your customers will be able to download all generated print-ready output files.</p>
+<div style="display: table;">
+<p><img style="margin-top: 15px; float: right;" title="Magento web-to-print order details" src="../../../wp-content/uploads/2011/04/magento_web-to-print_ordered_items.png" alt="" width="439" height="285" /></p>
+<div style="position: relative; top: 15px; display: inline;">
+<p>Links to the files will appear on order details page.</p>
+<p>This includes orders placed before you made the changes and orders that will be placed in the future.</p>
+<p>Removing the setting brings it back to the default behavior.</p>
+</div>
+</div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Conditional &#8220;Add to cart&#8221; button</title>
+		<link>http://www.zetaprints.com/magentohelp/conditional-add-to-cart-button/</link>
+		<pubDate>Tue, 08 Feb 2011 09:20:53 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Web-to-print for developers]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12414</guid>
+		<description><![CDATA[Our web-to-print extension for Magento is configured to hide the original Add to cart button in order to prevent adding web-to-print products to a customer&#8217;s cart before they are personalized. The button is re-enabled right after customers update all previews. Fake Add to cart button Absence of original button may cause confusion to customers. Therefore, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Our <a title="Magento web-to-print extension page" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> for Magento is configured to hide the original <strong>Add to cart</strong> button in order to prevent adding web-to-print products to a customer&#8217;s cart before they are personalized. The button is re-enabled right after customers update all previews.<span id="more-12414"></span></p>
+<h2>Fake Add to cart button</h2>
+<div style="display: table;">
+<p><img style="float: right;" title="Magento fake Add to cart button" src="../../../wp-content/uploads/2011/02/magento_fake_add_to_cart.png" alt="" width="357" height="382" /></p>
+<div style="position: relative; top: 15px; display: inline;">Absence of original button may cause confusion to customers. Therefore, a <strong>fake </strong><em>Add to cart</em> button is added to preserve consistent store interface.</div>
+</div>
+<p>Use following <em>CSS selectors</em> to style fake <em>Add to cart</em> button and text notice under it:</p>
+<ul>
+<li> <em>#zetaprints-fake-add-to-cart-button</em> &#8211; for the button</li>
+<li><em>#zetaprints-fake-add-to-cart-warning</em> &#8211; for the notice</li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>API user guide</title>
+		<link>http://www.zetaprints.com/magentohelp/zp-api-user-guide/</link>
+		<pubDate>Tue, 26 Oct 2010 16:35:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-print for developers]]></category>
+
+		<guid isPermaLink="false">http://ec2-184-72-207-169.compute-1.amazonaws.com/magentohelp/?p=11728</guid>
+		<description><![CDATA[User guide of ZetaPrint API functions. ZetaPrints web-to-print and image generation system provides a simple web-to-print API with various functions to create users, control access, generate previews and place orders. All the functions are called via HTTP GET/POST. We created a set of PHP wrappers to simplify the programming task. ZP API Code And Example [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>User guide of ZetaPrint API functions.<span id="more-11728"></span><br />
+ZetaPrints <a href="../../../../">web-to-print and image generation system</a> provides a <a href="../../../../help/category/api/">simple web-to-print API</a> with various functions to create users, control access, generate previews and place orders. All the functions are called via HTTP GET/POST. We created a set of PHP wrappers to simplify the programming task.</p>
+<h2>ZP API Code And Example</h2>
+<ol>
+<li>The source code for PHP wrappers is located under <em><a href="http://code.google.com/p/magento-w2p/source/browse/#svn/trunk/zp_api_lib">svn/trunk/zp_api_lib</a></em>.</li>
+<li>Example of use zp_api <a href="http://code.google.com/p/magento-w2p/source/browse/trunk/zp_api_lib/zp.test.php">here</a>.</li>
+<li>Log file after run test or program <a href="http://code.google.com/p/magento-w2p/source/browse/trunk/zp_api_lib/zp_api_log.log">here</a>.</li>
+</ol>
+<h2>ZP API Functions Overview</h2>
+<ol>
+<li>Set api <em>key</em> and api <em>url</em></li>
+<li>Catalogs API
+<ol>
+<li>Get list of catalogs for the domain from ZP (<a href="../../../../help/catalogs-api/">Catalogs API</a>)</li>
+<li>Get list of templates of catalog (<a href="../../../../help/template-details-api/">Templates API</a>)</li>
+</ol>
+</li>
+<li>Template API
+<ol>
+<li>Get details of template (<a href="../../../../help/template-details-api/">Templates API</a>)</li>
+</ol>
+</li>
+<li>User API
+<ol>
+<li>Regiser new user (<a href="../../../../help/user-registration-api/">User rego API</a>)</li>
+</ol>
+</li>
+<li>Order API
+<ol>
+<li>Get Order details (<a href="../../../../help/orders-api-order-details/">Order Details API</a>)</li>
+<li>Saved order completion (<a href="../../../../help/orders-api-generate-output-files/">Order files generation API</a>)</li>
+<li>Change Order status (<a href="../../../../help/orders-api-status-change/">Order status API</a>)</li>
+</ol>
+</li>
+</ol>
+<h2>Include API And Set api key and api url</h2>
+<h4>Include file</h4>
+<p>The only file needed to utilize the wrappers is <em>api/zp_api.php</em></p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #b1b100;">include</span> <span style="color: #009900;">&#40;</span><span style="color: #0000ff;">&quot;api/zp_api.php&quot;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span></div></td></tr></tbody></table></div>
+<h4>Set api key and api url</h4>
+<p>This function must be called before any other API wrapper functions to initialize some global variables.</p>
+<p>There are 2 main parameters needed for the wrappers to function: <a href="../../../../help/about-web-to-print-api/">ZetaPrints API Key</a> and the <a href="../../../../help/category/access-url/">domain name</a> of your ZetaPrints portal.</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br />5<br />6<br />7<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #000000; font-weight: bold;">function</span> zp_api_init<span style="color: #009900;">&#40;</span><span style="color: #000088;">$key</span><span style="color: #339933;">,</span> <span style="color: #000088;">$url</span><span style="color: #009900;">&#41;</span><span style="color: #009900;">&#123;</span><span style="color: #009900;">&#125;</span><br />
+<br />
+<span style="color: #009933; font-style: italic;">/**<br />
+* @param      key, comes in form of a GUID, e.g. &quot;1CFFC003-C369-43A2-AFC4-E0AA292F4436&quot;<br />
+* @param      url, a fully qualified domain name including http:// prefix<br />
+* @return     none<br />
+*/</span></div></td></tr></tbody></table></div>
+<h2>Catalogs API</h2>
+<p>ZetaPrints has a 3-level structure: <strong>portal</strong> <sup>1</sup>&#8211;&gt;<sup>*</sup> <strong>catalog</strong> <sup>1</sup>&#8211;&gt;<sup>*</sup> <strong>template</strong>. You need to obtain the list of catalogs and then request a list of templates for each of the catalogs. You may want to check access control attribute before requesting a list of template if your site should only show public templates.</p>
+<h4>Get list of catalogs for the domain from ZP</h4>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br />5<br />6<br />7<br />8<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #666666; font-style: italic;">//1.1. Get list of catalogs for the domain</span><br />
+<span style="color: #000088;">$list</span> <span style="color: #339933;">=</span> zp_api_catalog_list<span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span><br />
+<span style="color: #990000;">print_r</span><span style="color: #009900;">&#40;</span><span style="color: #000088;">$list</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span><span style="color: #666666; font-style: italic;">//process result here</span><br />
+<span style="color: #666666; font-style: italic;">/*<br />
+foreach ($list as $cdata){<br />
+//process here<br />
+}<br />
+*/</span></div></td></tr></tbody></table></div>
+<p><em>zp_api_catalog_list()</em> function returns</p>
+<ul>
+<li>Array of catalogs for the domain which is initiated at function <em>zp_api_init($key, $url)</em></li>
+<li>null &#8211; if you didn&#8217;t set <a href="../../../../help/about-web-to-print-api/">ZetaPrints API Key</a> or the <a href="../../../../help/category/access-url/">domain name</a> of your ZetaPrints portal,</li>
+<li>null &#8211; if couldn&#8217;t find below xml tag in the rss feed.</li>
+</ul>
+<div class="codecolorer-container xml mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;channel<span style="color: #000000; font-weight: bold;">&gt;</span></span><span style="color: #000000; font-weight: bold;">&lt;item<span style="color: #000000; font-weight: bold;">&gt;</span></span><span style="color: #000000; font-weight: bold;">&lt;/item<span style="color: #000000; font-weight: bold;">&gt;</span></span><span style="color: #000000; font-weight: bold;">&lt;/channel<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></div></td></tr></tbody></table></div>
+<h4>Get list of templates of catalog</h4>
+<p>You need a Catalog ID as a parameter to call this function. The parameter is a <strong>GUID</strong>, e.g. &#8220;<em>0187C932-6EB2-4DFF-B90E-3B3BB33E9279</em>&#8220;.</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br />5<br />6<br />7<br />8<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #666666; font-style: italic;">//1.2. Get list of templates of catalog</span><br />
+<span style="color: #000088;">$list_template</span> <span style="color: #339933;">=</span> zp_api_catalog_detail<span style="color: #009900;">&#40;</span><span style="color: #0000ff;">&quot;_CatalogID_&quot;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span><br />
+<span style="color: #990000;">print_r</span><span style="color: #009900;">&#40;</span><span style="color: #000088;">$list_template</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span><br />
+<span style="color: #666666; font-style: italic;">/*<br />
+foreach ($list_template as $template){<br />
+//process here<br />
+}<br />
+*/</span></div></td></tr></tbody></table></div>
+<p><em>zp_api_catalog_detail(&#8220;</em>CatalogID<em>&#8220;)</em> function returns</p>
+<ul>
+<li>Array of templates of catalog which has id = <em>CatalogID</em>.</li>
+<li>null &#8211; if you didn&#8217;t set <a href="../../../../help/about-web-to-print-api/">ZetaPrints API Key</a> or the <a href="../../../../help/category/access-url/">domain name</a> of your ZetaPrints portal,</li>
+<li>null &#8211; if couldn&#8217;t find below xml tag in the rss feed.</li>
+</ul>
+<div class="codecolorer-container xml mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;channel<span style="color: #000000; font-weight: bold;">&gt;</span></span><span style="color: #000000; font-weight: bold;">&lt;item<span style="color: #000000; font-weight: bold;">&gt;</span></span><span style="color: #000000; font-weight: bold;">&lt;/item<span style="color: #000000; font-weight: bold;">&gt;</span></span><span style="color: #000000; font-weight: bold;">&lt;/channel<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></div></td></tr></tbody></table></div>
+<h2>Get template details</h2>
+<p>Once you have a list of templates from the previous calls you can request template details, one by one. You need a template ID as a parameter. It comes in a form of <strong>GUID</strong>, e.g. &#8220;<em>7AFB079C-BB16-4856-89FF-2E69B5BE303E</em>&#8220;.</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br />5<br />6<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #666666; font-style: italic;">//2.1. Get template details</span><br />
+<span style="color: #000088;">$template</span> <span style="color: #339933;">=</span> zp_api_template_detail<span style="color: #009900;">&#40;</span><span style="color: #0000ff;">&quot;_TemplateID_&quot;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span><br />
+<span style="color: #990000;">print_r</span><span style="color: #009900;">&#40;</span><span style="color: #000088;">$template</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span><br />
+<span style="color: #666666; font-style: italic;">/*<br />
+//process here<br />
+*/</span></div></td></tr></tbody></table></div>
+<p><em>zp_api_template_detail(&#8220;</em>TemplateID<em>&#8220;)</em> function returns</p>
+<ul>
+<li>Data Detail (data type is array) of Template which has id = <em>TemplateID</em>.</li>
+<li>null &#8211; if you didn&#8217;t set <a href="../../../../help/about-web-to-print-api/">ZetaPrints API Key</a> or the <a href="../../../../help/category/access-url/">domain name</a> of your ZetaPrints portal.</li>
+</ul>
+<h2>Register new user</h2>
+<p>One of the requirements to use the preview and order generation functions is having a valid user ID registered in ZetaPrints with access rights to the template. This set of functions works only with public templates.</p>
+<p>You must implement user management where a user is identified even before registering, this identification persists between visits, where possible and is synchronized with <em>ZetaPrints User ID</em> at all times.</p>
+<p>ZetaPrints caches all user input, including text and uploaded images. If ZetaPrints user id changes then anything the user entered or uploaded before becomes unavailable. Read more in <a href="../../../../help/user-registration-api/">User registration API</a></p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br />5<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #666666; font-style: italic;">// Prepare new user id and password</span><br />
+<span style="color: #000088;">$user</span> <span style="color: #339933;">=</span> zp_api_common_uuid<span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span> <span style="color: #666666; font-style: italic;">// generate new user ID in ZP format (GUID)</span><br />
+<span style="color: #000088;">$pass</span> <span style="color: #339933;">=</span> zp_api_common_pass<span style="color: #009900;">&#40;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span> <span style="color: #666666; font-style: italic;">// generate an obscure password</span><br />
+<span style="color: #000088;">$ret</span> <span style="color: #339933;">=</span> zp_api_user_register<span style="color: #009900;">&#40;</span><span style="color: #000088;">$user</span><span style="color: #339933;">,</span> <span style="color: #000088;">$pass</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span> <span style="color: #666666; font-style: italic;">// Register a new user with ZetaPrints</span><br />
+<span style="color: #b1b100;">echo</span> <span style="color: #0000ff;">&quot;regiter=[<span style="color: #006699; font-weight: bold;">$ret</span>]&quot;</span><span style="color: #339933;">;;</span></div></td></tr></tbody></table></div>
+<p><em>zp_api_user_register($user, $pass)</em> function returns</p>
+<ul>
+<li>0 &#8211; existing user, OK</li>
+<li>1 &#8211; new user registered, OK</li>
+<li>-1 &#8211; failure, try again with different parameters</li>
+</ul>
+<p>Registering a new user with <em>UserID</em> and <em>Password</em> matching an existing user is the same as verifying the user exists.</p>
+<h2>Order API</h2>
+<p>ZetaPrints Order API allows some manipulation of orders and retrieval of order details.</p>
+<h4>Get Order details</h4>
+<p>This function returns order details as <strong>XML</strong>. You need to provide a valid ZetaPrints order ID in <strong>GUID</strong> format. You may already have the Order ID stored in a database or it may be returned as a parameter after personalizing a design in a FRAME or e-cards widget.</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br />5<br />6<br />7<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #666666; font-style: italic;">//Get order details</span><br />
+<span style="color: #000088;">$id</span> <span style="color: #339933;">=</span> <span style="color: #0000ff;">&quot;_ZetaPrints order ID_&quot;</span><span style="color: #339933;">;</span><br />
+<span style="color: #000088;">$order</span> <span style="color: #339933;">=</span> zp_api_order_detail<span style="color: #009900;">&#40;</span><span style="color: #000088;">$id</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span><br />
+<span style="color: #990000;">print_r</span><span style="color: #009900;">&#40;</span><span style="color: #000088;">$order</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span><br />
+<span style="color: #666666; font-style: italic;">/*<br />
+//process here<br />
+*/</span></div></td></tr></tbody></table></div>
+<p><em>zp_api_order_detail(&#8220;</em>ZetaPrints order ID<em>&#8220;)</em> function returns</p>
+<ul>
+<li>Data Detail (data type is array) of ZetaPrints Order which has id = <em>ZetaPrints order ID</em>.</li>
+<li>null &#8211; if you didn&#8217;t set <a href="../../../../help/about-web-to-print-api/">ZetaPrints API Key</a> or the <a href="../../../../help/category/access-url/">domain name</a> of your ZetaPrints portal.</li>
+</ul>
+<h4>Saved order completion</h4>
+<p>When a design is personalized using ZetaPrints in a FRAME or e-cards widget it is saved as a temporary order. No output files are generated at that stage and it is not <a title="Magento and API billing" href="../../../../help/magento-and-api-billing/">billable</a>. The status of such orders is <em>Saved</em>. You can request ZetaPrints to generate output files for <em>saved</em> orders at any time, for example when a payment was received. Note that the saved order will be removed, a new order is created with all the files generated. Such orders are <a href="../../../../help/billing-rules/">billable</a>.</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br />5<br />6<br />7<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #666666; font-style: italic;">//Saved order completion</span><br />
+<span style="color: #000088;">$id</span> <span style="color: #339933;">=</span> <span style="color: #0000ff;">&quot;_ZetaPrints saved order ID_&quot;</span><span style="color: #339933;">;</span><br />
+<span style="color: #000088;">$order</span> <span style="color: #339933;">=</span> zp_api_order_save<span style="color: #009900;">&#40;</span><span style="color: #000088;">$id</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span><br />
+<span style="color: #990000;">print_r</span><span style="color: #009900;">&#40;</span><span style="color: #000088;">$order</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span><br />
+<span style="color: #666666; font-style: italic;">/*<br />
+//process here<br />
+*/</span></div></td></tr></tbody></table></div>
+<p><em>zp_api_order_save(&#8220;</em>ZetaPrints order ID<em>&#8220;)</em> function returns</p>
+<ul>
+<li><em>Data Detail</em> (data type is array) of New ZetaPrints Order.</li>
+<li>null &#8211; if you didn&#8217;t set <a href="../../../../help/about-web-to-print-api/">ZetaPrints API Key</a> or the <a href="../../../../help/category/access-url/">domain name</a> of your ZetaPrints portal.</li>
+</ul>
+<h4>Change Order status</h4>
+<p>As an order is progressing to shipping and other stages you may need to update the status in ZetaPrints database. It is a good idea to mark past orders as deleted. They won&#8217;t be <a href="../../../../help/order-retention/">physically deleted</a> straight away. You need to supply a valid order ID, current status and the new status as parameters. The status will be changed only if the current status you provide matches the status in ZetaPrints database.</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br />5<br />6<br />7<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #666666; font-style: italic;">//Change order status</span><br />
+<span style="color: #000088;">$id</span> <span style="color: #339933;">=</span> <span style="color: #0000ff;">&quot;_ZetaPrints order ID_&quot;</span><span style="color: #339933;">;</span><br />
+<span style="color: #000088;">$order</span> <span style="color: #339933;">=</span> zp_api_order_change<span style="color: #009900;">&#40;</span><span style="color: #000088;">$id</span><span style="color: #339933;">,</span> <span style="color: #0000ff;">&quot;_new status_&quot;</span><span style="color: #339933;">,</span> <span style="color: #0000ff;">&quot;_current status_&quot;</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span><br />
+<span style="color: #990000;">print_r</span><span style="color: #009900;">&#40;</span><span style="color: #000088;">$order</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span><br />
+<span style="color: #666666; font-style: italic;">/*<br />
+//process here<br />
+*/</span></div></td></tr></tbody></table></div>
+<p><em>zp_api_order_change(&#8220;</em>ZetaPrints order ID<em>&#8220;, &#8220;</em>new status<em>&#8220;, &#8220;</em>current status<em>&#8220;)</em> function returns</p>
+<ul>
+<li>Data Detail (data type is array) of New ZetaPrints Order.</li>
+<li>null &#8211; if you didn&#8217;t set <a href="../../../../help/about-web-to-print-api/">ZetaPrints API Key</a> or the <a href="../../../../help/category/access-url/">domain name</a> of your ZetaPrints portal.</li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Templates import</title>
+		<link>http://www.zetaprints.com/magentohelp/templates-import/</link>
+		<pubDate>Tue, 26 Oct 2010 16:34:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-print for developers]]></category>
+
+		<guid isPermaLink="false">http://ec2-184-72-207-169.compute-1.amazonaws.com/magentohelp/?p=11726</guid>
+		<description><![CDATA[This post explains how templates are imported from ZetaPrints into Magento. Detailed diagram]]></description>
+				<content:encoded><![CDATA[<div>This post explains how templates are imported from ZetaPrints into Magento.<span id="more-11726"></span></div>
+<h2>Detailed diagram</h2>
+<p><img src="../../../wp-content/magento-docs/templates-synchronization.png" alt="web-to-print template sync" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Redefined functions</title>
+		<link>http://www.zetaprints.com/magentohelp/redefined-functions/</link>
+		<pubDate>Tue, 26 Oct 2010 16:33:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-print for developers]]></category>
+
+		<guid isPermaLink="false">http://ec2-184-72-207-169.compute-1.amazonaws.com/magentohelp/?p=11724</guid>
+		<description><![CDATA[This page lists functions from Magento Core re-defined by the extension. It is possible that some other extension will try to re-define them as well leading to conflicts. Class Mage_Sales_Model_Quote_Item The class is redefined by ZetaPrints_WebToPrint_Model_Quote_Item class. Redefined functions: representProduct ($product) &#8211; If product has web-to-print features then return false to force creating new quote [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This  page lists functions from Magento Core re-defined by the extension. It  is possible that some other extension will try to re-define them as well  leading to conflicts.</p>
+<p><span id="more-11724"></span></p>
+<h2>Class <em>Mage_Sales_Model_Quote_Item</em></h2>
+<p>The class is redefined by <strong><a href="http://code.google.com/p/magento-w2p/source/browse/trunk/app/code/local/ZetaPrints/WebToPrint/Model/Quote/Item.php">ZetaPrints_WebToPrint_Model_Quote_Item</a></strong> class.</p>
+<p>Redefined functions:</p>
+<ul>
+<li><em>representProduct ($product)</em> &#8211; If product has web-to-print features then return <strong>false</strong> to force creating new quote item in cart for personalized product.</li>
+<li><em>compare ($item)</em> &#8211; If quote item represents product with web-to-print features then do not allow merge items in checkout.</li>
+</ul>
+<h2>Class <em>Mage_Adminhtml_Block_Catalog_Product_Edit_Tabs</em></h2>
+<p>The class is redefined by <strong><a href="http://code.google.com/p/magento-w2p/source/browse/trunk/app/code/local/ZetaPrints/WebToPrint/Block/Catalog/Product/Edit/Tabs.php">ZetaPrints_WebToPrint_Block_Catalog_Product_Edit_Tabs</a></strong> class.</p>
+<p>Redefined functions:</p>
+<ul>
+<li><em>_prepareLayout ()</em> &#8211; Add &#8220;<strong>Web-to-print templates</strong>&#8221; tab on product configuration page.</li>
+</ul>
+<h2>Class <em>Mage_Page_Block_Html_Footer</em></h2>
+<p>The class is redefined by <strong><a rel="nofollow" href="http://code.google.com/p/magento-w2p/source/browse/trunk/app/code/local/ZetaPrints/WebToPrint/Block/Html/Footer.php">ZetaPrints_WebToPrint_Block_Html_Footer</a></strong> class.</p>
+<p>Redefined functions:</p>
+<ul>
+<li><em>getCopyright ()</em> &#8211; Add <strong>version</strong> of web-to-print extension.</li>
+</ul>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

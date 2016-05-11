@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CorelDRAW envelope &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/coreldraw-envelope/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Artistic text auto font resizing</title>
+		<link>http://www.zetaprints.com/help/artistic-text-auto-font-resizing/</link>
+		<pubDate>Sun, 13 Dec 2009 13:25:27 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[Auto font resizing]]></category>
+		<category><![CDATA[CorelDRAW envelope]]></category>
+
+		<guid isPermaLink="false">/help/?p=8429</guid>
+		<description><![CDATA[Sometimes web-to-print constraints force us to use artistic text frames instead of paragraph text frames (ex. Using text as a PowerClip container). Since our web-to-print auto font resizing option requires overflowing a paragraph text frame, we can&#8217;t use this feature with artistic text frames. Here&#8217;s a trick explaining how to make artistic text frames resize [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Text shapes</title>
+		<link>http://www.zetaprints.com/help/text-shapes/</link>
+		<pubDate>Wed, 10 Jun 2009 17:01:44 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[CorelDRAW envelope]]></category>
+		<category><![CDATA[Simple]]></category>
+		<category><![CDATA[Text frame shape]]></category>
+
+		<guid isPermaLink="false">/help/?p=6404</guid>
+		<description><![CDATA[Variable web-to-print text frames can form some basic shapes. This technique is based on CorelDRAWs Envelope tool. Learn how to turn a web-to-print user text into a distinct shape. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size as the paper size [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>CorelDRAW envelope tool</title>
+		<link>http://www.zetaprints.com/help/coreldraw-envelope-tool/</link>
+		<pubDate>Mon, 08 Jun 2009 13:02:25 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Complex Text Effect]]></category>
+		<category><![CDATA[CorelDRAW envelope]]></category>
+
+		<guid isPermaLink="false">/help/?p=6293</guid>
+		<description><![CDATA[CorelDRAWs Envelope tool can come in handy in many different situations. Use it to stretch and compress any object or text using eight available points and achieve any desired shape. About the tool The Envelope tool can be found in CorelDRAW toolbox menu on the left under Interactive tools group. The default interactive tool is [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

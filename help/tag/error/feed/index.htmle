@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Error &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/error/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>&#8220;Sorry, try again&#8221; message</title>
+		<link>http://www.zetaprints.com/help/sorry-try-again-message/</link>
+		<pubDate>Tue, 12 Jun 2007 23:40:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Troubleshooting]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[PDF generation issues]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/sorry-try-again-message/</guid>
+		<description><![CDATA[This is the most undesirable message the system may return. It can happen when a template fails to generate a preview or PDF file. Reasons The template file has some objects that are not understood by the system The template file is corrupt User input contains something that upsets the system (very-very unlikely) Uploaded image [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

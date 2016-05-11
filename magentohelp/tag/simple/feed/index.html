@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Simple &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/tag/simple/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Simple and virtual web-to-print products</title>
+		<link>http://www.zetaprints.com/magentohelp/create-simple-and-virtual-web-to-print-products/</link>
+		<pubDate>Mon, 25 Apr 2011 16:29:40 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Web-to-print administration]]></category>
+		<category><![CDATA[Magento]]></category>
+		<category><![CDATA[Product types]]></category>
+		<category><![CDATA[Simple]]></category>
+		<category><![CDATA[Virtual]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12649</guid>
+		<description><![CDATA[Follow these steps if you want to populate your Magento web-to-print store with a combination of both simple and virtual web-to-print product types. After importing the web-to-print templates into your Magento store, you can create simple or virtual products for them. This is done using the automatically created advanced profiles when the web-to-print extension is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Follow these steps if you want to populate your Magento web-to-print store with a combination of both <strong>simple</strong> and <strong>virtual</strong> web-to-print product types.<span id="more-12649"></span></p>
+<p>After <a title="Import web-to-print templates in Magento" href="../../../import-web-to-print-data/" target="_self">importing</a> the web-to-print templates into your Magento store,  you can <a title="Create simple or virtual web-to-print Magento products" href="../../../create-simple-web-to-print-products/" target="_self">create simple or virtual products</a> for them. This is done using the automatically created advanced profiles when the <a title="Magento web-to-print extension page" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> is  installed.<em></em></p>
+<p>Since only  templates that have no matching products are used to create new  web-to-print products, you need to use this method to end up with a combination of both simple and virtual web-to-print products.</p>
+<h2>1. Create simple Magento web-to-print products</h2>
+<p>Navigate to <em>System &gt; Import/Export &gt; Dataflow – Advance Profiles </em><em>(</em><em>for Magento 1.4 and below, System &gt; Import/Export &gt; Advanced Profiles)</em> and run the <strong>ZetaPrints simple products creation</strong> profile as explained <a title="Create simple or virtual web-to-print Magento products" href="../../../create-simple-web-to-print-products/" target="_self">here</a>.</p>
+<p>This will result in <strong>simple</strong> Magento products created for ALL your web-to-print templates.</p>
+<h2>2. Delete the products that should be virtual instead of simple</h2>
+<p>Only  templates that have no matching products are used to create new  web-to-print products. Therefore, you need to delete the <em>simple</em> products for the templates that should be <em>virtual</em> ones.</p>
+<p>Navigate to <em>Catalog &gt; Manage Products</em> in Magento admin panel, select all the simple products that should be virtual and delete them.</p>
+<h2>3.  Create virtual Magento web-to-print products</h2>
+<p>Now that part of the simple products are removed, we have templates that have no products assigned to them. Navigate to <em>System &gt; Import/Export &gt; Dataflow – Advance Profiles </em><em>(</em><em>for Magento 1.4 and below, System &gt; Import/Export &gt; Advanced Profiles)</em> and run the <strong>ZetaPrints virtual products creation</strong> profile.</p>
+<p>Magento will detect presence of web-to-print templates that are not connected to any products and create products ONLY for them. Since we&#8217;re running the <strong>virtual</strong> product creation profile, those new products will be virtual ones.</p>
+<p><strong>Note.</strong> Newly created web-to-print products are not usable after the import and have to be <a title="Web-to-print Magento product configuration" href="../../../../configure-product-attributes/" target="_self">configured manually</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

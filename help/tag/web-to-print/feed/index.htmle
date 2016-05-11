@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>web-to-print &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/web-to-print/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Get started overview</title>
+		<link>http://www.zetaprints.com/help/get-started/</link>
+		<pubDate>Mon, 10 May 2010 13:11:54 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Full process]]></category>
+		<category><![CDATA[Full Tutorial]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[web-to-print]]></category>
+
+		<guid isPermaLink="false">/help/?p=9839</guid>
+		<description><![CDATA[Just a few simple steps to get you started. For more advanced topics, please visit web to print help home page. What you need CorelDRAW 12 or later and some experience working with the software. View some free CorelDRAW tutorials here. What you need to do Create your design Mark the text and images that [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Watermarks</title>
+		<link>http://www.zetaprints.com/help/watermarks/</link>
+		<pubDate>Thu, 11 Sep 2008 14:29:31 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Protection]]></category>
+		<category><![CDATA[Text tricks]]></category>
+		<category><![CDATA[web-to-print]]></category>
+
+		<guid isPermaLink="false">/help/?p=439</guid>
+		<description><![CDATA[The watermark is a widely used protection method by designers. You can add a text, image or any kind of shaped watermark to your templates to protect them from being used without permission. A sample CDR file can be downloaded from your Sample Stationery catalog (go to Summary page). Example You can add a watermark [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Anonymous orders</title>
+		<link>http://www.zetaprints.com/help/anonymous-orders/</link>
+		<pubDate>Mon, 07 Apr 2008 07:19:24 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Order management]]></category>
+		<category><![CDATA[Accounts]]></category>
+		<category><![CDATA[User management]]></category>
+		<category><![CDATA[web-to-print]]></category>
+		<category><![CDATA[zetaprints]]></category>
+
+		<guid isPermaLink="false">/help/?p=169</guid>
+		<description><![CDATA[Web-to-print orders placed by unregistered users go under user IDs and the real identity of the user may never be known. There are 2 ways to claim these orders. Claimed by users Unregistered user can register after placing an order. All anonymous web-to-print orders by that user will be transfered to the newly created web-to-print [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>User management: centralized</title>
+		<link>http://www.zetaprints.com/help/user-management-centralized/</link>
+		<pubDate>Mon, 07 Apr 2008 06:51:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Permissions]]></category>
+		<category><![CDATA[web-to-print]]></category>
+		<category><![CDATA[zetaprints]]></category>
+
+		<guid isPermaLink="false">/help/?p=165</guid>
+		<description><![CDATA[Users of your web-to-print system can be managed per web-to-print catalog one by one or in bulk. The central user management page gives direct access to user profiles. This post describes centralized user management for web-to-print sites. Holders of web-to-print printer accounts can add new users or find existing ones using Add user link in [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Homepage layout</title>
+		<link>http://www.zetaprints.com/help/homepage-layout/</link>
+		<pubDate>Fri, 04 Apr 2008 05:20:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Branding]]></category>
+		<category><![CDATA[home page]]></category>
+		<category><![CDATA[index page]]></category>
+		<category><![CDATA[web-to-print]]></category>
+
+		<guid isPermaLink="false">/help/?p=155</guid>
+		<description><![CDATA[Web-to-print homepage layout can be customized if you have web-to-print products opened to unregistered users. Otherwise the home page displays the login screen no matter what you select. Customization options The homepage can display the following blocks: popular templates list of catalogs latest templates They blocks appear in the order specified, if there is anything [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Completing user registration</title>
+		<link>http://www.zetaprints.com/help/completing-user-registration/</link>
+		<pubDate>Sun, 29 Jul 2007 13:22:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[Add users]]></category>
+		<category><![CDATA[web-to-print]]></category>
+		<category><![CDATA[zetaprints]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/completing-user-registration/</guid>
+		<description><![CDATA[Printers can complete user registration for corporate users on their behalf. You need to add the user as described in Adding new users. The user record will appear as in the image below: Click on user name to go to the user profile and enter full user details. You can only edit details of users [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

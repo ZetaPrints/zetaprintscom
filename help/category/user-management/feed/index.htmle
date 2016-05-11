@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>User management &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/category/user-management/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>User management for office managers</title>
+		<link>http://www.zetaprints.com/help/user-management-for-office-managers/</link>
+		<pubDate>Tue, 20 Oct 2009 12:30:26 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[Order management]]></category>
+
+		<guid isPermaLink="false">/help/?p=7969</guid>
+		<description><![CDATA[Printers can assign a user to manage other users and orders in their web-to-print and dynamic imaging catalogs. This option is only available for printers. An office manager is basically a user to whom the printer has assigned additional functionality regarding a specific catalog such as: Adding new users to the catalog; Removing existing users [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Anonymous users</title>
+		<link>http://www.zetaprints.com/help/anonymous-users/</link>
+		<pubDate>Mon, 20 Oct 2008 21:21:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[anonymous user]]></category>
+		<category><![CDATA[Order management]]></category>
+
+		<guid isPermaLink="false">/help/?p=1772</guid>
+		<description><![CDATA[Access to public web-to-print catalogs does not require registration. Our web-to-print software encourages users to register, but they may choose not to. You can register them after they placed an order if they gave you enough details in the address/delivery fields. Normally users are identified by their email address. Anonymous users are identified by a [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>User management: centralized</title>
+		<link>http://www.zetaprints.com/help/user-management-centralized/</link>
+		<pubDate>Mon, 07 Apr 2008 06:51:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Permissions]]></category>
+		<category><![CDATA[web-to-print]]></category>
+		<category><![CDATA[zetaprints]]></category>
+
+		<guid isPermaLink="false">/help/?p=165</guid>
+		<description><![CDATA[Users of your web-to-print system can be managed per web-to-print catalog one by one or in bulk. The central user management page gives direct access to user profiles. This post describes centralized user management for web-to-print sites. Holders of web-to-print printer accounts can add new users or find existing ones using Add user link in [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Lists of users</title>
+		<link>http://www.zetaprints.com/help/lists-of-users/</link>
+		<pubDate>Thu, 31 Jan 2008 05:40:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[User List]]></category>
+		<category><![CDATA[Website stats]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/lists-of-users/</guid>
+		<description><![CDATA[How to view and download lists of users. List of users per catalog A list of users is displayed on Users page for every catalog. The list includes only users manually added to the catalog or self-registered for that catalog. You can download the full list as an MS Excel file. The file includes: Users [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Bulk user registration</title>
+		<link>http://www.zetaprints.com/help/bulk-user-registration/</link>
+		<pubDate>Wed, 08 Aug 2007 21:49:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Import user list]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/bulk-user-registration/</guid>
+		<description><![CDATA[ZetaPrints web-to-print registration process can be skipped if you migrating users from some other system. We are happy to assist you with migrating your user database into ZetaPrints. This step will spare your users from entering their personal details and confirming email addresses. User database migration Export your database in some sort of structured format [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Completing user registration</title>
+		<link>http://www.zetaprints.com/help/completing-user-registration/</link>
+		<pubDate>Sun, 29 Jul 2007 13:22:17 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[Add users]]></category>
+		<category><![CDATA[web-to-print]]></category>
+		<category><![CDATA[zetaprints]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/completing-user-registration/</guid>
+		<description><![CDATA[Printers can complete user registration for corporate users on their behalf. You need to add the user as described in Adding new users. The user record will appear as in the image below: Click on user name to go to the user profile and enter full user details. You can only edit details of users [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Role: Office manager</title>
+		<link>http://www.zetaprints.com/help/role-office-manager/</link>
+		<pubDate>Sat, 21 Jul 2007 10:46:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Catalogs]]></category>
+		<category><![CDATA[Order management]]></category>
+		<category><![CDATA[Printer]]></category>
+		<category><![CDATA[Template management]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/role-office-manager/</guid>
+		<description><![CDATA[&#8220;Office manager&#8221; has the same privileges as &#8220;user&#8221; account, except for some additional functionality. Additional functionality Add new users Remove existing users Manage orders of other users This additional functionality is available per catalog. An &#8220;office manager&#8221; can only access orders of other users for templates from the same catalog. The same applies to user [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Role: User</title>
+		<link>http://www.zetaprints.com/help/role-user/</link>
+		<pubDate>Sat, 21 Jul 2007 10:38:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Billing]]></category>
+		<category><![CDATA[Customization]]></category>
+		<category><![CDATA[Payments]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/role-user/</guid>
+		<description><![CDATA[A &#8220;user&#8221; is the default account type. Users browse products, customise them and place orders for printed products or print-ready PDF files. Available functionality Browse or search design templates Personlaise templates and place orders Make payments Manage their own orders Rate services and make comments Costs and payments Users make payments directly to printers, if [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Role: Designer</title>
+		<link>http://www.zetaprints.com/help/role-designer/</link>
+		<comments>http://www.zetaprints.com/help/role-designer/#comments</comments>
+		<pubDate>Sat, 21 Jul 2007 10:23:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Template management]]></category>
+		<category><![CDATA[Template preparation]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/role-designer/</guid>
+		<description><![CDATA[A &#8220;designer&#8221; is a special account type for people with design skills. Designers can create their own catalogues, upload templates and manage templates for printers. Available functionality Manage templates for printers Create personal catalogues and upload tempates View limited order information Costs and payments There are no costs involved in this account. Designers get paid [&#8230;]]]></description>
+		<wfw:commentRss>http://www.zetaprints.com/help/role-designer/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Role: Printer</title>
+		<link>http://www.zetaprints.com/help/role-printer/</link>
+		<pubDate>Sat, 21 Jul 2007 09:37:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Billing]]></category>
+		<category><![CDATA[Miscelaneous]]></category>
+		<category><![CDATA[Payments]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/role-printer/</guid>
+		<description><![CDATA[A &#8220;printer&#8221; is a top level account with most privileges and functionality. This account presumes that printing is managed by the account holder. &#8220;Printer&#8221; is suitable for printing companies, print brokers and anyone else wishing to manage the printing process themselves. Available functionality Customise user interface, including custom URL Full control over catalogues, templates, orders, [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>How to improve customer response rate</title>
+		<link>http://www.zetaprints.com/help/how-to-improve-customer-response-rate/</link>
+		<pubDate>Wed, 27 Jun 2007 11:18:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[Branding]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[Miscelaneous]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/how-to-improve-customer-response-rate/</guid>
+		<description><![CDATA[Sending a registration email may not be enough to bring a customer to your website. Initial registration The initial registration email is brief and dry. Its purpose is to provide a registration link and give very brief instructions on what to do next. There is no &#8220;sales&#8221; in the email text and if the customer [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Adding new users</title>
+		<link>http://www.zetaprints.com/help/adding-new-users/</link>
+		<comments>http://www.zetaprints.com/help/adding-new-users/#comments</comments>
+		<pubDate>Sat, 23 Jun 2007 23:39:42 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[Accounts]]></category>
+		<category><![CDATA[Catalogs]]></category>
+		<category><![CDATA[Printer]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/adding-new-users/</guid>
+		<description><![CDATA[This article explains how to add new users to a catalogue. Watch a Flash demonstration on this topic Who can manage users User management is available only under Printer and Business accounts. Designers and Users cannot manager users, except for a user nominated as an Office Manager. Adding new users Enter email addresses separated by [&#8230;]]]></description>
+		<wfw:commentRss>http://www.zetaprints.com/help/adding-new-users/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Email communications</title>
+		<link>http://www.zetaprints.com/help/email-communications/</link>
+		<pubDate>Mon, 04 Jun 2007 07:50:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[Accounts]]></category>
+		<category><![CDATA[Info]]></category>
+		<category><![CDATA[Notifications]]></category>
+		<category><![CDATA[Order generation]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/emails/%post-name%/</guid>
+		<description><![CDATA[ZetaPrints communicates with its users via email, but only in certain circumstances. We do not send any newsletters, promotions, etc. Email communications are used strictly for the purpose of using ZetaPrints system. All emails are sent in plain text format for better compatibility. Initial registration A confirmation email is dispatched during registration. The email is [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Roles and access control</title>
+		<link>http://www.zetaprints.com/help/roles-and-access-control/</link>
+		<pubDate>Mon, 04 Jun 2007 07:37:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Accounts]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/accounts/%post-name%/</guid>
+		<description><![CDATA[ZetaPrints has 3 main types of accounts: Printer, Designer and User. Printer A company or an individual who provides or manages printing services to others. Suitable for commercial printers, print brokers, publications, advertising agents, businesses with in-house printing. More &#8230; Designer A company or an individual who provides design services to printers or uploads templates [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

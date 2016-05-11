@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>translations &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/tag/translations/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Magento for web-to-print</title>
+		<link>http://www.zetaprints.com/blog/2010/03/18/magento-for-web-to-print/</link>
+		<comments>http://www.zetaprints.com/blog/2010/03/18/magento-for-web-to-print/#respond</comments>
+		<pubDate>Thu, 18 Mar 2010 08:01:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[magento]]></category>
+		<category><![CDATA[translations]]></category>
+		<category><![CDATA[web-to-pring extension]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=557</guid>
+		<description><![CDATA[We released a stable version of web&#8211;to-print extension for Magento 1.4. Lots of new web-to-print features. New web-to-print features It is fully compatible with the new Magento release and has a log of new features. Image editing is one of them. Images cannot be moved yet, but they can be cropped and rotated right on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We released <a title="web-to-print, stable" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">a stable version of web&#8211;to-print extension for Magento 1.4</a>. Lots of new web-to-print features.</p>
+<h2>New web-to-print features</h2>
+<p>It is fully compatible with the new Magento release and has a log of new features. Image editing is one of them. Images cannot be moved yet, but they can be cropped and rotated right on the previews page. You can<a title="web-to-print demo" href="../../../../magento/index.php/realestate-signs/remax-signs/remax-horizontal-sign-01-2-photos-24-x-18.html"> try it live</a> on our <a title="web-to-print demo" href="../../../../magento/index.html">demo Magento web-to-print site</a>.</p>
+<h2>Web-to-print in your language</h2>
+<p>Magento itself can be run in many languages. All popular ones have already been translated to. Our <a title="web-to-print translations" href="../../../../help/magento-web-to-print-localization/index.html">web-to-print extension can be translated</a> as well. You can run it in German, French, you name. There are lots of translation packages ready to be downloaded and installed. Translate the web-to-print part and it will be all in your language.</p>
+<h2>Web-to-print extension is ahead of ZP</h2>
+<p>In some respect, our Magento extension is more advanced than the standard ZetaPrints web-to-print interface. It is definitely better suited for applications where the visual part of the interface is more important than its simplicity.</p>
+<h2>Do you want to migrate?</h2>
+<p>Anyone looking at customization of your web-to-print portal should seriously look into our Magento web-to-print extension. We can definitely help you with setting up a Magento web-to-print site and migrating your ZP data there. Let us know if you are interested.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2010/03/18/magento-for-web-to-print/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

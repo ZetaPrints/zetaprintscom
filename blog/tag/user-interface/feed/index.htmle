@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>user interface &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/tag/user-interface/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Minor changes to user interface</title>
+		<link>http://www.zetaprints.com/blog/2009/05/26/minor-changes-to-user-interface/</link>
+		<comments>http://www.zetaprints.com/blog/2009/05/26/minor-changes-to-user-interface/#respond</comments>
+		<pubDate>Tue, 26 May 2009 12:24:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[embedding]]></category>
+		<category><![CDATA[user interface]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=426</guid>
+		<description><![CDATA[A small change to your web-to-print portal interface &#8211; the pagination bar above and below the list of templates was simplified. Users can choose 10, 20, 50 or 100 web-to-print templates per page with or without thumbs using only a single dropdown control. Users with JavaScript disabled will be stuck with 50 web-to-print templates per [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A small change to your web-to-print portal interface &#8211; the pagination bar above and below the list of templates was simplified.</p>
+<p>Users can choose 10, 20, 50 or 100 web-to-print templates per page with or without thumbs using only a single dropdown control. Users with JavaScript disabled will be stuck with 50 web-to-print templates per page.</p>
+<p>Public catalogs can have embedding links showing in the pagination bar, if you want. The switch to turn it on is in catalog details. More on this tomorrow. We have a few bugs in the flash widget, so it&#8217;s kind of unofficial yet.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/05/26/minor-changes-to-user-interface/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Color picker is back</title>
+		<link>http://www.zetaprints.com/blog/2009/04/27/color-picker-is-back/</link>
+		<comments>http://www.zetaprints.com/blog/2009/04/27/color-picker-is-back/#respond</comments>
+		<pubDate>Mon, 27 Apr 2009 21:59:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[user interface]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=385</guid>
+		<description><![CDATA[We now have two web-to-print interfaces: original and new. The new web-to-print interface is where all new features will be added. The original one will stay as is and may be decomissioned at some later date if no one is using it seriously. Go to Branding/Page layout and choose New if you want to use [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We now have two web-to-print interfaces: original and new.</p>
+<p>The new web-to-print interface is where all new features will be added. The original one will stay as is and may be decomissioned at some later date if no one is using it seriously.</p>
+<p>Go to Branding/Page layout and choose New if you want to use the new tabbed interface and a color picker.</p>
+<p>We had a few complaints about the new interface at the last attempt to launch it. Some more thought was put into the redesign and hopefully we got it right.</p>
+<p>Please, do tell us if there are still problems with the new one. You can always switch back to the original web-to-print interface if the new one doesn&#8217;t work for you.</p>
+<p>The current state of the ordering page is temporary.  The page will morth into something like the one below with async file uploading. Click on it for full size view.</p>
+<div id="attachment_386" style="width: 310px" class="wp-caption alignnone"><a href="http://ec2-67-202-43-115.compute-1.amazonaws.com/blog/wp-content/uploads/2009/04/zetaprintscom_sample-stationary-ii_brochureuploadimage_skeleton1-1.jpg"><img class="size-medium wp-image-386" title="new web-to-print" src="http://ec2-67-202-43-115.compute-1.amazonaws.com/blog/wp-content/uploads/2009/04/zetaprintscom_sample-stationary-ii_brochureuploadimage_skeleton1-1-300x270.jpg" alt="new web-to-print" width="300" height="270" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2009/04/zetaprintscom_sample-stationary-ii_brochureuploadimage_skeleton1-1-300x270.jpg 300w, http://www.zetaprints.com/blog/wp-content/uploads/2009/04/zetaprintscom_sample-stationary-ii_brochureuploadimage_skeleton1-1.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">new web-to-print</p></div>
+<p><strong>Update:</strong> a help post was published for use of our <a title="web-to-print color picker" href="../../../../help/color-picker/index.html">web-to-print color picker</a>.  There are 2 problems with the color picker as it is now.</p>
+<ul>
+<li>you may need to click twice on the colored box to open it</li>
+<li>CMYK colors show incorrectly</li>
+</ul>
+<p>We are working on fixing them.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/04/27/color-picker-is-back/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Free skins released</title>
+		<link>http://www.zetaprints.com/blog/2008/11/14/free-skins-released/</link>
+		<comments>http://www.zetaprints.com/blog/2008/11/14/free-skins-released/#respond</comments>
+		<pubDate>Fri, 14 Nov 2008 21:14:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Printer update history]]></category>
+		<category><![CDATA[web-to-print features]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[free stuff]]></category>
+		<category><![CDATA[skins]]></category>
+		<category><![CDATA[user interface]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=262</guid>
+		<description><![CDATA[We&#8217;ve just released 4 free web-to-print skins to spurse up the looks of your site. You can use them as is or download the source and modify to your requirements. Read instructions on how to use them.]]></description>
+				<content:encoded><![CDATA[<p>We&#8217;ve just released <a title="Free web-to-print skins" href="../../../../help/category/skins/index.html">4 free web-to-print skins</a> to spurse up the looks of your site. You can use them as is or download the source and modify to your requirements. Read <a title="How to use web-to-print skins" href="../../../../help/custom-skins/index.html">instructions </a>on how to use them.</p>
+<div style="width: 441px" class="wp-caption alignnone"><a href="../../../../help/green-skin/index.html"><img title="Green web-to-print skin" src="../../../../help/wp-content/uploads/2008/11/greenlrg.jpg" alt="Green web-to-print skin" width="431" height="236" /></a><p class="wp-caption-text">Green web-to-print skin</p></div>
+<div style="width: 441px" class="wp-caption alignnone"><a href="../../../../help/grey-skin/index.html"><img title="Grey web-to-print skin" src="../../../../help/wp-content/uploads/2008/11/graylrg.jpg" alt="Grey web-to-print skin" width="431" height="236" /></a><p class="wp-caption-text">Grey web-to-print skin</p></div>
+<div style="width: 441px" class="wp-caption alignnone"><a href="../../../../help/jeans-skin/index.html"><img title="Jeans web-to-print skin" src="../../../../help/wp-content/uploads/2008/11/jeanslrg.jpg" alt="Jeans web-to-print skin" width="431" height="236" /></a><p class="wp-caption-text">Jeans web-to-print skin</p></div>
+<div style="width: 441px" class="wp-caption alignnone"><a href="../../../../help/olive-skin/index.html"><img title="Olive web-to-print skin" src="../../../../help/wp-content/uploads/2008/11/olivelrg.jpg" alt="Olive web-to-print skin" width="431" height="236" /></a><p class="wp-caption-text">Olive web-to-print skin</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2008/11/14/free-skins-released/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

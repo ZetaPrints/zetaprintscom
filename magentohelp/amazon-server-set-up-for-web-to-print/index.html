@@ -1,0 +1,476 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="verify-v1" content="GACnn9+1c3JzusKbMwxWr+f9dKvqx8As8sbHI8tNyxA=" />
+  <meta name="keywords" content="web-to-print, online printing, zetaprints, online print ordering" />
+  <title>   Amazon server set up for web-to-print | Magento web-to-print &amp; dynamic imaging</title>
+  <script type="text/javascript" src="../wp-content/themes/water-zp-3/jslib.js"></script>
+  <meta name="generator" content="ZetaPrints"/> <!-- leave this for stats -->
+  <link rel="stylesheet" href="../wp-content/themes/water-zp-3/style.css" type="text/css" media="all" />
+  <link href="../wp-content/themes/water-zp-3/style-fixed.css" rel="stylesheet" type="text/css" />
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../feed/" />
+  <link rel="alternate" type="text/xml" title="RSS .92" href="../feed/rss/" />
+  <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../feed/atom/" />
+  <!--link rel="pingback" href="http://www.zetaprints.com/magentohelp/xmlrpc.php" /-->
+  		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.zetaprints.com\/magentohelp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cat-post-tree-ajax-css'  href='../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-ver=0.7.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='top_css-css'  href='../wp-content/themes/water-zp-3/top-menu-ver=4.4.1.css' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='top_css_ie-css'  href='../wp-content/themes/water-zp-3/top-menu-ie-ver=4.4.1.css' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='codecolorer-css'  href='../wp-content/plugins/codecolorer/codecolorer-ver=0.9.9.css' type='text/css' media='screen' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='../wp-content/themes/water-zp-3/js/top-menu.js?ver=4.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CatPostAjax = {"ajaxurl":"http:\/\/www.zetaprints.com\/magentohelp\/wp-admin\/admin-ajax.php","nice_ajax_tree_img":"http:\/\/www.zetaprints.com\/magentohelp\/wp-content\/plugins\/cat-post-tree-ajax\/img\/","type":"post","id":"12635","cat":"1149"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax.js?ver=4.4.1'></script>
+<link rel='https://api.w.org/' href='../wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc-rsd.php.html" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Custom configuration' href='../custom-configuration/' />
+<link rel='next' title='Simple and virtual web-to-print products' href='../create-simple-and-virtual-web-to-print-products/' />
+<meta name="generator" content="WordPress 4.4.1" />
+<link rel="canonical" href="index.html" />
+<link rel='shortlink' href='../index-p=12635.html' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed/index-url=http___www.zetaprints.com_magentohelp_amazon-server-set-up-for-web-to-print_.html" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed/index-url=http___www.zetaprints.com_magentohelp_amazon-server-set-up-for-web-to-print_&format=xml.html" />
+<meta property="og:site_name" content="Magento web-to-print &amp;amp; dynamic imaging" />
+<meta property="og:title" content="Amazon server set up for web-to-print" />
+<meta property="og:url" content="http://www.zetaprints.com/magentohelp/amazon-server-set-up-for-web-to-print/" />
+<meta property="og:type" content="article" />
+  <!--[if IE]>
+  <style>
+  
+  </style>
+  <![EndIf]-->
+  <style type="text/css" media="print">
+  #header, #footer, #rightcol, #logo, .social_bookmark, .post-rel, .postmetadata, #questionMark, p.nocomments {display:none}
+  </style>
+  <link media="screen" type="text/css" href="../wp-content/themes/water-zp-3/grid.css" rel="stylesheet"/>
+  <script type='text/javascript' src="../wp-content/themes/water-zp-3/js/grid.js" ></script>
+</head>
+
+<body>
+  <div id="header-container" class="clearfix container">
+    <div id="header">
+      <div class="logo">
+        <a href="../../"><img src="../wp-content/themes/water-zp-3/images/logo.gif" alt="ZetaPrints Web-to-print home"/></a>
+        <h1><a href="../"><span>ZetaPrints</span> magento</a></h1>
+        <h3>Web-to-Print &amp; dynamic imaging</h3>
+      </div>
+      <form method="get" id="searchform" action="http://www.zetaprints.com/magentohelp/">
+        <div>
+          <input type="text" value=""  name="s" id="s" />
+          <input type="image" id="searchsubmit" alt="Search" src="../wp-content/themes/water-zp-3/images/search_btn.gif" />
+        </div>
+      </form>
+      <div class="nav">
+    <ul class="main" id="top-drop-menu">
+        <li>
+            <a href="../../" title="Zetaprints home">Home</a>
+        </li><li class="drop">
+            <a href="../../help/" class="drop-down-link">Help</a>
+            <ul>
+                <li>
+                    <a href="../../help/" class="drop-down-link">Web-to-print help</a>
+                </li>
+                <li>
+                    <a href="../" class="drop-down-link">Magento help</a>
+                </li>
+				<li>
+					<a href="../../premium/" class="drop-down-link">Premium support</a>
+				</li>
+				<li>
+					<a href="../../directory/" class="drop-down-link">Resources</a>
+				</li>
+				<li class="last">
+					<a href="../../userhelp/" class="drop-down-link">End user help</a>
+				</li>
+            </ul>
+        </li><li>
+            <a href="../../blog/" title="Web to print blog">Blog</a>
+        </li><li>
+            <a href="../../packages/sign-up-for-web-to-print/" title="Sign up for web-to-print">Sign up</a>
+        </li><li class="no_border">
+            <a href="http://zetaprints.com" title="Web to print system">Log in</a>
+        </li>
+    </ul>
+</div>
+<!-- nav -->
+    </div> <!-- header -->
+  </div> <!-- container -->
+
+<link href="%3C/index-bloginfo('template_url')?.html>/js/jquery-ui-1.8.2.custom.css" rel="stylesheet" type="text/css"/>
+<script src="%3C/index-bloginfo('template_url')?.html>/js/jquery-ui-1.8.2.custom.min.js"></script>
+<script>
+  jQuery(document).ready(function(){
+    // init jQuery for tabs div
+    jQuery("#featuretabs").tabs({
+      select: function(event, ui){
+        jQuery( "a" ).blur(); // remove border for selected tab
+      }
+    })
+  });
+</script>
+<div id="content-container" class="container clearfix">
+      <div id="rightcol">
+      <ul>
+        <li id="text-3" class="widget widget_text"><h2 class="widgettitle">Premium support</h2>
+			<div class="textwidget"><div id="premium_menu_container">
+<ul id="premium_menu">
+<li><a href="../../premium/index.php/web-to-print-support.html" title="Web-to-print and dynamic imaging support">Installation, administration <img src="../../help/img/premium_go_ico.png" /></a></li>
+<li><a href="../../premium/index.php/templates.html" title="Web-to-print and dynamic imaging templates support">Template conversion <img src="../../help/img/premium_go_ico.png" /></a></li>
+</ul>
+</div></div>
+		</li>
+<li id="niceajaxtree-widget-3" class="widget cat-post-ajax-tree"><div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/overview/"
+	title="View all posts in Overview">Overview</a>
+<span
+	class="arrow cat-item-917">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-917" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/installation-steps/"
+	title="View all posts in Web-to-print installation">Web-to-print installation</a>
+<span
+	class="arrow cat-item-1">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/administration/"
+	title="View all posts in Web-to-print administration">Web-to-print administration</a>
+<span
+	class="arrow cat-item-1134">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1134" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/themes-for-web-to-print/"
+	title="View all posts in Web-to-print themes">Web-to-print themes</a>
+<span
+	class="arrow cat-item-1157">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1157" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/developer/"
+	title="View all posts in Web-to-print for developers">Web-to-print for developers</a>
+<span
+	class="arrow cat-item-1135">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1135" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/access-control/"
+	title="View all posts in Access control plugin">Access control plugin</a>
+<span
+	class="arrow cat-item-570">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-570" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/approval-admin/"
+	title="View all posts in Order approval plugin">Order approval plugin</a>
+<span
+	class="arrow cat-item-1142">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1142" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/file-attachments/"
+	title="View all posts in Dynamic attachments plugin">Dynamic attachments plugin</a>
+<span
+	class="arrow cat-item-1143">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1143" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/fixed-quantities-plugin/"
+	title="View all posts in Fixed quantities plugin">Fixed quantities plugin</a>
+<span
+	class="arrow cat-item-1144">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1144" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/template-errors/"
+	title="View all posts in Troubleshooting">Troubleshooting</a>
+<span
+	class="arrow cat-item-607">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-607" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/support/"
+	title="View all posts in Support">Support</a>
+<span
+	class="arrow cat-item-1042">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1042" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/distribution-map-plugin/"
+	title="View all posts in Distribution map plugin">Distribution map plugin</a>
+<span
+	class="arrow cat-item-1150">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1150" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/web-to-print-store-builder/"
+	title="View all posts in Web-to-print store builder">Web-to-print store builder</a>
+<span
+	class="arrow cat-item-1149 collapse">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1149" style="">
+<ul><li><a href='index.html' class='di__12635 postlink'><strong>Amazon server set up for web-to-print</strong></a></li><li><a href='../initial-magento-configuration/' class='di__13186 postlink'>Initial Magento config</a></li><li><a href='../magento-newsletter/' class='di__13225 postlink'>Magento Newsletter</a></li><li><a href='../shipping-configuration/' class='di__12509 postlink'>Shipping configuration</a></li></ul></div>
+</div>
+</li>
+		<li id="recent-posts-3" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Articles</h2>
+		<ul>
+					<li>
+				<a href="../web-to-print-extension-and-magento-compiler/">Compiling Magento with web-to-print</a>
+						</li>
+					<li>
+				<a href="../web-to-print-demo-installation-on-magento/">Web-to-print express demo installation on Magento</a>
+						</li>
+					<li>
+				<a href="../ignore-unpaid-web-to-print-orders/">Ignore unpaid orders</a>
+						</li>
+					<li>
+				<a href="../dynamic-imaging-products/">Dynamic imaging products</a>
+						</li>
+					<li>
+				<a href="../web-to-print-reports-in-magento/">Reports for web-to-print orders</a>
+						</li>
+				</ul>
+		</li>
+		      </ul>
+    </div>
+  <div id="leftcol">
+    <div id="news" class="clearfix">
+      <div id="newswrap">
+                              <div class="post" id="post-12635">
+              <h1 class="posttitle"><a href="index.html" rel="bookmark" title="Permanent Link: Amazon server set up for web-to-print">Amazon server set up for web-to-print</a></h1>
+              <div class="pcont">
+                <div class="catfloat"><small><a href="../category/web-to-print-store-builder/" rel="category tag">Web-to-print store builder</a></small></div>
+                <small>22/04/2011 <!-- by admin --></small>
+                <div class="entry">
+                  <p>This article is a step-by-step check-list for launching a new virtual server for a web-to-print storefront on Amazon hosting platform.</p>
+<p><!--more--></p>
+<p>The checklist is targeted at IT professionals with sufficient level of expertise. We use it internally for setting up customer servers under our premium web-to-print support. Note that some AWS screens and processes may be different as they update their systems often.</p>
+<h2>Prerequisites</h2>
+<ol>
+<li>AWS credentials (login / password or 2 security keys)</li>
+<li>Access to EC2 tab in AWS console indicates account approved and ready (<a href="https://console.aws.amazon.com/">https://console.aws.amazon.com</a>)</li>
+</ol>
+<h2 id="Instance-launch">Instance launch</h2>
+<ol>
+<li>AMI to use is as per <a title="Free Magento AMI" href="../free-magento-ami-on-aws/">free Magento AMI description</a>. Read the instructions and notes there carefully.</li>
+<li>Key pair &#8211; choose existing if instructed, otherwise create a new  key, save PEM file to your computer as you will DEFINITELY need it later</li>
+<li>Security group &#8211; choose existing if instructed, otherwise create a new with these rules
+<ul>
+<li>Add rule HTTP &#8211; port 80, Source: 0.0.0.0/0</li>
+<li>Add rule HTTPS &#8211; port 443, Source: 0.0.0.0/0</li>
+<li>Add rule SSH: port 22, source: your_ip/32</li>
+<li>Add rule Custom TCP rule: port: 50000-51000, source: 0.0.0.0/0 &#8211; ftp server passive connection ports</li>
+<li>Add rule Custom TCP rule: port: 10000, source: your_ip/32 &#8211; webmin</li>
+</ul>
+</li>
+<li>Zone &#8211; any, unless instructed</li>
+<li>Secret key and security group names should be meaningful and self explanatory</li>
+<li>Launch the instance (small, unless instructed otherwise)</li>
+</ol>
+<h2 id="IPDomain-setting">IP/Domain setting</h2>
+<ol>
+<li>Allocate Elastic IP if none is available.</li>
+<li>Associate Elastic IP with the instance.</li>
+<li>Reboot the instance</li>
+<li>Rename script<em> /usr/local/bin/FixBaseURL.sh</em> to stop it running at  boot time (run this command in <em>webmin </em>if FTP doesn&#8217;t have permissions <em>mv  /usr/local/bin/FixBaseURL.sh /usr/local/bin/_FixBaseURL.sh</em>)</li>
+<li>Contact the customer and request to set up A-record using Elastic IP.</li>
+</ol>
+<h2 id="Passwords">Passwords</h2>
+<ol>
+<li>Print out the home page with logins and passwords</li>
+<li>Login to Magento, navigate to <em>CMS/Pages</em> and clear or replace contents of <em>Home page</em> page</li>
+<li>Change all passwords listed in the printout<br />
+&#8211; Magento (<em>System / My account</em>, change the email as well)<br />
+&#8211; MySQL<br />
+&#8211; Webmin (<em>System / Users and Groups /</em> unix user &#8220;<em>webmin</em>&#8221; / <em>Normal password</em>)<br />
+&#8211; FTP (<em>System / Users and Groups /</em> unix user &#8220;<em>magento</em>&#8221; / <em>Normal password</em>)<br />
+&#8211; any other services listed on the homepage</li>
+<li>Write new passwords down on the same printout and share with other team members as required</li>
+</ol>
+<h2 id="Email-setup">AWS email setup</h2>
+<ol>
+<li>Request email limitation to be lifted for the instance &#8211; <a href="https://aws-portal.amazon.com/gp/aws/html-forms-controller/contactus/ec2-email-limit-rdns-request">https://aws-portal.amazon.com/gp/aws/html-forms-controller/contactus/ec2-email-limit-rdns-request</a>.
+<ul>
+<li>request reverse DNS record for the Elastic IP, if A-record exists</li>
+<li>otherwise come back to this step once A-record was created</li>
+</ul>
+</li>
+<li>Clarify if SES is required. Request SES access.</li>
+</ol>
+<h2 id="Initial-Magento-config">Initial Magento config</h2>
+<ol>
+<li>Make sure caching is disabled</li>
+<li>Change <em>Admin timeout</em> to at least 3600 under <em>System / Configuration / Advanced / Admin / Security / Session lifetime</em></li>
+<li>Assign given domain to base unsecure URL, once A-record was created</li>
+<li>Assign given domain to secure url &#8211; if SSL is configured use HTTPS, otherwise HTTP, once A-record was created</li>
+<li>Hide default home page. After setup is done, delete it.</li>
+<li>Create customer admin account for administrative tasks (<em>Sys/Config/Permissions/Users</em>, check on <em>Admin </em>option)</li>
+<li>Disable default Magento admin user</li>
+</ol>
+<h2 id="Magento-email-config">Magento email config</h2>
+<ol>
+<li>Install <a href="https://www.magentocommerce.com/magento-connect/aschroder-com-smtp-pro-email-free-and-easy-magento-emailing-for-smtp-gmail-or-google-apps-email.html"><em>SMTP Pro extension</em></a>.</li>
+<li>Request SMTP (preferred), Gmail(preferred) or SES details. Ask the customer for details, if needed.</li>
+<li>Configure extension under <em>Sys / Config / Advanced / System</em> (use temp a/c if the customer isn&#8217;t ready).</li>
+<li>Remove temporary account before handing over the control.</li>
+<li>Run a self test, make sure an email was received.</li>
+</ol>
+<h2 id="W2P-config-on-Magento">Web-to-print config on Magento</h2>
+<p>This section is optional for users running a storefront with no web-to-print enabled. It can be enabled at any later stage.</p>
+<ol>
+<li>Proceed to web-to-print installation and configuration as per <a title="web-to-print and dynamic imaging installation" href="../category/installation-steps/">web-to-print installation guide</a>.</li>
+<li>Enable 1 or 2 <em>web-to-print products</em> in the front end for testing</li>
+<li>Test the products work OK with web-to-print</li>
+</ol>
+<h2 id="Theme-customisation">Theme customization</h2>
+<ol>
+<li>Follow our <a title="Magento custom theme integration" href="Check%20theme%20customization%20checklist/ ">web-to-print theme customization guide</a> or call in programmers or use our <a title="Premium web-to-print and dynamic imaging services" href="../../premium/index.php/web-to-print-support.html">premium web-to-print </a>support.  This step is only required if the site will use a custom theme with our web-to-print.</li>
+<li>Check magento user account (system) has read/write access to theme folders after the install.</li>
+</ol>
+<h2>Backup</h2>
+<p>Create an AMI as a backup at this stage: <em>[site-name]-[20xxmmdd]-with-theme</em></p>
+<h2 id="Additional-set-up-and-config">Additional set up and config</h2>
+<p>Work of checklist in [<em>work in progress</em>] to do additional configs.</p>
+<h2>Backup</h2>
+<p>Create one more AMI as a backup at this stage: <em>[site-name]-</em><em>[20xxmmdd]-</em><em>configured</em></p>
+<h2 id="Deliverables">Deliverables</h2>
+<p>The following info must be provided to the customer after completing the installation:</p>
+<ol>
+<li>Site access URL</li>
+<li>Admin URL</li>
+<li>Magento login/pwd</li>
+<li>Magento encryption key</li>
+<li>FTP login/pwd</li>
+<li>Webmin login/pwd</li>
+<li>MySQL login/pwd</li>
+<li>Elastic IP</li>
+<li>.pem file</li>
+</ol>
+<p>Pass the task with the details above for testing and quality control.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/magentohelp/amazon-server-set-up-for-web-to-print/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+                                    <div class="clear"></div>
+                  <div class="post-rel"><b>See also: </b><ul><li><a href="../magento-newsletter/" rel="bookmark" title="August 30, 2011">Magento Newsletter</a></li>
+
+<li><a href="../initial-magento-configuration/" rel="bookmark" title="August 15, 2011">Initial Magento config</a></li>
+
+<li><a href="../shipping-configuration/" rel="bookmark" title="April 7, 2011">Shipping configuration</a></li>
+</ul><!-- Similar Posts took 3.400 ms --></div>
+                  <p class="postmetadata alt"><small></small></p>
+                  <div class="clear"></div>
+                </div>
+              </div>
+            </div>
+                                    </div>
+    </div>
+  </div>
+</div> 
+<div id="footer-container" class="container">
+  <div id="footer">
+    <div id="bottomnav">
+      <!-- a id="pagecounter" href="http://whos.amung.us/show/9bm3msts"><img src="http://whos.amung.us/widget/9bm3msts" alt="hit counter" border="0" height="29" width="81" /></a -->
+      <ul>
+        <li class="first"><a href="../../about-us/" title="About ZetaPrints">About ZetaPrints</a></li>
+        <li><a href="../../about-us/contact-us/" title="Contact us">Contact us</a></li>
+        <li><a href="http://zetaprints.com/" title="Log in">Log in</a></li>
+        <li><a href="../../web-to-print-legal/privacy-policy/" title="Privacy policy">Privacy</a></li>
+        <li><a href="../../sitemap/" title="Sitemap">Sitemap</a></li>
+        <li><a href="../../about-us/summary-of-terms-and-conditions/" title="Terms and conditions">Terms of Service</a></li>
+        <li><a href="../../blog/" title="Web-to-print Blog">Web-to-print Blog</a></li>
+        <li><a href="../../help/" title="Web-to-print Help">Web-to-print Help</a></li>
+      </ul>
+    </div>
+    <p><a href="../../blog/" title="Web-to-print Blog"><img class="footer-icon" alt="Blog" src="../wp-content/themes/water-zp-3/images/blog.png"/></a>&nbsp;
+<a href="http://twitter.com/zetaprints" title="Follow us on twitter"><img class="footer-icon" alt="Twitter" src="../wp-content/themes/water-zp-3/images/twitter_16.png"/></a>&nbsp;
+&copy; 2006-2012 ZetaPrints Ltd. All rights reserved. Powered by <a href="http://wordpress.org">WordPress</a>.</p>
+    <a href="#header" title="Back to Top" class="top-btn">Back to Top</a>
+  </div>
+</div>
+
+<script type="text/javascript">
+    (function(){
+        var ga = document.createElement('script');
+        ga.type="text/javascript";
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1132851-1']);
+    _gaq.push(['_trackPageview']);
+</script>
+</body>
+</html>
+
+<!-- Localized -->

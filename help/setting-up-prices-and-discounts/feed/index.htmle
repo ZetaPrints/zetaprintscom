@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Setting up prices and discounts</title>
+	<atom:link href="http://www.zetaprints.com/help/setting-up-prices-and-discounts/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help/setting-up-prices-and-discounts/</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Thu, 09 Apr 2009 22:25:56 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>By: Bulk-editing templates &#124; Web-to-print Help</title>
+		<link>http://www.zetaprints.com/help/setting-up-prices-and-discounts/comment-page-1/#comment-62</link>
+		<dc:creator><![CDATA[Bulk-editing templates &#124; Web-to-print Help]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2008 21:59:01 +0000</pubDate>
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/setting-up-prices-and-discounts/#comment-62</guid>
+		<description><![CDATA[[...] only get an error message if the change is invalid from the system point of view. For example your web-to-print prices may be parsed incorrectly because a [bracket is missing, but the only way to find out is to check [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] only get an error message if the change is invalid from the system point of view. For example your web-to-print prices may be parsed incorrectly because a [bracket is missing, but the only way to find out is to check [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Prices and payments &#124; Web-to-print Help</title>
+		<link>http://www.zetaprints.com/help/setting-up-prices-and-discounts/comment-page-1/#comment-61</link>
+		<dc:creator><![CDATA[Prices and payments &#124; Web-to-print Help]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2008 21:38:49 +0000</pubDate>
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/setting-up-prices-and-discounts/#comment-61</guid>
+		<description><![CDATA[[...] Place prices in [square brackets] as explained in a separate help section. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Place prices in [square brackets] as explained in a separate help section. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Important: Pricing changes &#171; From Web-to-Print and everything in between</title>
+		<link>http://www.zetaprints.com/help/setting-up-prices-and-discounts/comment-page-1/#comment-3</link>
+		<dc:creator><![CDATA[Important: Pricing changes &#171; From Web-to-Print and everything in between]]></dc:creator>
+		<pubDate>Sat, 04 Aug 2007 14:37:28 +0000</pubDate>
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/setting-up-prices-and-discounts/#comment-3</guid>
+		<description><![CDATA[[...] Read more in the new help section. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Read more in the new help section. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
+
+<!-- Localized -->

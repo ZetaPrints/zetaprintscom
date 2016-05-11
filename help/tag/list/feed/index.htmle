@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>List &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/list/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Using CorelDRAW styles for sub-lists</title>
+		<link>http://www.zetaprints.com/help/using-coreldraw-styles-for-sub-lists/</link>
+		<pubDate>Wed, 07 Jul 2010 15:55:26 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[Bullets]]></category>
+		<category><![CDATA[List]]></category>
+		<category><![CDATA[Sub-list]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/help/?p=10397</guid>
+		<description><![CDATA[A basic list can be able to contain second level bullets. Since each input field in a text frame can have a special custom style assigned to it, we can use this to set up sub-list styles in our web-to-print and dynamic imaging templates. Lets add a sub-list option to our list with different bullet [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Using CorelDRAW styles for lists</title>
+		<link>http://www.zetaprints.com/help/using-coreldraw-styles-for-lists/</link>
+		<pubDate>Tue, 06 Jul 2010 12:25:06 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[Bullets]]></category>
+		<category><![CDATA[List]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/help/?p=10352</guid>
+		<description><![CDATA[The bullet-proof method of creating bulleted lists is by using CorelDRAW styles. This will ensure a reliable behavior of the lists you&#8217;ve incorporated in your web-to-print and dynamic imaging templates. Graphic and Text styles CorelDRAW styles can be located and edited through the Graphic and Text styles docker (Window / Dockers / Graphic and Text [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Advanced text with bullets</title>
+		<link>http://www.zetaprints.com/help/advanced-text-with-bullets/</link>
+		<comments>http://www.zetaprints.com/help/advanced-text-with-bullets/#comments</comments>
+		<pubDate>Mon, 23 Jun 2008 15:36:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[Bullets]]></category>
+		<category><![CDATA[List]]></category>
+		<category><![CDATA[Text tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=207</guid>
+		<description><![CDATA[Lists with bullets can be mixed and matched with plain text within the same text frame using {brackets} or even made [optional] in web-to-print templates. Markup example Object name: Header;Intro;Features;Description {Header} [{Intro text } [{Feature 1 Feature 2 Feature 3} {Detailed description } Explanation Enclose bulleted text in {brackets} spanning multiple lines, if needed. Placing [&#8230;]]]></description>
+		<wfw:commentRss>http://www.zetaprints.com/help/advanced-text-with-bullets/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Catalog icons</title>
+		<link>http://www.zetaprints.com/help/catalog-icons/</link>
+		<pubDate>Fri, 04 Apr 2008 04:59:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Catalogs]]></category>
+		<category><![CDATA[Branding]]></category>
+		<category><![CDATA[List]]></category>
+		<category><![CDATA[Thumbnails]]></category>
+
+		<guid isPermaLink="false">/help/?p=159</guid>
+		<description><![CDATA[List of web-to-print catalogs can be displayed as a text list or images. It gives you more flexibility in presenting them to your web-to-print products customers. Example These 3 images with labeled bottles are linked to their respective web-to-print catalogs. Setting up Go to Edit catalog details page.  Enter the image URL into Thumbnail text [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

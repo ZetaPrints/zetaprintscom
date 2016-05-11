@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>color picker &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/color-picker/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Complex variable gradients</title>
+		<link>http://www.zetaprints.com/help/complex-variable-gradients/</link>
+		<pubDate>Sun, 09 Aug 2009 19:46:38 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[color picker]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Fountail fill]]></category>
+		<category><![CDATA[gradient]]></category>
+		<category><![CDATA[Vector colors]]></category>
+
+		<guid isPermaLink="false">/help/?p=7239</guid>
+		<description><![CDATA[Apart from using the two-color variable gradient fills technique for creating variable multicolor gradients, you can also combine the two and end up with a multicolor gradient fill where the user chooses a single color that effects the entire multicolor gradient. It makes a complex web-to-print template easier to use. Before you start / Add [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Multicolor variable gradients</title>
+		<link>http://www.zetaprints.com/help/multicolor-variable-gradients/</link>
+		<pubDate>Thu, 06 Aug 2009 18:24:09 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[color picker]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Fountail fill]]></category>
+		<category><![CDATA[gradient]]></category>
+		<category><![CDATA[Vector colors]]></category>
+
+		<guid isPermaLink="false">/help/?p=7211</guid>
+		<description><![CDATA[You can create multiple color gradient fills by layering transparent variable color shapes in your web-to-print design. It&#8217;s a  similar technique to the two color variable gradient technique, but here users can choose individual colors of the multicolor palette. / / Lets make a multicolor variable gradient background. Before you start / Add a page [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Variable gradient fill</title>
+		<link>http://www.zetaprints.com/help/variable-gradient-fill/</link>
+		<pubDate>Tue, 28 Jul 2009 03:21:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[color picker]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Fountail fill]]></category>
+		<category><![CDATA[gradient]]></category>
+		<category><![CDATA[Vector colors]]></category>
+
+		<guid isPermaLink="false">/help/?p=7073</guid>
+		<description><![CDATA[Combination of variable color shapes and transparencies in a web-to-print design can create a variable gradient fill. This tutorial shows a simple linear 2-color gradient. Add more color variations to achieve more complex gradients for web-to-print. / / Lets turn the solid fill background in this template into a variable gradient fill. Before you start [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Variable shape colors</title>
+		<link>http://www.zetaprints.com/help/variable-shape-colors/</link>
+		<pubDate>Mon, 27 Jul 2009 16:21:51 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[color picker]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Vector colors]]></category>
+
+		<guid isPermaLink="false">/help/?p=7053</guid>
+		<description><![CDATA[Any vector shape in a web-to-print template can be made a variable color field. A color picker will be showing against the field for users to change the color. To turn a shape&#8217;s color into a variable field you simply need to rename the shape inside the Object Manager. Sample / / Lets assign a [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Color picker</title>
+		<link>http://www.zetaprints.com/help/color-picker/</link>
+		<pubDate>Mon, 27 Apr 2009 11:36:00 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Image fields]]></category>
+		<category><![CDATA[color picker]]></category>
+		<category><![CDATA[Custom colors]]></category>
+		<category><![CDATA[Eye dropper]]></category>
+
+		<guid isPermaLink="false">/help/?p=5852</guid>
+		<description><![CDATA[You can take advantage of Color Picker feature to make your web-to-print and dynamic imaging templates completely customizable. Assigning a color picker option to a variable image field lets users pick any solid fill color they want. Example Lets make a web banner with variable colors for text and background. To achieve this we&#8217;ll need [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Image field properties</title>
+		<link>http://www.zetaprints.com/help/image-field-properties/</link>
+		<pubDate>Fri, 10 Apr 2009 02:10:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin2]]></dc:creator>
+				<category><![CDATA[Image fields]]></category>
+		<category><![CDATA[color picker]]></category>
+		<category><![CDATA[Image management]]></category>
+		<category><![CDATA[Image selection]]></category>
+
+		<guid isPermaLink="false">/help/?p=5830</guid>
+		<description><![CDATA[A web-to-print image field can be used in a number of ways, depending on the settings. You can control if a user can upload images, use your stock images, a colour picker, combine layouts (orders), etc. User image control Users get slightly different versions of image controls on a preview page depending on the field [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

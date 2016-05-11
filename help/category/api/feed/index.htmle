@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>API &amp; integration &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/category/api/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>How to get API key</title>
+		<link>http://www.zetaprints.com/help/how-to-get-api-key/</link>
+		<pubDate>Fri, 25 Jun 2010 17:14:02 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[API key]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/help/?p=10302</guid>
+		<description><![CDATA[The API key is available to holders of master (printer, publisher, business) account only. Step 1 &#8211; Register a printer account Master account holders have full control over their virtual web-to-print sites. Sign up as a printer with ZetaPrints to gain full access to ZetaPrints web-to-print and dynamic imaging features. Step 2 &#8211; Custom domain [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Shape coordinates for editing</title>
+		<link>http://www.zetaprints.com/help/shape-coordinates-for-editing/</link>
+		<pubDate>Sat, 12 Jun 2010 05:06:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[coordinates]]></category>
+		<category><![CDATA[image editing]]></category>
+		<category><![CDATA[shapes]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/help/?p=10277</guid>
+		<description><![CDATA[Dynamic imaging shapes can be located on the preview image using relative coordinates as explained in Shape metadata post. ZetaPrints dynamic imaging and web-to-print system accepts a number of parameters with every text and image field to move/crop/resize the shapes they are in. This post explains how the coordinates should be calculated. The coordinate system [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Shape metadata</title>
+		<link>http://www.zetaprints.com/help/dynamic-imaging-shape-metadata/</link>
+		<pubDate>Sat, 12 Jun 2010 04:21:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[coordinates]]></category>
+		<category><![CDATA[Page]]></category>
+		<category><![CDATA[position]]></category>
+		<category><![CDATA[shapes]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/help/?p=10271</guid>
+		<description><![CDATA[Web-to-print templates contain information about shape and field position, alignment, anchor points and other metadata to assist with client side scripting and interactive editing in dynamic imaging and web-to-print applications. This post describes some of the metadata parameters and concepts. Coordinates The system of coordinates is based on the visible part of a page design [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>In-preview image editing</title>
+		<link>http://www.zetaprints.com/help/in-preview-image-editing/</link>
+		<pubDate>Sun, 30 May 2010 09:45:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[Crop]]></category>
+		<category><![CDATA[image editing]]></category>
+		<category><![CDATA[move]]></category>
+		<category><![CDATA[resize]]></category>
+		<category><![CDATA[shift]]></category>
+
+		<guid isPermaLink="false">http://ec2-184-73-81-203.compute-1.amazonaws.com/help/?p=10238</guid>
+		<description><![CDATA[By default web-to-print image fields only replace the placeholder image with a user image. ZetaPrints web-to-print may change the appearance of the image automatically (rotating, filters, etc) to match the placeholder. This post explains how to add image manipulation metadata for user-defined editing, such cropping, shift, resizing, etc. Web-to-print metadata fields Web-to-print image fields always [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Advanced text editing</title>
+		<link>http://www.zetaprints.com/help/advanced-text-editing/</link>
+		<pubDate>Sun, 30 May 2010 09:38:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[coordinates]]></category>
+		<category><![CDATA[shapes]]></category>
+		<category><![CDATA[text editing]]></category>
+
+		<guid isPermaLink="false">http://ec2-184-73-81-203.compute-1.amazonaws.com/help/?p=10235</guid>
+		<description><![CDATA[By default web-to-print text fields only replace the text with user input. ZetaPrints web-to-print may change the appearance of the text automatically (wrapping, font resizing). This post explains how to add field manipulation metadata for user-defined editing, such text color, shift, etc. Web-to-print metadata fields Web-to-print text fields always begin with _ (underscore) followed by [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Image editing API</title>
+		<link>http://www.zetaprints.com/help/image-editing-api/</link>
+		<pubDate>Thu, 28 Jan 2010 22:40:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[Crop]]></category>
+		<category><![CDATA[resize]]></category>
+		<category><![CDATA[rotate]]></category>
+
+		<guid isPermaLink="false">/help/?p=8875</guid>
+		<description><![CDATA[This set of API calls provides basic image editing capabilities for web-to-print and dynamic imaging. Only images from user libraries can be edited. The actual hi-res image is not available for downloading or preview. Common features All image editing functions require a common set of fields: ApiKey – see API page in your ZetaPrints account [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Image library API</title>
+		<link>http://www.zetaprints.com/help/web-to-print-image-library-api/</link>
+		<pubDate>Fri, 22 Jan 2010 11:45:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[Image management]]></category>
+		<category><![CDATA[images]]></category>
+
+		<guid isPermaLink="false">/help/?p=8828</guid>
+		<description><![CDATA[Web-to-print users can upload images into their image libraries to be used in templates. Once an image is uploaded it is validated to be of an accepted type and a small preview is generated. The preview is usually within 600px x 600px. Uploaded images cannot be downloaded. We offer a set of web-to-print API functions [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Search API: keywords</title>
+		<link>http://www.zetaprints.com/help/search-api-web-to-print-keywords/</link>
+		<pubDate>Wed, 07 Oct 2009 01:56:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[keywords]]></category>
+		<category><![CDATA[search]]></category>
+		<category><![CDATA[web-to-print api]]></category>
+
+		<guid isPermaLink="false">/help/?p=7901</guid>
+		<description><![CDATA[Search for templates may return no or unsatisfactory results. It can be complemented by searching for matching keywords and presenting them as additional web-to-print search options to the user. Search request The request can be HTTP GET or POST and should be made to http://zetaprints.com?page=api-keywords only. The search returns keywords for the entire web-to-print database. [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Orders API: save order</title>
+		<link>http://www.zetaprints.com/help/orders-api-save-order/</link>
+		<pubDate>Sat, 12 Sep 2009 10:50:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[Order management]]></category>
+		<category><![CDATA[saved orders]]></category>
+
+		<guid isPermaLink="false">/help/?p=7558</guid>
+		<description><![CDATA[Creating a new web-to-print order via API is a 3-stage process: generate previews save an order generate output files This API function creates a &#8220;saved&#8221; web-to-print order for a template using the latest data from the user cache and the previews generated by the web-to-print user earlier. Call parameters URL: http://[your-domain]/api.aspx?page=api-order-save Domain name: custom only. [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Search API: templates</title>
+		<link>http://www.zetaprints.com/help/search-web-to-print-api/</link>
+		<pubDate>Wed, 05 Aug 2009 03:49:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[search]]></category>
+		<category><![CDATA[Templates]]></category>
+		<category><![CDATA[web-to-print api]]></category>
+
+		<guid isPermaLink="false">/help/?p=7195</guid>
+		<description><![CDATA[This set of web-to-print API calls allows to do search directly from other websites. Web-to-print templates can be searched by keywords, size and output type. Web-to-print search results come back as an RSS feed with a list of templates, same as for a list of templates returned for a catalog. Search for public templates This [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Payments API</title>
+		<link>http://www.zetaprints.com/help/payments-api/</link>
+		<pubDate>Wed, 27 May 2009 02:32:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin2]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[credit cards]]></category>
+		<category><![CDATA[Payments]]></category>
+
+		<guid isPermaLink="false">/help/?p=5973</guid>
+		<description><![CDATA[Customer payments can be processed by PayPal directly or by any other custom gateway via API. You can accept payment for your web-to-print and dynamic imaging services via any payments provider as long as you implement a gateway. Transaction initiation Your web-to-print portal prepares a transaction the same way for PayPal and a custom gateway, [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Catalogs API</title>
+		<link>http://www.zetaprints.com/help/catalogs-api/</link>
+		<pubDate>Sun, 26 Apr 2009 06:37:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin2]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[Catalogs]]></category>
+		<category><![CDATA[integration]]></category>
+
+		<guid isPermaLink="false">/help/?p=5882</guid>
+		<description><![CDATA[This web-to-print API return a list of all web-to-print catalogs per site. It comes useful if you want to import data or synchronise databases. List of catalogs per site Format: http://[domain name]/API.aspx?page=api-catalogs;ApiKey=[your API key] Example: http://orders.example.com/API.aspx?page=api-templates;ApiKey=612ecb11-48fd-4df7-b004-3e497919283e The call returns a list of web-to-print catalogs for your site, including private web-to-print catalogs in a RSS-like format. [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Orders API: list of orders</title>
+		<link>http://www.zetaprints.com/help/orders-api-list-of-orders/</link>
+		<pubDate>Thu, 16 Apr 2009 01:47:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin2]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[Order management]]></category>
+
+		<guid isPermaLink="false">/help/?p=5861</guid>
+		<description><![CDATA[Web to print orders API gives direct access to list of orders, their details and all associated resources. One of applications is to download new orders automatically and process the files on the client side, including automatic pre-flight, hot folder routing, data import into MIS and accounting s/w. List of orders Example: http://posters.example.com/api.aspx?page=api-order-list;ApiKey=532525b4-10fe-4424-bf8f-890cb8bd57a1;DateFrom=2008-01-01T00:00:00 Domain name: [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Orders API: generate output files</title>
+		<link>http://www.zetaprints.com/help/orders-api-generate-output-files/</link>
+		<pubDate>Thu, 16 Apr 2009 01:45:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin2]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[Order management]]></category>
+
+		<guid isPermaLink="false">/help/?p=5859</guid>
+		<description><![CDATA[A saved web-to-print order has no output files other than the preview files. An external web-to-print system may request ZetaPrints web-to-print to generate the final order for a given saved order. Saved order completion Example: http://posters.example.com/api.aspx?page=api-order-complete;ApiKey=532525b4-10fe-4424-bf8f-890cb8bd57a1;OrderID=DDAA54F2-CD80-4DCB-8148-8B875135B17F Domain name: custom only. Page: api.aspx Required parameters: page=api-order-complete ApiKey={your api key} OrderID={ID of a saved order} Optional parameters: [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Orders API: status change</title>
+		<link>http://www.zetaprints.com/help/orders-api-status-change/</link>
+		<pubDate>Thu, 16 Apr 2009 01:42:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin2]]></dc:creator>
+				<category><![CDATA[API & integration]]></category>
+		<category><![CDATA[Order management]]></category>
+
+		<guid isPermaLink="false">/help/?p=5857</guid>
+		<description><![CDATA[A web-to-print order has a status, changed to which are logged and help determine the lifecyle of the order. The status needs to be set to &#8220;deleted&#8221; for orders to be removed from our web-to-print database. Order status change Example: http://posters.example.com/api.aspx?page=api-order-status;ApiKey=532525b4-10fe-4424-bf8f-890cb8bd57a1;OrderID=DDAA54F2-CD80-4DCB-8148-8B875135B17F;Status=in%20print;StatusOld=to%print Domain name: custom only. Page: api.aspx Required parameters: page=api-order-status ApiKey={your api key} OrderID={take the [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

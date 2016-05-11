@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web templates &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/web-templates/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Web buttons</title>
+		<link>http://www.zetaprints.com/help/web-buttons/</link>
+		<pubDate>Mon, 27 Apr 2009 19:57:28 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Web templates]]></category>
+
+		<guid isPermaLink="false">/help/?p=5629</guid>
+		<description><![CDATA[Web buttons are one of the most important things in web design. Their style changes constantly to follow current trends. Find out what&#8217;s important to keep in mind while creating button templates for dynamic imaging. View more web button examples at: Freebies Round-Up: Icons, Buttons and Templates at smashingmagazine.com Collection of 90 free Web 2.0 [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

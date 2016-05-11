@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>production &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/tag/production/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Job sheets</title>
+		<link>http://www.zetaprints.com/blog/2008/09/25/job-sheets/</link>
+		<comments>http://www.zetaprints.com/blog/2008/09/25/job-sheets/#respond</comments>
+		<pubDate>Thu, 25 Sep 2008 10:38:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[printing job sheet]]></category>
+		<category><![CDATA[production]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=230</guid>
+		<description><![CDATA[Some of our printers had difficulties mathcing jobs in production because they use paper based workflow, not a fully automated one. We added a new feature to help with the job sheets. Every order details page has a new link Show fields Clicking on it shows a table with all the texts the user entered [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Some of our printers had difficulties mathcing jobs in production because they use paper based workflow, not a fully automated one. We added a new feature to help with the job sheets.</p>
+<p>Every order details page has a new link <em>Show fields</em></p>
+<div id="attachment_231" style="width: 349px" class="wp-caption alignnone"><a href="http://ec2-67-202-43-115.compute-1.amazonaws.com/blog/wp-content/uploads/2008/09/new-1.gif"><img class="size-full wp-image-231" title="web-to-print order details" src="http://ec2-67-202-43-115.compute-1.amazonaws.com/blog/wp-content/uploads/2008/09/new-1.gif" alt="" width="339" height="406" /></a><p class="wp-caption-text">web-to-print order details</p></div>
+<p>Clicking on it shows a table with all the texts the user entered into the template. The texts show as a single line truncated to 50 characters. Click on the texts to show full and formatted input.</p>
+<div id="attachment_232" style="width: 444px" class="wp-caption alignnone"><a href="http://ec2-67-202-43-115.compute-1.amazonaws.com/blog/wp-content/uploads/2008/09/new-2.gif"><img class="size-full wp-image-232" title="web-to-print job sheet screen with details" src="http://ec2-67-202-43-115.compute-1.amazonaws.com/blog/wp-content/uploads/2008/09/new-2.gif" alt="" width="434" height="497" /></a><p class="wp-caption-text">web-to-print job sheet screen with details</p></div>
+<p>When you print the page it hides all unnecessary element and shows the table with user input. Your production staff can match what is being printed with what was entered by the user.</p>
+<div id="attachment_233" style="width: 239px" class="wp-caption alignnone"><a href="http://ec2-67-202-43-115.compute-1.amazonaws.com/blog/wp-content/uploads/2008/09/new-3.gif"><img class="size-medium wp-image-233" title="printed web-to-print job sheet screen" src="http://ec2-67-202-43-115.compute-1.amazonaws.com/blog/wp-content/uploads/2008/09/new-3-229x300.gif" alt="" width="229" height="300" srcset="http://www.zetaprints.com/blog/wp-content/uploads/2008/09/new-3-229x300.gif 229w, http://www.zetaprints.com/blog/wp-content/uploads/2008/09/new-3.gif 488w" sizes="(max-width: 229px) 100vw, 229px" /></a><p class="wp-caption-text">printed web-to-print job sheet screen</p></div>
+<p>You can also use the texts from the table for any re-ordering or corrections you need to do on behalf of the user.Make sure you get formatted values, though.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2008/09/25/job-sheets/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

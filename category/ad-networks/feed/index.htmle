@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ad Networks &#8211; Web-to-Print &amp; Dynamic Imaging</title>
+	<atom:link href="http://www.zetaprints.com/category/ad-networks/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Feb 2016 23:12:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Open source tools</title>
+		<link>http://www.zetaprints.com/ad-networks/open-source-imaging</link>
+		<pubDate>Fri, 14 Aug 2009 08:15:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Ad Networks]]></category>
+
+		<guid isPermaLink="false">/?p=979</guid>
+		<description><![CDATA[
+Integration into popular CMS, e-commerce and ad management platforms is easy. We have lots of open ...]]></description>
+				<content:encoded><![CDATA[<div>
+<p>Integration into popular CMS, e-commerce and ad management platforms is easy. We have lots of open source tools, plug-ins and extensions to help you bring dynamic imaging to other websites.<span id="more-979"></span></p>
+<h2>Content embedding</h2>
+<p>Our Flash <a title="image generator" href="../../../help/tools/image-generation-plugin/index.html">dynamic imaging widget</a> can be embedded into any web page like a YouTube video. Just cut and paste a small HTML snippet. You can use it with your own banner templates and promote your new cool service through other websites. A banner can be created within someone&#8217;s else web page and submitted to your ad manager with one click.<br />
+<object id="e-cards-plugin" width="650" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowScriptAccess" value="sameDomain" /><param name="allowFullScreen" value="false" /><param name="quality" value="high" /><param name="FlashVars" value="params=http://magento.zetaprints.com/RssTemplates.aspx?c=912495F4-B770-41BA-868C-AA72C27D1402" /><param name="src" value="http://www.zetaprints.com/flash/e-cards-plugin.swf" /><param name="allowscriptaccess" value="sameDomain" /><param name="allowfullscreen" value="false" /><param name="pluginspage" value="http://www.macromedia.com/go/getflashplayer" /><param name="flashvars" value="params=http://magento.zetaprints.com/RssTemplates.aspx?c=912495F4-B770-41BA-868C-AA72C27D1402" /><embed id="e-cards-plugin" width="650" height="300" type="application/x-shockwave-flash" src="../../../flash/e-cards-plugin.swf" allowScriptAccess="sameDomain" allowFullScreen="false" quality="high" FlashVars="params=http://magento.zetaprints.com/RssTemplates.aspx?c=912495F4-B770-41BA-868C-AA72C27D1402" allowscriptaccess="sameDomain" allowfullscreen="false" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="params=http://magento.zetaprints.com/RssTemplates.aspx?c=912495F4-B770-41BA-868C-AA72C27D1402" /></object></p>
+<h2>WordPress</h2>
+<p>We have a bunch of <a title="Web-to-print plugins" href="http://wordpress.org/extend/plugins/profile/zetaprints" target="_self">web-to-print plug-ins</a> for <a title="Web-to-print help: WordPress" href="../../../help/category/wordpress/index.html" target="_self">WordPress</a>.</p>
+<h3>E-cards plug-in</h3>
+<p>Generate virtual cards right inside a WordPress page and email them as images. Just another way to promote your new cool banner generator or run a viral campaign.</p>
+<h3>PayPal Pro payments</h3>
+<p>PayPal Pro is a good solution if you want your advertisers to pay for banner creation on the spot. We have a <a title="Web-to-print help: PayPal Pro gateway" href="../../../help/paypal-pro-gateway-for-wordpress/index.html" target="_self">plugin</a> that can do it out of the box.</p>
+<h2>Magento</h2>
+<p><a title="Web-to-print Magento demo" href="../../../magento/index.html" target="_self">Magento</a> is a popular and growing e-commerce platform to act as a shopping window of your ad management store. Just add our <a title="web-to-print extension" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">web-to-print store extension</a> and you can sell banner designs straight away. Watch a <a title="Watch a video demonstration of the Magento web-to-print extension" href="../../../help/flash/magento_demo/magento_demo.html" target="_self">video presentation</a>.</p>
+<h2>OpenX</h2>
+<p>Our <a title="OpenX extension" href="http://code.google.com/p/openx-banner-creator/">OpenX extension</a> helps advertisers create banners from within OpenX.</p>
+<h2>Dynamic imaging API wrappers</h2>
+<p>Developers will save time integrating web-to-print into your existing website if they use our <a title="web-to-print PHP" href="http://code.google.com/p/magento-w2p/source/browse/#svn/trunk/zp_api_lib">web-t0-print wrappers for PHP5</a>.</p>
+</div>
+<p><input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Open marketplace</title>
+		<link>http://www.zetaprints.com/ad-networks/banner-marketplace</link>
+		<pubDate>Fri, 14 Aug 2009 07:52:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Ad Networks]]></category>
+
+		<guid isPermaLink="false">/?p=975</guid>
+		<description><![CDATA[Too many small advertisers prefer text ads because it takes too much effort to create or commission ...]]></description>
+				<content:encoded><![CDATA[<p>Too many small advertisers prefer text ads because it takes too much effort to create or commission their banners. Using ready to use banner templates eliminates this barrier. We have an open marketplace where banner templates can be traded between graphic designers and advertisers.<span id="more-975"></span></p>
+<h2>Variety</h2>
+<p>Choosing a suitable banner is not as easy as it sounds. A choice of 1000 templates is quickly reduced to a handful once style, color scheme, topic and size are taken into account.</p>
+<p>All our templates are submitted by members of our design community. They vary in style, color, size and topics. They are created by different people and it ensures a good variety to choose from.</p>
+<h2>Cost</h2>
+<p>Prices for templates from the marketplace include designer royalties. Designers can either set the price at $10 or FREE. The free templates are just that &#8211; free, the users don&#8217;t pay anything for them.</p>
+<h2>Ease of use</h2>
+<p>Commissioning a banner design takes some effort. The design needs to be explained, several options produced, reviewed and changes made. It takes hours at best. Usually it is days.</p>
+<p>Our design marketplace helps advertisers acquire a design instantly, without leaving your website.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Creatives that work</title>
+		<link>http://www.zetaprints.com/ad-networks/banners-that-work</link>
+		<pubDate>Fri, 14 Aug 2009 05:50:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Ad Networks]]></category>
+
+		<guid isPermaLink="false">/?p=969</guid>
+		<description><![CDATA[Our image generator can produce stunning visual effects without any need for advertisers to know how...]]></description>
+				<content:encoded><![CDATA[<p>Our image generator can produce stunning visual effects without any need for advertisers to know how it works. They only need to enter their text and upload images.<span id="more-969"></span><br />
+<a title="Dynamic imaging: Web banners" href="../../../help/internet-banners/index.html" target="_self"><img class="aligncenter" title="Dynamic imaging help: Web banners" src="../../../wp-content/themes/zetaprints/_img/templates_for_web.jpg" alt="" width="633" height="180" /></a></p>
+<h2>Text effects</h2>
+<p>The user doesn&#8217;t need to be concerned with applying some fancy text effect or transformation. Whatever the effect is in the template it will be applied to the new text.<br />
+<object id="e-cards-plugin" width="600" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowScriptAccess" value="sameDomain" /><param name="allowFullScreen" value="false" /><param name="quality" value="high" /><param name="FlashVars" value="params=http://zetaprints.com/?page=template-xml;TemplateID=A1F39F70-4442-44CF-8175-A8E3FED249BA" /><param name="src" value="/flash/e-cards-plugin.swf" /><param name="flashvars" value="params=http://zetaprints.com/?page=template-xml;TemplateID=A1F39F70-4442-44CF-8175-A8E3FED249BA" /><param name="allowfullscreen" value="false" /><param name="allowscriptaccess" value="sameDomain" /><embed id="e-cards-plugin" width="600" height="400" type="application/x-shockwave-flash" src="../../../flash/e-cards-plugin.swf" allowScriptAccess="sameDomain" allowFullScreen="false" quality="high" FlashVars="params=http://zetaprints.com/?page=template-xml;TemplateID=A1F39F70-4442-44CF-8175-A8E3FED249BA" flashvars="params=http://zetaprints.com/?page=template-xml;TemplateID=A1F39F70-4442-44CF-8175-A8E3FED249BA" allowfullscreen="false" allowscriptaccess="sameDomain" /></object></p>
+<h2>Image effects</h2>
+<p>Images can go through multiple transformations to match the placeholder image in the template. No additional action is required from the user apart from uploading an image.</p>
+<p><object id="e-cards-plugin" width="600" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowScriptAccess" value="sameDomain" /><param name="allowFullScreen" value="false" /><param name="quality" value="high" /><param name="FlashVars" value="params=http://zetaprints.com/?page=template-xml;TemplateID=F808D76D-C16C-439C-98A1-A0B4365FD60F" /><param name="src" value="/flash/e-cards-plugin.swf" /><param name="flashvars" value="params=http://zetaprints.com/?page=template-xml;TemplateID=F808D76D-C16C-439C-98A1-A0B4365FD60F" /><param name="allowfullscreen" value="false" /><param name="allowscriptaccess" value="sameDomain" /><embed id="e-cards-plugin" width="600" height="400" type="application/x-shockwave-flash" src="../../../flash/e-cards-plugin.swf" allowScriptAccess="sameDomain" allowFullScreen="false" quality="high" FlashVars="params=http://zetaprints.com/?page=template-xml;TemplateID=F808D76D-C16C-439C-98A1-A0B4365FD60F" flashvars="params=http://zetaprints.com/?page=template-xml;TemplateID=F808D76D-C16C-439C-98A1-A0B4365FD60F" allowfullscreen="false" allowscriptaccess="sameDomain" /></object></p>
+<h2>Mixing it all together</h2>
+<p>Layering and mixing different effects can produce absolutely stunning design. They may take hours or days to produce or they may be still simple, but visually appealing. It is in the hands of the designer. Let them get creative!<br />
+<object id="e-cards-plugin" width="600" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowScriptAccess" value="sameDomain" /><param name="allowFullScreen" value="false" /><param name="quality" value="high" /><param name="FlashVars" value="params=http://zetaprints.com/?page=template-xml;TemplateID=60A9600E-4123-49D2-9514-C96FC1029D67" /><param name="src" value="/flash/e-cards-plugin.swf" /><param name="flashvars" value="params=http://zetaprints.com/?page=template-xml;TemplateID=60A9600E-4123-49D2-9514-C96FC1029D67" /><param name="allowfullscreen" value="false" /><param name="allowscriptaccess" value="sameDomain" /><embed id="e-cards-plugin" width="600" height="400" type="application/x-shockwave-flash" src="../../../flash/e-cards-plugin.swf" allowScriptAccess="sameDomain" allowFullScreen="false" quality="high" FlashVars="params=http://zetaprints.com/?page=template-xml;TemplateID=60A9600E-4123-49D2-9514-C96FC1029D67" flashvars="params=http://zetaprints.com/?page=template-xml;TemplateID=60A9600E-4123-49D2-9514-C96FC1029D67" allowfullscreen="false" allowscriptaccess="sameDomain" /></object></p>
+<h2>Cost of making a template</h2>
+<p>The difference between our image generator and many others is in the cost of making a template and what effects can be applied to the variable parts.</p>
+<h3>How others do it</h3>
+<p>There are lots of image generators that need a programmer or a designer with special skills to create a decent templates. A Flash template like in any of the examples above can cost hundreds of dollars + programming costs. It&#8217;s not the way we do it.</p>
+<h3>How we do it</h3>
+<p>Creating a template for our image generator costs no harder than creating the design itself because the design forms the basis of the template. The designer needs to mark which parts are variable and upload the file. No programming is required. Any designer can do it.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Integration</title>
+		<link>http://www.zetaprints.com/ad-networks/image-generator-integration</link>
+		<pubDate>Fri, 14 Aug 2009 04:28:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Ad Networks]]></category>
+
+		<guid isPermaLink="false">/?p=962</guid>
+		<description><![CDATA[Integration is not required to use our service, but it takes the user experience to the next level a...]]></description>
+				<content:encoded><![CDATA[<p>Integration is not required to use our service, but it takes the user experience to the next level and preserves your brand integrity.<span id="more-962"></span></p>
+<h2>Image uploading</h2>
+<p>One of the main benefits of integrating our image generator is automatic image transfer from our system to your ad manager. Otherwise the advertiser would need to download it from our site and upload to yours. It is an absolutely unnecessary manual step.</p>
+<h2>Flash widget</h2>
+<p>We developed an open source Flash widget that can be embedded into a page in your ad manager. The widget is easy to embed, but on its own it&#8217;s a rather limited option. Users may need to leave your ad manager to complete some transactions or make a payment.<br />
+<object id="e-cards-plugin" width="600" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowScriptAccess" value="sameDomain" /><param name="allowFullScreen" value="false" /><param name="quality" value="high" /><param name="FlashVars" value="params=http://zetaprints.com/?page=template-xml;TemplateID=651C193B-1492-45FA-95EF-4327ACADFF47" /><param name="src" value="/flash/e-cards-plugin.swf" /><param name="flashvars" value="params=http://zetaprints.com/?page=template-xml;TemplateID=651C193B-1492-45FA-95EF-4327ACADFF47" /><param name="allowfullscreen" value="false" /><param name="allowscriptaccess" value="sameDomain" /><embed id="e-cards-plugin" width="600" height="400" type="application/x-shockwave-flash" src="../../../flash/e-cards-plugin.swf" allowScriptAccess="sameDomain" allowFullScreen="false" quality="high" FlashVars="params=http://zetaprints.com/?page=template-xml;TemplateID=651C193B-1492-45FA-95EF-4327ACADFF47" flashvars="params=http://zetaprints.com/?page=template-xml;TemplateID=651C193B-1492-45FA-95EF-4327ACADFF47" allowfullscreen="false" allowscriptaccess="sameDomain" /></object></p>
+<h2>A single integrated interface</h2>
+<p>The same Flash widget can be supplemented with other integrated features for search, payments and account management. It will require some programming effort at your end, but will remove any need for advertisers to leave your site before the transaction is complete.</p>
+<h2>Automatic image generation</h2>
+<p>Large advertisers will benefit for automatic image generation. Banners can be updated in bulk with data coming from the advertiser&#8217;s database without any manual data entry.</p>
+<h3>Campaign-wide banner update</h3>
+<p>The same process can be applied to multiple banners at the same time. For example, an advertiser has 20 different banners in a single campaign and changes “daily special” information. An integrated solution can do it all in one step taking few seconds.</p>
+<h3>Database driven image generation</h3>
+<p>The same image generation process can be fully automated with the data fed into ZetaPrints from some external source, such as a customer’s CMS and the updated banners get placed into the ad managers without any human intervention.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Dynamic banner generation</title>
+		<link>http://www.zetaprints.com/ad-networks/dynamic-banner-generation</link>
+		<pubDate>Fri, 14 Aug 2009 03:38:23 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Ad Networks]]></category>
+
+		<guid isPermaLink="false">/?p=954</guid>
+		<description><![CDATA[We provide your advertisers with an online tool for creating and modifying their banners at a fracti...]]></description>
+				<content:encoded><![CDATA[<p>We provide your advertisers with an online tool for creating and modifying their banners at a fraction of the price it would cost them to do through an agency. It leaves them with more money in their advertising budgets to spend on actually showing the ads.<span id="more-954"></span></p>
+<h2>Professional banners and D.I.Y.</h2>
+<p>An advertiser doesn&#8217;t need a designer every time a banner needs to be created or changed.</p>
+<p>A banner can be uploaded to our web-to-print and dynamic imaging system as a template. Then it&#8217;s a matter of entering text and uploading images by the advertiser to get a finished product.</p>
+<p>The cost of making a template is no more than the cost of designing the banner itself. The cost of making a change to the banner is a tiny fraction of what a designer or agency would charge. Besides, it&#8217;s instant.</p>
+<h2>Flexible business model</h2>
+<p>We are open to your way of doing business. Things to consider:</p>
+<ul>
+<li>who creates and owns banner templates</li>
+<li>who pays for use of our system</li>
+<li>how dynamic imaging is integrated into your ad manager</li>
+<li>end user prices</li>
+</ul>
+<p>You can use our system purely as a convenience for advertisers and let them pay us or you can set your own prices and only pay us our dynamic imaging fees.<br />
+<object id="e-cards-plugin" width="600" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowScriptAccess" value="sameDomain" /><param name="allowFullScreen" value="false" /><param name="quality" value="high" /><param name="FlashVars" value="params=http://zetaprints.com/RssTemplates.aspx?c=FB5257D6-F4A9-4FAA-ABC9-ED1F3385333F" /><param name="src" value="/flash/e-cards-plugin.swf" /><param name="flashvars" value="params=http://zetaprints.com/RssTemplates.aspx?c=FB5257D6-F4A9-4FAA-ABC9-ED1F3385333F" /><param name="allowfullscreen" value="false" /><param name="allowscriptaccess" value="sameDomain" /><embed id="e-cards-plugin" width="600" height="400" type="application/x-shockwave-flash" src="../../../flash/e-cards-plugin.swf" allowScriptAccess="sameDomain" allowFullScreen="false" quality="high" FlashVars="params=http://zetaprints.com/RssTemplates.aspx?c=FB5257D6-F4A9-4FAA-ABC9-ED1F3385333F" flashvars="params=http://zetaprints.com/RssTemplates.aspx?c=FB5257D6-F4A9-4FAA-ABC9-ED1F3385333F" allowfullscreen="false" allowscriptaccess="sameDomain" /></object></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Features</title>
+		<link>http://www.zetaprints.com/ad-networks/image-generator-features</link>
+		<pubDate>Fri, 12 Jun 2009 10:18:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Ad Networks]]></category>
+
+		<guid isPermaLink="false">/?p=833</guid>
+		<description><![CDATA[ZetaPrints dynamic imaging service was designed to make banner creation process quick an painless. W...]]></description>
+				<content:encoded><![CDATA[<p>ZetaPrints <a title="About dynamic imaging" href="../../dynamic-imaging/index.html" target="_self">dynamic imaging</a> service was designed to make banner creation process quick an painless. We give you full control over your virtual banner creator, any time anywhere.<span id="more-833"></span></p>
+<h2 class="tab">Volumes</h2>
+<p>We do not place limits on you. Use as much of our service as you need to grow and meet your demand.</p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Unlimited</strong></td>
+</tr>
+<tr>
+<td>Number of banner templates</td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td>Number of banner catalogs</td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td>Number of users</td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td>Disk space</td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td>Traffic</td>
+<td class="check_icon_feat"></td>
+</tr>
+</tbody>
+</table>
+<h2 class="tab">Templates</h2>
+<p>Our templating system is simple, but powerful. It goes well beyond replacing straight lines of text in a PDF file.</p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Availability</strong></td>
+<td class="list_title_last_how"><strong>How to</strong></td>
+</tr>
+<tr>
+<td>Upload your own</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/upload-your-first-template/index.html"><img title="Upload your first dynamic imaging template" src="../../../_img/help_on.png" alt="Upload your first dynamic imaging template" /></a></td>
+</tr>
+<tr>
+<td>Unbounded creativity limits</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/design-techniques/index.html"><img title="Dynamic imaging design techniques" src="../../../_img/help_on.png" alt="Dynamic imaging design techniques" /></a></td>
+</tr>
+<tr>
+<td>No delay before a template becomes available</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td>Font uploading</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/font-management/index.html"><img title="Dynamic imaging font management" src="../../../_img/help_on.png" alt="Dynamic imaging font management" /></a></td>
+</tr>
+<tr>
+<td>Clipart and stock photo uploading</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/image-selection/index.html"><img title="Image selection" src="../../../_img/help_on.png" alt="Dynamic imaging selection of images" /></a></td>
+</tr>
+<tr>
+<td>RGB color mode</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/color-management-for-dynamic-imaging/index.html"><img title="RGB color management" src="../../../_img/help_on.png" alt="Dynamic imaging color management" /></a></td>
+</tr>
+<tr>
+<td colspan="3">Output files</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">JPG, GIF, PNG</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/output-files-generation/index.html"><img title="Dynamic imaging output file generation" src="../../../_img/help_on.png" alt="Dynamic imaging output file generation" /></a></td>
+</tr>
+</tbody>
+</table>
+<h2 class="tab">Variable fields</h2>
+<p><span>It is very simple to convert an ordinary ad design into a usable ad template – just name the fields for user texts and images.</span><br />
+<span>The system reads the field information directly from the file. There are numerous rules you can apply, such as alignment, horizontal and vertical shift, removal of elements if some other elements are not present, maximum and minimum length, recommended image resolution, etc.</span></p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Availability</strong></td>
+<td class="list_title_last_how"><strong>How to</strong></td>
+</tr>
+<tr>
+<td colspan="3">Variable text and images</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Variable text</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/text-fields/index.html"><img title="Dynamic imaging variable text fields" src="../../../_img/help_on.png" alt="Dynamic imaging text fields" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Variable images</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/image-fields/index.html"><img title="Dynamic imaging variable image fields" src="../../../_img/help_on.png" alt="Dynamic imaging image fields" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Automatic text alignment</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Automatic image alignment</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/image-alignment/index.html"><img title="Image alignment" src="../../../_img/help_on.png" alt="Dynamic imaging image alignment" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Auto replacement</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Auto removal</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/conditional-object-removal/index.html"><img title="Dynamic imaging conditional object removal" src="../../../_img/help_on.png" alt="Dynamic imaging conditional object removal" /></a></td>
+</tr>
+</tbody>
+</table>
+<h2 class="tab">UI</h2>
+<p>The user interface on our web-to-print and dynamic imaging portal is supported by all major web browsers and is customizable.</p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Availability</strong></td>
+<td class="list_title_last_how"><strong>How to</strong></td>
+</tr>
+<tr>
+<td colspan="3">User interface</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">HTML</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Minimal scripting, Flash or Active-X controls</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td colspan="3">Branding</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Custom access URL</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/custom-access-url/index.html"><img title="Dynamic imaging custom access URL" src="../../../_img/help_on.png" alt="Custom access URL" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Free selection of skins</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/skins/index.html"><img title="Free skin collection" src="../../../_img/help_on.png" alt="Free skin collection" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Custom CSS</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/custom-skins/index.html"><img title="Custom CSS" src="../../../_img/help_on.png" alt="Custom CSS" /></a></td>
+</tr>
+<tr>
+<td colspan="3">Browser support</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Mozilla Firefox</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Microsoft Internet Explorer</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Apple Safari</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Google Chrome</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+</tbody>
+</table>
+<h2 class="tab">System</h2>
+<p>We tend to make system management as easy as it can be so that you don&#8217;t have to be an expert to maintain your web-to-print portal.</p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Availability</strong></td>
+<td class="list_title_last_how"><strong>How to</strong></td>
+</tr>
+<tr>
+<td>No special IT skills required</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td>Various reports</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/site-admin/index.html"><img title="Website administrator" src="../../../_img/help_on.png" alt="Website administration" /></a></td>
+</tr>
+<tr>
+<td>Full control over your catalogs and templates</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/template-management/index.html"><img title="Dynamic imaging template management" src="../../../_img/help_on.png" alt="Dynamic imaging template management" /></a></td>
+</tr>
+<tr>
+<td>Accept Credit Card payments online</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/prices-and-payments/index.html"><img title="Prices and payments" src="../../../_img/help_on.png" alt="Prices and payments" /></a></td>
+</tr>
+<tr>
+<td>Manage prices and discounts</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/setting-up-prices-and-discounts/index.html"><img title="Set up prices and discounts" src="../../../_img/help_on.png" alt="Set up prices and discounts" /></a></td>
+</tr>
+</tbody>
+</table>
+<h2 class="tab">Access control</h2>
+<p>You can assign different access control rules to each of your catalogs in order to allow or restrict access to them.</p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Availability</strong></td>
+<td class="list_title_last_how"><strong>How to</strong></td>
+</tr>
+<tr>
+<td>Access control</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/user-access-control/index.html"><img title="User access control" src="../../../_img/help_on.png" alt="User access control" /></a></td>
+</tr>
+<tr>
+<td>Password protected catalogs</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/corporate-access/index.html"><img title="Corporate access" src="../../../_img/help_on.png" alt="Corporate access" /></a></td>
+</tr>
+<tr>
+<td>Public catalogs</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/public-access/index.html"><img title="Public access" src="../../../_img/help_on.png" alt="Public access" /></a></td>
+</tr>
+<tr>
+<td>User administration</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/user-administration/index.html"><img title="User administration" src="../../../_img/help_on.png" alt="Dynamic imaging user administration" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>We value your <a title="ZetaPrints privacy policy" href="../../../footer-menu/privacy-policy/index.html" target="_self">privacy</a>. <strong>We do not sell or share any information about you or your advertisers. Never.</strong></p>
+<p>No credit card details are stored by ZetaPrints. All user activities are logged and monitored. You have full control over <a title="Dynamic imaging help: User management" href="../../../help/category/user-management/index.html" target="_self">access to your site</a> down to catalog level.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Pricing</title>
+		<link>http://www.zetaprints.com/ad-networks/image-generation-pricing</link>
+		<pubDate>Fri, 12 Jun 2009 05:44:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Ad Networks]]></category>
+
+		<guid isPermaLink="false">/?p=827</guid>
+		<description><![CDATA[Note: Dynamic imaging pricing is only indicative – the service is free while we are ironing out th...]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #ff0000;"><em>Note: Dynamic imaging pricing is only indicative – the service is free while we are ironing out the bugs. The pricing will be finalized once we are out of beta.</em></span></p>
+<p>This pricing structure applies to dynamic imaging service only. Products with output for printing are priced differently.<span id="more-827"></span></p>
+<h2>Account types</h2>
+<h3>Single account</h3>
+<p>An ad network can be a single master account that gets a single monthly bill. The network would set its own prices and collect payments from customers. ZetaPrints provides a fully functional white-label dynamic imaging service.</p>
+<h3>Individual accounts</h3>
+<p>ZetaPrints can work directly with advertisers using our standard pricing. All charges will be billed directly to the advertisers bypassing the ad network. Advertisers will be in full control of their accounts.</p>
+<h2>Pricing options</h2>
+<h3>Option 1: pay per order</h3>
+<p>All previews are generated with a clearly visible watermark. The only service you pay for is when the final output files are generated free of the watermark. There are no other fees or charges.</p>
+<ul>
+<li><strong>Australia</strong><span> &#8211; $2.2 or less per order</span></li>
+<li><strong>EU</strong><span> &#8211; </span>€<span>1.3 or less per order</span></li>
+<li><strong>New Zealand</strong><span> &#8211; $2.5 or less per order</span></li>
+<li><strong>UK</strong> &#8211; £0.85 or less per order</li>
+<li><strong>USA</strong><span> &#8211; $1.7 or less per order</span></li>
+<li><strong>Other countries</strong><span> &#8211; US$1.7 or less per order</span></li>
+</ul>
+<h3>Option 2: pay per preview</h3>
+<p>Previews are generated in ready to use form: real size, required format (<em>jgp, png or gif</em>), no watermark. This option is suitable for automatic banner generation and campaign management. There are no other fees or charges.</p>
+<ul>
+<li><strong>Australia</strong><span> &#8211; $2.2 per 50 previews<br />
+</span></li>
+<li><strong>EU</strong><span> &#8211; </span>€<span>1.3</span><span> per 50 previews</span></li>
+<li><strong>New Zealand</strong><span> &#8211; $2.5 + GST</span><span> per 50 previews</span></li>
+<li><strong>UK</strong> &#8211; £0.85<span> per 50 previews</span></li>
+<li><strong>USA</strong><span> &#8211; $1.7</span><span> per 50 previews</span></li>
+<li><strong>Other countries</strong><span> &#8211; US$1.7</span><span> per 50 previews</span></li>
+</ul>
+<p>Preview files are stored on the site for several hours only.</p>
+<p>Banners cannot be served from our site. They need to be uploaded to your ad manager.</p>
+<h2>Our price promise</h2>
+<p>We will try adjust the price so that the overall annual cost for you is lower than of any other similar service or software.</p>
+<h2>Payment options</h2>
+<ul>
+<li>Credit card</li>
+<li>Direct payments to our bank account</li>
+<li>PayPal</li>
+</ul>
+<p>All charges are billed monthly to the master account. Read more in the <a title="Web-to-print help: Billing" href="../../../help/category/billing/index.html" target="_self">billing section</a>.</p>
+<h2>Free unlimited trial</h2>
+<p>We offer free unlimited use of the website until it really works for you. Free assistance for setting up and artwork conversion is available on request.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Create banners on the fly</title>
+		<link>http://www.zetaprints.com/ad-networks/create-banners-on-the-fly</link>
+		<pubDate>Fri, 12 Jun 2009 04:20:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Ad Networks]]></category>
+
+		<guid isPermaLink="false">/?p=822</guid>
+		<description><![CDATA[ZetaPrints dynamic imaging software combines image templates with user input and outputs personalize...]]></description>
+				<content:encoded><![CDATA[<p><strong>ZetaPrints dynamic imaging software combines image templates with user input and outputs personalized banner images ready to be served in your ad network.<span id="more-822"></span></strong></p>
+<h2>Banner templates</h2>
+<p>Casual and small business advertisers can find a good choice of designs in our ever growing graphic design market place. They only need to enter their texts or upload images. They don&#8217;t need to be designers to get a professionally designed banner.</p>
+<p>Some advertisers may want to upload their own templates and use them exclusively. The result is still the same &#8211; anyone can prepare a professionally looking banner in seconds.</p>
+<h2>Dynamic banner generation</h2>
+<p>Our <a title="Dynamic imaging software" href="../../../index.html">dynamic imaging system</a> can be used to create one banner manually or update an entire campaign automatically. Advertiser CMS and product databases can be connected directly to our back-end via <a title="web-to-print API" href="../../../help/category/api/index.html">dynamic imaging API</a>. If the advertiser changes the daily special in the connected CMS from &#8220;<em>10% off</em>&#8221; to &#8220;<em>free shipping</em>&#8221; we can automatically update all their banners in just a few seconds saving them hours of work.</p>
+<h2>Part of your ad network</h2>
+<p>ZetaPrints is a hosted service, yet it can be easily integrated into your ad management system using our <a title="web-to-print API" href="../../../help/category/api/index.html">dynamic imaging API</a>. It is up to you how our service is presented to your customers.</p>
+<h3>Pool of designs</h3>
+<p>Our market place is an optional feature and is only available under our own brand, where we collect the payments and set prices. You may create your own marketplace or only allow use of templates uploaded by your customers for their exclusive use.</p>
+<h3>Account management</h3>
+<p>You can choose between having a single master account for the entire ad network and take full control of all account management aspects, including registering your own customers, managing templates, setting prices and collecting payments.</p>
+<p>Alternatively, you can be &#8220;hands-off&#8221; and let your customers deal with us directly.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

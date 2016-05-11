@@ -1,0 +1,655 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="verify-v1" content="GACnn9+1c3JzusKbMwxWr+f9dKvqx8As8sbHI8tNyxA=" />
+  <meta name="keywords" content="web-to-print, online printing, zetaprints, online print ordering" />
+  <title>   JavaScript | Web-to-print and Dynamic Imaging Help</title>
+  <script type="text/javascript" src="../../wp-content/themes/water-zp-3/jslib.js"></script>
+  <meta name="generator" content="ZetaPrints"/> <!-- leave this for stats -->
+  <link rel="stylesheet" href="../../wp-content/themes/water-zp-3/style.css" type="text/css" media="all" />
+  <link href="../../wp-content/themes/water-zp-3/style-fixed.css" rel="stylesheet" type="text/css" />
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../feed/" />
+  <link rel="alternate" type="text/xml" title="RSS .92" href="../../feed/rss/" />
+  <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../../feed/atom/" />
+  <!--link rel="pingback" href="http://www.zetaprints.com/help/xmlrpc.php" /-->
+  <link rel="alternate" type="application/rss+xml" title="Web-to-print and Dynamic Imaging Help &raquo; JavaScript Tag Feed" href="feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.zetaprints.com\/help\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cat-post-tree-ajax-css'  href='../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2-ver=0.7.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='top_css-css'  href='../../wp-content/themes/water-zp-3/top-menu-ver=4.4.1.css' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='top_css_ie-css'  href='../../wp-content/themes/water-zp-3/top-menu-ie-ver=4.4.1.css' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='codecolorer-css'  href='../../wp-content/plugins/codecolorer/codecolorer-ver=0.9.9.css' type='text/css' media='screen' />
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='../../wp-content/themes/water-zp-3/js/top-menu.js?ver=4.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CatPostAjax = {"ajaxurl":"http:\/\/www.zetaprints.com\/help\/wp-admin\/admin-ajax.php","nice_ajax_tree_img":"\/help\/wp-content\/plugins\/cat-post-tree-ajax\/img\/","type":null,"id":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2.js?ver=4.4.1'></script>
+<script type='text/javascript' src='../../wp-content/plugins/zpecards/js/zp.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='../../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc-rsd.php.html" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.1" />
+<meta property="og:site_name" content="Web-to-print and Dynamic Imaging Help" />
+<meta property="og:type" content="article" />
+<link rel="stylesheet" href="../../wp-content/plugins/paypal-pro-zp-gateway/paypal-pro.css" type="text/css" media="screen" /><link rel="stylesheet" href="../../wp-content/plugins/prepress/prepress.css" type="text/css" media="screen" />
+<script type="text/javascript" src="../../wp-content/plugins/prepress/livevalid.js"></script>
+
+<style type="text/css">
+.wptable {
+	border-width: 1 px;
+	border-color: #E58802;
+	border-style: solid;
+	}
+
+.wptable th {
+	border-width: 1px;
+	border-color: #E58802;
+	background-color: #E58802;
+	border-style: solid;
+}
+
+.wptable td {
+	border-width: 1px;
+	border-color: #E58802;
+	border-style: solid;
+}
+
+.wptable tr.alt {
+ 	background-color: #F4F4EC;
+}
+
+</style>
+<link type="text/css" rel="stylesheet" href="../../wp-content/plugins/zpecards/css/zpEcards.css" />
+<script type='text/javascript' src='../../wp-includes/js/tw-sack.min.js?ver=1.6.1'></script>
+  <!--[if IE]>
+  <style>
+  
+  </style>
+  <![EndIf]-->
+  <style type="text/css" media="print">
+  #header, #footer, #rightcol, #logo, .social_bookmark, .post-rel, .postmetadata, #questionMark, p.nocomments {display:none}
+  </style>
+  <link media="screen" type="text/css" href="../../wp-content/themes/water-zp-3/grid.css" rel="stylesheet"/>
+  <script type='text/javascript' src="../../wp-content/themes/water-zp-3/js/grid.js" ></script>
+</head>
+
+<body>
+  <div id="header-container" class="clearfix container">
+    <div id="header">
+      <div class="logo">
+        <a href="../../../"><img src="../../wp-content/themes/water-zp-3/images/logo.gif" alt="ZetaPrints Web-to-print home"/></a>
+        <h1><a href="../../"><span>ZetaPrints</span> help</a></h1>
+        <h3>Web-to-Print &amp; dynamic imaging</h3>
+      </div>
+      <form method="get" id="searchform" action="http://www.zetaprints.com/help/">
+        <div>
+          <input type="text" value=""  name="s" id="s" />
+          <input type="image" id="searchsubmit" alt="Search" src="../../wp-content/themes/water-zp-3/images/search_btn.gif" />
+        </div>
+      </form>
+      <div class="nav">
+    <ul class="main" id="top-drop-menu">
+        <li>
+            <a href="../../../" title="Zetaprints home">Home</a>
+        </li><li class="drop">
+            <a href="../../" class="drop-down-link">Help</a>
+            <ul>
+                <li>
+                    <a href="../../" class="drop-down-link">Web-to-print help</a>
+                </li>
+                <li>
+                    <a href="../../../magentohelp/" class="drop-down-link">Magento help</a>
+                </li>
+				<li>
+					<a href="../../../premium/" class="drop-down-link">Premium support</a>
+				</li>
+				<li>
+					<a href="../../../directory/" class="drop-down-link">Resources</a>
+				</li>
+				<li class="last">
+					<a href="../../../userhelp/" class="drop-down-link">End user help</a>
+				</li>
+            </ul>
+        </li><li>
+            <a href="../../../blog/" title="Web to print blog">Blog</a>
+        </li><li>
+            <a href="../../../packages/sign-up-for-web-to-print/" title="Sign up for web-to-print">Sign up</a>
+        </li><li class="no_border">
+            <a href="http://zetaprints.com" title="Web to print system">Log in</a>
+        </li>
+    </ul>
+</div>
+<!-- nav -->
+    </div> <!-- header -->
+  </div> <!-- container -->
+<div id="content-container" class="container clearfix">
+	    <div id="rightcol">
+      <ul>
+        <li id="text-3" class="widget widget_text"><h2 class="widgettitle">Premium support</h2>
+			<div class="textwidget"><div id="premium_menu_container">
+<ul id="premium_menu">
+<li><a href="../../../premium/index.php/web-to-print-support.html" title="Web-to-print and dynamic imaging support">Installation, administration <img src="../../img/premium_go_ico.png" /></a></li>
+<li><a href="../../../premium/index.php/templates.html" title="Web-to-print and dynamic imaging templates support">Template conversion <img src="../../img/premium_go_ico.png" /></a></li>
+</ul>
+</div></div>
+		</li>
+<li id="pages-2" class="widget widget_pages"><h2 class="widgettitle">Get started</h2>
+		<ul>
+			<li class="page_item page-item-7566"><a href="../../">Home</a></li>
+<li class="page_item page-item-9641"><a href="../../get-started-overvie/">Get started</a></li>
+<li class="page_item page-item-9644"><a href="../../template-creation/">Template creation</a></li>
+<li class="page_item page-item-9646"><a href="../../site-admin/">Site admin</a></li>
+<li class="page_item page-item-9650"><a href="../../user-administration/">User administration</a></li>
+<li class="page_item page-item-9660"><a href="../../branding/">Branding</a></li>
+<li class="page_item page-item-173"><a href="../../website-builder/">Website builder</a></li>
+<li class="page_item page-item-9653"><a href="../../billing/">Billing</a></li>
+<li class="page_item page-item-488"><a href="../../web2print-site-map/">Site map</a></li>
+		</ul>
+		</li>
+<li id="text-2" class="widget widget_text"><h2 class="widgettitle">API and Integration</h2>
+			<div class="textwidget"><ul>
+<li id="open-source-menu-tab"><a href="../../../magentohelp/" title="Magento web-to-print"><img src="../../img/icons/magento.png" alt="Magento"/></a><a href="../../category/openx/" title="OpenX banner generator"><img src="../../img/icons/openx.png" alt="OpenX"/></a><a href="../../../twictures/"><img src="../../img/icons/twictures.png" alt="twictures"/></a><a href="../../category/wordpress/" title="WordPress dynamic imaging tools"><img src="../../img/icons/wp.png" alt="WP"/></a></li>
+<li><a href="../../category/api/">API</a></li>
+<li><a href="../../tools/">Tools</a></li>
+</ul></div>
+		</li>
+<li id="niceajaxtree-widget-3" class="widget cat-post-ajax-tree"><h2 class="widgettitle"><span class="widgettitle">Topics</span></h2>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/get-started/"
+	title="View all posts in * GET STARTED *">* GET STARTED *</a>
+<span
+	class="arrow cat-item-24">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-24" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/access-control/"
+	title="View all posts in Access control">Access control</a>
+<span
+	class="arrow cat-item-35">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-35" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/api/"
+	title="View all posts in API &amp; integration">API &amp; integration</a>
+<span
+	class="arrow cat-item-244">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-244" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/billing/"
+	title="View all posts in Billing">Billing</a>
+<span
+	class="arrow cat-item-28">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-28" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/branding/"
+	title="View all posts in Branding">Branding</a>
+<span
+	class="arrow cat-item-8">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-8" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/catalogs/"
+	title="View all posts in Catalogs">Catalogs</a>
+<span
+	class="arrow cat-item-25">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-25" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/tagging/"
+	title="View all posts in Categories, tags, keywords">Categories, tags, keywords</a>
+<span
+	class="arrow cat-item-27">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-27" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/corel-draw-how-to/"
+	title="View all posts in CorelDRAW How to's">CorelDRAW How to's</a>
+<span
+	class="arrow cat-item-451">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-451" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/coreldraw-tutorials/"
+	title="View all posts in CorelDRAW Tutorials">CorelDRAW Tutorials</a>
+<span
+	class="arrow cat-item-157">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-157" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/access-url/"
+	title="View all posts in Custom domains">Custom domains</a>
+<span
+	class="arrow cat-item-20">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-20" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/design-techniques/"
+	title="View all posts in Design techniques">Design techniques</a>
+<span
+	class="arrow cat-item-190">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-190" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/designer-resources/"
+	title="View all posts in Designer resources">Designer resources</a>
+<span
+	class="arrow cat-item-315">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-315" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/banners/"
+	title="View all posts in Dynamic imaging">Dynamic imaging</a>
+<span
+	class="arrow cat-item-26">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-26" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/file-transfer/"
+	title="View all posts in File transfer">File transfer</a>
+<span
+	class="arrow cat-item-32">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-32" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/fonts/"
+	title="View all posts in Fonts">Fonts</a>
+<span
+	class="arrow cat-item-9">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-9" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/image-fields/"
+	title="View all posts in Image fields">Image fields</a>
+<span
+	class="arrow cat-item-19">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-19" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/image-management/"
+	title="View all posts in Image management">Image management</a>
+<span
+	class="arrow cat-item-354">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-354" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/magento/"
+	title="View all posts in Magento">Magento</a>
+<span
+	class="arrow cat-item-470">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-470" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/uncategorized/"
+	title="View all posts in Miscelaneous">Miscelaneous</a>
+<span
+	class="arrow cat-item-1">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/obsolete/"
+	title="View all posts in Obsolete">Obsolete</a>
+<span
+	class="arrow cat-item-156">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-156" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/openx/"
+	title="View all posts in OpenX">OpenX</a>
+<span
+	class="arrow cat-item-487">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-487" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/order-management/"
+	title="View all posts in Order management">Order management</a>
+<span
+	class="arrow cat-item-34">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-34" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/pdf-conversion/"
+	title="View all posts in PDF conversion">PDF conversion</a>
+<span
+	class="arrow cat-item-39">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-39" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/pdf-settings/"
+	title="View all posts in PDF settings">PDF settings</a>
+<span
+	class="arrow cat-item-12">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-12" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/policies/"
+	title="View all posts in Policies">Policies</a>
+<span
+	class="arrow cat-item-172">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-172" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/pre-press/"
+	title="View all posts in Pre-press">Pre-press</a>
+<span
+	class="arrow cat-item-171">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-171" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/product-prices-and-payment/"
+	title="View all posts in Prices and payments">Prices and payments</a>
+<span
+	class="arrow cat-item-17">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-17" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/product-guides/"
+	title="View all posts in Product guides">Product guides</a>
+<span
+	class="arrow cat-item-158">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-158" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/rss/"
+	title="View all posts in RSS">RSS</a>
+<span
+	class="arrow cat-item-29">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-29" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/skins/"
+	title="View all posts in Skins">Skins</a>
+<span
+	class="arrow cat-item-261">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-261" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/template-management/"
+	title="View all posts in Template management">Template management</a>
+<span
+	class="arrow cat-item-16">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-16" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/template-preparation/"
+	title="View all posts in Template preparation">Template preparation</a>
+<span
+	class="arrow cat-item-10">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-10" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/text-fields/"
+	title="View all posts in Text fields">Text fields</a>
+<span
+	class="arrow cat-item-18">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-18" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/input-constraints/"
+	title="View all posts in Text fields management">Text fields management</a>
+<span
+	class="arrow cat-item-21">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-21" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/template-errors/"
+	title="View all posts in Troubleshooting">Troubleshooting</a>
+<span
+	class="arrow cat-item-22">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-22" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/user-management/"
+	title="View all posts in User management">User management</a>
+<span
+	class="arrow cat-item-23">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-23" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/website-builder/"
+	title="View all posts in Website builder">Website builder</a>
+<span
+	class="arrow cat-item-40">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-40" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/website-stats/"
+	title="View all posts in Website stats">Website stats</a>
+<span
+	class="arrow cat-item-31">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-31" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/wordpress/"
+	title="View all posts in WordPress">WordPress</a>
+<span
+	class="arrow cat-item-538">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-538" style="display:none;">
+</div>
+</div>
+</li>
+		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Articles</h2>
+		<ul>
+					<li>
+				<a href="../../bulk-editing-text-fields/">Bulk editing text fields</a>
+						</li>
+					<li>
+				<a href="../../free-outdoor-sign-web-to-print-templates/">Free signage web-to-print templates</a>
+						</li>
+					<li>
+				<a href="../../leader-dots/">Leader dots</a>
+						</li>
+					<li>
+				<a href="../../wrapping-web-to-print-paper/">Wrapping paper</a>
+						</li>
+					<li>
+				<a href="../../template-reprocessing/">Template reprocessing</a>
+						</li>
+				</ul>
+		</li>
+		      </ul>
+    </div>
+	<div id="leftcol">
+		<div id="news" class="clearfix">
+			<div id="newswrap">
+						<div class="post" id="post-5875">
+			    <div class="posttitle">
+				<h2 class="posttitle"><a href="../../custom-javascript/" rel="bookmark" title="Permanent Link to Custom JavaScript">Custom JavaScript</a></h2>
+
+			    </div>
+				<div class="entry">
+					<p>You can extend ZetaPrints web-to-print portal interactivity with your own JavaScript.  The script will be called with <em>onload </em>event on every page so you can attach your own event handlers as needed. <a href="../../custom-javascript/index.html#more-5875" class="more-link">Full text &raquo;</a></p>
+				</div>
+				<p class="postmetadata">Posted in <a href="../../category/branding/" rel="category tag">Branding</a></p>
+			</div>
+				<div class="navigation">
+			<div class="alignleft"></div>
+			<div class="alignright"></div>
+		</div>
+		<br /><br /><br /><br />
+			</div>
+		</div>
+		<hr />
+	</div>
+</div>
+
+<div id="footer-container" class="container">
+  <div id="footer">
+    <div id="bottomnav">
+      <ul>
+        <li class="first"><a href="../../../about-us/" title="About ZetaPrints">About ZetaPrints</a></li>
+        <li><a href="../../../about-us/contact-us/" title="Contact us">Contact us</a></li>
+        <li><a href="http://zetaprints.com/" title="Log in">Log in</a></li>
+        <li><a href="../../../web-to-print-legal/privacy-policy/" title="Privacy policy">Privacy</a></li>
+        <li><a href="../../../sitemap/" title="Sitemap">Sitemap</a></li>
+        <li><a href="../../../about-us/summary-of-terms-and-conditions/" title="Terms and conditions">Terms of Service</a></li>
+        <li><a href="../../../blog/" title="Web-to-print Blog">Web-to-print Blog</a></li>
+        <li><a href="../../" title="Web-to-print Help">Web-to-print Help</a></li>
+      </ul>
+    </div>
+    <p><a href="../../../blog/" title="Web-to-print Blog"><img class="footer-icon" alt="Blog" src="../../wp-content/themes/water-zp-3/images/blog.png"/></a>&nbsp;
+<a href="http://twitter.com/zetaprints" title="Follow us on twitter"><img class="footer-icon" alt="Twitter" src="../../wp-content/themes/water-zp-3/images/twitter_16.png"/></a>&nbsp;
+&copy; 2006-2012 ZetaPrints Ltd. All rights reserved. Powered by <a href="http://wordpress.org">WordPress</a>.</p>
+    <a href="#header" title="Back to Top" class="top-btn">Back to Top</a>
+  </div>
+</div>
+
+<script type="text/javascript">
+    (function(){
+        var ga = document.createElement('script');
+        ga.type="text/javascript";
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1132851-1']);
+    _gaq.push(['_trackPageview']);
+</script>
+</body>
+</html>
+
+<!-- Localized -->

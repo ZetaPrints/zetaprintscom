@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Product management &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/tag/product-management/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>11. Configure product attributes</title>
+		<link>http://www.zetaprints.com/magentohelp/configure-product-attributes/</link>
+		<pubDate>Thu, 01 Jul 2010 09:59:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-print installation]]></category>
+		<category><![CDATA[Product management]]></category>
+		<category><![CDATA[Template management]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/help/?p=10350</guid>
+		<description><![CDATA[Step 10 Step 11 &#8211; Configure attributes Products prices and options are not imported from your web-to-print portal along with the templates. Configure web-to-print products using bulk-edit or one by one. Refer to Magento documentation for instructions. Newly created web-to-print products are not usable immediately after the import. Many more additional parameters need to be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<table class="m_install_nav">
+<tbody>
+<tr>
+<td class="m_install_prev"><a title="Step 10 - Setup your domain" href="../../../set-up-your-domain/" target="_self">Step 10</a></td>
+<td class="m_install_cur"><strong>Step 11</strong> &#8211; Configure attributes</td>
+<td class="m_install_next"></td>
+</tr>
+</tbody>
+</table>
+<p>Products prices and options are not imported from your web-to-print portal along with the templates.<span id="more-10350"></span></p>
+<p>Configure <a title="ZetaPrints web-to-print and dynamic imaging" href="../../../../">web-to-print</a> products using bulk-edit or one by one. Refer to Magento <a title="Magento wiki" href="http://www.magentocommerce.com/wiki/" target="_self">documentation</a> for instructions. Newly created web-to-print products are not usable immediately after the import. <strong>Many more additional parameters need to be set:</strong></p>
+<ul>
+<li>stock control</li>
+<li>prices</li>
+<li>shipping</li>
+<li>allowed quantities</li>
+<li>category</li>
+<li>etc.</li>
+</ul>
+<p>Learn how to <a title="How to enable a web-to-print product" href="../../../how-to-enable-web-to-print-product/" target="_self">enable a product</a>.</p>
+<h2>Re-running profiles</h2>
+<p>Re-running <em>ZetaPrints products creation</em> profile more than once will only affect newly imported templates that have no corresponding products.</p>
+<p>Re-running <em>ZetaPrints templates synchronization</em> profile will update template details inside Magento database, which will automatically update some product details:</p>
+<ul>
+<li>preview images</li>
+<li>lists of text and image fields</li>
+</ul>
+<p>Other product properties will remain unchanged.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

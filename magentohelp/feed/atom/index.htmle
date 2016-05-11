@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en-US"
+  xml:base="http://www.zetaprints.com/magentohelp/wp-atom.php"
+   >
+	<title type="text">Magento web-to-print &amp; dynamic imaging</title>
+	<subtitle type="text">Just another WordPress site</subtitle>
+
+	<updated>2013-06-07T06:55:21Z</updated>
+
+	<link rel="alternate" type="text/html" href="../../" />
+	<id>http://www.zetaprints.com/magentohelp/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="index.html" />
+
+	<generator uri="https://wordpress.org/" version="4.4.1">WordPress</generator>
+	<entry>
+		<author>
+			<name>atanas</name>
+					</author>
+		<title type="html"><![CDATA[Compiling Magento with web-to-print]]></title>
+		<link rel="alternate" type="text/html" href="../../web-to-print-extension-and-magento-compiler/" />
+		<id>http://www.zetaprints.com/magentohelp/?p=13690</id>
+		<updated>2012-04-03T00:28:50Z</updated>
+		<published>2012-04-02T12:51:58Z</published>
+		<category scheme="http://www.zetaprints.com/magentohelp" term="Web-to-print for developers" />		<summary type="html"><![CDATA[Magento’s code is spread out over a large number of modules. PHP search across a large number of include files has serious performance penalty. Magento compilation feature copies all the code into a single location. It doesn&#8217;t always work with our web-to-print extension. This post explains a quick workaround to make Magento compilation work on [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/magentohelp/web-to-print-extension-and-magento-compiler/"><![CDATA[<p>Magento’s code is spread out over a large number of modules. PHP search across a large number of include files has serious performance penalty. Magento compilation feature copies all the code into a single location. It doesn&#8217;t always work with our web-to-print extension. This post explains a quick workaround to make Magento compilation work on your web-to-print or dynamic imaging website.<span id="more-13690"></span></p>
+<h2>How Magento compiler works</h2>
+<p>The compiler renames all files to include the fully qualified class name and puts them in a single folder. It ensured file name uniqueness.</p>
+<p>E.g.</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #b1b100;">include</span><span style="color: #339933;">/</span>src<span style="color: #339933;">/</span>Mage_Core_Model_Abstract<span style="color: #339933;">.</span>php<br />
+<span style="color: #b1b100;">include</span><span style="color: #339933;">/</span>src<span style="color: #339933;">/</span>Foo_Module_FooController<span style="color: #339933;">.</span>php<br />
+etc<span style="color: #339933;">...</span></div></td></tr></tbody></table></div>
+<p>Read more about Magento Compiler mode on <a title="About the Magento compiler by Alan Storm" href="http://alanstorm.com/magento_compiler_path">alanstorm.com</a></p>
+<h2>How to make web-to-print extension work with Magento compiler</h2>
+<p>After compilation process finished, follow these steps to make our <a title="web-to-print releases" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">web-to-print extension</a> for Magento work properly:</p>
+<h3>1. Edit includes/src/ZetaPrints_Api.php file</h3>
+<p>Replace the following string</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #b1b100;">require_once</span> <span style="color: #0000ff;">'zetaprints-api.php'</span><span style="color: #339933;">;</span></div></td></tr></tbody></table></div>
+<p>with this:</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #b1b100;">require_once</span> <span style="color: #0000ff;">'ZetaPrints/zetaprints-api.php'</span><span style="color: #339933;">;</span></div></td></tr></tbody></table></div>
+<h3>2. Copy XSLT files (compilation process doesn&#8217;t move them automatically)</h3>
+<p>Copy <strong>lib/ZetaPrints/xslt</strong> folder to <strong>includes/src/ZetaPrints</strong> folder.<strong><br />
+</strong></p>
+]]></content>
+		</entry>
+		<entry>
+		<author>
+			<name>atanas</name>
+					</author>
+		<title type="html"><![CDATA[Web-to-print express demo installation on Magento]]></title>
+		<link rel="alternate" type="text/html" href="../../web-to-print-demo-installation-on-magento/" />
+		<id>http://www.zetaprints.com/magentohelp/?p=13658</id>
+		<updated>2012-04-10T14:21:01Z</updated>
+		<published>2012-03-26T09:19:05Z</published>
+		<category scheme="http://www.zetaprints.com/magentohelp" term="Overview" />		<summary type="html"><![CDATA[Want to quickly try our web-to-print extension for Magento in your online store? Follow these express installation steps and end up with a web-to-print enabled Magento store connected to a demo ZetaPrints account. 1. Install the web-to-print extension Installing the extension is identical as with any other Magento extension. Login to your Magento administration panel and [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/magentohelp/web-to-print-demo-installation-on-magento/"><![CDATA[<p>Want to quickly try our <a title="Magento web-to-print extension page" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> for Magento in your online store? Follow these express installation steps and end up with a web-to-print enabled Magento store connected to a demo ZetaPrints account.<span id="more-13658"></span></p>
+<h2>1. Install the web-to-print extension</h2>
+<p>Installing the extension is identical as with any other Magento extension. Login to your Magento administration panel and navigate to <em>System / Magento Connect / Magento Connect Manager</em>.</p>
+<p>Get the extension installation key from Magento’s <a title="Magento web-to-print extension page" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> page. Paste the installation key in the corresponding field of <em>Magento Connect Manager</em> and hit <strong>Install</strong>.</p>
+<p><img class="alignnone size-full wp-image-13661" title="Magento connect manager" src="../../wp-content/uploads/2012/03/magento_connect_manager.png" alt="Magento connect manager" width="589" height="300" /></p>
+<h2>2. Import web-to-print data</h2>
+<p>Our web-to-print extension is setup to work out of the box with a <strong>demo</strong> ZetaPrints account so that you can populate your store with templates and try the extension even before setting up your own web-to-print portal. This step actually synchronizes the templates from the <strong>demo</strong> ZetaPrints account with your Magento store.</p>
+<p>Web-to-print data is imported by running the &#8220;<strong>ZetaPrints template synchronization</strong>&#8221; profile.</p>
+<p>Navigate to <em>System &gt; Import/Export &gt; </em><em>Dataflow – Advance Profiles</em>, select <em>ZetaPrints templates synchronization</em> profile and click on <em>Run Profile</em> tab on the left. Next click <em>Run Profile in Popup</em> button. It will initiate a data importing process which may take several minutes.</p>
+<p><img class="alignnone size-full wp-image-13665" title="Run ZetaPrints template synchronization profile" src="../../wp-content/uploads/2012/03/run_zetaprints_template_sync_profile.png" alt="Run ZetaPrints template synchronization profile" width="595" height="241" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/run_zetaprints_template_sync_profile-300x121.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/run_zetaprints_template_sync_profile.png 595w" sizes="(max-width: 595px) 100vw, 595px" /></p>
+<h2>3. Create web-to-print categories</h2>
+<p>At ZetaPrints end, templates are grouped in <a title="About web-to-print catalogs" href="../../../help/about-catalogs/">catalogs</a>. During this step, the extension will <a title="Magento auto category creation" href="../../auto-category-creation/">automatically create Magento categories</a> for all of the web-to-print portal catalogs in the demo account.</p>
+<p>This is done by running the &#8220;<strong>ZetaPrints catalogues creation</strong>&#8221; profile. Navigate to <em>System &gt; Import/Export &gt; </em><em>Dataflow – Advance Profiles </em>and run the<em> ZetaPrints catalogues creation </em>profile.<em><br />
+</em></p>
+<h2>4. Create web-to-print products</h2>
+<p>Now it&#8217;s time to create Magento products for all the imported templates and arrange them in their categories. This is also an automated process that only requires running a profile.</p>
+<p>Navigate to <em>System &gt; Import/Export &gt; </em><em>Dataflow – Advance Profiles </em>and run the<em> ZetaPrints simple products creation </em>profile.<em><br />
+</em></p>
+<h2>5. Try it as a customer</h2>
+<p>You are all set! Navigate to the front end of your store and play around with your new web-to-print products.</p>
+<p><strong>Note.</strong> Stores with multiple store views need an additional step to <a title="How to enable web-to-print products" href="../../how-to-enable-web-to-print-product/">enable the products</a> in the front end.</p>
+<h2>Custom installation</h2>
+<p>As an alternative, you can read the detailed <a title="Magento web-to-print installation steps" href="../../category/installation-steps/">step-by-step installation instructions</a> or <a title="Premium support - Magento and web-to-print extension installation" href="../../../premium/index.php/web-to-print-support/magento-web-to-print-set-up.html">purchase premium support</a> and have us install Magento and the web-to-print extension for you.</p>
+]]></content>
+		</entry>
+		<entry>
+		<author>
+			<name>atanas</name>
+					</author>
+		<title type="html"><![CDATA[Ignore unpaid orders]]></title>
+		<link rel="alternate" type="text/html" href="../../ignore-unpaid-web-to-print-orders/" />
+		<id>http://www.zetaprints.com/magentohelp/?p=13585</id>
+		<updated>2012-03-24T10:28:19Z</updated>
+		<published>2012-03-13T14:14:38Z</published>
+		<category scheme="http://www.zetaprints.com/magentohelp" term="Web-to-print administration" />		<summary type="html"><![CDATA[File generation is what qualifies an order as billable. When you&#8217;re receiving payments though a payment gateway such as PayPal, by default, an order is generated even if the payment was canceled during the PayPal step. Our web-to-print extension for Magento allows you to set these orders to be ignored until the payment confirmation arrives from [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/magentohelp/ignore-unpaid-web-to-print-orders/"><![CDATA[<p>File generation is what qualifies an order as <a title="Web-to-print billing" href="../../../help/billing/">billable</a>. When you&#8217;re receiving payments though a payment gateway such as <a title="PayPal" href="https://www.paypal.com/">PayPal</a>, by default, an order is generated even if the payment was canceled during the PayPal step.<span id="more-13585"></span></p>
+<p>Our <a title="web-to-print releases" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">web-to-print extension</a> for Magento allows you to set these orders to be ignored until the payment confirmation arrives from the payment gateway.</p>
+<h2>Ignore unpaid web-to-print orders</h2>
+<p>This setting is located in the ZetaPrints web-to-print tab on System / Configuration page in Magento admin panel. Choose <strong>Yes</strong> from the <strong>Ignore unpaid orders</strong> drop-down menu to ignore orders until a payment confirmation arrives from the payment gateway server.</p>
+<p><img class="alignnone size-full wp-image-13599" title="Web-to-print unpaid orders settings" src="../../wp-content/uploads/2012/03/web-to-print_unpaid_orders_settings.png" alt="Web-to-print unpaid orders settings" width="596" height="457" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/web-to-print_unpaid_orders_settings-300x230.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/web-to-print_unpaid_orders_settings.png 596w" sizes="(max-width: 596px) 100vw, 596px" /></p>
+<h2>File generation and web-to-print order statuses</h2>
+<p>The following table displays the Magento order status and the corresponding ZetaPrints web-to-print portal <a title="Magento web-to-print order status" href="../../magento-order-status/">order status</a> at different stages of the ordering process using PayPal payment method gateway.</p>
+<ul>
+<li><strong>Express checkout</strong> &#8211; works before any order is created in Magento and is part of the checkout process.</li>
+<li><strong>Standard checkout</strong> &#8211; sits after the checkout and an order is generated in Magento even before the customer proceeds to PayPal site</li>
+</ul>
+<table id="pay_pal_tbl">
+<tbody>
+<tr id="pay_pal_tbl_st">
+<th colspan="2"></th>
+<th>Order created</th>
+<th>Payment successful</th>
+<th>Payment canceled</th>
+<th>After invoice</th>
+<th>After shipment</th>
+</tr>
+<tr id="pay_pal_tbl_ex">
+<td rowspan="2"><strong>Express Checkout</strong></td>
+<td><em>Simple</em></td>
+<td colspan="2">Processing | To Print</td>
+<td>No order | Saved</td>
+<td>Processing | To Print</td>
+<td>Complete | Files generated, Order deleted</td>
+</tr>
+<tr id="pay_pal_tbl_ex">
+<td><em>Virtual</em></td>
+<td colspan="2">Processing | To Print</td>
+<td>No order | Saved</td>
+<td>Complete | Deleted</td>
+<td>/</td>
+</tr>
+<tr id="pay_pal_tbl_st">
+<td rowspan="2"><strong>Standard Checkout</strong></td>
+<td><em>Simple</em></td>
+<td>Pending Payment | Saved</td>
+<td>Processing | To Print</td>
+<td>Cancelled | Deleted, Files not generated</td>
+<td>Processing | To Print</td>
+<td>Complete | Files generated, Order deleted</td>
+</tr>
+<tr id="pay_pal_tbl_st">
+<td><em>Virtual</em></td>
+<td>Pending Payment | Saved</td>
+<td>Complete | Files generated, Order deleted</td>
+<td>Cancelled | Deleted, Files not generated</td>
+<td>Complete | Delete</td>
+<td>/</td>
+</tr>
+</tbody>
+</table>
+<h5>* Magento order status | Web-to-print portal order status</h5>
+]]></content>
+		</entry>
+		<entry>
+		<author>
+			<name>atanas</name>
+					</author>
+		<title type="html"><![CDATA[Dynamic imaging products]]></title>
+		<link rel="alternate" type="text/html" href="../../dynamic-imaging-products/" />
+		<id>http://www.zetaprints.com/magentohelp/?p=13571</id>
+		<updated>2012-03-13T06:49:34Z</updated>
+		<published>2012-03-12T13:57:55Z</published>
+		<category scheme="http://www.zetaprints.com/magentohelp" term="Web-to-print administration" />		<summary type="html"><![CDATA[Some products do not need output file generation. Unlike web-to-print templates used for generating print-ready output files, dynamic imaging templates are only used for preview generation. Our web-to-print extension for Magento allows you to mark products as dynamic imaging ones from inside Magento admin panel. Such products can be checked out without generating print-ready files. Setting dynamic [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/magentohelp/dynamic-imaging-products/"><![CDATA[<p>Some products do not need <a title="Web-to-print output file generation" href="../../../help/output-files-generation/">output file</a> generation. Unlike <a title="Web-to-print template requirements" href="../../../help/web-to-print-template-requirements/">web-to-print templates</a> used for generating print-ready output files, <a title="Dynamic imaging templates" href="../../../help/dynamic-imaging-template-requirements/">dynamic imaging templates</a> are only used for preview generation.<span id="more-13571"></span></p>
+<p>Our <a title="web-to-print releases" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">web-to-print extension</a> for Magento allows you to mark products as dynamic imaging ones from inside Magento admin panel. Such products can be checked out without generating print-ready files.</p>
+<h2>Setting dynamic imaging products</h2>
+<p>There are two ways of marking a product as a dynamic imaging one. This can be done at an individual product level or at a category level. Here&#8217;s how.</p>
+<h3>Product level</h3>
+<p>Navigate to <em>Catalog / Manage products</em> from the top menu in Magento admin panel. Click on the product you want to flag as a dynamic imaging one to get to the product&#8217;s details page. In the <em>web-to-print templates tab</em>, tick the <strong>Dynamic imaging</strong> check-box and save your changes.</p>
+<p><img class="alignnone size-full wp-image-13575" title="Set a product as a dynamic imaging one" src="../../wp-content/uploads/2012/03/set_product_as_dynamic_imaging.png" alt="Set a product as a dynamic imaging one" width="595" height="606" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/set_product_as_dynamic_imaging-294x300.png 294w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/set_product_as_dynamic_imaging.png 595w" sizes="(max-width: 595px) 100vw, 595px" /></p>
+<p>From that point on, the product will be considered as a dynamic imaging product and no print ready files will get generated when a customer places an order on that product. This will happen regardless if the template fulfills the <a title="Dynamic imaging template requirements" href="../../../help/dynamic-imaging-template-requirements/">requirements</a> for a dynamic imaging template (<em>single page, pixel units</em>&#8230;). The order details page will only contain a &#8220;<strong>Download image</strong>&#8221; link rather than links to the different types of output files that web-to-print templates produce.</p>
+<h3>Category level</h3>
+<p>To mark an entire category as a dynamic imaging one, navigate to <em>Catalog / Manage Categories</em> from the top menu in Magento admin panel. Select the category (or sub-category) you want to flag as a dynamic imaging one to get to its details page. In the <em>Display Settings tab</em>, choose <strong>Yes</strong> for the  <strong>Dynamic imaging</strong> drop-down menu and save your changes.</p>
+<p><img class="alignnone size-full wp-image-13578" title="Set an entire category as a dynamic imaging one" src="../../wp-content/uploads/2012/03/set_category_as_dynamic_imaging.png" alt="Set an entire category as a dynamic imaging one" width="595" height="600" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/set_category_as_dynamic_imaging-297x300.png 297w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/set_category_as_dynamic_imaging.png 595w" sizes="(max-width: 595px) 100vw, 595px" /></p>
+<p>From that point on, all products in that category will act as a dynamic imaging ones.</p>
+]]></content>
+		</entry>
+		<entry>
+		<author>
+			<name>atanas</name>
+					</author>
+		<title type="html"><![CDATA[Reports for web-to-print orders]]></title>
+		<link rel="alternate" type="text/html" href="../../web-to-print-reports-in-magento/" />
+		<id>http://www.zetaprints.com/magentohelp/?p=13546</id>
+		<updated>2011-12-30T06:09:09Z</updated>
+		<published>2011-12-29T01:00:37Z</published>
+		<category scheme="http://www.zetaprints.com/magentohelp" term="Web-to-print administration" />		<summary type="html"><![CDATA[Magento allows you to create, view and download detailed reports from your web-to-print Magento store. All report and analytics options are located under Reports menu of Magento admin panel. Read more about Magento reports. Web-to-print sales report Lets say you need a list of successful orders that were completed in a given period. The report [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/magentohelp/web-to-print-reports-in-magento/"><![CDATA[<p><a title="Magento eCommerce platform" href="http://www.magentocommerce.com/">Magento</a> allows you to create, view and download detailed reports from your <a title="ZetaPrints web-to-print and dynamic imaging" href="../../../">web-to-print</a> Magento store.<span id="more-13546"></span></p>
+<p>All report and analytics options are located under <strong>Reports</strong> menu of Magento admin panel. Read more about <a title="About Magento reports and analytics" href="http://www.magentocommerce.com/wiki/welcome_to_the_magento_user_s_guide/chapter_7">Magento reports</a>.</p>
+<h2>Web-to-print sales report</h2>
+<p>Lets say you need a list of successful <a title="Magento web-to-print order management" href="../../magento-order-management/">orders</a> that were completed in a given period. The report should contain only <a title="Web-to-print order status" href="../../magento-order-status/">completed</a> orders as well as individual and total payments subtotal amounts for those orders.</p>
+<p>Navigate to <em>Reports / Sales / Orders</em> page in Magento admin panel. Before you do anything else, <strong>refresh</strong> the statistics by clicking the corresponding link on the page, this will ensure that the content in your report is up to date.</p>
+<p><img class="alignnone size-full wp-image-13550" title="Magento refresh web-to-print statistics" src="../../wp-content/uploads/2011/12/magento_refresh_statistics.png" alt="Magento refresh web-to-print statistics" width="595" height="175" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/12/magento_refresh_statistics-300x88.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/12/magento_refresh_statistics.png 595w" sizes="(max-width: 595px) 100vw, 595px" /></p>
+<p>In the <strong>Filter</strong> section, choose the appropriate options according to the information you&#8217;re after. In this case we will set the <strong>Start and End date</strong> of the report span, set the system to only <strong>display orders with specific status</strong> (<em>Completed</em>) and click <strong>Show Report</strong> button.</p>
+<p><img class="alignnone size-full wp-image-13551" title="Magento web-to-print reports" src="../../wp-content/uploads/2011/12/magento-web-to-print_reports.png" alt="Magento web-to-print reports" width="594" height="628" /></p>
+<p>The actual report should show up right under the <em>Filter</em> section along with a <em>Export</em> drop-down menu containing choices of a <strong>.CSV</strong> or <strong>.XML</strong> file ready to be downloaded to your local hard drive.</p>
+<p><strong>Note.</strong> We highly recommend you manage orders, create invoices, generate reports etc. from either your web-to-print portal or Magento admin panel, not both. This way you can rely on constant results that are easier to manage.</p>
+]]></content>
+		</entry>
+		<entry>
+		<author>
+			<name>atanas</name>
+					</author>
+		<title type="html"><![CDATA[Default image fields appearance]]></title>
+		<link rel="alternate" type="text/html" href="../../default-image-fields-appearance/" />
+		<id>http://www.zetaprints.com/magentohelp/?p=13527</id>
+		<updated>2012-06-11T16:40:18Z</updated>
+		<published>2011-12-28T15:44:58Z</published>
+		<category scheme="http://www.zetaprints.com/magentohelp" term="Web-to-print administration" />		<summary type="html"><![CDATA[By default, all image fields that show up on web-to-print product pages are collapsed when the customer first lands on the page. You can use a custom configuration XML file to change the default appearance of all web-to-print image fields in your store. This is a default way of showing image fields in a web-to-print [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/magentohelp/default-image-fields-appearance/"><![CDATA[<p>By default, all image fields that show up on web-to-print product pages are collapsed when the customer first lands on the page. You can use a <a title="Magento custom web-to-print configuration" href="../custom-configuration/" target="_self">custom configuration</a> <em>XML</em> file to change the default appearance of all web-to-print image fields in your store.<span id="more-13527"></span></p>
+<p>This is a default way of showing image fields in a web-to-print product:</p>
+<p><img class="alignnone size-full wp-image-13530" title="Collapsed web-to-print image fields" src="../../wp-content/uploads/2011/12/collapsed_web-to-print_image_fields.png" alt="Collapsed web-to-print image fields" width="591" height="435" /></p>
+<p>You can change this default setting and have the image fields expanded by default.</p>
+<p><img class="alignnone size-full wp-image-13532" title="Expanded web-to-print image fields" src="../../wp-content/uploads/2011/12/expanded_web-to-print_image_fields.png" alt="Expanded web-to-print image fields" width="591" height="649" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/12/expanded_web-to-print_image_fields-273x300.png 273w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/12/expanded_web-to-print_image_fields.png 591w" sizes="(max-width: 591px) 100vw, 591px" /></p>
+<p>To achieve this, add the following code inside the <strong>&lt;webtoprint&gt;</strong> nodes in the <em>custom-options.xml</em> file (located in <em>/app/code/community/ZetaPrints/WebToPrint/etc</em> folder of your Magento installation):</p>
+<div class="codecolorer-container xml mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;fields<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;image</span> <span style="color: #000066;">show-on-load</span>=<span style="color: #ff0000;">&quot;1&quot;</span> <span style="color: #000000; font-weight: bold;">/&gt;</span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/fields<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></div></td></tr></tbody></table></div>
+<p>Or, if you’re editing a custom option for the first time, upload a file named <strong>custom-options.xml</strong> manually to <em>/app/code/community/ZetaPrints/WebToPrint/etc</em> folder of your Magento installation, with the following file content:</p>
+<div class="codecolorer-container xml mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br />5<br />6<br />7<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;config<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;webtoprint<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;fields<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;image</span> <span style="color: #000066;">show-on-load</span>=<span style="color: #ff0000;">&quot;1&quot;</span> <span style="color: #000000; font-weight: bold;">/&gt;</span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/fields<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/webtoprint<span style="color: #000000; font-weight: bold;">&gt;</span></span></span><br />
+<span style="color: #009900;"><span style="color: #000000; font-weight: bold;">&lt;/config<span style="color: #000000; font-weight: bold;">&gt;</span></span></span></div></td></tr></tbody></table></div>
+]]></content>
+		</entry>
+		<entry>
+		<author>
+			<name>atanas</name>
+					</author>
+		<title type="html"><![CDATA[Products for multi-store web-to-print]]></title>
+		<link rel="alternate" type="text/html" href="../../products-for-multiple-web-to-print-stores/" />
+		<id>http://www.zetaprints.com/magentohelp/?p=13505</id>
+		<updated>2011-12-14T12:28:49Z</updated>
+		<published>2011-12-09T13:29:18Z</published>
+		<category scheme="http://www.zetaprints.com/magentohelp" term="Web-to-print administration" />		<summary type="html"><![CDATA[Web-to-print products can be created automatically for imported templates as part of the product creation profile. This, however, does not include stores with multiple store views and a additional step is required to have your web-to-print products appear in the front end right away. If you want to skip setting up the products manually and [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/magentohelp/products-for-multiple-web-to-print-stores/"><![CDATA[<p><a title="ZetaPrints web-to-print and dynamic imaging" href="../../../">Web-to-print</a> products can be <a title="Create simple and virtual web-to-print Magento products" href="../create-simple-web-to-print-products/">created automatically</a> for imported templates as part of the product creation profile. This, however, does not include stores with multiple store views and a additional step is required to have your web-to-print products appear in the front end right away.<span id="more-13505"></span></p>
+<p>If you want to skip <a title="How to enable web-to-print products" href="../../how-to-enable-web-to-print-product/">setting up the products manually</a> and have them appear in the front-end of your store right away, you have to enable the &#8220;<em>Set Defaults for created products</em>&#8221; feature in ZetaPrints web-to-print <a title="ZetaPrints web-to-print synchronization settings" href="../../zetaprints-synchronization-settings/">settings</a> of your Magento store before running the <a title="Create simple and virtual web-to-print Magento products" href="../../create-simple-web-to-print-products/">product creation</a> profile. This feature will ensure that all of the product attributes that are required in order for a product to show up in the store are set to their default values.</p>
+<h2>Web-to-print products in stores with multiple store views</h2>
+<p>If you&#8217;re running a Magento store that has multiple store views (ex. a store with a few <a title="Web-to-print store localization" href="../../magento-web-to-print-localization/">language options</a>) you&#8217;ll need to go through this one extra step to enable the web-to-print products in the front end.</p>
+<p>After running the product creation profile, navigate to product details page in Magento admin panel (<em>Catalog / Manage products</em>) and then to the <strong>Websites</strong> tab where you need to check the box in front of the store with multiple store views and <strong>Save</strong> your changes.</p>
+<p><img class="alignnone size-full wp-image-13515" title="Enabling web-to-print products in multiple stores" src="../../wp-content/uploads/2011/12/enabling_web-to-print_products_in_multiple_stores.png" alt="Enabling web-to-print products in multiple stores" width="590" height="480" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/12/enabling_web-to-print_products_in_multiple_stores-300x244.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/12/enabling_web-to-print_products_in_multiple_stores.png 590w" sizes="(max-width: 590px) 100vw, 590px" /></p>
+<p>You can also <a title="Magento bulk editing products" href="../../bulk-editing-products/">do this in bulk</a> for a large number of web-to-print products at once.</p>
+]]></content>
+		</entry>
+		<entry>
+		<author>
+			<name>atanas</name>
+					</author>
+		<title type="html"><![CDATA[Datasets in Magento web-to-print products]]></title>
+		<link rel="alternate" type="text/html" href="../../datasets-in-magento-web-to-print-products/" />
+		<id>http://www.zetaprints.com/magentohelp/?p=13488</id>
+		<updated>2012-03-28T09:50:52Z</updated>
+		<published>2011-12-07T15:54:24Z</published>
+		<category scheme="http://www.zetaprints.com/magentohelp" term="Web-to-print administration" />		<summary type="html"><![CDATA[A dataset is like a small database attached to a template. It contains values for text fields your customers can choose from. Our web-to-print extension for Magento supports datasets. A template that has a dataset attached, will have a &#8220;Database look-up&#8221; button at the top of the input form. Try it on this product in [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/magentohelp/datasets-in-magento-web-to-print-products/"><![CDATA[<p title="web-to-print releases">A <a title="About web-to-print datasets" href="../../../help/datasets/">dataset</a> is like a small database attached to a template. It contains values for text fields your customers can choose from. Our <a title="Web-to-print extension for Magento" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">web-to-print extension</a> for Magento supports datasets.<span id="more-13488"></span></p>
+<p title="web-to-print releases">A template that has a dataset attached, will have a &#8220;Database look-up&#8221; button at the top of the input form.</p>
+<p title="web-to-print releases"><img class="alignnone size-full wp-image-13678" title="Web-to-print dataset button on Magento product page" src="../../wp-content/uploads/2012/03/web-to-print_dataset_button.png" alt="Web-to-print dataset button on Magento product page" width="588" height="399" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/web-to-print_dataset_button-300x203.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/web-to-print_dataset_button.png 588w" sizes="(max-width: 588px) 100vw, 588px" /></p>
+<p title="web-to-print releases">Try it on this <a title="Web-to-print demo business card product" href="../../../magento/index.php/product-types/business-cards/business-card-02.html">product</a> in our <a title="Web-to-print Magento demo store" href="../../../magento/index.php/">demo store</a>.</p>
+<h2 title="web-to-print releases">Dataset table</h2>
+<p>Just like in the web-to-print portal, the dataset values are shown in a interactive table.</p>
+<p><img class="alignnone size-full wp-image-13680" title="Web-to-print datasets table" src="../../wp-content/uploads/2012/03/web-to-print_datasets_table.png" alt="Web-to-print datasets table" width="603" height="334" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/web-to-print_datasets_table-300x166.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2012/03/web-to-print_datasets_table.png 603w" sizes="(max-width: 603px) 100vw, 603px" /></p>
+<p>According to the <a title="Web-to-print datasets" href="../../../help/datasets/">datasets enforcement settings</a> at the web-to-print portal side, customers can be allowed to click on individual cells to combine values and input their own texts manually or they can be restricted to pick entire row of values only, without being able to input data manually.</p>
+]]></content>
+		</entry>
+		<entry>
+		<author>
+			<name>atanas</name>
+					</author>
+		<title type="html"><![CDATA[Fit-in-field image editing]]></title>
+		<link rel="alternate" type="text/html" href="../../fit-in-field-image-editing/" />
+		<id>http://www.zetaprints.com/magentohelp/?p=13445</id>
+		<updated>2011-11-23T10:12:52Z</updated>
+		<published>2011-11-22T13:23:38Z</published>
+		<category scheme="http://www.zetaprints.com/magentohelp" term="Web-to-print administration" />		<summary type="html"><![CDATA[Your web-to-print templates contain variable images that come in all shapes and sizes. Using the “Fit-in-field” tool, your customers will be able to adapt any image they’ve uploaded in a way that is relevant to the shape and size requirements of a specific image field. &#160; The “Fit-in-field” tool is basically a smart crop tool [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/magentohelp/fit-in-field-image-editing/"><![CDATA[<p>Your <a title="Web-to-print template creation" href="../../../help/template-creation/">web-to-print templates</a> contain variable images that come in all shapes and sizes. Using the “<strong>Fit-in-field</strong>” tool, your customers will be able to adapt any image they’ve uploaded in a way that is relevant to the shape and size requirements of a specific image field.<span id="more-13445"></span></p>
+<p>&nbsp;</p>
+<table id="inv-table">
+<tbody>
+<tr>
+<td>The “<strong>Fit-in-field</strong>” tool is basically a smart crop tool that has its selection area shape locked to a proportional shape according to the image placeholder of the template.</p>
+<p>This helps users get an exact idea of what part of their uploaded image will be visible in the template they&#8217;re personalizing. Try it in our <a title="Web-to-print demo store example" href="../../../magento/index.php/interactive/remax-vertical-sign-02-3-photos-18-x-24.html">demo store</a>.</td>
+<td><a href="../../wp-content/uploads/2011/11/fit-in-field_selection.png"><img class="alignnone size-full wp-image-13448" title="Web-to-print Fit-in-field selection area" src="../../wp-content/uploads/2011/11/fit-in-field_selection.png" alt="Web-to-print Fit-in-field selection area" width="343" height="321" /></a></td>
+</tr>
+</tbody>
+</table>
+<h3>Useful shortcuts</h3>
+<p>While the <em>Fit-in-field</em> tool is active, an additional horizontal shortcuts menu is displayed above the image and it allows users to quickly fit their uploaded image in the variable image area of the template they’re personalizing.</p>
+<p><img class="alignnone size-full wp-image-13463" title="Web-to-print shortcuts menu" src="../../wp-content/uploads/2011/11/web-to-print_shortcuts_menu.png" alt="Web-to-print shortcuts menu" width="529" height="139" /></p>
+<h2>Affected web-to-print images</h2>
+<table id="inv-table">
+<tbody>
+<tr>
+<td><img class="alignnone size-full wp-image-13460" title="Magento image editor menu sections" src="../../wp-content/uploads/2011/11/image_editor_menu_sections.png" alt="" width="179" height="477" /></td>
+<td>Unlike the tools listed under the &#8220;<em>Global changes</em>&#8221; section of the toolbox, edits with the <em>Fit-in-field</em>tool are recorded for the active image field only.</p>
+<p>This means that using the Fit-in-field tool, the same image can be cropped differently for different image fields in a single template.</td>
+</tr>
+</tbody>
+</table>
+<h2>Proportional shapes</h2>
+<p>The proportions of the selection area are determined according to the variable <a title="Web-to-print simple image placeholder" href="../../../help/image-placeholder/">web-to-print image placeholder</a> in the template file. When this placeholder is placed inside a PowerClip container, you should keep in mind that extremely disproportional placeholders might confuse your users.</p>
+<table id="inv-table">
+<tbody>
+<tr>
+<td><strong>Ex.</strong> Here we have a snapshot of the insides of a <a title="Web-to-print use of PowerClip" href="../../../help/use-of-power-clip/">PowerClip container</a> in CorelDRAW. As you can see, the image placeholder shape inside is rectangular although the container shape is squared.</td>
+<td><img class="alignnone size-full wp-image-13471" title="Web-to-print image placeholder shape" src="../../wp-content/uploads/2011/11/web-to-print_image_placeholder_shape.png" alt="" width="433" height="279" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/11/web-to-print_image_placeholder_shape-300x193.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/11/web-to-print_image_placeholder_shape.png 433w" sizes="(max-width: 433px) 100vw, 433px" /></td>
+</tr>
+</tbody>
+</table>
+<p>When a customer opens the image editor for this template, the selection area presented to them as part of the <em>Fit-in-field</em> tool is shown as <strong>rectangle</strong><strong></strong>. This is because of the image placeholder shape.</p>
+<p><img class="alignnone size-full wp-image-13469" title="Magento disproportional placeholder" src="../../wp-content/uploads/2011/11/magento_disproportional_placeholder.png" alt="Web-to-print disproportional placeholder" width="481" height="400" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/11/magento_disproportional_placeholder-300x249.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/11/magento_disproportional_placeholder.png 481w" sizes="(max-width: 481px) 100vw, 481px" /></p>
+<p><strong>Tip.</strong> Make your PowerClip&#8217;d image placeholder shapes as close as possible to the shape of their PowerClip containers. Learn more about the use of <a title="Web-to-print PowerClip VS simple image placeholder" href="../../../help/power-clip-vs-simple-placeholder/">PowerClip VS simple image placeholder</a>.</p>
+<h2>Enable / disable Fit-in-field image editing</h2>
+<p>Since web-to-print extension release <strong>1.9.2.0beta15</strong>, the Fit-in-field tool is enabled by default but you can <a title="Deactivate Fit-in-field image editong feature" href="../../activate-fit-in-field-image-editing/">switch it on and off</a> as you prefer.</p>
+]]></content>
+		</entry>
+		<entry>
+		<author>
+			<name>atanas</name>
+					</author>
+		<title type="html"><![CDATA[Page size table]]></title>
+		<link rel="alternate" type="text/html" href="../../display-page-sizes/" />
+		<id>http://www.zetaprints.com/magentohelp/?p=13270</id>
+		<updated>2011-11-21T21:11:08Z</updated>
+		<published>2011-11-21T15:26:13Z</published>
+		<category scheme="http://www.zetaprints.com/magentohelp" term="Web-to-print administration" />		<summary type="html"><![CDATA[Page size can be displayed automatically as part of the product description using data from your ZetaPrints web-to-print portal. The data is extracted automatically and is shown as a table wherever you insert a special code snippet as explained in this post. The contents of the table depends on weather it is a web-to-print or [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.zetaprints.com/magentohelp/display-page-sizes/"><![CDATA[<p>Page size can be displayed automatically as part of the product description using data from your ZetaPrints web-to-print portal. The data is extracted automatically and is shown as a table wherever you insert a special code snippet as explained in this post.</p>
+<p><span id="more-13270"></span></p>
+<p><img class="alignnone size-full wp-image-13283" title="Magento page size table" src="../../wp-content/uploads/2011/09/magento_page_size_table.png" alt="" width="582" height="671" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/09/magento_page_size_table-260x300.png 260w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/09/magento_page_size_table.png 582w" sizes="(max-width: 582px) 100vw, 582px" /></p>
+<p>The contents of the table depends on weather it is a <a title="Web-to-print template requirements" href="../../../help/web-to-print-template-requirements/">web-to-print</a> or <a title="Dynamic imaging template requirements" href="../../../help/dynamic-imaging-template-requirements/">dynamic imaging</a> template, the table may contain the size of the PDF, JPEG or GIF/PNG <a title="Output file generation" href="../../../help/output-files-generation/">output files</a> that are set to be generated for that particular template.</p>
+<h2>Activate page size table</h2>
+<p>This feature comes built in our <a title="web-to-print releases" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">web-to-print extension</a> for Magento but is disabled by default. In order to activate this size info table, you need to edit <strong>view.php</strong> file.</p>
+<p>Navigate to <em>app/design/frontend/default/&lt;your_theme_name&gt;/template/catalog/product/</em> folder of your Magento installation and download the <strong>view.php</strong> file to you local hard drive.</p>
+<p><strong>Note.</strong> Keep in mind that if you&#8217;re editing the <strong>view.php</strong> file located in <em>zptheme</em> folder, your changes will get overwritten during the next <a title="Web-to-print extension for Magento" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">web-to-print extension</a> update. Editing the same file as part of a custom theme you&#8217;re using will ensure the activation is permanent.</p>
+<p>Open the file with a text editing application (<em>Notepad</em>, <em><a title="Free Notepad++ download" href="http://notepad-plus.sourceforge.net/uk/download.php" target="_self">Notepad++</a></em> etc.) and paste the following code depending on where you want the page size info to appear:</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #000000; font-weight: bold;">&lt;?php</span> <span style="color: #000088;">$this</span><span style="color: #339933;">-&gt;</span><span style="color: #004000;">helper</span><span style="color: #009900;">&#40;</span><span style="color: #0000ff;">'webtoprint/personalization-form'</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">-&gt;</span><span style="color: #004000;">getPageSizeTable</span><span style="color: #009900;">&#40;</span><span style="color: #000088;">$this</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span> <span style="color: #000000; font-weight: bold;">?&gt;</span></div></td></tr></tbody></table></div>
+<p>In this example, the function was added right after the image fields function.</p>
+<p><img class="alignnone size-full wp-image-13290" title="Magento page size function" src="../../wp-content/uploads/2011/09/magento_page_size_code.png" alt="" width="599" height="197" /></p>
+<p><strong>Note.</strong> By default, the function displays the page size in inches. To show the sizes in <em>centimeters</em>, use an additional parameter:</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #000000; font-weight: bold;">&lt;?php</span> <span style="color: #000088;">$this</span><span style="color: #339933;">-&gt;</span><span style="color: #004000;">helper</span><span style="color: #009900;">&#40;</span><span style="color: #0000ff;">'webtoprint/personalization-form'</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">-&gt;</span><span style="color: #004000;">getPageSizeTable</span><span style="color: #009900;">&#40;</span><span style="color: #000088;">$this</span><span style="color: #339933;">,</span> <span style="color: #0000ff;">'cm'</span><span style="color: #009900;">&#41;</span><span style="color: #339933;">;</span> <span style="color: #000000; font-weight: bold;">?&gt;</span></div></td></tr></tbody></table></div>
+<p>After you&#8217;ve entered the code and saved the file, upload it to the same location overriding its previous version.</p>
+<p><strong>Note.</strong> You may need to clear the cache in order for the changes to take place.</p>
+]]></content>
+		</entry>
+	</feed>
+
+<!-- Localized -->

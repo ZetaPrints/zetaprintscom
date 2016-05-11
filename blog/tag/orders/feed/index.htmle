@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>orders &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/tag/orders/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Favicon and order cancellations</title>
+		<link>http://www.zetaprints.com/blog/2009/07/21/favicon-and-order-cancellations/</link>
+		<comments>http://www.zetaprints.com/blog/2009/07/21/favicon-and-order-cancellations/#respond</comments>
+		<pubDate>Tue, 21 Jul 2009 11:34:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[branding]]></category>
+		<category><![CDATA[favicon]]></category>
+		<category><![CDATA[orders]]></category>
+		<category><![CDATA[payments]]></category>
+		<category><![CDATA[refunds]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=455</guid>
+		<description><![CDATA[Favicon Don&#8217;t like the cute yellow ZetaPrints logo on every page of your web-to-print portal? No more! Go to BRANDING / Page layout and enter a URL of your own favicon.ico. Sorry, you need some server to put it on first, but at least you have this option now. More in web-to-print help. Order cancellations [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>Favicon</h2>
+<p>Don&#8217;t like the cute yellow ZetaPrints logo on every page of your web-to-print portal? No more!</p>
+<p>Go to BRANDING / Page layout and enter a URL of your own favicon.ico.</p>
+<p>Sorry, you need some server to put it on first, but at least you have this option now.</p>
+<p>More in <a title="favicon for web-to-print" href="../../../../help/favicon-replacement/index.html">web-to-print help</a>.</p>
+<h2>Order cancellations</h2>
+<p>You may have this problem if you are selling consumer web-to-print products &#8211; a web-to-print order was placed and paid for, then canceled, re-ordered and paid again. What a mess!</p>
+<p>Now you can go to BRANDING / Page layout and specify a URL of your cancellation and refund policy. If a user tried to cancel a paid order the system will not cancel the order, but will redirect the user to this page instead. You can go and cancel the order any time.</p>
+<p>You need to create this policy page on your WWW website. There is also a more advanced option to handle refunds automatically, if you want. Read this <a title="web-to-print orders" href="../../../../help/order-cancellation/index.html">web-to-print help post</a> for more info.</p>
+<h2>Cluster reboot</h2>
+<p>We will need to re-boot the entire cluster in a few hours. A few minutes of downtime are possible.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/07/21/favicon-and-order-cancellations/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Designer access to orders</title>
+		<link>http://www.zetaprints.com/blog/2009/07/07/designer-access-to-orders/</link>
+		<comments>http://www.zetaprints.com/blog/2009/07/07/designer-access-to-orders/#respond</comments>
+		<pubDate>Tue, 07 Jul 2009 23:07:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[access control]]></category>
+		<category><![CDATA[designer]]></category>
+		<category><![CDATA[orders]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=442</guid>
+		<description><![CDATA[Access for print production We are making a change to let web-to-print designers access orders, including changing web-to-print order status. A designer with access to a web-to-print catalog on your web-to-print site will be able to see and manage orders for that catalog. It will be kind of a shared designer/production role. Please, check your [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>Access for print production</h2>
+<p>We are making a change to let web-to-print designers access orders, including changing web-to-print order status.</p>
+<p>A designer with access to a web-to-print catalog on your web-to-print site will be able to see and manage orders for that catalog. It will be kind of a shared designer/production role.</p>
+<p>Please, check your catalogs and remove designers if you do not want them to see your orders. You may want to create some test catalogs for them specifically and then copy them into production, if you don&#8217;t want them to see orders, but still want to work with templates.</p>
+<p>This change will come into effect in the next few days.</p>
+<h2>Bug fixes</h2>
+<p>We had a problem with repeating images for some time, but it&#8217;s no more. You can design web-to-print templates and re-use the same image (for effects?) as many times on the same page as you need. Just watch the file size.</p>
+<p>A whole bunch of other bugs was fixed. If you know of any bugs we missed, please, let us know.</p>
+<h2>New web-to-print features</h2>
+<p>We added a few new neat tricks you can do with text fields. Check out this <a title="web-to-print text" href="../../../../help/text-fields-naming-overview/index.html">overview post</a>.</p>
+<h2>Web-to-print widget</h2>
+<p>We are updating out Flash widget. Some new features there and we removed ZETAPRINTS from the screen as it was a little bit too much self-promo. It has a neutral welcome screen now, if any.</p>
+<p>You can see the widget and embedding code if you enable it for a catalog or enable sharing for a template. The widget can show as an embeddable plugin on a page or take the full screen. Give it a try. Make a few viral designs, spread the word and see if it brings you more traffic.</p>
+<p>One of the key factors in YouTube success was embedding. Their rivals did not allow that. You know which strategy won in the end.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/07/07/designer-access-to-orders/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Empty order files</title>
+		<link>http://www.zetaprints.com/blog/2009/02/14/empty-order-files/</link>
+		<comments>http://www.zetaprints.com/blog/2009/02/14/empty-order-files/#respond</comments>
+		<pubDate>Sun, 15 Feb 2009 00:44:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-Print]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[orders]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=328</guid>
+		<description><![CDATA[If you download a web-to-print order as CDR and the file is empty it&#8217;s because the file is in X4 format and you are trying to open it in X3. Your options: Open the file in X4 Buy X4 and open the file in X4 Try to regenerate the order files Send us the link [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If you download a web-to-print order as CDR and the file is empty it&#8217;s because the file is in X4 format and you are trying to open it in X3.</p>
+<p>Your options:</p>
+<ol>
+<li>Open the file in X4</li>
+<li>Buy X4 and open the file in X4</li>
+<li>Try to regenerate the order files</li>
+<li>Send us the link to the order and we&#8217;ll convert it for you</li>
+</ol>
+<p>Only a few orders should be affected, but if you do get one like this, please, send us a link anyway.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/02/14/empty-order-files/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

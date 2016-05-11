@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>file uploading &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/tag/file-uploading/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Image uploading for Magento Web-to-print</title>
+		<link>http://www.zetaprints.com/blog/2010/01/27/image-uploading-for-magento-web-to-print/</link>
+		<comments>http://www.zetaprints.com/blog/2010/01/27/image-uploading-for-magento-web-to-print/#respond</comments>
+		<pubDate>Wed, 27 Jan 2010 23:45:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[file uploading]]></category>
+		<category><![CDATA[magento]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=546</guid>
+		<description><![CDATA[Magento web-to-print update We are actively working on image uploading and image editing for our Magento web-to-print extension. It has not been finished yet, but we are looking for early adopters to help with polishing the feature. Please, download the latest beta and give it a try. Send your questions to web-to-print support at support@zetaprints.com. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>Magento web-to-print update</h2>
+<p>We are actively working on image uploading and image editing for our Magento web-to-print extension. It has not been finished yet, but we are looking for early adopters to help with polishing the feature.</p>
+<p>Please, download the latest beta and give it a try. Send your questions to web-to-print support at <a title="Contact ZetaPrints" href="mailto:support@zetaprints.com" target="_self">support@zetaprints.com</a>.</p>
+<h2>Performance problems</h2>
+<p>The site is running much slower than it used to. We are adding more capacity over the weekend. There is a problem with auto-scaling and we don&#8217;t want to cause any disruption while the ordering is in full swing.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2010/01/27/image-uploading-for-magento-web-to-print/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Web-to-print interface changes</title>
+		<link>http://www.zetaprints.com/blog/2010/01/20/web-to-print-interface-changes/</link>
+		<comments>http://www.zetaprints.com/blog/2010/01/20/web-to-print-interface-changes/#respond</comments>
+		<pubDate>Wed, 20 Jan 2010 11:38:13 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print features]]></category>
+		<category><![CDATA[file uploading]]></category>
+		<category><![CDATA[skins]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=543</guid>
+		<description><![CDATA[Our team is back in full strength (almost) and we&#8217;ll start rolling out some changes you need to know in advance. Asynchronous image uploading Images will be uploaded as soon as they are selected. This will eliminate the problem of the uploads being too large. Users should not notice any difference, only it will be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Our team is back in full strength (almost) and we&#8217;ll start rolling out some changes you need to know in advance.</p>
+<h2>Asynchronous image uploading</h2>
+<p>Images will be uploaded as soon as they are selected. This will eliminate the problem of the uploads being too large. Users should not notice any difference, only it will be faster.</p>
+<p>If you think this will disadvantage your users, please, email us with your concerns. We may be able to leave your store on the old interface for some time.</p>
+<h2>Skin color changes feature will be removed</h2>
+<p>We will be removing the color changing feature for web-to-print store skins. You will need to use CSS to make appearance changes. There will be no change in the skin appearance, but if you are planning to change colors soon we suggest you find someone with CSS knowledge now to help you. Any web designer or web programmer should be able to do it.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2010/01/20/web-to-print-interface-changes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

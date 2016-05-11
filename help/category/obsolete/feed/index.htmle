@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Obsolete &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/category/obsolete/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Color gradients</title>
+		<link>http://www.zetaprints.com/help/vector-conversion-gradients/</link>
+		<pubDate>Sun, 14 Jun 2009 19:38:27 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Obsolete]]></category>
+		<category><![CDATA[gradient]]></category>
+		<category><![CDATA[vector conversion]]></category>
+		<category><![CDATA[web-to-print templates]]></category>
+
+		<guid isPermaLink="false">/help/?p=6506</guid>
+		<description><![CDATA[Conversion of vector designs into CorelDRAW web-to-print templates requires changes to gradients for variable color objects. It does not affect static gradients. Read about a simple workaround using a transparency. Color picker and transparency Although CorelDRAW allows you to apply a transparency effect to a bitmap, the web-to-print system only allows it on static images. [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>One click installer</title>
+		<link>http://www.zetaprints.com/help/one-click-installer/</link>
+		<pubDate>Thu, 17 Apr 2008 02:44:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Obsolete]]></category>
+		<category><![CDATA[Install]]></category>
+		<category><![CDATA[Plug-In]]></category>
+
+		<guid isPermaLink="false">/help/?p=183</guid>
+		<description><![CDATA[The only difficult part of the process of extending WordPress is getting this first plugin installed. Preparations Find the email with access details sent to you by the hosting company. It should have address of the FTP server, your login and password. Open your FTP client (or Internet Explorer or just Windows Explorer) Enter the [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Multiple paragraphs in a paragraph text frame</title>
+		<link>http://www.zetaprints.com/help/multiple-paragraphs-in-a-paragraph-text-frame/</link>
+		<comments>http://www.zetaprints.com/help/multiple-paragraphs-in-a-paragraph-text-frame/#comments</comments>
+		<pubDate>Mon, 04 Jun 2007 23:43:39 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Obsolete]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Auto font resizing]]></category>
+		<category><![CDATA[Fit text]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Text fields]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/text-fields/%post-name%/</guid>
+		<description><![CDATA[You can have multiple paragraphs in a paragraph text frame. The paragraphs can be formatted as bullet points, drop cap, columns, etc. The system will try to match user input paragraph by paragraph. E.g. if the first paragraph has a drop cap and all the others are bullet points, the system will match the first [&#8230;]]]></description>
+		<wfw:commentRss>http://www.zetaprints.com/help/multiple-paragraphs-in-a-paragraph-text-frame/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>PowerClip</title>
+		<link>http://www.zetaprints.com/help/powerclip/</link>
+		<pubDate>Mon, 04 Jun 2007 23:41:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Obsolete]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Crop]]></category>
+		<category><![CDATA[Image fields]]></category>
+		<category><![CDATA[Image tricks]]></category>
+		<category><![CDATA[Template preparation]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/template-preparation/%post-name%/</guid>
+		<description><![CDATA[This section applies only to PowerClips with variable fields for user input. Learn how to place user images in a PowerClip. PowerClips with variable text or images should not be grouped. A text field can be a container for a power clip. An image placeholder can be inside a power clip. The contents of the [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Multiple fields in one text frame</title>
+		<link>http://www.zetaprints.com/help/multiple-fields-in-one-text-frame/</link>
+		<comments>http://www.zetaprints.com/help/multiple-fields-in-one-text-frame/#comments</comments>
+		<pubDate>Mon, 04 Jun 2007 09:54:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Obsolete]]></category>
+		<category><![CDATA[Alignment]]></category>
+		<category><![CDATA[Input fields]]></category>
+		<category><![CDATA[Optional fields]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Text fields]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/template-preparation/%post-name%/</guid>
+		<description><![CDATA[You may need to group a few lines of text for vertical/horizontal alignment and shift. E.g. if no phone number is provided by the user, the ph prefix won&#8217;t show and the lines below it will shift up. Watch a Flash demonstration on this topic In this example, fields are bound by {curly brackets} and [&#8230;]]]></description>
+		<wfw:commentRss>http://www.zetaprints.com/help/multiple-fields-in-one-text-frame/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Grouping fields</title>
+		<link>http://www.zetaprints.com/help/grouping-fields/</link>
+		<pubDate>Mon, 04 Jun 2007 09:52:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Obsolete]]></category>
+		<category><![CDATA[Image fields]]></category>
+		<category><![CDATA[Object dependence]]></category>
+		<category><![CDATA[Optional fields]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Text fields]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/template-preparation/%post-name%/</guid>
+		<description><![CDATA[Sometimes you need to display one object only if the other one is present. For example a caption under an image should appear only if the image is present. Use object grouping for this. The entire group of objects that contains replaceable texts or images will be removed if the user provides no input for [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>User uploaded images</title>
+		<link>http://www.zetaprints.com/help/user-uploaded-images/</link>
+		<pubDate>Mon, 04 Jun 2007 09:49:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Obsolete]]></category>
+		<category><![CDATA[Crop image]]></category>
+		<category><![CDATA[Image alignment]]></category>
+		<category><![CDATA[Image fields]]></category>
+		<category><![CDATA[Template preparation]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/template-preparation/%post-name%/</guid>
+		<description><![CDATA[Learn how to prepare a template that can accept user images. Watch a Flash demonstration on this topic Select the placeholder image on the page. Type in the field name in Object Data Manager in the same way as for a text frame. The user will be offered to upload an image to replace the [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Text fields for user input</title>
+		<link>http://www.zetaprints.com/help/text-fields-for-user-input/</link>
+		<pubDate>Mon, 04 Jun 2007 09:45:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Obsolete]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Field names]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Text fields]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/template-preparation/%post-name%/</guid>
+		<description><![CDATA[Learn how to replace content of text frames with content from user input. Select the text frame you want to mark as a field. Type the name of the field in Object Data pane as Value for Name. You can use any alpha-numeric characters, except for semi-colon (;). The field name will appear on the [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

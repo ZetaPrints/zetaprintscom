@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Accounts &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/accounts/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Printer access</title>
+		<link>http://www.zetaprints.com/help/printer-access/</link>
+		<pubDate>Sun, 19 Oct 2008 10:49:54 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Accounts]]></category>
+		<category><![CDATA[User management]]></category>
+
+		<guid isPermaLink="false">/help/?p=1665</guid>
+		<description><![CDATA[Web to print printer account is the topmost in the access hierarchy. The printer has full control over the set up of the web-to-print software. Printers can create, modify and delete catalogs, templates, users, orders, files, etc. A user cannot be physically deleted from the system, but the printer can revoke access to catalogs. Printers [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Anonymous orders</title>
+		<link>http://www.zetaprints.com/help/anonymous-orders/</link>
+		<pubDate>Mon, 07 Apr 2008 07:19:24 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Order management]]></category>
+		<category><![CDATA[Accounts]]></category>
+		<category><![CDATA[User management]]></category>
+		<category><![CDATA[web-to-print]]></category>
+		<category><![CDATA[zetaprints]]></category>
+
+		<guid isPermaLink="false">/help/?p=169</guid>
+		<description><![CDATA[Web-to-print orders placed by unregistered users go under user IDs and the real identity of the user may never be known. There are 2 ways to claim these orders. Claimed by users Unregistered user can register after placing an order. All anonymous web-to-print orders by that user will be transfered to the newly created web-to-print [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Adding new users</title>
+		<link>http://www.zetaprints.com/help/adding-new-users/</link>
+		<comments>http://www.zetaprints.com/help/adding-new-users/#comments</comments>
+		<pubDate>Sat, 23 Jun 2007 23:39:42 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[Accounts]]></category>
+		<category><![CDATA[Catalogs]]></category>
+		<category><![CDATA[Printer]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/adding-new-users/</guid>
+		<description><![CDATA[This article explains how to add new users to a catalogue. Watch a Flash demonstration on this topic Who can manage users User management is available only under Printer and Business accounts. Designers and Users cannot manager users, except for a user nominated as an Office Manager. Adding new users Enter email addresses separated by [&#8230;]]]></description>
+		<wfw:commentRss>http://www.zetaprints.com/help/adding-new-users/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Email communications</title>
+		<link>http://www.zetaprints.com/help/email-communications/</link>
+		<pubDate>Mon, 04 Jun 2007 07:50:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[Accounts]]></category>
+		<category><![CDATA[Info]]></category>
+		<category><![CDATA[Notifications]]></category>
+		<category><![CDATA[Order generation]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/emails/%post-name%/</guid>
+		<description><![CDATA[ZetaPrints communicates with its users via email, but only in certain circumstances. We do not send any newsletters, promotions, etc. Email communications are used strictly for the purpose of using ZetaPrints system. All emails are sent in plain text format for better compatibility. Initial registration A confirmation email is dispatched during registration. The email is [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>User access control</title>
+		<link>http://www.zetaprints.com/help/user-access-control/</link>
+		<pubDate>Mon, 04 Jun 2007 07:39:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Accounts]]></category>
+		<category><![CDATA[Catalogs]]></category>
+		<category><![CDATA[User management]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/accounts/%post-name%/</guid>
+		<description><![CDATA[Learn how to give access to catalogues for different usage scenarios. Watch a Flash demo on the topic. You can mix and match these options: Corporate-wide access Anyone with a corporate email address can self-register. It is a safe and convenient option for large number of users. The main benefit is that you don’t need [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Roles and access control</title>
+		<link>http://www.zetaprints.com/help/roles-and-access-control/</link>
+		<pubDate>Mon, 04 Jun 2007 07:37:21 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Accounts]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/accounts/%post-name%/</guid>
+		<description><![CDATA[ZetaPrints has 3 main types of accounts: Printer, Designer and User. Printer A company or an individual who provides or manages printing services to others. Suitable for commercial printers, print brokers, publications, advertising agents, businesses with in-house printing. More &#8230; Designer A company or an individual who provides design services to printers or uploads templates [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

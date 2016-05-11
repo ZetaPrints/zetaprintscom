@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>piracy &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/tag/piracy/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Want more web-to-print traffic?</title>
+		<link>http://www.zetaprints.com/blog/2009/11/02/want-more-web-to-print-traffic/</link>
+		<comments>http://www.zetaprints.com/blog/2009/11/02/want-more-web-to-print-traffic/#respond</comments>
+		<pubDate>Tue, 03 Nov 2009 02:23:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[copyright]]></category>
+		<category><![CDATA[creative commons]]></category>
+		<category><![CDATA[licensing]]></category>
+		<category><![CDATA[piracy]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=511</guid>
+		<description><![CDATA[We introduced some changes to help search engines discover visual contents of your web-to-print portal.  It only applies to public catalogs. Password-protected web-to-print catalogs are not visible to search engines. Go to Edit template details page or use bulk edit page to make changes. Share tab displays your current copyright regime. Creative Commons It is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We introduced some changes to help search engines discover visual contents of your web-to-print portal.  It only applies to public catalogs. Password-protected web-to-print catalogs are not visible to search engines.</p>
+<p>Go to <em>Edit template details</em> page or use <em>bulk edit page</em> to make changes. <em>Share </em>tab displays your current copyright regime.</p>
+<h2>Creative Commons</h2>
+<p>It is all about being found. Search engines love content. They love liberally copyrighted content even more. Now you can specify a <a title="open licensing" href="http://creativecommons.org/">Creative Commons</a> license for your web-to0-print templates. The default is <em>All rights reserved</em>, so you don&#8217;t need to worry about your content being re-licensed by us on your behalf.</p>
+<h2>Image search</h2>
+<p>Without giving away too much, try this simple demonstration.</p>
+<p>Go to <em>Google image search</em> and search for &#8230; business cards or invitations. Note how many results Google says it found. Millions? Hundreds of millions?</p>
+<p>Go to <em>Advanced search</em> and filter by &#8220;usage rights&#8221;. E.g. <em>labeled for re-use</em>. How many images did it find? Hundreds. A few thousands, perhaps.</p>
+<p>You can be there, on that image search page filtered by license type if you specify a Creative Commons license for your web-to-print template. Use Bulk template editing page to change licensing to your existing templates. It will take time for search engines to discover the change, but the sooner you do it the more ahead you are from the competition.</p>
+<h2>Collect new incoming links</h2>
+<p>&#8220;<em>Attribution</em>&#8221; is at the core of <a title="Licenses explained" href="http://creativecommons.org/about/licenses/">Creative Commons licensing</a>. Anyone re-using your artwork or showing it on their pages must link to the original or at least attribute it to you in some other explicit way. Hopefully, it will give you more incoming links and new sources of traffic.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/11/02/want-more-web-to-print-traffic/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

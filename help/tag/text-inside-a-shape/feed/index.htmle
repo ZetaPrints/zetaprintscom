@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Text inside a shape &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/text-inside-a-shape/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Auto text wrapping inside a shape</title>
+		<link>http://www.zetaprints.com/help/auto-text-wrapping-inside-a-shape/</link>
+		<comments>http://www.zetaprints.com/help/auto-text-wrapping-inside-a-shape/#comments</comments>
+		<pubDate>Thu, 09 Oct 2008 05:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Text inside a shape]]></category>
+		<category><![CDATA[Text Wrapping]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=1085</guid>
+		<description><![CDATA[Shapes can be used as Paragraph text frames. Here are some tips and tricks on how to place texts inside objects and make them inherit the shape of that object. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size as the paper [&#8230;]]]></description>
+		<wfw:commentRss>http://www.zetaprints.com/help/auto-text-wrapping-inside-a-shape/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>magento extension &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/magento-extension/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Magento web-to-print translations</title>
+		<link>http://www.zetaprints.com/help/magento-web-to-print-localization/</link>
+		<pubDate>Tue, 16 Mar 2010 09:42:33 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Magento]]></category>
+		<category><![CDATA[Customization]]></category>
+		<category><![CDATA[magento extension]]></category>
+		<category><![CDATA[Translate]]></category>
+		<category><![CDATA[Translation]]></category>
+
+		<guid isPermaLink="false">/help/?p=9099</guid>
+		<description><![CDATA[You can customize your web-to-print Magento store with additional language options. Users will be able to choose the language they prefer from a list of translations you provide. This post explains how to create a localized version of our web-to-print Magento store and give customers the option of viewing it in their own language (ex. [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Magento access control</title>
+		<link>http://www.zetaprints.com/help/magento-access-control-for-dynamic-imaging/</link>
+		<pubDate>Tue, 02 Feb 2010 15:51:20 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Magento]]></category>
+		<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[magento extension]]></category>
+
+		<guid isPermaLink="false">/help/?p=8883</guid>
+		<description><![CDATA[Magento is an open source e-commerce platform platform. We developed an open source extension for Magento access control to complement our web-to-print extension that allows you to incorporate your web-to-print and dynamic imaging templates in your Magento store. The access control extension comes in handy when you want to hide certain products (templates) from the [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

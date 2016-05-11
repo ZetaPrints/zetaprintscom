@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Business cards &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/business-cards/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Business cards</title>
+		<link>http://www.zetaprints.com/help/business-cards-guide/</link>
+		<pubDate>Mon, 01 Sep 2008 20:09:10 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[Business cards]]></category>
+		<category><![CDATA[Miscelaneous]]></category>
+		<category><![CDATA[Template preparation]]></category>
+
+		<guid isPermaLink="false">/help/?p=407</guid>
+		<description><![CDATA[An effective business card is a card that looks great, feels great and clearly defines what its owner&#8217;s business does so that is easily remembered by the person to whom is given. View more business card examples at: 18 smokin’ hot business card designs at freelanceswitch.com A collection of 70 various cool business cards at [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

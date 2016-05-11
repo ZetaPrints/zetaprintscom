@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Packages &#8211; Web-to-Print &amp; Dynamic Imaging</title>
+	<atom:link href="http://www.zetaprints.com/category/packages/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Feb 2016 23:12:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Enterprise package</title>
+		<link>http://www.zetaprints.com/packages/enterprise-web-to-print</link>
+		<pubDate>Tue, 24 Jan 2012 22:52:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Packages]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/?p=3113</guid>
+		<description><![CDATA[Can you gamble the success of your business on something you cannot control?
+We offer security of su...]]></description>
+				<content:encoded><![CDATA[<h3>Can you gamble the success of your business on something you cannot control?</h3>
+<p>We offer security of supply and fixed cost model with standalone web-to-print and dynamic imaging deployments for enterprise level customers. This means that you can run a copy of our software on your own servers with full access to the source code and our support.<span id="more-3113"></span></p>
+<h2 class="tab">Overview</h2>
+<p>Our web-to-print and dynamic imaging software is deployed as a <a title="Core web-to-print package" href="../../../packages/hosted-by-us/index.html">core</a> package and you can run any number of <a title="E-Commerce web-to-print package" href="../../../packages/hosted-by-you/index.html">e-commerce</a> or shopping cart websites on top of it.</p>
+<p style="text-align: center;"><img class="aligncenter" title="Enterprise web-to-print package" src="../../../wp-content/uploads/2010/07/enterprise_package.png" alt="Enterprise web-to-print package" width="500" height="313" /></p>
+<h3>Security of supply</h3>
+<p>Having the hardware and software running on your own servers gives you that important security of supply regardless of what happens to our business tomorrow.</p>
+<h3>Full support</h3>
+<p>Although the software will be running on your own servers it can still be fully managed by us at a fixed cost and totally transparent to you as if it was a SaaS package.</p>
+<h3>Demo</h3>
+<p>Since this package is simply a copy of the ZetaPrints engine running on your own servers, there&#8217;s no difference regarding web-to-print and dynamic imaging <a title="Web-to-print features" href="../../../web-to-print-software/features-2/index.html">features</a> or performance. Try our live <a title="Web-to-print and dynamic imaging demo sites" href="../../../web-to-print-demo-sites/index.html">demo web-to-print and dynamic imaging sites</a> for first hand experience.</p>
+<h3>Learn more</h3>
+<p><a title="Let's talk" href="mailto:support@zetaprints.com">Tell us</a> a little bit about your project and we&#8217;ll put together a proposal for you.</p>
+<h2 class="tab">Cost</h2>
+<p><img class="aligncenter size-full wp-image-3140" title="Enterprise web-to-print package" src="../../../wp-content/uploads/2012/01/enterprise_package_cost_overview.png" alt="Enterprise web-to-print package" width="650" height="381" /></p>
+<h3>Reduced cost</h3>
+<p>Our <a title="web-to-print pricing" href="../../../web-to-print-and-dynamic-imaging-pricing/index.html">SaaS pricing</a> is based on a pay-per-order model. It is cost effective up to a certain number of orders.</p>
+<p>Enterprise customers with large order volumes can lower the cost by running their own deployments of ZetaPrints software and pay a fixed monthly support fee without any transactional charges. It becomes economically viable from several thousand orders a month and requires an initial investment in the infrastructure.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Sign up</title>
+		<link>http://www.zetaprints.com/packages/sign-up-for-web-to-print</link>
+		<pubDate>Wed, 20 Oct 2010 15:00:33 +0000</pubDate>
+		<dc:creator><![CDATA[jurozeta]]></dc:creator>
+				<category><![CDATA[Packages]]></category>
+
+		<guid isPermaLink="false">/?p=2778</guid>
+		<description><![CDATA[Choose the type of web-to-print or dynamic imaging package. Signing up is free. No strings attached....]]></description>
+				<content:encoded><![CDATA[<p>Choose the type of web-to-print or dynamic imaging package. Signing up is <a title="web-to-print pricing" href="../../../web-to-print-and-dynamic-imaging-pricing/index.html">free</a>. No strings attached.<span id="more-2778"></span></p>
+<h2 class="tab">Core package</h2>
+<p>This is the <a title="Core web-to-print package" href="../../../packages/hosted-by-us/index.html">base package</a> that gives you a <a title="hosted web-to-print" href="../../../packages/hosted-by-us/index.html">fully hosted web-to-print site</a>. Minimal effort required in setting up and you can be taking orders in minutes.</p>
+<table class="pack_sign_up_tbl">
+<tbody>
+<tr>
+<td style="background-image: url('../../../_img/sign_up_tables/sign_up.png');"><a title="Sign up a master account" href="http://zetaprints.com/?page=printer-new;" target="_blank">Sign up</a></td>
+<td style="background-image: url('../../../_img/sign_up_tables/upload_template.png');"><a title="Web-to-print help: Upload your first template" href="../../../help/upload-your-first-template/index.html" target="_self">Upload templates</a></td>
+</tr>
+<tr>
+<td style="background-image: url('../../../_img/sign_up_tables/subdomain.png');"><a title="Web-to-print help: Set up a custom domain name" href="../../../help/domain-name-set-up/index.html" target="_self">Configure subdomain</a></td>
+<td style="background-image: url('../../../_img/sign_up_tables/orders.png');">Start taking <a title="Web-to-print help: Order management" href="../../../help/category/order-management/index.html" target="_self">orders</a></td>
+</tr>
+</tbody>
+</table>
+<p class="tab">Find detailed instructions, guides and manuals in our <a title="Web-to-print and dynamic imaging help" href="../../../help/index.html">Help</a> section. You may be interested in <a title="web-to-print branding" href="../../../help/category/branding/index.html">branding</a>, <a title="web-to-print trial" href="../../../help/trail-use/index.html">trial use</a> and configuring a <a title="web-to-print subdomain" href="../../../help/domain-name-set-up/index.html">domain name</a> for your new web-to-print portal.</p>
+<p style="text-align: center;"><a style="font-weight: bold;" title="Web-to-print terms and conditions" href="../../../web-to-print-legal/summary-of-terms-and-conditions/index.html" target="_blank"> I ACCEPT THE TERMS AND CONDITIONS</a></p>
+<p style="text-align: center;"><a href="http://zetaprints.com/?page=printer-new;"><img class="aligncenter" title="Sign Up a master account" src="../../../wp-content/themes/zetaprints/_img/bt-signup.gif" alt="" width="134" height="29" /></a></p>
+<h2 class="tab">E-Commerce package</h2>
+<p>This <a title="E-Commerce web-to-print and dynamic imaging package" href="../../../packages/hosted-by-you/index.html">package</a> requires <a title="web-to-print integration" href="../../../packages/api-and-integration/index.html">integration </a>between your existing website and our <a title="web-to-print api" href="../../../help/category/api/index.html">web-to-print and dynamic imaging API</a>. An alternative is to use an open source e-commerce system with <a title="magento web-to-print" href="../../magento-web-to-print/index.html">built-in web-to-print and dynamic imaging</a>.</p>
+<table class="pack_sign_up_tbl">
+<tbody>
+<tr>
+<td style="background-image: url('../../../_img/sign_up_tables/sign_up.png');"><a title="Sign up a master account" href="http://zetaprints.com/?page=printer-new;" target="_blank">Sign up</a></td>
+<td style="background-image: url('../../../_img/sign_up_tables/api_documentation.png');"><a title="Web-to-print API and integration" href="../../../packages/api-and-integration/index.html" target="_self">Review API documentation</a></td>
+</tr>
+<tr>
+<td style="background-image: url('../../../_img/sign_up_tables/subdomain.png');"><a title="Web-to-print help: Set up a custom domain name" href="../../../help/domain-name-set-up/index.html" target="_self">Configure subdomain</a></td>
+<td style="background-image: url('../../../_img/sign_up_tables/magento.png');">Review <a title="Magento web-to-print Demo store" href="../../../magento/index.html" target="_blank">sample implementation</a></td>
+</tr>
+<tr>
+<td style="background-image: url('../../../_img/sign_up_tables/api_key.png');"><a title="Web-to-print help: How to get API key" href="../../../help/how-to-get-api-key/index.html" target="_self">Get API key</a></td>
+<td style="background-image: url('../../../_img/sign_up_tables/contact.png');"><a title="Contact us" href="../../../about-us/contact-us/index.html" target="_self">Tell us</a> about your project</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><a style="font-weight: bold;" title="Web-to-print terms and conditions" href="../../../web-to-print-legal/summary-of-terms-and-conditions/index.html" target="_blank"> I ACCEPT THE TERMS AND CONDITIONS</a></p>
+<p style="text-align: center;"><a href="http://zetaprints.com/?page=printer-new;"><img class="aligncenter" title="Sign Up a master account" src="../../../wp-content/themes/zetaprints/_img/bt-signup.gif" alt="" width="134" height="29" /></a></p>
+<h2 class="tab">Enterprise package</h2>
+<p><a title="Web-to-print and dynamic imaging for enterprise level customers" href="../../../packages/enterprise-web-to-print/index.html">Enterprise web-to-print package</a> is like a small copy of ZetaPrints running on your own servers. <a title="Contact ZetaPrints" href="mailto:support@zetaprints.com">Contact us</a> to discuss your installation and support options.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Open source web-to-print</title>
+		<link>http://www.zetaprints.com/packages/open-source-web-to-print-2</link>
+		<pubDate>Fri, 27 Aug 2010 04:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Packages]]></category>
+
+		<guid isPermaLink="false">/?p=2229</guid>
+		<description><![CDATA[Open source integration
+We have a number of active open source projects using our web-to-print and d...]]></description>
+				<content:encoded><![CDATA[<h2>Open source integration</h2>
+<p>We have a number of active open source projects using our <a title="Web-to-print software" href="../../web-to-print-software/index.html" target="_self">web-to-print</a> and <a title="About dynamic imaging" href="../../dynamic-imaging/index.html" target="_self">dynamic imaging</a> <a title="Web-to-print and dynamic imaging API" href="../../../help/category/api/index.html" target="_self">API</a>. They can be used on their own or as part of your <a title="Web-to-print API and integration" href="../../../packages/api-and-integration/index.html" target="_self">integration</a> project. The licensing of the code is very liberal and does not require open-sourcing of your commercial implementation.<span id="more-2229"></span></p>
+<h2>Magento</h2>
+<p><a title="Magento web-to-print" href="../../category/magento-web-to-print/index.html" target="_self">Magento</a> is an open source E-Commerce platform. We have several extensions that turn this generic E-Commerce platform into a store with advanced web-to-print and dynamic imaging <a title="Magento web-to-print extension features" href="../../../magento-web-to-print/features/index.html" target="_self">functionality</a>.</p>
+<ul class="positive_list">
+<li><a title="Magento web-to-print extension" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">Web-to-print extension</a></li>
+<li><a title="Magento category access control extension" href="https://www.magentocommerce.com/magento-connect/category-access-control.html" target="_self">Access control extension</a></li>
+<li><a title="Magento Order approval extension" href="https://www.magentocommerce.com/magento-connect/order-approval.html" target="_self">Order approval extension</a></li>
+<li><a title="Magento fixed quantities extension" href="http://www.magentocommerce.com/magento-connect/fixed-quantity.html">Fixed quantities extension</a></li>
+<li><a title="ZetaPrints extensions on Magentocommerce" href="https://www.magentocommerce.com/magento-connect/developer/ZetaPrints">More &#8230;</a></li>
+</ul>
+<h2>PayPal</h2>
+<p>We created an open source <a title="Web-to-print PayPal Pro gateway for WordPress" href="../../../help/paypal-pro-gateway-for-wordpress/index.html" target="_self">PayPal payments gateway</a> to expand the payments functionality provided with our <a title="Corporate web-to-print and dynamic imaging package" href="../../../packages/hosted-by-us/index.html">corporate package</a> interface. It comes as a free WordPress plugin, but can be modified to fit other platforms.</p>
+<p><a title="PayPal gateway project home" href="http://code.google.com/p/paypal-pro-wordpress-gateway/" target="_self">About</a> | <a title="PayPal gateway source code" href="http://code.google.com/p/paypal-pro-wordpress-gateway/source/browse/" target="_self">Source code</a> | <a title="PayPal gateway project development" href="http://code.google.com/p/paypal-pro-wordpress-gateway/issues/list" target="_self">Issues &amp; development</a></p>
+<h2>E-cards</h2>
+<p>Our fun dynamic imaging <a title="eCards plugin for WordPress" href="../../../dynamic-imaging/dynamic-imaging-widget/index.html" target="_self">plugin for WordPress</a> sends e-cards directly from a WordPress page. It can be used as a viral or promotional tool to drive traffic to your main site. More <a title="ZetaPrints Plugins for WordPress" href="http://profiles.wordpress.org/users/zetaprints/">WP plug-ins by ZetaPrints</a> &#8230;</p>
+<p><a title="eCards plugin project home" href="http://code.google.com/p/e-cards-plugin/" target="_self">About</a> | <a title="eCards plugin source code" href="http://code.google.com/p/e-cards-plugin/source/browse/" target="_self">Source code</a> | <a title="eCards plugin project development" href="http://code.google.com/p/e-cards-plugin/issues/list" target="_self">Issues &amp; development</a></p>
+<h2>Dynamic imaging Flash plugin</h2>
+<p>Our simple open source <a title="Dynamic imaging widget" href="../../../help/tools/image-generation-plugin/index.html" target="_self"> Flash plugin</a> can be used to front an image personalization application. It can also be embedded into a web page.</p>
+<p><a title="Dynamic imaging flash plugin project home" href="http://code.google.com/p/e-cards-plugin/" target="_self">About</a> | <a title="Dynamic imaging plugin source code" href="http://code.google.com/p/e-cards-plugin/source/browse/" target="_self">Source code</a> | <a title="Dynamic imaging plugin project development" href="http://code.google.com/p/e-cards-plugin/issues/list" target="_self">Issues &amp; development</a></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>API and integration</title>
+		<link>http://www.zetaprints.com/packages/api-and-integration</link>
+		<pubDate>Tue, 27 Jul 2010 23:11:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Packages]]></category>
+
+		<guid isPermaLink="false">/?p=1928</guid>
+		<description><![CDATA[ZetaPrints is an open web-to-print and dynamic imaging platform ready to be connected to other syste...]]></description>
+				<content:encoded><![CDATA[<p>ZetaPrints is an open <a title="Web-to-print software" href="../../web-to-print-software/index.html" target="_self">web-to-print</a> and <a title="About dynamic imaging" href="../../dynamic-imaging/index.html" target="_self">dynamic imaging</a> platform ready to be connected to other systems at different levels. Some parts of our system can be used via API, while some parts are open source.<span id="more-1928"></span></p>
+<h2>API at a glance</h2>
+<p>Our web-to-print and dynamic imaging <a title="Web-to-print and dynamic imaging API" href="../../../help/category/api/index.html" target="_self">API</a> allows you to plug our functionality into your existing website at different levels. Most likely you will want to use our scalable imaging platform for preview and PDF generation, similar to our <a title="Magento web-to-print extension" href="../../../magentohelp/magento/index.html" target="_self">web-to-print extension for Magento</a>.</p>
+<h3>Users</h3>
+<p>We cache user texts, images, previews, while you keep all the other user details in your system. A <a title="Web-to-print user registration API" href="../../../help/user-registration-api/index.html" target="_self">user</a> is created on your request via an API call.</p>
+<h3>Templates</h3>
+<p><a title="Web-to-print and dynamic imaging template creation" href="../../../help/template-creation/index.html" target="_self">Templates</a> are <a title="Upload your first template" href="../../../help/upload-your-first-template/index.html" target="_self">uploaded</a> and <a title="Web-to-print template management" href="../../../help/category/template-management/index.html" target="_self">managed</a> on ZetaPrints by your <a title="Web-to-print designers" href="../../designers/index.html" target="_self">designers</a>. They are used by our web-to-print and dynamic imaging system to <a title="Web-to-print API output file generation" href="../../../help/orders-api-generate-output-files/index.html" target="_self">generate</a> previews and PDF files.</p>
+<h3>User images</h3>
+<p><a title="Web-to-print API image library" href="../../../help/web-to-print-image-library-api/index.html" target="_self">User images</a> are stored in our storage for use in templates. They can be <a title="Web-to-print image editing API" href="../../../help/image-editing-api/index.html" target="_self">edited</a> by users via API using your own code or our open source editors directly on your site.</p>
+<h3>Orders</h3>
+<p>Orders are created at the end of the process via API. They can be <a title="Web-to-print orders API" href="../../../help/orders-api/index.html" target="_self">managed</a> via API or manually in your <a title="ZetaPrints web-to-print portal" href="http://zetaprints.com/" target="_self">ZetaPrints portal</a>.</p>
+<h2>Open source integration</h2>
+<p>We have a number of active open source projects using our web-to-print and dynamic imaging API. They can be used on their own or as part of your integration project. The licensing of the code is very liberal and does not require open-sourcing of your commercial implementation.</p>
+<ul class="positive_list">
+<li><a title="Magento web-to-print" href="../../magento-web-to-print/index.html" target="_self">Magento</a></li>
+<li><a title="Web-to-print PayPal Pro gateway for WordPress" href="../../../help/paypal-pro-gateway-for-wordpress/index.html" target="_self">PayPal</a></li>
+<li><a title="eCards plugin for WordPress" href="../../../dynamic-imaging/dynamic-imaging-widget/index.html" target="_self">WordPress e-cards</a></li>
+<li><a title="Dynamic imaging widget" href="../../../help/tools/image-generation-plugin/index.html" target="_self">Universal Flash plugin</a></li>
+</ul>
+<h2>Integration support</h2>
+<p>Every integration project is a bit special. <a title="Contact us" href="../../../about-us/contact-us/index.html" target="_self">Talk to us</a> about your plans and requirements.</p>
+<p>Our <a title="Magento web-to-print partners" href="../../../magento-web-to-print/magento-partners/index.html" target="_self">partners</a> will be happy to assist you with any software design and development work you require.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Help me choose</title>
+		<link>http://www.zetaprints.com/packages/help-me-choose</link>
+		<pubDate>Tue, 27 Jul 2010 02:53:29 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Packages]]></category>
+
+		<guid isPermaLink="false">/?p=1918</guid>
+		<description><![CDATA[ZetaPrins offers 2 SaaS web-to-print and dynamic imaging packages plus direct API access for custom ...]]></description>
+				<content:encoded><![CDATA[<p>ZetaPrins offers 2 SaaS <a title="Web-to-print software" href="../../web-to-print-software/index.html" target="_self">web-to-print</a> and <a title="About dynamic imaging" href="../../dynamic-imaging/index.html" target="_self">dynamic imaging</a> packages plus direct <a title="Web-to-print and dynamic imaging API" href="../../../help/category/api/index.html" target="_self">API access</a> for custom integration. Choosing the right one should not be difficult at all if you know what it is you want to get in the end. In other words, formulate your requirements first and then match them against our capabilities.<span id="more-1918"></span></p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr style="text-align: center;">
+<td width="33%">
+<h3><strong>Feature</strong></h3>
+</td>
+<td width="33%">
+<h3><strong><a title="Core web-to-print and dynamic imaging package" href="../../../packages/hosted-by-us/index.html">Core package</a><br />
+</strong></h3>
+</td>
+<td width="33%">
+<h3><strong><a title="E-Commerce web-to-print and dynamic imaging package" href="../../../packages/hosted-by-you/index.html">E-Commerce package</a><br />
+</strong></h3>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td><strong>Administration</strong></td>
+<td>Easy</td>
+<td>Demanding</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Custom user interface</strong></td>
+<td style="text-align: center;">CSS + JS</td>
+<td style="text-align: center;">Full control</td>
+</tr>
+<tr style="text-align: center;">
+<td><strong>Workflow</strong></td>
+<td>Default process</td>
+<td>Custom process</td>
+</tr>
+<tr style="text-align: center;">
+<td><strong>Setting up cost</strong></td>
+<td>none</td>
+<td>Cost of hosting + set up</td>
+</tr>
+<tr style="text-align: center;">
+<td><strong>Ongoing costs</strong></td>
+<td>Pay per order</td>
+<td>Pay per order + hosting + maintenance</td>
+</tr>
+<tr style="text-align: center;">
+<td><strong>Technical expertise</strong></td>
+<td>Minimal</td>
+<td>Programming + sysadmin</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Corporate ordering portal</strong></td>
+<td class="check_icon_feat"></td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Consumer type shop</strong></td>
+<td class="del_icon_feat"></td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Specialized portals</strong></td>
+<td class="del_icon_feat"></td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Small ordering portals</strong></td>
+<td class="check_icon_feat"></td>
+<td class="del_icon_feat"></td>
+</tr>
+<tr style="text-align: center;">
+<td><strong>ZetaPrints features</strong></td>
+<td>all</td>
+<td>most + e-commerce</td>
+</tr>
+<tr style="text-align: center;">
+<td><strong>User details location</strong></td>
+<td>ZetaPrints</td>
+<td>Your site</td>
+</tr>
+<tr style="text-align: center;">
+<td><strong>Templates location</strong></td>
+<td>ZetaPrints</td>
+<td>ZetaPrints</td>
+</tr>
+<tr style="text-align: center;">
+<td><strong>Order details location</strong></td>
+<td>ZetaPrints</td>
+<td>Your site</td>
+</tr>
+</tbody>
+</table>
+<h2>Enterprise web-to-print and dynamic imaging options</h2>
+<p>Enterprise customers with high volume of web-to-print and dynamic imaging orders can use our <a title="Web-to-print and dynamic imaging for enterprise level customers" href="../../../packages/enterprise-web-to-print/index.html">enterprise package</a> with <strong>standalone deployment</strong>. This package is designed to meet specific requirements outside of what the standard SaaS model provides.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>E-Commerce package</title>
+		<link>http://www.zetaprints.com/packages/hosted-by-you</link>
+		<pubDate>Mon, 26 Jul 2010 03:35:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Packages]]></category>
+
+		<guid isPermaLink="false">/?p=1909</guid>
+		<description><![CDATA[Our E-Commerce web-to-print and dynamic imaging package allows you to combine the power of our back-...]]></description>
+				<content:encoded><![CDATA[<p>Our E-Commerce <a title="Web-to-print software" href="../../web-to-print-software/index.html" target="_self">web-to-print</a> and <a title="About dynamic imaging" href="../../dynamic-imaging/index.html" target="_self">dynamic imaging</a> package allows you to combine the power of our back-end web-to-print engine with the fancy features of the <a title="Magento with web-to-print" href="../../magento-web-to-print/index.html">Magento</a> e-commerce platform.<span id="more-1909"></span></p>
+<div class="floating_img_l">
+<p><img class="aligncenter" title="hosted_by_you" src="../../../wp-content/uploads/2010/07/hosted_by_you.png" alt="" width="397" height="254" /></p>
+<h3>Package at a glance</h3>
+<ul class="host_list">
+<li>Ease of administration: demanding</li>
+<li>Time to launch: hours to days to weeks</li>
+<li>Customization: unlimited <a title="Magento storefront customization" href="../../../magento-web-to-print/magento-storefront-customization/index.html" target="_self"><img class="alignnone" src="../../../help/img/external_link_icon_on.png" alt="" width="10" height="10" /></a></li>
+<li>Features: most of ZP + e-commerce <a title="Web-to-print features" href="../../../printers/web-to-print-features/index.html" target="_self"><img class="alignnone" src="../../../help/img/external_link_icon_on.png" alt="" width="10" height="10" /></a></li>
+<li>Total cost: pay per order + hosting <a title="Hosting package pricing" href="../../../about-web-to-print-software/total-cost-of-ownership/index.html" target="_self"><img class="alignnone" src="../../../help/img/external_link_icon_on.png" alt="" width="10" height="10" /></a></li>
+<li>Technical expertise: professional <a title="Get professional help" href="../../../magento-web-to-print/magento-partners/index.html" target="_self"><img class="alignnone" src="../../../help/img/external_link_icon_on.png" alt="" width="10" height="10" /></a></li>
+</ul>
+</div>
+<h3>Recommended for:</h3>
+<ul class="positive_list">
+<li>Public online shops</li>
+<li>Specific or highly customized websites</li>
+<li>Large portals</li>
+<li>online shops where only some products are customizable</li>
+</ul>
+<p>Unlike the <a title="Core web-to-print and dynamic imaging package" href="../../../packages/hosted-by-us/index.html">core package</a>, this one pushes ZetaPrints interface in the back end, taking advantage of all its <a title="Web-to-print features" href="../../magento-web-to-print/zetaprints-features/index.html">powerful abilities</a> but presenting it to the customers in a fancy, fully customizable, powerful e-commerce platform – <a title="Magento web-to-print features" href="../../magento-web-to-print/features/index.html">Magento</a>. ZetaPrints is used purely for image and PDF generation leaving you in full control over the ordering process.</p>
+<h3>This package is not suitable if you want:</h3>
+<ul class="negative_list">
+<li>a simple website (see <a title="Core web-to-print and dynamic imaging package" href="../../../packages/hosted-by-us/index.html">Core package</a>)</li>
+<li>do it yourself, but have no programming skills (see <a title="Core web-to-print and dynamic imaging package" href="../../../packages/hosted-by-us/index.html">Core package</a>)</li>
+<li>host a web-to-print engine on your own server (see <a title="Enterprise web-to-print and dynamic imaging package" href="../../../packages/enterprise-web-to-print/index.html">Enterprise package</a>)</li>
+<li>change the looks of the site, but leave default ZetaPrints process in place</li>
+</ul>
+<p>We do not recommend this package if you are not prepared to invest a considerable effort into creating and maintaining your own hosting environment. Although it gives you a superior starting point it may be an overkill for your type of web-to-print or dynamic imaging application.</p>
+<h3>How to get started</h3>
+<p>Review our <a title="web-to-print integration" href="../../../packages/api-and-integration/index.html">API and integration guide</a> if you want to integrate and existing website or consider getting a free open source e-commerce website that <a title="magento web-to-print" href="../../magento-web-to-print/index.html">works out of the box</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Core package</title>
+		<link>http://www.zetaprints.com/packages/hosted-by-us</link>
+		<pubDate>Mon, 26 Jul 2010 02:56:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Packages]]></category>
+
+		<guid isPermaLink="false">/?p=1905</guid>
+		<description><![CDATA[Our core web-to-print and dynamic imaging package is the easiest way to run a web-to-print and imagi...]]></description>
+				<content:encoded><![CDATA[<p>Our core <a title="Web-to-print software" href="../../web-to-print-software/index.html" target="_self">web-to-print</a> and <a title="About dynamic imaging" href="../../dynamic-imaging/index.html" target="_self">dynamic imaging</a> package is the easiest way to run a web-to-print and imaging portal.<span id="more-1905"></span></p>
+<div class="floating_img_l">
+<p><img class="aligncenter" title="hosted_by_us" src="../../../wp-content/uploads/2010/07/hosted_by_us.png" alt="" width="424" height="254" /></p>
+<h3>Package at a glance</h3>
+<ul class="host_list">
+<li>Ease of use: easy</li>
+<li>Time to launch: minutes</li>
+<li>Customization: limited <a title="Web-to-print branding" href="../../../help/branding/index.html" target="_self"><img class="alignnone" src="../../../help/img/external_link_icon_on.png" alt="" width="10" height="10" /></a></li>
+<li>Features: full set <a title="Web-to-print features" href="../../../printers/web-to-print-features/index.html" target="_self"><img class="alignnone" src="../../../help/img/external_link_icon_on.png" alt="" width="10" height="10" /></a></li>
+<li>Total cost of ownership: minimal <a title="Hosting package pricing" href="../../../about-web-to-print-software/total-cost-of-ownership/index.html" target="_self"><img class="alignnone" src="../../../help/img/external_link_icon_on.png" alt="" width="10" height="10" /></a></li>
+<li>Technical expertise: minimal</li>
+</ul>
+</div>
+<h3>Recommended for:</h3>
+<ul class="positive_list">
+<li>Corporate, franchise and internal print ordering</li>
+<li>Starting out with web-to-print and dynamic imaging</li>
+<li>Small portals</li>
+</ul>
+<p>This web-to-print and dynamic imaging package has the full set of ZetaPrints features and no-hassle hosting. The look and feel of the pages can be <a title="Web-to-print branding" href="../../../help/branding/index.html" target="_self">changed</a> by you using custom CSS files, to some extent.</p>
+<p>Our core package is completely sufficient if you’re after simplicity and functionality. There are no limitations when it comes down to the <a title="Web-to-print design techniques" href="../../help/category/design-techniques/index.html">design techniques</a> you want to use in <a title="Web-to-print template creation" href="../../help/template-creation/index.html">templates</a>.</p>
+<h3>This package is not suitable if you want:</h3>
+<ul class="negative_list">
+<li>extensive front-end customization</li>
+<li>changes to the process / workflow (see <a title="E-commerce web-to-print and dynamic imaging package" href="../../../packages/hosted-by-you/index.html">E-Commerce package</a>)</li>
+<li>sell a mix with other non-customizable products (see <a title="E-Commerce web-to-print and dynamic imaging package" href="../../../packages/hosted-by-you/index.html">E-Commerce package</a>)</li>
+<li>host a web-to-print engine on your own server (see <a title="Enterprise web-to-print and dynamic imaging package" href="../../../packages/enterprise-web-to-print/index.html">Enterprise package</a>)</li>
+</ul>
+<p>We do not recommend this package for public online shops selling products such as <a title="Web-to-print greeting cards guide" href="../../../help/greeting-cards-guide/index.html" target="_self">greeting cards</a>, invitations, merchandise and other fancy things that need a fancy interface.</p>
+<h3>How to get started</h3>
+<p>Simply <a title="Sign up a web-to-print master account" href="../../../packages/sign-up-for-web-to-print/index.html" target="_self">sign up</a>. It is free, no strings attached.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bugs &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/tag/bugs/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Troubleshooting</title>
+		<link>http://www.zetaprints.com/magentohelp/magento-imaging-troubleshooting/</link>
+		<pubDate>Wed, 25 Aug 2010 14:34:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Troubleshooting]]></category>
+		<category><![CDATA[Bugs]]></category>
+		<category><![CDATA[Error]]></category>
+		<category><![CDATA[Solution]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/help/?p=10562</guid>
+		<description><![CDATA[Common causes of problems with web-to-print extension for Magento: Incorrect configuration &#8211; missing steps, attributes not added, etc. Incorrect settings &#8211; check your ZetaPrints portal address. Use of custom theme &#8211; use our default theme if you do not know how to integrate the extension into a custom theme. File system permissions &#8211; make sure [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Common causes of problems with <a title="Magento web-to-print extension" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> for Magento:<span id="more-10562"></span></p>
+<ul>
+<li>Incorrect <a title="Web-to-print Magento configuration" href="../../../zetaprints-synchronization-settings/" target="_self">configuration</a> &#8211; missing <a title="Magento installation steps" href="../../../magento/" target="_self">steps</a>, attributes not added, etc.</li>
+<li>Incorrect settings &#8211; check your ZetaPrints portal address.</li>
+<li>Use of custom theme &#8211; use our <a title="Magento web-to-print theme configuration" href="../../../theme-configuration/" target="_self">default theme</a> if you do not know how to integrate the extension into a <a title="Magento custom theme integration" href="http://code.google.com/p/magento-w2p/wiki/CustomThemeNative" target="_self">custom theme</a>.</li>
+<li>File system permissions &#8211; make sure all writable folders have write access for Magento.</li>
+<li>Incompatible extensions &#8211; check if any third party extension you have installed is <a title="Incompatible Magento extensions" href="../../../incompatible-magento-extensions/">reported as incompatible</a> with our extensions.</li>
+</ul>
+<h2>Logging</h2>
+<p>Most problems can be resolved by looking at the logs.</p>
+<div style="display: table;">
+<p><img style="margin: 5px; float: right;" title="Magento enable loging" src="../../../wp-content/uploads/2010/08/magento_loging_enabled.png" alt="web-to-print storefront logging" width="400" height="327" /></p>
+<div style="position: relative; top: 15px; display: inline;">Enable logging in Magento at <em>System/Configuration/Developer/Log Settings</em> in admin interface.</div>
+</div>
+<p>All interactions will be logged into Magento log file (<em>system.log</em>) file in the <em>var/log</em> folder of Magento. The file cannot be accessed from outside, unless you explicitly allow so.</p>
+<h2>IP restriction</h2>
+<p>Your printer settings may only allow access from a single IP address. The symptom would be an error on data import or no templates are imported when there are definitely new or updated ones.</p>
+<div style="display: table;">
+<p><img style="margin: 5px; float: left;" title="Magento no IP restrictions" src="../../../wp-content/uploads/2010/08/magento_no_ip_restrictions.png" alt="web-to-print storefront IP" width="388" height="319" /></p>
+<div style="position: relative; top: 15px; display: inline;">Go to your ZetaPrints portal, log in as a printer and navigate to <a title="How to get API key" href="../../../../help/how-to-get-api-key/" target="_self">API</a> page. Make sure there is no restriction on the IP address or the IP is correct.</div>
+</div>
+<h2>Error on importing</h2>
+<ul>
+<li>Check <a title="Web-to-print Magento configuration" href="../../../zetaprints-synchronization-settings/" target="_self">configuration</a> page for correct <a title="How to get API key" href="../../../../help/how-to-get-api-key/" target="_self">API key</a> and <a title="Set up a custom domain name" href="../../../set-up-your-domain/" target="_self">domain</a> name.</li>
+<li>Check if the <a title="Magento data import profile XML" href="../../../import-web-to-print-data/" target="_self">profile XML</a> is generated correctly</li>
+<li>Read about <a title="Magento web-to-print data import" href="../../../import-web-to-print-data/" target="_self">importing templates</a>.</li>
+</ul>
+<h2>Nothing imports</h2>
+<ul>
+<li>Check if you have any templates to import</li>
+<li>Check if your settings import hidden templates or just the public ones &#8211; there may be nothing to import.</li>
+<li>Check if you have an IP restriction (see <a title="How to get API key" href="../../../../help/how-to-get-api-key/" target="_self">API page</a> on ZP)</li>
+</ul>
+<h2>File uploading limit</h2>
+<p>PHP has an option to limit the size of uploaded files. If your customers need to upload files larger than 2MB you have to increase this limit.</p>
+<p>Open PHP config file <em>php.ini</em>, find <em>upload_max_filesize</em> option and set its value in megabytes. For example:</p>
+<div class="codecolorer-container ini mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br /></div></td><td><div class="ini codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #666666; font-style: italic;">; Maximum allowed size for uploaded files.</span><br />
+<span style="color: #000099;">upload_max_filesize</span> <span style="color: #000066; font-weight:bold;">=</span><span style="color: #660066;"> 10M</span></div></td></tr></tbody></table></div>
+<p>Also check <em>post_max_size</em> option in the PHP configuration file. The value of the option should be bigger than value of <em>upload_max_filesize</em> option.</p>
+<p>Example:</p>
+<div class="codecolorer-container ini mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br /></div></td><td><div class="ini codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #666666; font-style: italic;">; Maximum size of POST data that PHP will accept.</span><br />
+<span style="color: #000099;">post_max_size</span> <span style="color: #000066; font-weight:bold;">=</span><span style="color: #660066;"> 12M</span></div></td></tr></tbody></table></div>
+<h2>XSL support</h2>
+<p>The extension requires XSL (XSLT) support. The presence of an XSL component is checked during the installation. It can be aborted if the component is absent. Contact your sysadmin or the hosting company to have it installed.</p>
+<h2>Session ID</h2>
+<p>Some <a title="Magento web-to-print extension features" href="../../../../magento-web-to-print/features/" target="_self">features</a> included in Magento <a title="ZetaPrints web-to-print" href="../../../../" target="_self">web-to-print</a> extension may not function correctly with a SID in the URL. We recommend to <a title="Remove session ID from your Magento store" href="../../../remove-session-id-from-mageto-url/" target="_self">remove it</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

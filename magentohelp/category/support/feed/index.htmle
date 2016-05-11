@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Support &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/category/support/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Other Magento support</title>
+		<link>http://www.zetaprints.com/magentohelp/other-magento-support/</link>
+		<pubDate>Tue, 14 Dec 2010 05:25:39 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Support]]></category>
+
+		<guid isPermaLink="false">http://ec2-174-129-95-130.compute-1.amazonaws.com/magentohelp/?p=12181</guid>
+		<description><![CDATA[We created several free and open source Magento extensions, including Order approval, File uploading, Access control, etc. These extensions are released on &#8220;as-is where-is&#8221; basis. Free open source &#8211; limited support We created these additional extensions to facilitate our own and our customer operations. They complement Magento functionality to enable our customers use it instead [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We created several free and open source Magento <a title="Magento extensions by ZetaPrints" href="https://www.magentocommerce.com/magento-connect/developer/ZetaPrints" target="_self">extensions</a>, including <a title="Magento order approval extension" href="../../approval-admin/" target="_self">Order approval</a>, <a title="Magento Dynamic file attachments extension" href="../../file-attachments/" target="_self">File uploading</a>, <a title="Magento access control extension" href="../../access-control/" target="_self">Access control</a>, etc. These extensions are released on &#8220;as-is where-is&#8221; basis.</p>
+<h2><span id="more-12181"></span>Free open source &#8211; limited support</h2>
+<p>We created these additional extensions to facilitate our own and our customer operations. They complement Magento functionality to enable our customers use it instead of other specialized storefronts. We released them as free Magento extensions for everyone to enjoy and benefit.</p>
+<p>In other words, if you are not a genuine ZetaPrints customer we cannot help you with any issues your individual Magento installation has. You will need to hire a skilled Magento programmer or do it yourself.</p>
+<p>Please, <a title="Contact ZetaPrints" href="mailto:support@zetaprints.com">do let us know</a> about any problems you encounter. It could be a bug in our code which we would like to find and fix.</p>
+<h2>Paid ZetaPrints assistance</h2>
+<p>We can provide a wide range of added value services from single tasks  like setting up a site, troubleshooting, to complete turn-key <a title="Web-to-print solutions" href="../../industry-web-to-print-solutions/" target="_self">web-to-print solutions</a>. You can purchase a premium support service from our <a title="Web-to-print sowtware support" href="../../premium/">Magento support store</a> to have it all done for you.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Magento web-to-print support</title>
+		<link>http://www.zetaprints.com/magentohelp/magento-web-to-print-support/</link>
+		<pubDate>Tue, 14 Dec 2010 05:06:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Support]]></category>
+
+		<guid isPermaLink="false">http://ec2-174-129-95-130.compute-1.amazonaws.com/magentohelp/?p=12178</guid>
+		<description><![CDATA[Magento is a powerful e-commerce platform. It allows extensive customization which can only be done by skilled programmers. Consider the following support options: D.I.Y. A non-programmer familiar with HTML / CSS / PHP should be able to accomplish most of the tasks needed to set up, configure and customize a Magento store with web-to-print. We [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Magento is a powerful e-commerce platform. It allows extensive customization which can only be done by skilled programmers. Consider the following support options:<span id="more-12178"></span></p>
+<h2>D.I.Y.</h2>
+<p>A non-programmer familiar with HTML / CSS / PHP should be able to accomplish most of the tasks needed to set up, configure and customize a Magento store with <a title="ZetaPrints web-to-print" href="../../../../" target="_self">web-to-print</a>. We encourage you to:</p>
+<ul>
+<li> read all the documentation we provided on this site</li>
+<li>check the <a title="magento web-to-print source" href="http://code.google.com/p/magento-w2p/source/browse/#svn/trunk">source code</a></li>
+<li>seek help on <a title="Magento support" href="http://www.magentocommerce.com/boards/">Magento forums</a></li>
+</ul>
+<p>If nothing works we can only suggest to get professional help, but please, do <a title="Contact ZetaPrints" href="mailto:support@zetaprints.com">get in touch</a> before seeking help from others &#8211; we may have an answer for you already.</p>
+<h2>Help from Magento professionals</h2>
+<p>Magento is a hugely popular platform. You should have no problem finding a skilled programmer familiar with Magento. Check our <a title="Find a magento professional" href="../../../../magento-web-to-print/magento-partners/">Magento Partners page</a>, ask around or search online for someone suitable.</p>
+<p>Some tips for finding a good deal:</p>
+<ul>
+<li>make sure they know Magento well</li>
+<li>they don&#8217;t need to be familiar with web-to-print or ZetaPrints</li>
+<li>the cheapest bid /quote is the one you end up paying most for</li>
+</ul>
+<p>Feel free to <a title="Contact ZetaPrints" href="mailto:support@zetaprints.com">contact us</a> before signing a contract. Your developers are welcome to contact us with their questions after they studied available help resources on this site.</p>
+<h2>Paid ZetaPrints assistance</h2>
+<p>We can provide a wide range of added value services from single tasks like setting up a site, troubleshooting, to complete turn-key <a title="Web-to-print solutions" href="../../../../industry-web-to-print-solutions/" target="_self">web-to-print solutions</a>. You can purchase a premium support service from our <a title="Web-to-print sowtware support" href="../../../../premium/">Magento support store</a> to have it all done for you.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

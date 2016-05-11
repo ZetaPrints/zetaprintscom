@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Contour &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/contour/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Hippie typography</title>
+		<link>http://www.zetaprints.com/help/hippie-typography/</link>
+		<pubDate>Tue, 09 Jun 2009 11:19:59 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Contour]]></category>
+		<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Envelope]]></category>
+		<category><![CDATA[Retro]]></category>
+		<category><![CDATA[Typography]]></category>
+
+		<guid isPermaLink="false">/help/?p=6340</guid>
+		<description><![CDATA[This &#8220;retro&#8221; typography design style introduced in the hippie era is coming back in a big way. Learn how to make a boogie template in a few simple steps using CorelDRAWs Envelope and Contour tool. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Contour tool</title>
+		<link>http://www.zetaprints.com/help/contour-tool/</link>
+		<pubDate>Tue, 17 Feb 2009 01:23:50 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Contour]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Tools]]></category>
+
+		<guid isPermaLink="false">/help/?p=4864</guid>
+		<description><![CDATA[The benefits of the CorelDRAW Contour tool are a good reason for us to take a better look into its properties and variations. This tool is basically a way to create concentric lines to the outer or inner side of an object. About the tool The Contour tool can be found in CorelDRAW toolbox menu [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

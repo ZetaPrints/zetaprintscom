@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Plug-In &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/plug-in/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>WordPress plugins</title>
+		<link>http://www.zetaprints.com/help/wordpress-plugins-basic/</link>
+		<pubDate>Fri, 30 Apr 2010 09:36:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Website builder]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Plug-In]]></category>
+		<category><![CDATA[Website Features]]></category>
+
+		<guid isPermaLink="false">/help/?p=9817</guid>
+		<description><![CDATA[Plugins are little pieces of code that add more functionality to the basic web-to-print and dynamic imaging website. They are very easy to install and maintain. Recommended plugins These are a few WordPress plugins we find to be useful: All in One SEO Pack &#8211; Optimizes your WordPress blog for Search Engines Category Posts Widget [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>PayPal Pro plugin demo</title>
+		<link>http://www.zetaprints.com/help/paypal-pro-plugin-demo/</link>
+		<pubDate>Fri, 28 Aug 2009 18:53:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Prices and payments]]></category>
+		<category><![CDATA[paypal]]></category>
+		<category><![CDATA[plug]]></category>
+		<category><![CDATA[Plug-In]]></category>
+		<category><![CDATA[widget]]></category>
+
+		<guid isPermaLink="false">/help/?p=7355</guid>
+		<description><![CDATA[This page is demo page for PayPal&#8217;s PayFlow Pro gateway. Note that this is only a demo payments page. Do not use a real credit card. Type in some random numbers. Your input will be validated only partially. A real functioning payments page has stricter validation rules.]]></description>
+		</item>
+		<item>
+		<title>One click installer</title>
+		<link>http://www.zetaprints.com/help/one-click-installer/</link>
+		<pubDate>Thu, 17 Apr 2008 02:44:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Obsolete]]></category>
+		<category><![CDATA[Install]]></category>
+		<category><![CDATA[Plug-In]]></category>
+
+		<guid isPermaLink="false">/help/?p=183</guid>
+		<description><![CDATA[The only difficult part of the process of extending WordPress is getting this first plugin installed. Preparations Find the email with access details sent to you by the hosting company. It should have address of the FTP server, your login and password. Open your FTP client (or Internet Explorer or just Windows Explorer) Enter the [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>How to Display Your Images using RSS in WordPress</title>
+		<link>http://www.zetaprints.com/help/how-to-display-your-images-using-rss-in-wordpress/</link>
+		<pubDate>Wed, 27 Feb 2008 08:17:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[RSS]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Installation]]></category>
+		<category><![CDATA[Plug-In]]></category>
+		<category><![CDATA[Resources]]></category>
+
+		<guid isPermaLink="false">/help/how-to-display-your-images-using-rss-in-wordpress/</guid>
+		<description><![CDATA[Any website built on WordPress can show thumbnails of your web-to-print products using our simple RSS plugin. Installing the plugin SimplePie is required for this widget/plugin to work. You can get it here. Installing SimplePie is as simple as downloading it, extracting it, and uploading it to your server under`/wp-content/plugins`. You must then activate it [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

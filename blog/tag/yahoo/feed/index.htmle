@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>yahoo &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/tag/yahoo/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Yahoo mail lost the plot</title>
+		<link>http://www.zetaprints.com/blog/2010/06/12/yahoo-mail-lost-the-plot/</link>
+		<comments>http://www.zetaprints.com/blog/2010/06/12/yahoo-mail-lost-the-plot/#respond</comments>
+		<pubDate>Sat, 12 Jun 2010 10:53:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Problems and outages]]></category>
+		<category><![CDATA[mail]]></category>
+		<category><![CDATA[we]]></category>
+		<category><![CDATA[Web-to-Print]]></category>
+		<category><![CDATA[yahoo]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=570</guid>
+		<description><![CDATA[A lot of emails sent to Yahoo mail users get delayed by Yahoo and then blocked. There is absolutely no reason for them to do so as we only send transactional emails about web-to-print orders and registration info. Our IP address is not listed in any spam databases either. No good as it&#8217;s hurting web-to-print [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A lot of emails sent to Yahoo mail users get delayed by Yahoo and then blocked.</p>
+<p>There is absolutely no reason for them to do so as we only send transactional emails about web-to-print orders and registration info. Our IP address is not listed in any spam databases either. No good as it&#8217;s hurting web-to-print sales of our customers. <img src="../../../wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>We contacted Yahoo about this, so hopefully it will get resolved in the coming hours.</p>
+<p>In the meantime, it may be a good idea to follow up customers with @yahoo.com emails personally.</p>
+<p>We&#8217;d like to see all non-delivery reports, if you can be bothered.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2010/06/12/yahoo-mail-lost-the-plot/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

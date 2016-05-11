@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dynamic attachments plugin &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/category/file-attachments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Delete old attachments</title>
+		<link>http://www.zetaprints.com/magentohelp/delete-old-attachments/</link>
+		<pubDate>Mon, 04 Apr 2011 16:24:50 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Dynamic attachments plugin]]></category>
+		<category><![CDATA[Delete]]></category>
+		<category><![CDATA[Obsolete files]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12447</guid>
+		<description><![CDATA[Attached files can be deleted manually through the admin interface or automatically on a schedule to prevent disk space filling up. Web to print files can be large in size clogging the hard drive and degrading performance. File attachments can take up significant amount of storage space over time. Not all files uploaded using the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Attached files can be deleted manually through the admin interface or automatically on a schedule to prevent disk space filling up. Web to print files can be large in size clogging the hard drive and degrading performance.</p>
+<p><span id="more-12447"></span></p>
+<p>File attachments can take up significant amount of storage space over time. Not all files uploaded using the <a title="Magento Dynamic file attachments extension" href="https://www.magentocommerce.com/magento-connect/dynamic-file-attachments.html" target="_self">Dynamic File Attachments extension</a> end up as being part of  an order. Sometimes customers upload files but never finish the order. Also,  after certain period of time most of uploaded  files are no longer needed. These files are obsolete and only fill up hard drives. We are  handling these files as 2 cases:</p>
+<ul>
+<li> <strong>Orphaned</strong> &#8211; files that do not belong to an order. They were uploaded but the order was never finalized</li>
+<li><strong>Old</strong> &#8211; files that may or may not be part of orders but have been uploaded some time ago</li>
+</ul>
+<h2>Deletion settings</h2>
+<p>These settings affect manual and scheduled  <a title="Setup cron jobs in Magento" href="../../../../setup-cron-jobs/" target="_self">cron jobs</a> to delete <em>orphaned</em> and <em>old</em> files. Navigate to <em>Magento admin panel &gt; Attachments (top menu) &gt; Attachments Settings</em> (<em>also available through System &gt; Configuration &gt; Attachments Options &gt; Settings</em>) and set number of days for <em>orphaned</em> and <em>old</em> files to be kept before deletion.</p>
+<div style="display: table;">
+<p><img class="alignnone size-full wp-image-12451" style="margin-top: 15px; float: right;" title="Dynamic attachments settings" src="../../../wp-content/uploads/2011/03/dynamic_attachments_settings.png" alt="" width="475" height="277" /></p>
+<div style="position: relative; top: 15px; display: inline;">By default the extension is set to  delete <em>orphaned</em> files after 30 days and not to delete <em>old</em> files at all.</div>
+</div>
+<p>Setting a value of 0 (or leaving the field empty) means  that those type of files will never be deleted.</p>
+<p>Bare  in mind that <strong>old</strong> files include both orphaned files and files used in  orders. If you specify value for old files that is <strong>equal or less</strong> than  the value set for <strong>orphaned</strong> files, the latter is simply ignored since ALL  files will be deleted by the former setting anyway.</p>
+<h2>Manual deletion of outdated files</h2>
+<p>Since <a title="Setup cron jobs in Magento" href="../../setup-cron-jobs/" target="_self">setting up cron jobs</a> in some environments is not that simple there  is the option of running the same process via admin interface.</p>
+<div style="display: table;">
+<p><img class="alignnone size-full wp-image-12451" style="margin-top: 10px; float: left;" title="Run cron job manually" src="../../../wp-content/uploads/2011/03/dynamic_attachments_manual_delete.png" alt="" width="462" height="200" /></p>
+<div style="position: relative; top: 15px; display: inline;">Navigate to <em>Magento admin panel &gt; Attachments (top menu) &gt; Manage Attachments</em> and chose weather you want to delete all <strong>Old</strong> or just <strong>Orphaned</strong> files.</div>
+</div>
+<p>This will fire off same procedure as <a title="Setup cron jobs in Magento" href="../../setup-cron-jobs/" target="_self">auto-deleting</a> auto-deleting option. Same periods  are taken into account. If there are files old enough to be deleted, you  will get a message with number of files being deleted. If there are no  old enough files you will get &#8220;<em>No old enough files found</em>&#8221; message and a  link to <strong>Attachment Settings</strong> page, where you can adjust periods for file  deletion.</p>
+<h2>Manual deletion of selected files</h2>
+<p>Regardless of weather attachments qualify for scheduled deletion, they can also be deleted from inside Magento admin panel manually.</p>
+<div style="display: table;">
+<p><img class="alignnone size-full wp-image-12451" style="margin-top: 10px; float: right;" title="Manually delete attachments" src="../../../wp-content/uploads/2011/03/manual_delete_attachments.png" alt="" width="386" height="276" /></p>
+<div style="position: relative; top: 15px; display: inline;">Navigate to <em>Magento admin panel &gt; Attachments (top menu) &gt; Manage Attachments</em> and click <strong>Delete</strong> link for the specific attachment file or delete multiple files at once using the bulk actions drop-down.</div>
+</div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Setup cron jobs</title>
+		<link>http://www.zetaprints.com/magentohelp/setup-cron-jobs/</link>
+		<pubDate>Mon, 04 Apr 2011 14:15:22 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Dynamic attachments plugin]]></category>
+		<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[Developer]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12468</guid>
+		<description><![CDATA[Files attached through our Dynamic File Attachments extension can be deleted automatically on a schedule. Deleting old attachments procedure is run using Magento cron tab. To make your system run these scheduled tasks it self, you have to set up cron or other automation scheduler on the server. Cron jobs for automated dynamic attachment files [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Files attached through our <a title="Magento Dynamic file attachments extension" href="https://www.magentocommerce.com/magento-connect/dynamic-file-attachments.html" target="_self">Dynamic File Attachments extension</a> can be deleted automatically on a schedule. <a title="Delete old dynamic attachment files" href="../../../delete-old-attachments/" target="_self">Deleting old attachments</a> procedure is run using Magento cron tab. To make your system run these scheduled tasks it self, you have to set up cron or other automation scheduler on the server.<span id="more-12468"></span></p>
+<h3>Cron jobs for automated dynamic attachment files deletion</h3>
+<p>What crontab entry in Magento config files does is to tell Magento which <strong>Class::Method</strong> to run and how often to create schedules. This means that to achieve real automation in terms of having your system run these automated schedules on its own, you have to set up a cron job on the server. Read more about <a title="How to set up cron jobs in Magento" href="http://www.magentocommerce.com/wiki/1_-_installation_and_configuration/how_to_setup_a_cron_job" target="_self">setting up cron jobs in Magento</a>.</p>
+<p>For cron (most widely used solution):</p>
+<p>Recommended setting in <strong>production</strong> environment is:</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #339933;">*/</span><span style="color: #cc66cc;">5</span> <span style="color: #339933;">*</span> <span style="color: #339933;">*</span> <span style="color: #339933;">*</span> <span style="color: #339933;">*</span> <span style="color: #339933;">/</span>path<span style="color: #339933;">/</span>to<span style="color: #339933;">/</span>php <span style="color: #339933;">/</span>path<span style="color: #339933;">/</span>to<span style="color: #339933;">/</span>magento<span style="color: #339933;">/</span>cron<span style="color: #339933;">.</span>php <span style="color: #339933;">&gt;/</span>dev<span style="color: #339933;">/</span><span style="color: #009900; font-weight: bold;">null</span> <span style="color: #cc66cc;">2</span><span style="color: #339933;">&gt;&amp;</span><span style="color: #cc66cc;">1</span></div></td></tr></tbody></table></div>
+<p>The above means that cron on server will run cron.php every 5 minutes. And when it runs it will execute all various crontab jobs found.</p>
+<p>For <strong>testing</strong> and <strong>debugging</strong> purposes last portion of the cron line could be changed to a log file:</p>
+<div class="codecolorer-container php mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br /></div></td><td><div class="php codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap"><span style="color: #339933;">*/</span><span style="color: #cc66cc;">5</span> <span style="color: #339933;">*</span> <span style="color: #339933;">*</span> <span style="color: #339933;">*</span> <span style="color: #339933;">*</span> <span style="color: #339933;">/</span>path<span style="color: #339933;">/</span>to<span style="color: #339933;">/</span>php <span style="color: #339933;">/</span>path<span style="color: #339933;">/</span>to<span style="color: #339933;">/</span>magento<span style="color: #339933;">/</span>cron<span style="color: #339933;">.</span>php <span style="color: #339933;">&gt;&gt;/</span>path<span style="color: #339933;">/</span>to<span style="color: #339933;">/</span>magento<span style="color: #339933;">/</span><span style="color: #000000; font-weight: bold;">var</span><span style="color: #339933;">/</span><span style="color: #990000;">log</span><span style="color: #339933;">/</span>cron<span style="color: #339933;">.</span><span style="color: #990000;">log</span></div></td></tr></tbody></table></div>
+<p>This way all output from the operation will be logged.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Dynamic File Attachments extension</title>
+		<link>http://www.zetaprints.com/magentohelp/dynamic-file-attachments/</link>
+		<pubDate>Fri, 10 Dec 2010 09:29:23 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Dynamic attachments plugin]]></category>
+		<category><![CDATA[Asynchronous]]></category>
+		<category><![CDATA[File upload]]></category>
+		<category><![CDATA[Queue]]></category>
+
+		<guid isPermaLink="false">http://ec2-174-129-95-130.compute-1.amazonaws.com/magentohelp/?p=12109</guid>
+		<description><![CDATA[This extension is no longer supported. Dynamic File Attachments is a free Magento extension that allows asynchronous file uploading on product page. Some products require arbitrary number of files to be uploaded by customers. The actual number of files and their size may vary between different orders, so it is not practical to adding multiple [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h4><span style="color: #ff0000;">This extension is no longer supported.</span></h4>
+<p><a title="Magento Dynamic file attachments extension" href="https://www.magentocommerce.com/magento-connect/dynamic-file-attachments.html" target="_self">Dynamic File Attachments</a> is a free Magento extension that allows asynchronous file uploading on product page. <span id="more-12109"></span></p>
+<p>Some products require arbitrary number of files to be uploaded by customers. The actual number of files and their size may vary between different orders, so it is not practical to adding multiple file uploading controls. This extension allows uploading multiple files in a convenient asynchronous queue. Try it on a <a title="Magento dynamic file attachments demo product" href="../../../../magento/index.php/featured/dynamic-file-attachments.html" target="_self">demo product</a>.</p>
+<h2>Features</h2>
+<p>Our extension can come in handy in lots of different scenarios, featuring:</p>
+<ul>
+<li>Multiple file uploading on a single custom product option;</li>
+<li>Upload files as you go, stack them up in a queue and let the extension upload the one by one automatically;</li>
+<li>Display list of uploaded files;</li>
+<li>Show the list of uploaded files to the customer as plain text (no download links),</li>
+<li>Display links to uploaded files so that admins can download and use files from order details page in Magento admin panel.</li>
+</ul>
+<p>Some of your customers might prefer designing their own print products rather than <a title="Magento web-to-print interactive personalization" href="../../../../magento-web-to-print/magento-interactive-personalization/" target="_self">personalizing</a> a template from your catalogs. As a <a title="Web-to-print printers" href="../../../../category/printers/" target="_self">printer</a>, you can give your customers this option and allow them to upload their own print-ready files for you to print.</p>
+<h2>Extension installation</h2>
+<p>The installation process is identical to all other extension installations.</p>
+<div style="display: table;">
+<p><img style="margin-top: 15px; float: right;" title="Magento file attachment extension installation" src="../../../wp-content/uploads/2010/12/magento_file_attachment_installation.png" alt="Web-to-print storefront uploading" width="434" height="233" /></p>
+<div style="position: relative; top: 15px; display: inline;">
+<p>Get the installation key from <a title="Magento Dynamic file attachments extension" href="https://www.magentocommerce.com/magento-connect/dynamic-file-attachments.html" target="_self">extension</a> page on Magento eCommerce, paste it in the corresponding field of <em>Magento Connect Manager</em> and hit <strong>Install. </strong></p>
+<p>You may need to log out of the admin area and then log in again to see all pages of the extension. The pages may still be unavailable if you admin path is other than /admin/.<strong><br />
+</strong></p>
+</div>
+</div>
+<p>&nbsp;</p>
+<p><strong>Note.</strong> You must also allow write access to the <em>/media/</em> folder of your Magento installation for the extension to work properly.</p>
+<h2>Set up</h2>
+<p>The extension adds an extra field in the <strong>General</strong> tab of the <em>Product information</em> page in Magento admin panel.</p>
+<div style="display: table;">
+<p><img style="margin-top: 15px; float: left;" title="Magento AJAX file upload activation" src="../../../wp-content/uploads/2010/12/magento_ajax_file_upload_activation.png" alt="Web-to-print strorefront activation" width="377" height="171" /></p>
+<div style="position: relative; top: 15px; display: inline;">To enable the file uploading custom option on a product, choose <strong>Yes</strong> for the <strong>Use AJAX upload</strong> field.</div>
+</div>
+<p>This results in an extra <strong>custom option</strong> for the product visible under <em>Input type</em> drop-down menu.</p>
+<p><img class="alignnone size-full wp-image-12124" title="Magento file uploader custom option" src="../../../wp-content/uploads/2010/12/magento_file_uploader_custom_option.png" alt="Web-to-print strorefront custom options" width="594" height="386" /></p>
+<h2>Front end</h2>
+<p>Customers will see file uploading option on product page in the front end. They are able to stack multiple files in a queue and let the extension upload them automatically.</p>
+<p><img class="alignnone size-full wp-image-12126" title="Magento file uploading on product page" src="../../../wp-content/uploads/2010/12/magento_product_page.png" alt="Web-to-print strorefront product page" width="567" height="442" /></p>
+<p>While the files are being uploaded, the <strong>Add to Cart</strong> button is temporarily disabled. Customers won&#8217;t be able to add the product to cart until all files in the queue finish uploading.</p>
+<h2>Compatibility</h2>
+<p>Installing this extension in your Magento store results in a few compatibility issues that you should be aware of.</p>
+<ul>
+<li>Magento native file uploading option will not function correctly and needs to be replaced with the AJAX file upload option as explained above.</li>
+<li>Access to old files that were uploaded before the extension was installed using Magento native file uploading option, is disabled.</li>
+</ul>
+<h3>Product type compatibility</h3>
+<p>There are a few different <a title="Magento product types" href="http://www.magentocommerce.com/wiki/modules_reference/english/mage_adminhtml/catalog_product/producttype" target="_self">product types</a> in Magento. Our <a title="Magento Dynamic file attachments extension" href="https://www.magentocommerce.com/magento-connect/dynamic-file-attachments.html" target="_self">Dynamic File Attachments</a> extension supports:</p>
+<ul>
+<li>Simple products</li>
+<li>Virtual products</li>
+<li>Configurable products</li>
+</ul>
+<h2>Links</h2>
+<ul>
+<li><a title="Dynamic file attachment extension overview" href="../../../../magento-web-to-print/dynamic-file-attachments/" target="_self">Extension overview</a></li>
+<li><a title="Dynamic file attachment extension source code" href="http://code.google.com/p/magento-w2p/source/browse/#svn%2Fbranches%2FZetaPrints_Attachments" target="_self">Source code</a></li>
+<li><a title="Dynamic file attachment extension issue list" href="http://code.google.com/p/magento-w2p/issues/list" target="_self">Issues</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

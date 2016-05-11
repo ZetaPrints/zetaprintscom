@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Printers &#8211; Web-to-Print &amp; Dynamic Imaging</title>
+	<atom:link href="http://www.zetaprints.com/category/printers/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Feb 2016 23:12:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Open source tools</title>
+		<link>http://www.zetaprints.com/printers/open-source-web-to-print</link>
+		<pubDate>Tue, 21 Apr 2009 13:23:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Printers]]></category>
+
+		<guid isPermaLink="false">/?p=442</guid>
+		<description><![CDATA[Integration into popular CMS and e-c0mmerce platforms is easy. We have lots of open source tools, pl...]]></description>
+				<content:encoded><![CDATA[<p>Integration into popular CMS and e-c0mmerce platforms is easy. We have lots of open source tools, plug-ins and extensions to help you bring web-to-print to other websites.<span id="more-442"></span></p>
+<h2>Content embedding</h2>
+<p>Our Flash <a title="image generator" href="../../../help/tools/image-generation-plugin/index.html">dynamic imaging widget</a> can be embedded into any web page just like a YouTube video. Just cut and paste a small HTML snippet. You can use it with your own templates and promote your designs through other websites.<br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="650" height="300" id="e-cards-plugin" align="middle"><param name="allowScriptAccess" value="sameDomain"/><param name="allowFullScreen" value="false"/><param name="movie" value="http://www.zetaprints.com/flash/e-cards-plugin.swf"/><param name="quality" value="high"/><param name="bgcolor" value="#666666"/><param name="FlashVars" value="params=http://magento.zetaprints.com/RssTemplates.aspx?c=912495F4-B770-41BA-868C-AA72C27D1402"/><embed src="../../../flash/e-cards-plugin.swf" quality="high" bgcolor="#666666" width="650" height="300" name="e-cards-plugin" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" FlashVars="params=http://magento.zetaprints.com/RssTemplates.aspx?c=912495F4-B770-41BA-868C-AA72C27D1402"/></object></p>
+<h2>WordPress</h2>
+<p>We have a bunch of <a title="Web-to-print plugins" href="http://wordpress.org/extend/plugins/profile/zetaprints" target="_self">web-to-print  plug-ins</a> for <a title="Web-to-print  help: WordPress" href="../../../help/category/wordpress/index.html" target="_self">WordPress</a>.</p>
+<h3>E-cards plug-in</h3>
+<p>Generate virtual cards right inside a WordPress page and email them as images. It&#8217;s a great way to get more traffic to your web-to-print portal.</p>
+<h3>PayPal Pro payments</h3>
+<p>Increase credit card processing capabilities within your web-to-print portal. Accept <a title="Web-to-print help: PayPal Pro gateway" href="../../../help/paypal-pro-gateway-for-wordpress/index.html" target="_self">payments</a> for web-to-print products right on your website.</p>
+<h2>Magento</h2>
+<p><a title="Web-to-print Magento demo" href="../../../magento/index.html" target="_self">Magento</a> is a popular and growing e-commerce platform to power your web-to-print store. Just add our <a title="web-to-print extension" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">web-to-print store extension</a>. Watch a <a title="Watch a video demonstration of the  Magento web-to-print extension" href="../../help/flash/magento_demo/magento_demo.html" target="_self">video  presentation</a>.</p>
+<h2>Web-to-print API wrappers</h2>
+<p>Developers will save time integrating web-to-print into your existing website if they use our <a title="web-to-print PHP" href="http://code.google.com/p/magento-w2p/source/browse/#svn/trunk/zp_api_lib">web-t0-print wrappers for PHP5</a>.</p>
+<p><input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /> <input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Free websites</title>
+		<link>http://www.zetaprints.com/printers/free-websites</link>
+		<pubDate>Sun, 20 Apr 2008 11:52:44 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Printers]]></category>
+
+		<guid isPermaLink="false">/?p=124</guid>
+		<description><![CDATA[Having a good website is a must for any printing business. ZetaPrints web-to-print is only an online...]]></description>
+				<content:encoded><![CDATA[<p>Having a good website is a must for any printing business. ZetaPrints web-to-print is only an online ordering system. It cannot be used as a front-window website to tell the story about your business. We created a tutorial how you can build a free or very inexpensive website that looks as professional as any other.<span id="more-124"></span></p>
+<h2>Websites for printers</h2>
+<p>Websites for printing companies have several essential features, like <a title="Free website for printers" href="../../../freesite/index.html" target="_blank"><strong>this demo site</strong></a>:</p>
+<ul>
+<li>Information about the business</li>
+<li><a title="Web-to-print help: Large file upload" href="../../../help/large-file-upload/index.html" target="_self">Large file upload</a></li>
+<li>Quote request</li>
+<li>Link to web-to-print service</li>
+<li>Downloads library</li>
+</ul>
+<p>We have several options based on a very popular open source platform &#8211; <a href="http://wordpress.org" target="_blank">WordPress</a>.</p>
+<p>The website is easily <a title="Web-to-print help: Printer's website customization" href="../../../help/wordpress-themes-find/index.html" target="_self">customizable</a>. New features can be easily <a title="Web-to-print help: Printer's website - add-ons" href="../../../help/wordpress-plugins-basic/index.html" target="_self">added</a> by anyone, any time. The look and feel of the website is based on themes you can purchase on the Internet or download for free. There are literally thousands of them.</p>
+<h2>Time to go D.I.Y. ?</h2>
+<p>The times of paying big money to a web design company for hosting and maintaining a basic website are over. You or any of your computer savvy staff can do it with ease at an annual cost of under $90.</p>
+<p>Read our <strong><a title="Web-to-print help: Free websites for printers" href="../../../help/website-builder/index.html" target="_self">free printer&#8217;s website manual</a></strong> on how to build and maintain a website. It is not for &#8220;geeks&#8221; or &#8220;nerds&#8221; any more &#8211; anyone can do it. A bit of effort, some computer knowledge and a few hours of your time will buy you a great looking and fully functional website.</p>
+<p><strong></strong></p>
+<h2>No copycat content ever</h2>
+<p>It makes no sense to have a website with the content identical to someone&#8217;s else as many &#8220;<a title="Get copycat stuff there" href="http://www.google.co.nz/search?hl=en&q=websites+for+printers&btnG=Google+Search&meta=">websites for printers</a>&#8221;  companies do. Search engines recognize duplicate content and mark such websites as spam or mirrors. They will never come up high in search results as a consequence. What&#8217;s the point of having a website no one can find?</p>
+<p>We help you set up a great looking and functional website, but you need to spend some time telling the world about your business. It&#8217;s easy, it&#8217;s fun and <strong><a title="Web-to-print help: How to provide great content" href="../../../help/website-content/index.html" target="_self">no one can do it better than you</a></strong>!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Quick trial</title>
+		<link>http://www.zetaprints.com/printers/web-to-print-trial</link>
+		<pubDate>Mon, 28 May 2007 12:14:16 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Printers]]></category>
+
+		<guid isPermaLink="false">http://hotissues.org/printers/quick-trial/50</guid>
+		<description><![CDATA[Test print buyer account
+You can register with our demo web-to-print storefront and place a few test...]]></description>
+				<content:encoded><![CDATA[<h2>Test print buyer account</h2>
+<p>You can register with our demo web-to-print storefront and place a few test orders. This is a good way to get a feel of what the end users will experience using your web-to-print site.<span id="more-50"></span><br />
+<a href="http://demo.zetaprints.com/?page=user-rego;CorporateIDRego=D96E74EA-28F1-4738-846E-1701F16E8827" target="_blank"></a></p>
+<p style="text-align: center;"><a href="http://demo.zetaprints.com/?page=user-rego;CorporateIDRego=D96E74EA-28F1-4738-846E-1701F16E8827" target="_blank"><img class="aligncenter" style="border: medium none ; margin-top: 15px" title="Try it now..." src="../../../wp-content/themes/zetaprints/_img/bt-user_demo.gif" alt="Try it now..." /><br />
+</a></p>
+<h2>Site appearance</h2>
+<p>Note that your web-to-print site will need to be branded to match the look and feel of your main website. Read more about our <a title="web-to-print branding" href="../../../printers/web-to-print-branding/index.html">branding and customisation options</a>.</p>
+<p>Our demo site is password protected and uses our of our <a title="web-to-print skins" href="../../../help/category/skins/index.html">free web-to-print skins</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Web to print for Printers</title>
+		<link>http://www.zetaprints.com/printers/web-to-print</link>
+		<pubDate>Mon, 21 May 2007 06:59:08 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Printers]]></category>
+
+		<guid isPermaLink="false">http://hotissues.org/information/printers/39</guid>
+		<description><![CDATA[Our web-to-print package includes:
+
+$1.7 per order is the only fee you pay
+Online sign-up and immedi...]]></description>
+				<content:encoded><![CDATA[<h2>Our web-to-print package includes:<span id="more-39"></span></h2>
+<ul>
+<li>$1.7 per order is <a title="Web-to-print software pricing" href="../../../printers/web-to-print-pricing-printer/index.html" target="_self">the only fee you pay</a></li>
+<li><a title="Sign up for a web-to-print account" href="../../../printers/web-to-print-sign-up/index.html" target="_self">Online sign-up</a> and immediate account activation</li>
+<li>Full control over the <a title="Web-to-print storefront" href="../../../printers/web-to-print-storefront/index.html" target="_self">storefront</a></li>
+<li><a title="Web-to-print help: Template creation" href="../../../help/get-started/index.html" target="_self">Make your own templates</a>, upload and activate immediately</li>
+<li>Fully hosted, scalable service with no upfront investment</li>
+<li>Really crafty template <a title="Web-to-print help: Design techniques" href="../../../help/category/design-techniques/index.html" target="_self">design features and effects</a></li>
+</ul>
+<h2>Our web-to-print package excludes:</h2>
+<ul>
+<li>Any other fees or charges</li>
+<li>Pushy sales, pricey consultants</li>
+<li>Mandatory support plans</li>
+<li>Managed service hassles and delays</li>
+<li>A hole in the pocket and growth pains</li>
+<li>Fancy user interface distractions</li>
+</ul>
+<h2><strong>Add to this:</strong></h2>
+<ul>
+<li>Use your own <a title="Web-to-print branding" href="../../../printers/web-to-print-branding/index.html" target="_self">domain name and theme</a></li>
+<li>Manage your own <a title="Web-to-print help: User management" href="../../../help/user-management-centralized/index.html" target="_self">users</a>, <a title="Web-to-print help: Access control" href="../../../help/category/access-control/index.html" target="_self">control access</a> and product visibility</li>
+<li><a title="Web-to-print help: Order status" href="../../../help/order-status/index.html" target="_self">Order tracking</a>, <a title="Web-to-print help: Order comments" href="../../../help/order-comments/index.html" target="_self">comments</a>, re-ordering, live feedback</li>
+<li>Payments gateways, multiple currencies and languages</li>
+<li><strong><a title="Web-to-print features" href="../../../printers/web-to-print-features/index.html" rel="bookmark" target="_self">Lots more &#8230;</a></strong></li>
+</ul>
+<p>Our web-to-print software is designed to help your business reduce costs and get an edge over your competitors.</p>
+<p style="text-align: center;"><img class="aligncenter" title="ZetaPrints web-to-print" src="../../../img/homepage-diagr.gif" alt="ZetaPrints web-to-print" width="449" height="250" /></p>
+<h2>Are you standing out of the crowd?</h2>
+<p>What does your sales-rep have to say to a new prospect?<br />
+How different are you from the other <a title="Web-to-print printers" href="../index.html" target="_self">printers</a>?<br />
+Get the edge &#8211; offer them online print ordering (web-to-print) that will save them time and money. Think of all those <a title="Web-to-print business" href="../../businesses/index.html" target="_self">businesses</a> you can target now!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Sign up</title>
+		<link>http://www.zetaprints.com/printers/web-to-print-sign-up</link>
+		<pubDate>Fri, 18 May 2007 08:38:53 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Printers]]></category>
+
+		<guid isPermaLink="false">http://hotissues.org/printers/sign-up/30</guid>
+		<description><![CDATA[Choose the type of web-to-print or dynamic imaging package. Signing up is free. No strings attached....]]></description>
+				<content:encoded><![CDATA[<p>Choose the type of web-to-print or dynamic imaging package. Signing up is <a title="web-to-print pricing" href="../../../web-to-print-and-dynamic-imaging-pricing/index.html">free</a>. No strings attached.<span id="more-30"></span></p>
+<h2 class="tab">Core package</h2>
+<p>This is the <a title="Core web-to-print package" href="../../../packages/hosted-by-us/index.html">base package</a> that gives you a <a title="hosted web-to-print" href="../../../packages/hosted-by-us/index.html">fully hosted web-to-print site</a>. Minimal effort required in setting up and you can be taking orders in minutes.</p>
+<table class="pack_sign_up_tbl">
+<tbody>
+<tr>
+<td style="background-image: url('../../../_img/sign_up_tables/sign_up.png');"><a title="Sign up a master account" href="http://zetaprints.com/?page=printer-new;" target="_blank">Sign up</a></td>
+<td style="background-image: url('../../../_img/sign_up_tables/upload_template.png');"><a title="Web-to-print help: Upload your first template" href="../../../help/upload-your-first-template/index.html" target="_self">Upload templates</a></td>
+</tr>
+<tr>
+<td style="background-image: url('../../../_img/sign_up_tables/subdomain.png');"><a title="Web-to-print help: Set up a custom domain name" href="../../../help/domain-name-set-up/index.html" target="_self">Configure subdomain</a></td>
+<td style="background-image: url('../../../_img/sign_up_tables/orders.png');">Start taking <a title="Web-to-print help: Order management" href="../../../help/category/order-management/index.html" target="_self">orders</a></td>
+</tr>
+</tbody>
+</table>
+<p class="tab">Find detailed instructions, guides and manuals in our <a title="Web-to-print and dynamic imaging help" href="../../../help/index.html">Help</a> section. You may be interested in <a title="web-to-print branding" href="../../../help/category/branding/index.html">branding</a>, <a title="web-to-print trial" href="../../../help/trail-use/index.html">trial use</a> and configuring a <a title="web-to-print subdomain" href="../../../help/domain-name-set-up/index.html">domain name</a> for your new web-to-print portal.</p>
+<p style="text-align: center;"><a style="font-weight: bold;" title="Web-to-print terms and conditions" href="../../../web-to-print-legal/summary-of-terms-and-conditions/index.html" target="_blank"> I ACCEPT THE TERMS AND CONDITIONS</a></p>
+<p style="text-align: center;"><a href="http://zetaprints.com/?page=printer-new;"><img class="aligncenter" title="Sign Up a master account" src="../../../wp-content/themes/zetaprints/_img/bt-signup.gif" alt="" width="134" height="29" /></a></p>
+<h2 class="tab">E-Commerce package</h2>
+<p>This <a title="E-Commerce web-to-print and dynamic imaging package" href="../../../packages/hosted-by-you/index.html">package</a> requires <a title="web-to-print integration" href="../../../packages/api-and-integration/index.html">integration </a>between your existing website and our <a title="web-to-print api" href="../../../help/category/api/index.html">web-to-print and dynamic imaging API</a>. An alternative is to use an open source e-commerce system with <a title="magento web-to-print" href="../../magento-web-to-print/index.html">built-in web-to-print and dynamic imaging</a>.</p>
+<table class="pack_sign_up_tbl">
+<tbody>
+<tr>
+<td style="background-image: url('../../../_img/sign_up_tables/sign_up.png');"><a title="Sign up a master account" href="http://zetaprints.com/?page=printer-new;" target="_blank">Sign up</a></td>
+<td style="background-image: url('../../../_img/sign_up_tables/api_documentation.png');"><a title="Web-to-print API and integration" href="../../../packages/api-and-integration/index.html" target="_self">Review API documentation</a></td>
+</tr>
+<tr>
+<td style="background-image: url('../../../_img/sign_up_tables/subdomain.png');"><a title="Web-to-print help: Set up a custom domain name" href="../../../help/domain-name-set-up/index.html" target="_self">Configure subdomain</a></td>
+<td style="background-image: url('../../../_img/sign_up_tables/magento.png');">Review <a title="Magento web-to-print Demo store" href="../../../magento/index.html" target="_blank">sample implementation</a></td>
+</tr>
+<tr>
+<td style="background-image: url('../../../_img/sign_up_tables/api_key.png');"><a title="Web-to-print help: How to get API key" href="../../../help/how-to-get-api-key/index.html" target="_self">Get API key</a></td>
+<td style="background-image: url('../../../_img/sign_up_tables/contact.png');"><a title="Contact us" href="../../../about-us/contact-us/index.html" target="_self">Tell us</a> about your project</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><a style="font-weight: bold;" title="Web-to-print terms and conditions" href="../../../web-to-print-legal/summary-of-terms-and-conditions/index.html" target="_blank"> I ACCEPT THE TERMS AND CONDITIONS</a></p>
+<p style="text-align: center;"><a href="http://zetaprints.com/?page=printer-new;"><img class="aligncenter" title="Sign Up a master account" src="../../../wp-content/themes/zetaprints/_img/bt-signup.gif" alt="" width="134" height="29" /></a></p>
+<h2 class="tab">Enterprise package</h2>
+<p>This <a title="Enterprise web-to-print and dynamic imaging package" href="../../../packages/enterprise-web-to-print/index.html">package</a> is like a small copy of ZetaPrints running on your own servers. It does involve a significant initial investment but pays off in the long run for printers exceeding 4000 orders per month.</p>
+<p><a title="Contact ZetaPrints" href="../support@zetaprints.com">Contact us</a> if you&#8217;re interested in this package.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Pricing</title>
+		<link>http://www.zetaprints.com/printers/web-to-print-pricing-printer</link>
+		<pubDate>Fri, 18 May 2007 08:37:22 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Printers]]></category>
+
+		<guid isPermaLink="false">http://hotissues.org/printers/pricing-2/29</guid>
+		<description><![CDATA[This pricing applies to holders of &#8220;printer&#8221; account (normally used by printing and publ...]]></description>
+				<content:encoded><![CDATA[<p><strong>This pricing applies to holders of &#8220;<a title="Web-to-print printers" href="../index.html" target="_self">printer</a>&#8221; account (normally used by printing and publishing businesses).</strong><span id="more-29"></span></p>
+<h2>No orders &#8211; no charge</h2>
+<p>The only service you pay for is when a new order is submitted for printing.</p>
+<ul>
+<li><strong>Australia</strong><span> &#8211; $2.2 or less per order</span></li>
+<li><strong>EU</strong><span> &#8211; </span>€<span>1.3 or less per order</span></li>
+<li><strong>New Zealand</strong><span> &#8211; $2.5 or less per order</span></li>
+<li><strong>UK</strong> &#8211; £0.85 or less per order</li>
+<li><strong>USA</strong><span> &#8211; $1.7 or less per order</span></li>
+<li><strong>Other countries</strong><span> &#8211; US$1.7 or less per order</span></li>
+</ul>
+<p><a href="mailto:support@zetaprints.com" target="_blank">Contact us</a> with your volume requirements over 1000 orders a month for special pricing.</p>
+<h2>Free services</h2>
+<ul>
+<li>Pre-press file transfer</li>
+<li>Quoting service</li>
+<li>Directory listing</li>
+</ul>
+<h2>Our price promise</h2>
+<p>We will try adjust the price so that the overall annual cost for you is lower than of any other similar service or software.</p>
+<h2>Payment options</h2>
+<ul>
+<li>Credit card</li>
+<li>Direct payments to our bank account</li>
+<li>PayPal</li>
+</ul>
+<p>All charges are billed monthly to you as a printer. Read more in the <a title="Web-to-print help: Billing" href="../../../help/category/billing/index.html" target="_self">billing section</a>.</p>
+<h2>Free unlimited trial</h2>
+<p>We offer free unlimited use of the website until it really works for you. Get those orders rolling in first. Free assistance for setting up and artwork conversion is available on request.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Features</title>
+		<link>http://www.zetaprints.com/printers/web-to-print-features</link>
+		<pubDate>Fri, 18 May 2007 08:36:25 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Printers]]></category>
+
+		<guid isPermaLink="false">http://hotissues.org/printers/features/28</guid>
+		<description><![CDATA[ZetaPrints is a web-to-print and dynamic imaging service provider. Our service is designed to make o...]]></description>
+				<content:encoded><![CDATA[<p>ZetaPrints is a <a title="Web-to-print software" href="../../web-to-print-software/index.html" target="_self">web-to-print</a> and <a title="About dynamic imaging" href="../../dynamic-imaging/index.html" target="_self">dynamic imaging</a> service provider. Our service is designed to make online personalization simple and cost effective.<span id="more-28"></span></p>
+<h2 class="tab">Volumes</h2>
+<p>We do not place limits on you. Use as much of our service as you need to grow and meet your demand.</p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Unlimited</strong></td>
+</tr>
+<tr>
+<td>Number of web-to-print templates</td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td>Number of web-to-print catalogs</td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td>Number of users</td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td>Disk space</td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td>Traffic</td>
+<td class="check_icon_feat"></td>
+</tr>
+</tbody>
+</table>
+<h2 class="tab">Templates</h2>
+<p>Our templating system is simple, but powerful. It goes well beyond replacing straight lines of text in a PDF file.</p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Availability</strong></td>
+<td class="list_title_last_how"><strong>How to</strong></td>
+</tr>
+<tr>
+<td>Upload your own</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/upload-your-first-template/index.html"><img title="Upload your first web-to-print template" src="../../../_img/help_on.png" alt="Upload your first web-to-print template" /></a></td>
+</tr>
+<tr>
+<td>Unbounded creativity limits</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/design-techniques/index.html"><img title="Web-to-print and dynamic imaging design techniques" src="../../../_img/help_on.png" alt="Web-to-print and dynamic imaging design techniques" /></a></td>
+</tr>
+<tr>
+<td>No delay before a template becomes available</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td colspan="3">PDF settings</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Bleed</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/bleed-area/index.html"><img title="Bleed area" src="../../../_img/help_on.png" alt="Bleed area" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Crop marks</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/cropmarks-from-photoshop/index.html"><img title="Web-to-print cropmarks" src="../../../_img/help_on.png" alt="Cropmarks" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Imposition</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/templates-for-preview-and-printing/index.html"><img title="About preview and printing templates" src="../../../_img/help_on.png" alt="Preview and printing templates" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Font embedding</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/font-management/index.html"><img title="Web-to-print font management" src="../../../_img/help_on.png" alt="Web-to-print font management" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Text-to-curve</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Other settings</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/pdf-settings/index.html"><img title="Web-to-print PDF settings" src="../../../_img/help_on.png" alt="PDF settings" /></a></td>
+</tr>
+<tr>
+<td>Any number of pages</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/multi-page-templates/index.html"><img title="Web-to-print multi-page templates" src="../../../_img/help_on.png" alt="Multipage web-to-print templates" /></a></td>
+</tr>
+<tr>
+<td colspan="3">Color modes</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Spot colors</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">RGB</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">CMYK</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Color separation</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Overprints</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td colspan="3">Output files</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">PDF, CDR, JPG, GIF, PNG</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/output-files-generation/index.html"><img title="Web-to-print output file generation" src="../../../_img/help_on.png" alt="Web-to-print output file generation" /></a></td>
+</tr>
+</tbody>
+</table>
+<h2 class="tab">Variable fields</h2>
+<p><span>It is very simple to convert an ordinary ad design into a usable ad template – just name the fields for user texts and images.</span><br />
+<span>The system reads the field information directly from the file. There are numerous rules you can apply, such as alignment, horizontal and vertical shift, removal of elements if some other elements are not present, maximum and minimum length, recommended image resolution, etc.</span></p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Availability</strong></td>
+<td class="list_title_last_how"><strong>How to</strong></td>
+</tr>
+<tr>
+<td colspan="3">Variable text and images</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Variable text</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/text-fields/index.html"><img title="Web-to-print variable text fields" src="../../../_img/help_on.png" alt="Web-to-print text fields" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Variable images</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/image-fields/index.html"><img title="Web-to-print variable image fields" src="../../../_img/help_on.png" alt="Web-to-print image fields" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Automatic text alignment</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Automatic image alignment</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/image-alignment/index.html"><img title="Web-to-print image alignment" src="../../../_img/help_on.png" alt="Web-to-print image alignment" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Auto replacement</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Auto removal</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/conditional-object-removal/index.html"><img title="Web-to-print conditional object removal" src="../../../_img/help_on.png" alt="Web-to-print conditional object removal" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Conditional line removal</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/conditional-line-removal/index.html"><img title="Dynamic imaging conditional line removal" src="../../../_img/help_on.png" alt="Dynamic imaging conditional line removal" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Paragraph style matching</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/paragraph-style-matching/index.html"><img title="Dynamic imaging paragraph style matching" src="../../../_img/help_on.png" alt="Dynamic imaging paragraph style matching" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Character formatting matching</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/character-formatting-matching/index.html"><img title="Dynamic imaging character formatting matching" src="../../../_img/help_on.png" alt="Dynamic imaging character formatting matching" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Automatic font resizing</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/auto-font-resizing/index.html"><img title="Dynamic imaging auto font resizing" src="../../../_img/help_on.png" alt="Dynamic imaging auto font resizing" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Linked text frames</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/linked-text-frames/index.html"><img title="Dynamic imaging linked text frames" src="../../../_img/help_on.png" alt="Dynamic imaging linked text frames" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>Consult these product guides before you start working on a specific kind of template:</p>
+<table class="tbl_grid_guides_w2p">
+<tbody>
+<tr>
+<td><img class="alignnone" title="Web-to-print Brochures" src="../../../wp-content/themes/zetaprints/_img/brochures.jpg" alt="Web-to-print Brochures" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Outdoor signs" src="../../../wp-content/themes/zetaprints/_img/outdoor_signs.jpg" alt="Web-to-print Yard signs" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print T-shirts" src="../../../wp-content/themes/zetaprints/_img/web-to-print_t-shirts.jpg" alt="Web-to-print T-shirts" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Business cards" src="../../../wp-content/themes/zetaprints/_img/web-to-print_business_cards.jpg" alt="Web-to-print Business cards" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print CD/DVD labels" src="../../../wp-content/themes/zetaprints/_img/web-to-print_DVD_labels.jpg" alt="Web-to-print CD/DVD labels" width="125" height="180" /></td>
+</tr>
+<tr id="sample_product_links">
+<td><a title="Web-to-print Brochure templates" href="http://zetaprints.com/?page=template;TemplateID=DBA05324-1B3E-4BDA-BA00-559192FB0919" target="_self">Samples</a> | <a title="Web-to-print help: Brochures guide" href="../../../help/brochures-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Real estate yard sign templates" href="http://zetaprints.com/?page=catalogue;CorporateID=5C787740-C63F-4821-8DDC-25834DDFEE8F" target="_self">Samples</a> | <a title="Web-to-print help: Outdoor signs guide" href="../../../help/outdoor-signs-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print T-shirt templates" href="http://zetaprints.com/?page=template;TemplateID=5A8DF7B8-199A-4C66-9B29-F8DDF09843B2" target="_self">Samples</a> | <a title="Web-to-print help: T-shirts guide" href="../../../help/t-shirts-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print business cards" href="http://shop.hollands.com.au/?page=catalogue;CorporateID=9F44DD27-0DA6-422A-8290-CAB040742247" target="_self">Samples</a> | <a title="Web-to-print help: Business cards guide" href="../../../help/business-cards-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print CD/DVD label" href="http://zetaprints.com/?page=template;TemplateID=0D6B06C6-DA3F-4607-965D-BCA3F7B4A23C" target="_self">Samples</a> | <a title="Web-to-print help: CD/DVD labels guide" href="../../../help/cddvd-labels-guide/index.html" target="_self">Tutorial</a></td>
+</tr>
+</tbody>
+</table>
+<table class="tbl_grid_guides_w2p">
+<tbody>
+<tr>
+<td><img class="alignnone" title="Web-to-print Greeting cards" src="../../../wp-content/themes/zetaprints/_img/web-to-print_greeting_cards.jpg" alt="Web-to-print Greeting cards" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Books" src="../../../wp-content/themes/zetaprints/_img/web-to-print_books.jpg" alt="Web-to-print Books" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Posters" src="../../../wp-content/themes/zetaprints/_img/web-to-print_posters.jpg" alt="Web-to-print Posters" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Newspaper ads" src="../../../wp-content/themes/zetaprints/_img/web-to-print_newspaper_ad.jpg" alt="Web-to-print Newspaper ads" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print CD/DVD covers" src="../../../wp-content/themes/zetaprints/_img/web-to-print_DVD_cover.jpg" alt="Web-to-print CD/DVD covers" width="125" height="180" /></td>
+</tr>
+<tr id="sample_product_links">
+<td><a title="Web-to-print greeting card templates" href="http://zetaprints.com/?page=template;TemplateID=5E7566DF-9445-4C86-91A5-B17AD19C2BC2" target="_self">Samples</a> | <a title="Web-to-print help: Greeting cards guide" href="../../../help/greeting-cards-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Book templates" href="http://order.uprintinvitations.com/?page=catalogue;CorporateID=F37AF3A1-AE52-4057-84C9-E4EE88797F96" target="_self">Samples</a> | <a title="Web-to-print help: Books guide" href="../../../help/books-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Poster templates" href="http://zetaprints.com/?page=catalogue;CorporateID=B43FC624-1020-4AC7-A773-E536B892414C" target="_self">Samples</a> | <a title="Web-to-print help: Posters guide" href="../../../help/poster-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Newspaper ad templates" href="http://zetaprints.com/?page=catalogue;CorporateID=271510AD-DCE1-4305-9375-57F977F6EC6F" target="_self">Samples</a> | <a title="Web-to-print help: Newspaper ads guide" href="../../../help/newspaper-ads-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print CD/DVD label" href="http://zetaprints.com/?page=template;TemplateID=A8714BE2-AE75-4180-BED4-7D6791538282" target="_self">Samples</a> | <a title="Web-to-print help: CD/DVD cover guide" href="../../../help/cddvd-case-cover-guide/index.html" target="_self">Tutorial</a></td>
+</tr>
+</tbody>
+</table>
+<h2 class="tab">UI</h2>
+<p>The user interface on our web-to-print portal is supported by all major web browsers and is customizable.</p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Availability</strong></td>
+<td class="list_title_last_how"><strong>How to</strong></td>
+</tr>
+<tr>
+<td colspan="3">User interface</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">HTML</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Minimal scripting, Flash or Active-X controls</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td colspan="3">Branding</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Custom access URL</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/custom-access-url/index.html"><img title="Web-to-print custom access URL" src="../../../_img/help_on.png" alt="Custom access URL" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Free selection of skins</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/skins/index.html"><img title="Free skin collection" src="../../../_img/help_on.png" alt="Free skin collection" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Custom CSS</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/custom-skins/index.html"><img title="Custom CSS" src="../../../_img/help_on.png" alt="Custom CSS" /></a></td>
+</tr>
+<tr>
+<td colspan="3">Browser support</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Mozilla Firefox</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Microsoft Internet Explorer</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Apple Safari</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Google Chrome</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+</tbody>
+</table>
+<h2 class="tab">System</h2>
+<p>We tend to make system management as easy as it can be so that you don&#8217;t have to be an expert to maintain your web-to-print portal.</p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Availability</strong></td>
+<td class="list_title_last_how"><strong>How to</strong></td>
+</tr>
+<tr>
+<td>No special IT skills required</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td>Various reports</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/site-admin/index.html"><img title="Website administrator" src="../../../_img/help_on.png" alt="Website administration" /></a></td>
+</tr>
+<tr>
+<td>Full control over your catalogs and templates</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/template-management/index.html"><img title="Web-to-print template management" src="../../../_img/help_on.png" alt="Web-to-print template management" /></a></td>
+</tr>
+<tr>
+<td>Accept Credit Card payments online</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/prices-and-payments/index.html"><img title="Prices and payments" src="../../../_img/help_on.png" alt="Prices and payments" /></a></td>
+</tr>
+<tr>
+<td>Manage prices and discounts</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/setting-up-prices-and-discounts/index.html"><img title="Set up prices and discounts" src="../../../_img/help_on.png" alt="Set up prices and discounts" /></a></td>
+</tr>
+</tbody>
+</table>
+<h2 class="tab">Access control</h2>
+<p>You can assign different access control rules to each of your catalogs in order to allow or restrict access to them.</p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Availability</strong></td>
+<td class="list_title_last_how"><strong>How to</strong></td>
+</tr>
+<tr>
+<td>Access control</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/user-access-control/index.html"><img title="User access control" src="../../../_img/help_on.png" alt="User access control" /></a></td>
+</tr>
+<tr>
+<td>Password protected catalogs</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/corporate-access/index.html"><img title="Corporate access" src="../../../_img/help_on.png" alt="Corporate access" /></a></td>
+</tr>
+<tr>
+<td>Public catalogs</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/public-access/index.html"><img title="Public access" src="../../../_img/help_on.png" alt="Public access" /></a></td>
+</tr>
+<tr>
+<td>User administration</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/user-administration/index.html"><img title="Web-to-print user administration" src="../../../_img/help_on.png" alt="User administration" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>We value your <a title="ZetaPrints privacy policy" href="../../../footer-menu/privacy-policy/index.html" target="_self">privacy</a>. <strong>We do not sell or share any information about you or your users. Never.</strong></p>
+<p>No credit card details are stored by ZetaPrints. All user activities are logged and monitored. You have full control over <a title="Web-to-print help: User management" href="../../../help/category/user-management/index.html" target="_self">access to your site</a> down to catalog level.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Branding</title>
+		<link>http://www.zetaprints.com/printers/web-to-print-branding</link>
+		<pubDate>Fri, 18 May 2007 08:35:05 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Printers]]></category>
+
+		<guid isPermaLink="false">http://hotissues.org/printers/branding/27</guid>
+		<description><![CDATA[We assume you already have a website that tells a bit about your printing business. ZetaPrints web-t...]]></description>
+				<content:encoded><![CDATA[<p>We assume you already have <a title="Free website building" href="../../../printers/free-websites/index.html" target="_self">a website</a> that tells a bit about your printing business. ZetaPrints web-to-print would come in addition to it as your online ordering system. It is important to make the ordering part look similar to the main website.<span id="more-27"></span></p>
+<p style="text-align: center;"><a title="Web-to-print help: Skins collection" href="../../../help/category/skins/index.html" target="_self"><img class="aligncenter" title="Free web-to-print skins" src="../../../wp-content/themes/zetaprints/_img/web-to-print_branding.gif" alt="Web-to-print free website themes" width="640" height="180" /></a></p>
+<p><a href="../../../help/category/skins/index.html"> </a></p>
+<h2>Basic customization</h2>
+<p>With our <a href="http://help.zetaprints.com/category/branding/" target="_blank">basic customization</a>, you can <strong>change the colours</strong> on all screens and <strong>upload your logo or banner</strong> which will appear on every page of the site. Basic customization is a simple process that can be done online by you or your designer.</p>
+<h2>Custom skins</h2>
+<p>By default, our web-to-print system comes in a &#8220;skeleton&#8221; mode. It has a very basic look, but you can apply a custom style sheet (CSS) and change the layout completely. We provide a number of <a title="web-to-print skins" href="../../../help/custom-skins/index.html">free skins</a> or you can always <a title="web-to-print CSS" href="../../../help/custom-css/index.html">make your own</a>.</p>
+<h2>Domain name</h2>
+<p>ZetaPrints web-to-print service is accessible through <a title="ZetaPrints web-to-print service" href="http://zetaprints.com/" target="_self">http://zetaprints.com</a>, initially. We strongly recommend that you <a title="Learn more about setting up a subdomain" href="http://help.zetaprints.com/custom-access-url/" target="_blank">set up a sub-domain</a> (e.g. http://orders.my-domain.com) for your online print ordering store so that it appears under your domain name. You and your users will be accessing our web-to-print system through your own domain name as if it was hosted on your own server.</p>
+<h2>Custom interface and workflow</h2>
+<p>Our <a title="web-to-print integration" href="../../../help/category/api/index.html">web-to-print API</a> can be used from within your e-commerce website to give it live preview and file generation capabilities. You can create your own workflows and user interfaces with our web-to-print in the background. We have web-to-print extensions for <a title="Web-to-print Magento demo" href="../../../magento/index.html" target="_self">Magento</a>, <a title="Web-to-print help: WordPress" href="../../../help/category/wordpress/index.html" target="_self">WordPress</a> and other CMS and e-commerce platforms.</p>
+<p><input id="gwProxy" type="hidden" /> <input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Templates</title>
+		<link>http://www.zetaprints.com/printers/web-to-print-templates</link>
+		<pubDate>Fri, 18 May 2007 08:34:03 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Printers]]></category>
+
+		<guid isPermaLink="false">http://hotissues.org/printers/templates/26</guid>
+		<description><![CDATA[You are in control
+Templates are CorelDRAW files prepared to a certain specification. You upload the...]]></description>
+				<content:encoded><![CDATA[<h2>You are in control</h2>
+<p>Templates are CorelDRAW files <a title="Web-to-print help: Template preparation" href="../../../help/category/template-preparation/index.html" target="_self">prepared</a> to a <a title="Web-to-print help: Limitations" href="../../../help/limitations/index.html" target="_self">certain specification</a>. You upload the template files directly into the system. The ordering form with fields for user text and images is generated automatically based on the information found in the file.<span id="more-26"></span></p>
+<p><a title="Web-to-print help: Brochures guide" href="../../../help/brochures-guide/index.html" target="_self"><img class="alignnone" title="Web-to-print help: Brochures guide" src="../../../wp-content/themes/zetaprints/_img/brochures.jpg" alt="Brochures product guide" width="125" height="180" /></a><a title="Web-to-print help: Outdoor signs guide" href="../../../help/outdoor-signs-guide/index.html" target="_self"><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print help: Outdoor signs guide" src="../../../wp-content/themes/zetaprints/_img/outdoor_signs.jpg" alt="Yard signs product guide" width="125" height="180" /></a><a title="Web-to-print help: T-shirts guide" href="../../../help/t-shirts-guide/index.html" target="_self"><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print help: T-shirts guide" src="../../../wp-content/themes/zetaprints/_img/web-to-print_t-shirts.jpg" alt="T-shirts product guide" width="125" height="180" /></a><a title="Web-to-print help: Business cards guide" href="../../../help/business-cards-guide/index.html" target="_self"><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print help: Business cards guide" src="../../../wp-content/themes/zetaprints/_img/web-to-print_business_cards.jpg" alt="Business cards product guide" width="125" height="180" /></a><a title="Web-to-print help: CD/DVD labels guide" href="../../../help/cddvd-labels-guide/index.html" target="_self"><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print help: CD/DVD labels guide" src="../../../wp-content/themes/zetaprints/_img/web-to-print_DVD_labels.jpg" alt="CD/DVD labels product guide" width="125" height="180" /></a></p>
+<p><a title="Web-to-print help: Greeting cards guide" href="../../../help/greeting-cards-guide/index.html" target="_self"><img class="alignnone" title="Web-to-print help: Greeting cards guide" src="../../../wp-content/themes/zetaprints/_img/web-to-print_greeting_cards.jpg" alt="Greeting cards product guide" width="125" height="180" /></a><a title="Web-to-print help: Books guide" href="../../../help/books-guide/index.html" target="_self"><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print help: Books guide" src="../../../wp-content/themes/zetaprints/_img/web-to-print_books.jpg" alt="Books product guide" width="125" height="180" /></a><a title="Web-to-print help: Posters guide" href="../../../help/poster-guide/index.html" target="_self"><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print help: Posters guide" src="../../../wp-content/themes/zetaprints/_img/web-to-print_posters.jpg" alt="Posters product guide" width="125" height="180" /></a><a title="Web-to-print help: Newspaper ads guide" href="../../../help/newspaper-ads-guide/index.html" target="_self"><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print help: Newspaper ad guide" src="../../../wp-content/themes/zetaprints/_img/web-to-print_newspaper_ad.jpg" alt="Newspaper ads product guide" width="125" height="180" /></a><a title="Web-to-print help: CD/DVD cover guide" href="../../../help/cddvd-case-cover-guide/index.html" target="_self"><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print help: CD/DVD covers guide" src="../../../wp-content/themes/zetaprints/_img/web-to-print_DVD_cover.jpg" alt="CD/DVD cover product guide" width="125" height="180" /></a></p>
+<h2>It costs the same</h2>
+<p>Making a template is only marginally harder than producing a finished design. The only difference is <a title="Web-to-print help: Concepts" href="../../../help/from-image-to-web-to-print-template/index.html" target="_self">in the thinking</a>.</p>
+<h2>Customizable text and images</h2>
+<p>It is very simple to convert an ordinary design into a <a title="Web-to-print help: PDF to template conversion" href="../../../help/pdf-to-template-conversion-basic/index.html" target="_self">usable template</a> &#8211; just name the fields for user <a title="Web-to-print help: Text fields" href="../../../help/category/text-fields/index.html" target="_self">texts</a> and <a title="Web-to-print help: Image fields" href="../../../help/category/image-fields/index.html" target="_self">images</a>.<br />
+The system reads the field information directly from the file. There are numerous rules you can apply, such as <a title="Web-to-print help: Text alignment" href="../../../help/multiple-fields-in-one-text-frame/index.html" target="_self">alignment</a>, horizontal and vertical shift, <a title="Web-to-print help: Conditional object removal" href="../../../help/conditional-object-removal/index.html" target="_self">removal of elements</a> if some other elements are not present, <a title="Web-to-print help: Field editor" href="../../../help/field-editor/index.html" target="_self">maximum and minimum length</a>, recommended <a title="Web-to-print help: Image quality" href="../../../help/image-quality/index.html" target="_self">image resolution</a>, etc.</p>
+<h2>Special effects</h2>
+<p>Unlike PDF-based systems, our web-to-print is more powerful when it comes to design creativity. A PDF file would have all the special effects flattened or converted to curves. Our system retains most of the information and re-produces the effect with user text and images. There are very few limits to <a title="Web-to-print help: Design techniques" href="../../../help/category/design-techniques/index.html" target="_self">what you can design</a>.</p>
+<h2>Separate templates for preview and printing</h2>
+<p>You can use the same template for on-screen previews and for printing, but we recommend using <a title="Web-to-print help: Separate preview and printing templates" href="../../../help/templates-for-preview-and-printing/index.html" target="_self">separate preview and printing templates</a>. A preview template should be optimized for on-screen viewing by using lower resolution graphics to help speed viewing time on screen. Thus configured, a preview template may not be suitable for all types of printing.</p>
+<h2>Outsourcing</h2>
+<p>You can outsource template preparation to designers featured on this site to assist you with designing new templates or converting your existing PSD, PDF, InDD, or other files into templates.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Storefront</title>
+		<link>http://www.zetaprints.com/printers/web-to-print-storefront</link>
+		<pubDate>Fri, 18 May 2007 08:32:50 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Printers]]></category>
+
+		<guid isPermaLink="false">http://hotissues.org/printers/storefront/25</guid>
+		<description><![CDATA[Corporate storefront
+Your corporate web-to-print storefront can be completely locked down so that no...]]></description>
+				<content:encoded><![CDATA[<h2>Corporate storefront</h2>
+<p>Your corporate web-to-print storefront can be completely locked down so that no one without login and password can access it. Web-to-print storefronts can be shared between different corporate customers without interfering with each other or you can create one storefront per customer.<span id="more-25"></span></p>
+<ul>
+<li>Password protected catalogs</li>
+<li>Order review and <a title="Web-to-print help: Order approval" href="../../../help/order-approval/index.html" target="_self">approval</a> process</li>
+<li><a title="Web-to-print help: User access control" href="../../../help/user-management/index.html" target="_self">User access control</a> by another nominated user (e.g. office manager)</li>
+<li><a title="Web-to-print help: Corporate access control" href="../../../help/corporate-access/index.html" target="_self">Automatic access control</a> by domain name in the user&#8217;s email address</li>
+<li>Access to raw user data</li>
+<li><a title="Web-to-print help: API integration" href="../../../help/category/api/index.html" target="_self">API integration</a> for controlling the workflow</li>
+<li>Bulk <a title="Web-to-print help: User management" href="../../../help/user-management-centralized/index.html" target="_self">user management</a></li>
+</ul>
+<h2>Public storefronts</h2>
+<p>A public web-to-print storefront has templates available to anyone visiting the site. A well designed custom skin will give your storefront a unique look relevant to your target audience.</p>
+<ul>
+<li>Control user registration process (may register, doesn&#8217;t need to register or must register)</li>
+<li><a title="Web-to-print help: Set up prices and discounts" href="../../../help/setting-up-prices-and-discounts/index.html" target="_self">Control prices and payments</a></li>
+<li>Various <a title="Web-to-print help: Homepage layout" href="../../../help/homepage-layout/index.html" target="_self">home page layout</a> options</li>
+<li>Custom JavaScript to control workflow and add specific features</li>
+</ul>
+<p><strong>Product examples:</strong> <a title="Web-to-print Invitation templates" href="http://zetaprints.com/?page=templates;Keywords=invitations" target="_self">invitations</a>, <a title="Web-to-print photo album templates" href="http://zetaprints.com/?page=templates;Keywords=Photo%20album" target="_self">photo albums</a>, <a title="Web-to-print Business card templates" href="http://zetaprints.com/?page=templates;Keywords=Business%20cards" target="_self">business cards</a>, <a title="Web-to-print Poster templates" href="http://zetaprints.com/?page=templates;Keywords=poster" target="_self">posters</a>, giftware and any other consumer products.</p>
+<h2>Custom storefronts</h2>
+<p>ZetaPrints web-to-print can be integrated into other e-commerce systems using our <a title="web-to-print API" href="../../../help/category/api/index.html">web-to-print API</a>. The e-commerce system provides all the storefront functionality while ZetaPrints takes care of all the preview and file generation. This combination gives you full power of our web-to-print within a uniquely yours e-commerce environment.</p>
+<p><strong>Open source storefront integration examples:</strong></p>
+<ul>
+<li><a title="Web-to-print Magento demo" href="../../../magento/index.html" target="_self">Magento</a></li>
+<li><a title="OpenX integration" href="http://code.google.com/p/openx-banner-creator/" target="_self">OpenX</a></li>
+</ul>
+<p><input id="gwProxy" type="hidden" /><input id="jsProxy" onclick="jsCall();" type="hidden" /></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Patterns &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/patterns/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Patterns in action</title>
+		<link>http://www.zetaprints.com/help/patterns-in-action/</link>
+		<pubDate>Tue, 10 Mar 2009 14:58:08 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Examples]]></category>
+		<category><![CDATA[Patterns]]></category>
+		<category><![CDATA[Practical use]]></category>
+
+		<guid isPermaLink="false">/help/?p=5509</guid>
+		<description><![CDATA[Patterns can be used for many purposes in a web-to-print templates. After learning how to create custom two color, full color and bitmap web-to-print patterns in CorelDRAW, you can try them in your web-to-print designs. Here are a few examples of patterns and their practical use. Flannel cloth Use patterns to simulate different surfaces in [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Create full-color and bitmap patterns in CorelDRAW</title>
+		<link>http://www.zetaprints.com/help/create-full-color-and-bitmap-patterns-in-coreldraw/</link>
+		<pubDate>Thu, 05 Mar 2009 16:28:40 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Custom fills]]></category>
+		<category><![CDATA[Patterns]]></category>
+
+		<guid isPermaLink="false">/help/?p=5407</guid>
+		<description><![CDATA[You can create and add custom pattern fills in CorelDRAW out of vector art or bitmaps. The process is very simple once you learn a few rules. This tutorial helps understand the basics of creating custom full-color and bitmap pattern fills. Check out Ctreate two color patterns in CorelDRAW tutorial as well. Overview You can [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Custom web-to-print patterns</title>
+		<link>http://www.zetaprints.com/help/custom-web-to-print-patterns/</link>
+		<pubDate>Thu, 05 Mar 2009 16:21:54 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Custom fills]]></category>
+		<category><![CDATA[Patterns]]></category>
+
+		<guid isPermaLink="false">/help/?p=5401</guid>
+		<description><![CDATA[All the custom patterns you used in CorelDRAW are retained in the file after you’ve saved it. This means that custom patterns (two-color, full-color or bitmap) can be used in web-to-print templates. Example / Lets use a custom full-color pattern on a variable text field in a web-to-print template. / / / Learn how to [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Create two-color patterns in CorelDRAW</title>
+		<link>http://www.zetaprints.com/help/create-two-color-patterns-in-coreldraw/</link>
+		<pubDate>Thu, 05 Mar 2009 14:37:21 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Custom fills]]></category>
+		<category><![CDATA[Patterns]]></category>
+
+		<guid isPermaLink="false">/help/?p=5394</guid>
+		<description><![CDATA[CorelDRAW lets you create your own patterns out of vector art. The process is very simple once you learn a few rules. This tutorial helps understand the basics of creating a custom two color pattern fill. Check out the Ctreate full color and bitmap patterns in CorelDRAW tutorial after mastering this one. Overview You can [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

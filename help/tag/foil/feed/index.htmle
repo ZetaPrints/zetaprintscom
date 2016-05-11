@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>foil &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/foil/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Foil print preview</title>
+		<link>http://www.zetaprints.com/help/foil-print-preview/</link>
+		<pubDate>Wed, 29 Jul 2009 16:55:28 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[embossing]]></category>
+		<category><![CDATA[finishing effect]]></category>
+		<category><![CDATA[foil]]></category>
+		<category><![CDATA[Illusion]]></category>
+
+		<guid isPermaLink="false">/help/?p=6588</guid>
+		<description><![CDATA[Foil is commonly used in print finishing. It gives a product a distinct and often expensive look. Simulating foil in a web-to-print templates may be difficult, but not impossible. Lets say you have a simple, two-text fields template of a brochure cover intended for foil print on a special kind of paper. The file the [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

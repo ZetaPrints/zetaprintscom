@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rays &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/rays/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Light rays</title>
+		<link>http://www.zetaprints.com/help/light-rays-for-dynamic-imaging/</link>
+		<pubDate>Wed, 13 Jan 2010 09:52:07 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Light]]></category>
+		<category><![CDATA[Rays]]></category>
+		<category><![CDATA[Sun]]></category>
+		<category><![CDATA[Transprency]]></category>
+
+		<guid isPermaLink="false">/help/?p=8719</guid>
+		<description><![CDATA[Here&#8217;s a cool web-to-print or dynamic imaging technique of light rays going through from behind a variable text frame. This is a simple trick that involves some Photoshop work and some creative use of CorelDRAW layers. In a nutshell, we&#8217;re going to create two images in Photoshop and sandwich some variable text frames between them [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

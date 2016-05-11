@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CorelDRAW Tutorials &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/category/coreldraw-tutorials/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Transparent PowerClip</title>
+		<link>http://www.zetaprints.com/help/transparent-powerclip-coreldraw/</link>
+		<pubDate>Sun, 15 Nov 2009 17:19:47 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Layering]]></category>
+		<category><![CDATA[PowerClip]]></category>
+		<category><![CDATA[Transparency]]></category>
+
+		<guid isPermaLink="false">/help/?p=8140</guid>
+		<description><![CDATA[Every once in a while you&#8217;ll need to use some shape or text as a PowerClip container for another shape, text or even an image. This tutorial shows different combination of PowerClip transparencies. Layering Transparency effects are always dependent on the way transparent objects are layered on top of each other. A simple PowerClip container [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Blending as an alternative to Extrusion</title>
+		<link>http://www.zetaprints.com/help/blending-as-an-alternative-to-extrusion/</link>
+		<pubDate>Sun, 26 Jul 2009 19:07:12 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Blend]]></category>
+		<category><![CDATA[Effect simulation]]></category>
+		<category><![CDATA[Extrude]]></category>
+
+		<guid isPermaLink="false">/help/?p=6892</guid>
+		<description><![CDATA[Although CorelDRAW offers us an option of creating an extrusion with its Interactive Extrude tool designed for the purpose, we’re going to simulate the extrusion using CorelDRAW’s Interactive Blending tool to achieve better quality and avoid the unwanted pixelation, notorious for the Extrude tool. Here&#8217;s how you can create the 3D extrusion of the characters [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>CorelDRAW custom artistic brush</title>
+		<link>http://www.zetaprints.com/help/coreldraw-custom-artistic-brush/</link>
+		<pubDate>Sun, 26 Jul 2009 17:41:09 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Custom brushes]]></category>
+
+		<guid isPermaLink="false">/help/?p=6945</guid>
+		<description><![CDATA[Every once in a while you might need to draw multiple complex shapes that look the same but folow a different curve. In many cases, creating your own custom CorelDRAW Artistic brush can help you save time. / / Lets say we need to draw this tree in CorelDRAW as needed for the Dream design [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Merge mode samples</title>
+		<link>http://www.zetaprints.com/help/merge-mode-samples/</link>
+		<pubDate>Wed, 17 Jun 2009 19:26:17 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Blending]]></category>
+		<category><![CDATA[Merge modes]]></category>
+		<category><![CDATA[Transparency]]></category>
+
+		<guid isPermaLink="false">/help/?p=6592</guid>
+		<description><![CDATA[Here are a few examples of designs achieved by assigning different merge modes to some of their elements. The CorelDRAW merge modes are used as transparency operations or as drop shadow blending modes. Remember that these operations are a bit of a trial and error. It is hard to predict what the result will be [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>CorelDRAW transparency operations</title>
+		<link>http://www.zetaprints.com/help/coreldraw-transparency-operations/</link>
+		<pubDate>Mon, 15 Jun 2009 10:44:10 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[CorelDRAW transparency]]></category>
+		<category><![CDATA[Overlay]]></category>
+		<category><![CDATA[Presets]]></category>
+
+		<guid isPermaLink="false">/help/?p=6525</guid>
+		<description><![CDATA[There are 19 Transparency operation presets in CorelDRAW. These operations (also known as &#8220;Merge modes&#8220;) enable different overlaying options and are dependent on the colors of the transparent object and the objects under it since they specify how those colors are combined. Here are a few previews of each transparency operation used on the same [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>CorelDRAW transparency tool</title>
+		<link>http://www.zetaprints.com/help/coreldraw-transparency-tool/</link>
+		<pubDate>Wed, 10 Jun 2009 08:37:30 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[CorelDRAW transparency]]></category>
+		<category><![CDATA[Overlay]]></category>
+		<category><![CDATA[web-to-print effects]]></category>
+
+		<guid isPermaLink="false">/help/?p=6386</guid>
+		<description><![CDATA[CorelDRAWs transparency tool can really make a difference for your web-to-print templates. Lots of cool effects are achieved with combining simple transparencies, but it you to know how. Read on. About the tool The Transparency tool sits in CorelDRAW toolbox menu on the left under Interactive tools group. The default interactive tool is Blending tool. [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Pseudo perspective on a bitmap</title>
+		<link>http://www.zetaprints.com/help/pseudo-perspective-on-a-bitmap/</link>
+		<pubDate>Tue, 09 Jun 2009 16:47:12 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[image perspective]]></category>
+		<category><![CDATA[Simulation]]></category>
+
+		<guid isPermaLink="false">/help/?p=6238</guid>
+		<description><![CDATA[CorelDRAW doesn’t allow a perspective effect to be applied to bitmapa. This is a trick that you can use to simulate a perspective on an image placeholder in your web-to-print templates. Well, CorelDRAW does have Perspective Effect for bitmaps, but it cannot be used for web-to-print or dynamic imaging templates. This posts explains how to [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>CorelDRAW envelope tool</title>
+		<link>http://www.zetaprints.com/help/coreldraw-envelope-tool/</link>
+		<pubDate>Mon, 08 Jun 2009 13:02:25 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Complex Text Effect]]></category>
+		<category><![CDATA[CorelDRAW envelope]]></category>
+
+		<guid isPermaLink="false">/help/?p=6293</guid>
+		<description><![CDATA[CorelDRAWs Envelope tool can come in handy in many different situations. Use it to stretch and compress any object or text using eight available points and achieve any desired shape. About the tool The Envelope tool can be found in CorelDRAW toolbox menu on the left under Interactive tools group. The default interactive tool is [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>CorelDRAW table tool &#8211; part 2</title>
+		<link>http://www.zetaprints.com/help/coreldraw-table-tool-part-2/</link>
+		<pubDate>Tue, 17 Mar 2009 14:35:47 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Layout]]></category>
+		<category><![CDATA[Tables]]></category>
+
+		<guid isPermaLink="false">/help/?p=5644</guid>
+		<description><![CDATA[CorelDRAWs Table tool can come in handy for complex web-to-print layouts. These are some of its features to help you better understand how it works. About the tool The Table tool can be found in CorelDRAW toolbox menu on the left. This is a new tool that was introduced in CorelDRAW X4 for the first [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>CorelDRAW table tool &#8211; Part 1</title>
+		<link>http://www.zetaprints.com/help/coreldraw-table-tool-part-1/</link>
+		<pubDate>Tue, 17 Mar 2009 14:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Layout]]></category>
+		<category><![CDATA[Tables]]></category>
+
+		<guid isPermaLink="false">/help/?p=5639</guid>
+		<description><![CDATA[CorelDRAWs Table tool can come in handy for complex web-to-print layouts. These are some of its features to help you better understand how it works. About the tool The Table tool can be found in CorelDRAW toolbox menu on the left. This is a new tool that was introduced in CorelDRAW X4 for the first [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Create full-color and bitmap patterns in CorelDRAW</title>
+		<link>http://www.zetaprints.com/help/create-full-color-and-bitmap-patterns-in-coreldraw/</link>
+		<pubDate>Thu, 05 Mar 2009 16:28:40 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Custom fills]]></category>
+		<category><![CDATA[Patterns]]></category>
+
+		<guid isPermaLink="false">/help/?p=5407</guid>
+		<description><![CDATA[You can create and add custom pattern fills in CorelDRAW out of vector art or bitmaps. The process is very simple once you learn a few rules. This tutorial helps understand the basics of creating custom full-color and bitmap pattern fills. Check out Ctreate two color patterns in CorelDRAW tutorial as well. Overview You can [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Create two-color patterns in CorelDRAW</title>
+		<link>http://www.zetaprints.com/help/create-two-color-patterns-in-coreldraw/</link>
+		<pubDate>Thu, 05 Mar 2009 14:37:21 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Custom fills]]></category>
+		<category><![CDATA[Patterns]]></category>
+
+		<guid isPermaLink="false">/help/?p=5394</guid>
+		<description><![CDATA[CorelDRAW lets you create your own patterns out of vector art. The process is very simple once you learn a few rules. This tutorial helps understand the basics of creating a custom two color pattern fill. Check out the Ctreate full color and bitmap patterns in CorelDRAW tutorial after mastering this one. Overview You can [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Contour tool</title>
+		<link>http://www.zetaprints.com/help/contour-tool/</link>
+		<pubDate>Tue, 17 Feb 2009 01:23:50 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Contour]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Tools]]></category>
+
+		<guid isPermaLink="false">/help/?p=4864</guid>
+		<description><![CDATA[The benefits of the CorelDRAW Contour tool are a good reason for us to take a better look into its properties and variations. This tool is basically a way to create concentric lines to the outer or inner side of an object. About the tool The Contour tool can be found in CorelDRAW toolbox menu [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>CorelDRAW rainbow</title>
+		<link>http://www.zetaprints.com/help/coreldraw-rainbow/</link>
+		<pubDate>Thu, 12 Feb 2009 13:23:08 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Blending]]></category>
+		<category><![CDATA[Spectrum]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=4704</guid>
+		<description><![CDATA[Here’s one of the many ways to make a rainbow in CorelDRAW. This technique is based around the Blending tool used to blend two arcs of similar color. Using a Counterclockwise blend between two objects of the same color results in a blending out of the entire color spectrum. We&#8217;ll use this feature to create [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Inverted transparency in CorelDRAW</title>
+		<link>http://www.zetaprints.com/help/inverted-transparency-in-coreldraw/</link>
+		<pubDate>Mon, 02 Feb 2009 23:36:46 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Invert]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Transparency]]></category>
+
+		<guid isPermaLink="false">/help/?p=4540</guid>
+		<description><![CDATA[CorelDRAW does not have a built-in Invert transparency option as a Transparency tool preset. Sometimes you need to add an inverted radial transparency than the default one, here&#8217;s how. Example / / As you can see in this example, the image is darker towards the corners. Lets say that we need to achieve this and [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

@@ -1,0 +1,1368 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="verify-v1" content="GACnn9+1c3JzusKbMwxWr+f9dKvqx8As8sbHI8tNyxA=" />
+  <meta name="keywords" content="web-to-print, online printing, zetaprints, online print ordering" />
+  <title>   PayPal Pro plugin demo | Web-to-print and Dynamic Imaging Help</title>
+  <script type="text/javascript" src="../wp-content/themes/water-zp-3/jslib.js"></script>
+  <meta name="generator" content="ZetaPrints"/> <!-- leave this for stats -->
+  <link rel="stylesheet" href="../wp-content/themes/water-zp-3/style.css" type="text/css" media="all" />
+  <link href="../wp-content/themes/water-zp-3/style-fixed.css" rel="stylesheet" type="text/css" />
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../feed/index.html" />
+  <link rel="alternate" type="text/xml" title="RSS .92" href="../feed/rss/index.html" />
+  <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../feed/atom/index.html" />
+  <!--link rel="pingback" href="http://www.zetaprints.com/help/xmlrpc.php" /-->
+  		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.zetaprints.com\/help\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cat-post-tree-ajax-css'  href='../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2-ver=0.7.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='top_css-css'  href='../wp-content/themes/water-zp-3/top-menu-ver=4.4.1.css' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='top_css_ie-css'  href='../wp-content/themes/water-zp-3/top-menu-ie-ver=4.4.1.css' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='codecolorer-css'  href='../wp-content/plugins/codecolorer/codecolorer-ver=0.9.9.css' type='text/css' media='screen' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='../wp-content/themes/water-zp-3/js/top-menu.js?ver=4.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CatPostAjax = {"ajaxurl":"http:\/\/www.zetaprints.com\/help\/wp-admin\/admin-ajax.php","nice_ajax_tree_img":"\/help\/wp-content\/plugins\/cat-post-tree-ajax\/img\/","type":"post","id":"7355","cat":"17"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2.js?ver=4.4.1'></script>
+<script type='text/javascript' src='../wp-content/plugins/zpecards/js/zp.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc-rsd.php.html" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='PayPal Pro gateway for WordPress' href='../paypal-pro-gateway-for-wordpress/index.html' />
+<link rel='next' title='Upload your first template' href='../upload-your-first-template/index.html' />
+<meta name="generator" content="WordPress 4.4.1" />
+<link rel="canonical" href="index.html" />
+<link rel='shortlink' href='../index-p=7355.html' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed/index-url=http___www.zetaprints.com_help_paypal-pro-plugin-demo_.html" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed/index-url=http___www.zetaprints.com_help_paypal-pro-plugin-demo_&format=xml.html" />
+<meta property="og:site_name" content="Web-to-print and Dynamic Imaging Help" />
+<meta property="og:title" content="PayPal Pro plugin demo" />
+<meta property="og:url" content="http://www.zetaprints.com/help/paypal-pro-plugin-demo/" />
+<meta property="og:type" content="article" />
+<link rel="stylesheet" href="../wp-content/plugins/paypal-pro-zp-gateway/paypal-pro.css" type="text/css" media="screen" /><link rel="stylesheet" href="../wp-content/plugins/prepress/prepress.css" type="text/css" media="screen" />
+<script type="text/javascript" src="../wp-content/plugins/prepress/livevalid.js"></script>
+
+<style type="text/css">
+.wptable {
+	border-width: 1 px;
+	border-color: #E58802;
+	border-style: solid;
+	}
+
+.wptable th {
+	border-width: 1px;
+	border-color: #E58802;
+	background-color: #E58802;
+	border-style: solid;
+}
+
+.wptable td {
+	border-width: 1px;
+	border-color: #E58802;
+	border-style: solid;
+}
+
+.wptable tr.alt {
+ 	background-color: #F4F4EC;
+}
+
+</style>
+<link type="text/css" rel="stylesheet" href="../wp-content/plugins/zpecards/css/zpEcards.css" />
+<script type='text/javascript' src='../wp-includes/js/tw-sack.min.js?ver=1.6.1'></script>
+  <!--[if IE]>
+  <style>
+  
+  </style>
+  <![EndIf]-->
+  <style type="text/css" media="print">
+  #header, #footer, #rightcol, #logo, .social_bookmark, .post-rel, .postmetadata, #questionMark, p.nocomments {display:none}
+  </style>
+  <link media="screen" type="text/css" href="../wp-content/themes/water-zp-3/grid.css" rel="stylesheet"/>
+  <script type='text/javascript' src="../wp-content/themes/water-zp-3/js/grid.js" ></script>
+</head>
+
+<body>
+  <div id="header-container" class="clearfix container">
+    <div id="header">
+      <div class="logo">
+        <a href="../../index.html"><img src="../wp-content/themes/water-zp-3/images/logo.gif" alt="ZetaPrints Web-to-print home"/></a>
+        <h1><a href="../index.html"><span>ZetaPrints</span> help</a></h1>
+        <h3>Web-to-Print &amp; dynamic imaging</h3>
+      </div>
+      <form method="get" id="searchform" action="http://www.zetaprints.com/help/">
+        <div>
+          <input type="text" value=""  name="s" id="s" />
+          <input type="image" id="searchsubmit" alt="Search" src="../wp-content/themes/water-zp-3/images/search_btn.gif" />
+        </div>
+      </form>
+      <div class="nav">
+    <ul class="main" id="top-drop-menu">
+        <li>
+            <a href="../../index.html" title="Zetaprints home">Home</a>
+        </li><li class="drop">
+            <a href="../index.html" class="drop-down-link">Help</a>
+            <ul>
+                <li>
+                    <a href="../index.html" class="drop-down-link">Web-to-print help</a>
+                </li>
+                <li>
+                    <a href="../../magentohelp/index.html" class="drop-down-link">Magento help</a>
+                </li>
+				<li>
+					<a href="../../premium/index.html" class="drop-down-link">Premium support</a>
+				</li>
+				<li>
+					<a href="../../directory/index.html" class="drop-down-link">Resources</a>
+				</li>
+				<li class="last">
+					<a href="../../userhelp/index.html" class="drop-down-link">End user help</a>
+				</li>
+            </ul>
+        </li><li>
+            <a href="../../blog/index.html" title="Web to print blog">Blog</a>
+        </li><li>
+            <a href="../../packages/sign-up-for-web-to-print/index.html" title="Sign up for web-to-print">Sign up</a>
+        </li><li class="no_border">
+            <a href="http://zetaprints.com" title="Web to print system">Log in</a>
+        </li>
+    </ul>
+</div>
+<!-- nav -->
+    </div> <!-- header -->
+  </div> <!-- container -->
+
+<link href="%3C/index-bloginfo('template_url')?.html>/js/jquery-ui-1.8.2.custom.css" rel="stylesheet" type="text/css"/>
+<script src="%3C/index-bloginfo('template_url')?.html>/js/jquery-ui-1.8.2.custom.min.js"></script>
+<script>
+  jQuery(document).ready(function(){
+    // init jQuery for tabs div
+    jQuery("#featuretabs").tabs({
+      select: function(event, ui){
+        jQuery( "a" ).blur(); // remove border for selected tab
+      }
+    })
+  });
+</script>
+<div id="content-container" class="container clearfix">
+      <div id="rightcol">
+      <ul>
+        <li id="text-3" class="widget widget_text"><h2 class="widgettitle">Premium support</h2>
+			<div class="textwidget"><div id="premium_menu_container">
+<ul id="premium_menu">
+<li><a href="../../premium/index.php/web-to-print-support.html" title="Web-to-print and dynamic imaging support">Installation, administration <img src="../img/premium_go_ico.png" /></a></li>
+<li><a href="../../premium/index.php/templates.html" title="Web-to-print and dynamic imaging templates support">Template conversion <img src="../img/premium_go_ico.png" /></a></li>
+</ul>
+</div></div>
+		</li>
+<li id="pages-2" class="widget widget_pages"><h2 class="widgettitle">Get started</h2>
+		<ul>
+			<li class="page_item page-item-7566"><a href="../index.html">Home</a></li>
+<li class="page_item page-item-9641"><a href="../get-started-overvie/index.html">Get started</a></li>
+<li class="page_item page-item-9644"><a href="../template-creation/index.html">Template creation</a></li>
+<li class="page_item page-item-9646"><a href="../site-admin/index.html">Site admin</a></li>
+<li class="page_item page-item-9650"><a href="../user-administration/index.html">User administration</a></li>
+<li class="page_item page-item-9660"><a href="../branding/index.html">Branding</a></li>
+<li class="page_item page-item-173"><a href="../website-builder/index.html">Website builder</a></li>
+<li class="page_item page-item-9653"><a href="../billing/index.html">Billing</a></li>
+<li class="page_item page-item-488"><a href="../web2print-site-map/index.html">Site map</a></li>
+		</ul>
+		</li>
+<li id="text-2" class="widget widget_text"><h2 class="widgettitle">API and Integration</h2>
+			<div class="textwidget"><ul>
+<li id="open-source-menu-tab"><a href="../../magentohelp/index.html" title="Magento web-to-print"><img src="../img/icons/magento.png" alt="Magento"/></a><a href="../category/openx/index.html" title="OpenX banner generator"><img src="../img/icons/openx.png" alt="OpenX"/></a><a href="../../twictures/index.html"><img src="../img/icons/twictures.png" alt="twictures"/></a><a href="../category/wordpress/index.html" title="WordPress dynamic imaging tools"><img src="../img/icons/wp.png" alt="WP"/></a></li>
+<li><a href="../category/api/index.html">API</a></li>
+<li><a href="../tools/index.html">Tools</a></li>
+</ul></div>
+		</li>
+<li id="niceajaxtree-widget-3" class="widget cat-post-ajax-tree"><h2 class="widgettitle"><span class="widgettitle">Topics</span></h2>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/get-started/index.html"
+	title="View all posts in * GET STARTED *">* GET STARTED *</a>
+<span
+	class="arrow cat-item-24">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-24" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/access-control/index.html"
+	title="View all posts in Access control">Access control</a>
+<span
+	class="arrow cat-item-35">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-35" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/api/index.html"
+	title="View all posts in API &amp; integration">API &amp; integration</a>
+<span
+	class="arrow cat-item-244">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-244" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/billing/index.html"
+	title="View all posts in Billing">Billing</a>
+<span
+	class="arrow cat-item-28">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-28" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/branding/index.html"
+	title="View all posts in Branding">Branding</a>
+<span
+	class="arrow cat-item-8">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-8" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/catalogs/index.html"
+	title="View all posts in Catalogs">Catalogs</a>
+<span
+	class="arrow cat-item-25">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-25" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/tagging/index.html"
+	title="View all posts in Categories, tags, keywords">Categories, tags, keywords</a>
+<span
+	class="arrow cat-item-27">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-27" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/corel-draw-how-to/index.html"
+	title="View all posts in CorelDRAW How to's">CorelDRAW How to's</a>
+<span
+	class="arrow cat-item-451">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-451" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/coreldraw-tutorials/index.html"
+	title="View all posts in CorelDRAW Tutorials">CorelDRAW Tutorials</a>
+<span
+	class="arrow cat-item-157">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-157" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/access-url/index.html"
+	title="View all posts in Custom domains">Custom domains</a>
+<span
+	class="arrow cat-item-20">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-20" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/design-techniques/index.html"
+	title="View all posts in Design techniques">Design techniques</a>
+<span
+	class="arrow cat-item-190">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-190" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/designer-resources/index.html"
+	title="View all posts in Designer resources">Designer resources</a>
+<span
+	class="arrow cat-item-315">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-315" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/banners/index.html"
+	title="View all posts in Dynamic imaging">Dynamic imaging</a>
+<span
+	class="arrow cat-item-26">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-26" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/file-transfer/index.html"
+	title="View all posts in File transfer">File transfer</a>
+<span
+	class="arrow cat-item-32">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-32" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/fonts/index.html"
+	title="View all posts in Fonts">Fonts</a>
+<span
+	class="arrow cat-item-9">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-9" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/image-fields/index.html"
+	title="View all posts in Image fields">Image fields</a>
+<span
+	class="arrow cat-item-19">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-19" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/image-management/index.html"
+	title="View all posts in Image management">Image management</a>
+<span
+	class="arrow cat-item-354">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-354" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/magento/index.html"
+	title="View all posts in Magento">Magento</a>
+<span
+	class="arrow cat-item-470">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-470" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/uncategorized/index.html"
+	title="View all posts in Miscelaneous">Miscelaneous</a>
+<span
+	class="arrow cat-item-1">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-1" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/obsolete/index.html"
+	title="View all posts in Obsolete">Obsolete</a>
+<span
+	class="arrow cat-item-156">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-156" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/openx/index.html"
+	title="View all posts in OpenX">OpenX</a>
+<span
+	class="arrow cat-item-487">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-487" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/order-management/index.html"
+	title="View all posts in Order management">Order management</a>
+<span
+	class="arrow cat-item-34">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-34" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/pdf-conversion/index.html"
+	title="View all posts in PDF conversion">PDF conversion</a>
+<span
+	class="arrow cat-item-39">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-39" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/pdf-settings/index.html"
+	title="View all posts in PDF settings">PDF settings</a>
+<span
+	class="arrow cat-item-12">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-12" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/policies/index.html"
+	title="View all posts in Policies">Policies</a>
+<span
+	class="arrow cat-item-172">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-172" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/pre-press/index.html"
+	title="View all posts in Pre-press">Pre-press</a>
+<span
+	class="arrow cat-item-171">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-171" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/product-prices-and-payment/index.html"
+	title="View all posts in Prices and payments">Prices and payments</a>
+<span
+	class="arrow cat-item-17 collapse">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-17" style="">
+<ul><li><a href='../advanced-product-options/index.html' class='di__5698 postlink'>Advanced product options</a></li><li><a href='../custom-text-field-in-the-checkout-form/index.html' class='di__10796 postlink'>Custom text field in the checkout form</a></li><li><a href='../delivery-address-control/index.html' class='di__5700 postlink'>Delivery address control</a></li><li><a href='../payment-gateways/index.html' class='di__5977 postlink'>Payment gateways</a></li><li><a href='../paypal-pro-gateway-for-wordpress/index.html' class='di__7353 postlink'>PayPal Pro gateway for WordPress</a></li><li><a href='index.html' class='di__7355 postlink'><strong>PayPal Pro plugin demo</strong></a></li><li><a href='../prices-and-payments/index.html' class='di__10 postlink'>Prices and payments</a></li><li><a href='../setting-up-prices-and-discounts/index.html' class='di__62 postlink'>Setting up prices and discounts</a></li></ul></div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/product-guides/index.html"
+	title="View all posts in Product guides">Product guides</a>
+<span
+	class="arrow cat-item-158">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-158" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/rss/index.html"
+	title="View all posts in RSS">RSS</a>
+<span
+	class="arrow cat-item-29">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-29" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/skins/index.html"
+	title="View all posts in Skins">Skins</a>
+<span
+	class="arrow cat-item-261">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-261" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/template-management/index.html"
+	title="View all posts in Template management">Template management</a>
+<span
+	class="arrow cat-item-16">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-16" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/template-preparation/index.html"
+	title="View all posts in Template preparation">Template preparation</a>
+<span
+	class="arrow cat-item-10">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-10" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/text-fields/index.html"
+	title="View all posts in Text fields">Text fields</a>
+<span
+	class="arrow cat-item-18">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-18" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/input-constraints/index.html"
+	title="View all posts in Text fields management">Text fields management</a>
+<span
+	class="arrow cat-item-21">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-21" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/template-errors/index.html"
+	title="View all posts in Troubleshooting">Troubleshooting</a>
+<span
+	class="arrow cat-item-22">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-22" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/user-management/index.html"
+	title="View all posts in User management">User management</a>
+<span
+	class="arrow cat-item-23">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-23" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/website-builder/index.html"
+	title="View all posts in Website builder">Website builder</a>
+<span
+	class="arrow cat-item-40">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-40" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/website-stats/index.html"
+	title="View all posts in Website stats">Website stats</a>
+<span
+	class="arrow cat-item-31">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-31" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../category/wordpress/index.html"
+	title="View all posts in WordPress">WordPress</a>
+<span
+	class="arrow cat-item-538">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-538" style="display:none;">
+</div>
+</div>
+</li>
+		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Articles</h2>
+		<ul>
+					<li>
+				<a href="../bulk-editing-text-fields/index.html">Bulk editing text fields</a>
+						</li>
+					<li>
+				<a href="../free-outdoor-sign-web-to-print-templates/index.html">Free signage web-to-print templates</a>
+						</li>
+					<li>
+				<a href="../leader-dots/index.html">Leader dots</a>
+						</li>
+					<li>
+				<a href="../wrapping-web-to-print-paper/index.html">Wrapping paper</a>
+						</li>
+					<li>
+				<a href="../template-reprocessing/index.html">Template reprocessing</a>
+						</li>
+				</ul>
+		</li>
+		      </ul>
+    </div>
+  <div id="leftcol">
+    <div id="news" class="clearfix">
+      <div id="newswrap">
+                              <div class="post" id="post-7355">
+              <h1 class="posttitle"><a href="index.html" rel="bookmark" title="Permanent Link: PayPal Pro plugin demo">PayPal Pro plugin demo</a></h1>
+              <div class="pcont">
+                <div class="catfloat"><small><a href="../category/product-prices-and-payment/index.html" rel="category tag">Prices and payments</a>, <a href="../tag/paypal/index.html" rel="tag">paypal</a>, <a href="../tag/plug/index.html" rel="tag">plug</a>, <a href="../tag/plug-in/index.html" rel="tag">Plug-In</a>, <a href="../tag/widget/index.html" rel="tag">widget</a><br /></small></div>
+                <small>28/08/2009 <!-- by admin --></small>
+                <div class="entry">
+                  <p>This page is demo page for <a title="web-to-print payments gateway" href="../paypal-pro-gateway-for-wordpress/index.html">PayPal&#8217;s PayFlow Pro gateway</a>.</p>
+<p>Note that this is only a demo payments page. Do not use a real credit card. Type in some random numbers. Your input will be validated only partially. A real functioning payments page has stricter validation rules.<!--more--></p>
+<p><strong><table id="payPalPro">
+	<tr>
+	  <td colspan='2'><table id='payPalProInner'>
+          <tr>
+            <td colspan="2"  class="productbox">Your Selected Items: </td>
+          </tr>
+          <tr>
+            <td><strong>Item Name </strong></td>
+            <td><strong>Price</strong></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>$</td>
+          </tr>
+          <tr>
+            <td><div align="right"><strong>Total</strong></div></td>
+            <td>$</td>
+          </tr>
+        </table></td>
+    </tr>
+</table><form method='POST' action='/help/paypal-pro-plugin-demo/'>
+<table id="payPalPro">
+	<tr>
+		<td colspan='2' class="productbox">Demo payment form</td>
+	</tr>
+	<tr>
+		<th>First Name:</td>
+		<td ><input type='text' name='FIRSTNAME' class="textfield" value='' size='30'></td>
+	</tr>
+
+	<tr>
+		<th>Last Name:</td>
+		<td><input type='text' name='LASTNAME' class="textfield" value='' size='30'></td>
+	</tr>
+
+	<tr>
+		<th>Street Address:</td>
+		<td><input type='text' name='STREET' class="textfield" value='' size='30'></td>
+	</tr>
+	<tr>
+		<th>Street Address 2:</td>
+		<td><input type='text' name='STREET2' class="textfield" value='' size='30'></td>
+	</tr>
+	<tr>
+		<th>City:</td>
+		<td><input type='text' name='CITY' class="textfield" value='' size='30'></td>
+	</tr>
+
+	<tr>
+		<th>State/Province:</td>
+		<td>
+<SELECT class='drpdown' NAME='STATE'>
+<OPTION VALUE=''>-- Select --</OPTION>
+<OPTION VALUE='AL'>Alabama</OPTION>
+<OPTION VALUE='AK'>Alaska</OPTION>
+<OPTION VALUE='AZ'>Arizona</OPTION>
+<OPTION VALUE='AR'>Arkansas</OPTION>
+<OPTION VALUE='CA'>California</OPTION>
+<OPTION VALUE='CO'>Colorado</OPTION>
+<OPTION VALUE='CT'>Connecticut</OPTION>
+<OPTION VALUE='DE'>Delaware</OPTION>
+<OPTION VALUE='DC'>District of Columbia</OPTION>
+<OPTION VALUE='FL'>Florida</OPTION>
+<OPTION VALUE='GA'>Georgia</OPTION>
+<OPTION VALUE='HI'>Hawaii</OPTION>
+<OPTION VALUE='ID'>Idaho</OPTION>
+<OPTION VALUE='IL'>Illinois</OPTION>
+<OPTION VALUE='IN'>Indiana</OPTION>
+<OPTION VALUE='IA'>Iowa</OPTION>
+<OPTION VALUE='KS'>Kansas</OPTION>
+<OPTION VALUE='KY'>Kentucky</OPTION>
+<OPTION VALUE='LA'>Louisiana</OPTION>
+<OPTION VALUE='ME'>Maine</OPTION>
+<OPTION VALUE='MD'>Maryland</OPTION>
+<OPTION VALUE='MA'>Massachusetts</OPTION>
+<OPTION VALUE='MI'>Michigan</OPTION>
+<OPTION VALUE='MN'>Minnesota</OPTION>
+<OPTION VALUE='MS'>Mississippi</OPTION>
+<OPTION VALUE='MO'>Missouri</OPTION>
+<OPTION VALUE='MT'>Montana</OPTION>
+<OPTION VALUE='NE'>Nebraska</OPTION>
+<OPTION VALUE='NV'>Nevada</OPTION>
+<OPTION VALUE='NH'>New Hampshire</OPTION>
+<OPTION VALUE='NJ'>New Jersey</OPTION>
+<OPTION VALUE='NM'>New Mexico</OPTION>
+<OPTION VALUE='NY'>New York</OPTION>
+<OPTION VALUE='NC'>North Carolina</OPTION>
+<OPTION VALUE='ND'>North Dakota</OPTION>
+<OPTION VALUE='OH'>Ohio</OPTION>
+<OPTION VALUE='OK'>Oklahoma</OPTION>
+<OPTION VALUE='OR'>Oregon</OPTION>
+<OPTION VALUE='PA'>Pennsylvania</OPTION>
+<OPTION VALUE='RI'>Rhode Island</OPTION>
+<OPTION VALUE='SC'>South Carolina</OPTION>
+<OPTION VALUE='SD'>South Dakota</OPTION>
+<OPTION VALUE='TN'>Tennessee</OPTION>
+<OPTION VALUE='TX'>Texas</OPTION>
+<OPTION VALUE='UT'>Utah</OPTION>
+<OPTION VALUE='VT'>Vermont</OPTION>
+<OPTION VALUE='VA'>Virginia</OPTION>
+<OPTION VALUE='WA'>Washington</OPTION>
+<OPTION VALUE='WV'>West Virginia</OPTION>
+<OPTION VALUE='WI'>Wisconsin</OPTION>
+<OPTION VALUE='WY'>Wyoming</OPTION>
+<OPTION VALUE='AB'>Alberta</OPTION>
+<OPTION VALUE='BC'>British Columbia</OPTION>
+<OPTION VALUE='MB'>Manitoba</OPTION>
+<OPTION VALUE='NB'>New Brunswick</OPTION>
+<OPTION VALUE='NL'>Newfoundland and Labrador</OPTION>
+<OPTION VALUE='NT'>Northwest Territories</OPTION>
+<OPTION VALUE='NS'>Nova Scotia</OPTION>
+<OPTION VALUE='NU'>Nunavut</OPTION>
+<OPTION VALUE='ON'>Ontario</OPTION>
+<OPTION VALUE='PE'>Prince Edward Island</OPTION>
+<OPTION VALUE='QC'>Quebec</OPTION>
+<OPTION VALUE='SK'>Saskatchewan</OPTION>
+<OPTION VALUE='YT'>Yukon Territory</OPTION>
+</SELECT>
+		</td>
+	</tr>
+	<tr>
+		<th>Zip/Postal Code:</td>
+		<td ><input type='text' name='ZIP' class="textfield" value='' size='10'></td>
+	</tr>
+	<tr>
+		<th>Country:</td>
+		<td>
+<SELECT class='drpdown' NAME='COUNTRYCODE'>
+<OPTION VALUE='US'>United States</OPTION>
+<OPTION VALUE='AU'>Australia</OPTION>
+<OPTION VALUE='CA'>Canada</OPTION>
+<OPTION VALUE='DE'>Germany</OPTION>
+<OPTION VALUE='HK'>Hong Kong</OPTION>
+<OPTION VALUE='IN'>India</OPTION>
+<OPTION VALUE='ID'>Indonesia</OPTION>
+<OPTION VALUE='IE'>Ireland</OPTION>
+<OPTION VALUE='MY'>Malaysia</OPTION>
+<OPTION VALUE='NZ'>New Zealand</OPTION>
+<OPTION VALUE='RU'>Russia</OPTION>
+<OPTION VALUE='ES'>Spain</OPTION>
+<OPTION VALUE='GB'>United Kingdom</OPTION>
+<OPTION VALUE='AL'>Albania</OPTION>
+<OPTION VALUE='DZ'>Algeria</OPTION>
+<OPTION VALUE='AD'>Andorra</OPTION>
+<OPTION VALUE='AO'>Angola</OPTION>
+<OPTION VALUE='AI'>Anguilla</OPTION>
+<OPTION VALUE='AG'>Antigua and Barbuda</OPTION>
+<OPTION VALUE='AR'>Argentina</OPTION>
+<OPTION VALUE='AM'>Armenia</OPTION>
+<OPTION VALUE='AW'>Aruba</OPTION>
+<OPTION VALUE='AT'>Austria</OPTION>
+<OPTION VALUE='AZ'>Azerbaijan Republic</OPTION>
+<OPTION VALUE='BS'>Bahamas</OPTION>
+<OPTION VALUE='BH'>Bahrain</OPTION>
+<OPTION VALUE='BB'>Barbados</OPTION>
+<OPTION VALUE='BE'>Belgium</OPTION>
+<OPTION VALUE='BZ'>Belize</OPTION>
+<OPTION VALUE='BJ'>Benin</OPTION>
+<OPTION VALUE='BM'>Bermuda</OPTION>
+<OPTION VALUE='BT'>Bhutan</OPTION>
+<OPTION VALUE='BO'>Bolivia</OPTION>
+<OPTION VALUE='BA'>Bosnia and Herzegovina</OPTION>
+<OPTION VALUE='BW'>Botswana</OPTION>
+<OPTION VALUE='BR'>Brazil</OPTION>
+<OPTION VALUE='VG'>British Virgin Islands</OPTION>
+<OPTION VALUE='BN'>Brunei</OPTION>
+<OPTION VALUE='BG'>Bulgaria</OPTION>
+<OPTION VALUE='BF'>Burkina Faso</OPTION>
+<OPTION VALUE='BI'>Burundi</OPTION>
+<OPTION VALUE='KH'>Cambodia</OPTION>
+<OPTION VALUE='CV'>Cape Verde</OPTION>
+<OPTION VALUE='KY'>Cayman Islands</OPTION>
+<OPTION VALUE='TD'>Chad</OPTION>
+<OPTION VALUE='CL'>Chile</OPTION>
+<OPTION VALUE='CN'>China</OPTION>
+<OPTION VALUE='CO'>Colombia</OPTION>
+<OPTION VALUE='KM'>Comoros</OPTION>
+<OPTION VALUE='CK'>Cook Islands</OPTION>
+<OPTION VALUE='CR'>Costa Rica</OPTION>
+<OPTION VALUE='HR'>Croatia</OPTION>
+<OPTION VALUE='CY'>Cyprus</OPTION>
+<OPTION VALUE='CZ'>Czech Republic</OPTION>
+<OPTION VALUE='CD'>Democratic Republic of the Congo</OPTION>
+<OPTION VALUE='DK'>Denmark</OPTION>
+<OPTION VALUE='DJ'>Djibouti</OPTION>
+<OPTION VALUE='DM'>Dominica</OPTION>
+<OPTION VALUE='DO'>Dominican Republic</OPTION>
+<OPTION VALUE='EC'>Ecuador</OPTION>
+<OPTION VALUE='SV'>El Salvador</OPTION>
+<OPTION VALUE='ER'>Eritrea</OPTION>
+<OPTION VALUE='EE'>Estonia</OPTION>
+<OPTION VALUE='ET'>Ethiopia</OPTION>
+<OPTION VALUE='FK'>Falkland Islands</OPTION>
+<OPTION VALUE='FO'>Faroe Islands</OPTION>
+<OPTION VALUE='FM'>Federated States of Micronesia</OPTION>
+<OPTION VALUE='FJ'>Fiji</OPTION>
+<OPTION VALUE='FI'>Finland</OPTION>
+<OPTION VALUE='FR'>France</OPTION>
+<OPTION VALUE='GF'>French Guiana</OPTION>
+<OPTION VALUE='PF'>French Polynesia</OPTION>
+<OPTION VALUE='GA'>Gabon Republic</OPTION>
+<OPTION VALUE='GM'>Gambia</OPTION>
+<OPTION VALUE='GI'>Gibraltar</OPTION>
+<OPTION VALUE='GR'>Greece</OPTION>
+<OPTION VALUE='GL'>Greenland</OPTION>
+<OPTION VALUE='GD'>Grenada</OPTION>
+<OPTION VALUE='GP'>Guadeloupe</OPTION>
+<OPTION VALUE='GT'>Guatemala</OPTION>
+<OPTION VALUE='GN'>Guinea</OPTION>
+<OPTION VALUE='GW'>Guinea Bissau</OPTION>
+<OPTION VALUE='GY'>Guyana</OPTION>
+<OPTION VALUE='HN'>Honduras</OPTION>
+<OPTION VALUE='HU'>Hungary</OPTION>
+<OPTION VALUE='IS'>Iceland</OPTION>
+<OPTION VALUE='IL'>Israel</OPTION>
+<OPTION VALUE='IT'>Italy</OPTION>
+<OPTION VALUE='JM'>Jamaica</OPTION>
+<OPTION VALUE='JP'>Japan</OPTION>
+<OPTION VALUE='JO'>Jordan</OPTION>
+<OPTION VALUE='KZ'>Kazakhstan</OPTION>
+<OPTION VALUE='KE'>Kenya</OPTION>
+<OPTION VALUE='KI'>Kiribati</OPTION>
+<OPTION VALUE='KW'>Kuwait</OPTION>
+<OPTION VALUE='KG'>Kyrgyzstan</OPTION>
+<OPTION VALUE='LA'>Laos</OPTION>
+<OPTION VALUE='LV'>Latvia</OPTION>
+<OPTION VALUE='LS'>Lesotho</OPTION>
+<OPTION VALUE='LI'>Liechtenstein</OPTION>
+<OPTION VALUE='LT'>Lithuania</OPTION>
+<OPTION VALUE='LU'>Luxembourg</OPTION>
+<OPTION VALUE='MG'>Madagascar</OPTION>
+<OPTION VALUE='MW'>Malawi</OPTION>
+<OPTION VALUE='MV'>Maldives</OPTION>
+<OPTION VALUE='ML'>Mali</OPTION>
+<OPTION VALUE='MT'>Malta</OPTION>
+<OPTION VALUE='MH'>Marshall Islands</OPTION>
+<OPTION VALUE='MQ'>Martinique</OPTION>
+<OPTION VALUE='MR'>Mauritania</OPTION>
+<OPTION VALUE='MU'>Mauritius</OPTION>
+<OPTION VALUE='YT'>Mayotte</OPTION>
+<OPTION VALUE='MX'>Mexico</OPTION>
+<OPTION VALUE='MN'>Mongolia</OPTION>
+<OPTION VALUE='MS'>Montserrat</OPTION>
+<OPTION VALUE='MA'>Morocco</OPTION>
+<OPTION VALUE='MZ'>Mozambique</OPTION>
+<OPTION VALUE='NA'>Namibia</OPTION>
+<OPTION VALUE='NR'>Nauru</OPTION>
+<OPTION VALUE='NP'>Nepal</OPTION>
+<OPTION VALUE='NL'>Netherlands</OPTION>
+<OPTION VALUE='AN'>Netherlands Antilles</OPTION>
+<OPTION VALUE='NC'>New Caledonia</OPTION>
+<OPTION VALUE='NI'>Nicaragua</OPTION>
+<OPTION VALUE='NE'>Niger</OPTION>
+<OPTION VALUE='NU'>Niue</OPTION>
+<OPTION VALUE='NF'>Norfolk Island</OPTION>
+<OPTION VALUE='NO'>Norway</OPTION>
+<OPTION VALUE='OM'>Oman</OPTION>
+<OPTION VALUE='PW'>Palau</OPTION>
+<OPTION VALUE='PA'>Panama</OPTION>
+<OPTION VALUE='PG'>Papua New Guinea</OPTION>
+<OPTION VALUE='PE'>Peru</OPTION>
+<OPTION VALUE='PH'>Philippines</OPTION>
+<OPTION VALUE='PN'>Pitcairn Islands</OPTION>
+<OPTION VALUE='PL'>Poland</OPTION>
+<OPTION VALUE='PT'>Portugal</OPTION>
+<OPTION VALUE='QA'>Qatar</OPTION>
+<OPTION VALUE='CG'>Republic of the Congo</OPTION>
+<OPTION VALUE='RE'>Reunion</OPTION>
+<OPTION VALUE='RO'>Romania</OPTION>
+<OPTION VALUE='RW'>Rwanda</OPTION>
+<OPTION VALUE='VC'>Saint Vincent and the Grenadines</OPTION>
+<OPTION VALUE='WS'>Samoa</OPTION>
+<OPTION VALUE='SM'>San Marino</OPTION>
+<OPTION VALUE='ST'>Sao Tome and Principe</OPTION>
+<OPTION VALUE='SA'>Saudi Arabia</OPTION>
+<OPTION VALUE='SN'>Senegal</OPTION>
+<OPTION VALUE='SC'>Seychelles</OPTION>
+<OPTION VALUE='SL'>Sierra Leone</OPTION>
+<OPTION VALUE='SG'>Singapore</OPTION>
+<OPTION VALUE='SK'>Slovakia</OPTION>
+<OPTION VALUE='SI'>Slovenia</OPTION>
+<OPTION VALUE='SB'>Solomon Islands</OPTION>
+<OPTION VALUE='SO'>Somalia</OPTION>
+<OPTION VALUE='ZA'>South Africa</OPTION>
+<OPTION VALUE='KR'>South Korea</OPTION>
+<OPTION VALUE='LK'>Sri Lanka</OPTION>
+<OPTION VALUE='SH'>St. Helena</OPTION>
+<OPTION VALUE='KN'>St. Kitts and Nevis</OPTION>
+<OPTION VALUE='LC'>St. Lucia</OPTION>
+<OPTION VALUE='PM'>St. Pierre and Miquelon</OPTION>
+<OPTION VALUE='SR'>Suriname</OPTION>
+<OPTION VALUE='SJ'>Svalbard and Jan Mayen Islands</OPTION>
+<OPTION VALUE='SZ'>Swaziland</OPTION>
+<OPTION VALUE='SE'>Sweden</OPTION>
+<OPTION VALUE='CH'>Switzerland</OPTION>
+<OPTION VALUE='TW'>Taiwan</OPTION>
+<OPTION VALUE='TJ'>Tajikistan</OPTION>
+<OPTION VALUE='TZ'>Tanzania</OPTION>
+<OPTION VALUE='TH'>Thailand</OPTION>
+<OPTION VALUE='TG'>Togo</OPTION>
+<OPTION VALUE='TO'>Tonga</OPTION>
+<OPTION VALUE='TT'>Trinidad and Tobago</OPTION>
+<OPTION VALUE='TN'>Tunisia</OPTION>
+<OPTION VALUE='TR'>Turkey</OPTION>
+<OPTION VALUE='TM'>Turkmenistan</OPTION>
+<OPTION VALUE='TC'>Turks and Caicos Islands</OPTION>
+<OPTION VALUE='TV'>Tuvalu</OPTION>
+<OPTION VALUE='UG'>Uganda</OPTION>
+<OPTION VALUE='UA'>Ukraine</OPTION>
+<OPTION VALUE='AE'>United Arab Emirates</OPTION>
+<OPTION VALUE='UY'>Uruguay</OPTION>
+<OPTION VALUE='VU'>Vanuatu</OPTION>
+<OPTION VALUE='VA'>Vatican City State</OPTION>
+<OPTION VALUE='VE'>Venezuela</OPTION>
+<OPTION VALUE='VN'>Vietnam</OPTION>
+<OPTION VALUE='WF'>Wallis and Futuna Islands</OPTION>
+<OPTION VALUE='YE'>Yemen</OPTION>
+<OPTION VALUE='ZM'>Zambia</OPTION>
+</SELECT>
+		</td>
+	</tr>
+	<tr>
+		<th>Email Address:</td>
+		<td ><input type='text' name='EMAIL' class="textfield" value='' size='30'></td>
+	</tr>
+	
+<!-- End Shipping -->
+	<tr>
+		<td colspan="2" class="productbox">Shipping Information: </td>
+	</tr>
+	<tr>
+		<th>Full Name:</td>
+		<td ><input type='text' name='SHIPTONAME' class="textfield" value='' size='30'></td>
+	</tr>
+	<tr>
+		<th>Street Address:</td>
+		<td><input type='text' name='SHIPTOSTREET' class="textfield" value='' size='30'></td>
+	</tr>
+	<tr>
+		<th>Street Address 2:</td>
+		<td><input type='text' name='SHIPTOSTREET2' class="textfield" value='' size='30'></td>
+	</tr>
+	<tr>
+		<th>City:</td>
+		<td><input type='text' name='SHIPTOCITY' class="textfield" value='' size='30'></td>
+	</tr>
+
+	<tr>
+		<th>State/Province:</td>
+		<td>
+<SELECT class='drpdown' NAME='SHIPTOSTATE'>
+<OPTION VALUE=''>-- Select --</OPTION>
+<OPTION VALUE='AL'>Alabama</OPTION>
+<OPTION VALUE='AK'>Alaska</OPTION>
+<OPTION VALUE='AZ'>Arizona</OPTION>
+<OPTION VALUE='AR'>Arkansas</OPTION>
+<OPTION VALUE='CA'>California</OPTION>
+<OPTION VALUE='CO'>Colorado</OPTION>
+<OPTION VALUE='CT'>Connecticut</OPTION>
+<OPTION VALUE='DE'>Delaware</OPTION>
+<OPTION VALUE='DC'>District of Columbia</OPTION>
+<OPTION VALUE='FL'>Florida</OPTION>
+<OPTION VALUE='GA'>Georgia</OPTION>
+<OPTION VALUE='HI'>Hawaii</OPTION>
+<OPTION VALUE='ID'>Idaho</OPTION>
+<OPTION VALUE='IL'>Illinois</OPTION>
+<OPTION VALUE='IN'>Indiana</OPTION>
+<OPTION VALUE='IA'>Iowa</OPTION>
+<OPTION VALUE='KS'>Kansas</OPTION>
+<OPTION VALUE='KY'>Kentucky</OPTION>
+<OPTION VALUE='LA'>Louisiana</OPTION>
+<OPTION VALUE='ME'>Maine</OPTION>
+<OPTION VALUE='MD'>Maryland</OPTION>
+<OPTION VALUE='MA'>Massachusetts</OPTION>
+<OPTION VALUE='MI'>Michigan</OPTION>
+<OPTION VALUE='MN'>Minnesota</OPTION>
+<OPTION VALUE='MS'>Mississippi</OPTION>
+<OPTION VALUE='MO'>Missouri</OPTION>
+<OPTION VALUE='MT'>Montana</OPTION>
+<OPTION VALUE='NE'>Nebraska</OPTION>
+<OPTION VALUE='NV'>Nevada</OPTION>
+<OPTION VALUE='NH'>New Hampshire</OPTION>
+<OPTION VALUE='NJ'>New Jersey</OPTION>
+<OPTION VALUE='NM'>New Mexico</OPTION>
+<OPTION VALUE='NY'>New York</OPTION>
+<OPTION VALUE='NC'>North Carolina</OPTION>
+<OPTION VALUE='ND'>North Dakota</OPTION>
+<OPTION VALUE='OH'>Ohio</OPTION>
+<OPTION VALUE='OK'>Oklahoma</OPTION>
+<OPTION VALUE='OR'>Oregon</OPTION>
+<OPTION VALUE='PA'>Pennsylvania</OPTION>
+<OPTION VALUE='RI'>Rhode Island</OPTION>
+<OPTION VALUE='SC'>South Carolina</OPTION>
+<OPTION VALUE='SD'>South Dakota</OPTION>
+<OPTION VALUE='TN'>Tennessee</OPTION>
+<OPTION VALUE='TX'>Texas</OPTION>
+<OPTION VALUE='UT'>Utah</OPTION>
+<OPTION VALUE='VT'>Vermont</OPTION>
+<OPTION VALUE='VA'>Virginia</OPTION>
+<OPTION VALUE='WA'>Washington</OPTION>
+<OPTION VALUE='WV'>West Virginia</OPTION>
+<OPTION VALUE='WI'>Wisconsin</OPTION>
+<OPTION VALUE='WY'>Wyoming</OPTION>
+<OPTION VALUE='AB'>Alberta</OPTION>
+<OPTION VALUE='BC'>British Columbia</OPTION>
+<OPTION VALUE='MB'>Manitoba</OPTION>
+<OPTION VALUE='NB'>New Brunswick</OPTION>
+<OPTION VALUE='NL'>Newfoundland and Labrador</OPTION>
+<OPTION VALUE='NT'>Northwest Territories</OPTION>
+<OPTION VALUE='NS'>Nova Scotia</OPTION>
+<OPTION VALUE='NU'>Nunavut</OPTION>
+<OPTION VALUE='ON'>Ontario</OPTION>
+<OPTION VALUE='PE'>Prince Edward Island</OPTION>
+<OPTION VALUE='QC'>Quebec</OPTION>
+<OPTION VALUE='SK'>Saskatchewan</OPTION>
+<OPTION VALUE='YT'>Yukon Territory</OPTION>
+</SELECT>
+		</td>
+	</tr>
+	<tr>
+		<th>Zip/Postal Code:</td>
+		<td ><input type='text' name='SHIPTOZIP' class="textfield" value='' size='10'></td>
+	</tr>
+	<tr>
+		<th>Country:</td>
+		<td>
+<SELECT class='drpdown' NAME='SHIPTOCOUNTRYCODE'>
+<OPTION VALUE='US'>United States</OPTION>
+<OPTION VALUE='AU'>Australia</OPTION>
+<OPTION VALUE='CA'>Canada</OPTION>
+<OPTION VALUE='DE'>Germany</OPTION>
+<OPTION VALUE='HK'>Hong Kong</OPTION>
+<OPTION VALUE='IN'>India</OPTION>
+<OPTION VALUE='ID'>Indonesia</OPTION>
+<OPTION VALUE='IE'>Ireland</OPTION>
+<OPTION VALUE='MY'>Malaysia</OPTION>
+<OPTION VALUE='NZ'>New Zealand</OPTION>
+<OPTION VALUE='RU'>Russia</OPTION>
+<OPTION VALUE='ES'>Spain</OPTION>
+<OPTION VALUE='GB'>United Kingdom</OPTION>
+<OPTION VALUE='AL'>Albania</OPTION>
+<OPTION VALUE='DZ'>Algeria</OPTION>
+<OPTION VALUE='AD'>Andorra</OPTION>
+<OPTION VALUE='AO'>Angola</OPTION>
+<OPTION VALUE='AI'>Anguilla</OPTION>
+<OPTION VALUE='AG'>Antigua and Barbuda</OPTION>
+<OPTION VALUE='AR'>Argentina</OPTION>
+<OPTION VALUE='AM'>Armenia</OPTION>
+<OPTION VALUE='AW'>Aruba</OPTION>
+<OPTION VALUE='AT'>Austria</OPTION>
+<OPTION VALUE='AZ'>Azerbaijan Republic</OPTION>
+<OPTION VALUE='BS'>Bahamas</OPTION>
+<OPTION VALUE='BH'>Bahrain</OPTION>
+<OPTION VALUE='BB'>Barbados</OPTION>
+<OPTION VALUE='BE'>Belgium</OPTION>
+<OPTION VALUE='BZ'>Belize</OPTION>
+<OPTION VALUE='BJ'>Benin</OPTION>
+<OPTION VALUE='BM'>Bermuda</OPTION>
+<OPTION VALUE='BT'>Bhutan</OPTION>
+<OPTION VALUE='BO'>Bolivia</OPTION>
+<OPTION VALUE='BA'>Bosnia and Herzegovina</OPTION>
+<OPTION VALUE='BW'>Botswana</OPTION>
+<OPTION VALUE='BR'>Brazil</OPTION>
+<OPTION VALUE='VG'>British Virgin Islands</OPTION>
+<OPTION VALUE='BN'>Brunei</OPTION>
+<OPTION VALUE='BG'>Bulgaria</OPTION>
+<OPTION VALUE='BF'>Burkina Faso</OPTION>
+<OPTION VALUE='BI'>Burundi</OPTION>
+<OPTION VALUE='KH'>Cambodia</OPTION>
+<OPTION VALUE='CV'>Cape Verde</OPTION>
+<OPTION VALUE='KY'>Cayman Islands</OPTION>
+<OPTION VALUE='TD'>Chad</OPTION>
+<OPTION VALUE='CL'>Chile</OPTION>
+<OPTION VALUE='CN'>China</OPTION>
+<OPTION VALUE='CO'>Colombia</OPTION>
+<OPTION VALUE='KM'>Comoros</OPTION>
+<OPTION VALUE='CK'>Cook Islands</OPTION>
+<OPTION VALUE='CR'>Costa Rica</OPTION>
+<OPTION VALUE='HR'>Croatia</OPTION>
+<OPTION VALUE='CY'>Cyprus</OPTION>
+<OPTION VALUE='CZ'>Czech Republic</OPTION>
+<OPTION VALUE='CD'>Democratic Republic of the Congo</OPTION>
+<OPTION VALUE='DK'>Denmark</OPTION>
+<OPTION VALUE='DJ'>Djibouti</OPTION>
+<OPTION VALUE='DM'>Dominica</OPTION>
+<OPTION VALUE='DO'>Dominican Republic</OPTION>
+<OPTION VALUE='EC'>Ecuador</OPTION>
+<OPTION VALUE='SV'>El Salvador</OPTION>
+<OPTION VALUE='ER'>Eritrea</OPTION>
+<OPTION VALUE='EE'>Estonia</OPTION>
+<OPTION VALUE='ET'>Ethiopia</OPTION>
+<OPTION VALUE='FK'>Falkland Islands</OPTION>
+<OPTION VALUE='FO'>Faroe Islands</OPTION>
+<OPTION VALUE='FM'>Federated States of Micronesia</OPTION>
+<OPTION VALUE='FJ'>Fiji</OPTION>
+<OPTION VALUE='FI'>Finland</OPTION>
+<OPTION VALUE='FR'>France</OPTION>
+<OPTION VALUE='GF'>French Guiana</OPTION>
+<OPTION VALUE='PF'>French Polynesia</OPTION>
+<OPTION VALUE='GA'>Gabon Republic</OPTION>
+<OPTION VALUE='GM'>Gambia</OPTION>
+<OPTION VALUE='GI'>Gibraltar</OPTION>
+<OPTION VALUE='GR'>Greece</OPTION>
+<OPTION VALUE='GL'>Greenland</OPTION>
+<OPTION VALUE='GD'>Grenada</OPTION>
+<OPTION VALUE='GP'>Guadeloupe</OPTION>
+<OPTION VALUE='GT'>Guatemala</OPTION>
+<OPTION VALUE='GN'>Guinea</OPTION>
+<OPTION VALUE='GW'>Guinea Bissau</OPTION>
+<OPTION VALUE='GY'>Guyana</OPTION>
+<OPTION VALUE='HN'>Honduras</OPTION>
+<OPTION VALUE='HU'>Hungary</OPTION>
+<OPTION VALUE='IS'>Iceland</OPTION>
+<OPTION VALUE='IL'>Israel</OPTION>
+<OPTION VALUE='IT'>Italy</OPTION>
+<OPTION VALUE='JM'>Jamaica</OPTION>
+<OPTION VALUE='JP'>Japan</OPTION>
+<OPTION VALUE='JO'>Jordan</OPTION>
+<OPTION VALUE='KZ'>Kazakhstan</OPTION>
+<OPTION VALUE='KE'>Kenya</OPTION>
+<OPTION VALUE='KI'>Kiribati</OPTION>
+<OPTION VALUE='KW'>Kuwait</OPTION>
+<OPTION VALUE='KG'>Kyrgyzstan</OPTION>
+<OPTION VALUE='LA'>Laos</OPTION>
+<OPTION VALUE='LV'>Latvia</OPTION>
+<OPTION VALUE='LS'>Lesotho</OPTION>
+<OPTION VALUE='LI'>Liechtenstein</OPTION>
+<OPTION VALUE='LT'>Lithuania</OPTION>
+<OPTION VALUE='LU'>Luxembourg</OPTION>
+<OPTION VALUE='MG'>Madagascar</OPTION>
+<OPTION VALUE='MW'>Malawi</OPTION>
+<OPTION VALUE='MV'>Maldives</OPTION>
+<OPTION VALUE='ML'>Mali</OPTION>
+<OPTION VALUE='MT'>Malta</OPTION>
+<OPTION VALUE='MH'>Marshall Islands</OPTION>
+<OPTION VALUE='MQ'>Martinique</OPTION>
+<OPTION VALUE='MR'>Mauritania</OPTION>
+<OPTION VALUE='MU'>Mauritius</OPTION>
+<OPTION VALUE='YT'>Mayotte</OPTION>
+<OPTION VALUE='MX'>Mexico</OPTION>
+<OPTION VALUE='MN'>Mongolia</OPTION>
+<OPTION VALUE='MS'>Montserrat</OPTION>
+<OPTION VALUE='MA'>Morocco</OPTION>
+<OPTION VALUE='MZ'>Mozambique</OPTION>
+<OPTION VALUE='NA'>Namibia</OPTION>
+<OPTION VALUE='NR'>Nauru</OPTION>
+<OPTION VALUE='NP'>Nepal</OPTION>
+<OPTION VALUE='NL'>Netherlands</OPTION>
+<OPTION VALUE='AN'>Netherlands Antilles</OPTION>
+<OPTION VALUE='NC'>New Caledonia</OPTION>
+<OPTION VALUE='NI'>Nicaragua</OPTION>
+<OPTION VALUE='NE'>Niger</OPTION>
+<OPTION VALUE='NU'>Niue</OPTION>
+<OPTION VALUE='NF'>Norfolk Island</OPTION>
+<OPTION VALUE='NO'>Norway</OPTION>
+<OPTION VALUE='OM'>Oman</OPTION>
+<OPTION VALUE='PW'>Palau</OPTION>
+<OPTION VALUE='PA'>Panama</OPTION>
+<OPTION VALUE='PG'>Papua New Guinea</OPTION>
+<OPTION VALUE='PE'>Peru</OPTION>
+<OPTION VALUE='PH'>Philippines</OPTION>
+<OPTION VALUE='PN'>Pitcairn Islands</OPTION>
+<OPTION VALUE='PL'>Poland</OPTION>
+<OPTION VALUE='PT'>Portugal</OPTION>
+<OPTION VALUE='QA'>Qatar</OPTION>
+<OPTION VALUE='CG'>Republic of the Congo</OPTION>
+<OPTION VALUE='RE'>Reunion</OPTION>
+<OPTION VALUE='RO'>Romania</OPTION>
+<OPTION VALUE='RW'>Rwanda</OPTION>
+<OPTION VALUE='VC'>Saint Vincent and the Grenadines</OPTION>
+<OPTION VALUE='WS'>Samoa</OPTION>
+<OPTION VALUE='SM'>San Marino</OPTION>
+<OPTION VALUE='ST'>Sao Tome and Principe</OPTION>
+<OPTION VALUE='SA'>Saudi Arabia</OPTION>
+<OPTION VALUE='SN'>Senegal</OPTION>
+<OPTION VALUE='SC'>Seychelles</OPTION>
+<OPTION VALUE='SL'>Sierra Leone</OPTION>
+<OPTION VALUE='SG'>Singapore</OPTION>
+<OPTION VALUE='SK'>Slovakia</OPTION>
+<OPTION VALUE='SI'>Slovenia</OPTION>
+<OPTION VALUE='SB'>Solomon Islands</OPTION>
+<OPTION VALUE='SO'>Somalia</OPTION>
+<OPTION VALUE='ZA'>South Africa</OPTION>
+<OPTION VALUE='KR'>South Korea</OPTION>
+<OPTION VALUE='LK'>Sri Lanka</OPTION>
+<OPTION VALUE='SH'>St. Helena</OPTION>
+<OPTION VALUE='KN'>St. Kitts and Nevis</OPTION>
+<OPTION VALUE='LC'>St. Lucia</OPTION>
+<OPTION VALUE='PM'>St. Pierre and Miquelon</OPTION>
+<OPTION VALUE='SR'>Suriname</OPTION>
+<OPTION VALUE='SJ'>Svalbard and Jan Mayen Islands</OPTION>
+<OPTION VALUE='SZ'>Swaziland</OPTION>
+<OPTION VALUE='SE'>Sweden</OPTION>
+<OPTION VALUE='CH'>Switzerland</OPTION>
+<OPTION VALUE='TW'>Taiwan</OPTION>
+<OPTION VALUE='TJ'>Tajikistan</OPTION>
+<OPTION VALUE='TZ'>Tanzania</OPTION>
+<OPTION VALUE='TH'>Thailand</OPTION>
+<OPTION VALUE='TG'>Togo</OPTION>
+<OPTION VALUE='TO'>Tonga</OPTION>
+<OPTION VALUE='TT'>Trinidad and Tobago</OPTION>
+<OPTION VALUE='TN'>Tunisia</OPTION>
+<OPTION VALUE='TR'>Turkey</OPTION>
+<OPTION VALUE='TM'>Turkmenistan</OPTION>
+<OPTION VALUE='TC'>Turks and Caicos Islands</OPTION>
+<OPTION VALUE='TV'>Tuvalu</OPTION>
+<OPTION VALUE='UG'>Uganda</OPTION>
+<OPTION VALUE='UA'>Ukraine</OPTION>
+<OPTION VALUE='AE'>United Arab Emirates</OPTION>
+<OPTION VALUE='UY'>Uruguay</OPTION>
+<OPTION VALUE='VU'>Vanuatu</OPTION>
+<OPTION VALUE='VA'>Vatican City State</OPTION>
+<OPTION VALUE='VE'>Venezuela</OPTION>
+<OPTION VALUE='VN'>Vietnam</OPTION>
+<OPTION VALUE='WF'>Wallis and Futuna Islands</OPTION>
+<OPTION VALUE='YE'>Yemen</OPTION>
+<OPTION VALUE='ZM'>Zambia</OPTION>
+</SELECT>
+		</td>
+	</tr>
+<!-- End Shipping -->
+<tr>
+	<td colspan="2" class="productbox">Credit Card Information: </td>
+  </tr>
+	<tr>
+		<th>Credit Card Type:</td>
+		<td >
+<SELECT class='drpdown' NAME='CREDITCARDTYPE'>
+<OPTION VALUE='Visa'>Visa</OPTION>
+<OPTION VALUE='MasterCard'>MasterCard</OPTION>
+<OPTION VALUE='Discover'>Discover</OPTION>
+<OPTION VALUE='Amex'>American Express</OPTION>
+</SELECT>
+		</td>
+	</tr>
+	<tr>
+		<th>Credit Card Number:</td>
+		<td><input type='text' name='ACCT' class="textfield" value='' size='16'></td>
+	</tr>
+	<tr>
+		<th>Credit Card Expiration:</td>
+		<td>
+<select class='drpdown' name='EXPDATE'><option value='052016'>05/2016</option><option value='062016'>06/2016</option><option value='072016'>07/2016</option><option value='082016'>08/2016</option><option value='092016'>09/2016</option><option value='102016'>10/2016</option><option value='112016'>11/2016</option><option value='122016'>12/2016</option><option value='012017'>01/2017</option><option value='022017'>02/2017</option><option value='032017'>03/2017</option><option value='042017'>04/2017</option><option value='052017'>05/2017</option><option value='062017'>06/2017</option><option value='072017'>07/2017</option><option value='082017'>08/2017</option><option value='092017'>09/2017</option><option value='102017'>10/2017</option><option value='112017'>11/2017</option><option value='122017'>12/2017</option><option value='012018'>01/2018</option><option value='022018'>02/2018</option><option value='032018'>03/2018</option><option value='042018'>04/2018</option><option value='052018'>05/2018</option><option value='062018'>06/2018</option><option value='072018'>07/2018</option><option value='082018'>08/2018</option><option value='092018'>09/2018</option><option value='102018'>10/2018</option><option value='112018'>11/2018</option><option value='122018'>12/2018</option><option value='012019'>01/2019</option><option value='022019'>02/2019</option><option value='032019'>03/2019</option><option value='042019'>04/2019</option><option value='052019'>05/2019</option><option value='062019'>06/2019</option><option value='072019'>07/2019</option><option value='082019'>08/2019</option><option value='092019'>09/2019</option><option value='102019'>10/2019</option><option value='112019'>11/2019</option><option value='122019'>12/2019</option><option value='012020'>01/2020</option><option value='022020'>02/2020</option><option value='032020'>03/2020</option><option value='042020'>04/2020</option><option value='052020'>05/2020</option><option value='062020'>06/2020</option><option value='072020'>07/2020</option><option value='082020'>08/2020</option><option value='092020'>09/2020</option><option value='102020'>10/2020</option><option value='112020'>11/2020</option><option value='122020'>12/2020</option><option value='012021'>01/2021</option><option value='022021'>02/2021</option><option value='032021'>03/2021</option><option value='042021'>04/2021</option><option value='052021'>05/2021</option><option value='062021'>06/2021</option><option value='072021'>07/2021</option><option value='082021'>08/2021</option><option value='092021'>09/2021</option><option value='102021'>10/2021</option><option value='112021'>11/2021</option><option value='122021'>12/2021</option><option value='012022'>01/2022</option><option value='022022'>02/2022</option><option value='032022'>03/2022</option><option value='042022'>04/2022</option><option value='052022'>05/2022</option><option value='062022'>06/2022</option><option value='072022'>07/2022</option><option value='082022'>08/2022</option><option value='092022'>09/2022</option><option value='102022'>10/2022</option><option value='112022'>11/2022</option><option value='122022'>12/2022</option><option value='012023'>01/2023</option><option value='022023'>02/2023</option><option value='032023'>03/2023</option><option value='042023'>04/2023</option><option value='052023'>05/2023</option><option value='062023'>06/2023</option><option value='072023'>07/2023</option><option value='082023'>08/2023</option><option value='092023'>09/2023</option><option value='102023'>10/2023</option><option value='112023'>11/2023</option><option value='122023'>12/2023</option><option value='012024'>01/2024</option><option value='022024'>02/2024</option><option value='032024'>03/2024</option><option value='042024'>04/2024</option><option value='052024'>05/2024</option><option value='062024'>06/2024</option><option value='072024'>07/2024</option><option value='082024'>08/2024</option><option value='092024'>09/2024</option><option value='102024'>10/2024</option><option value='112024'>11/2024</option><option value='122024'>12/2024</option><option value='012025'>01/2025</option><option value='022025'>02/2025</option><option value='032025'>03/2025</option><option value='042025'>04/2025</option><option value='052025'>05/2025</option><option value='062025'>06/2025</option><option value='072025'>07/2025</option><option value='082025'>08/2025</option><option value='092025'>09/2025</option><option value='102025'>10/2025</option><option value='112025'>11/2025</option><option value='122025'>12/2025</option></select>		</td>
+	</tr>
+	<tr>
+		<th>Credit Card Security Code:</td>
+		<td ><input type='text' name='CVV2' class="textfield" value='' maxlength="4"></td>
+	</tr>
+	<tr>
+		<th>Payment Amount:</td>
+		<td >$</td>
+	</tr>
+		<input type="hidden" name="zp_cmd" value="">
+		<input type="hidden" name="zp_notify_url" value="">
+		<input type="hidden" name="zp_amount" value="">
+		<input type="hidden" name="zp_no_shipping" value="">
+		<input type="hidden" name="zp_item_name" value="">
+		<input type="hidden" name="zp_currency_code" value="">
+		<input type="hidden" name="zp_business" value="">
+		<input type="hidden" name="zp_cancel_return" value="">
+		<input type="hidden" name="zp_return" value="">
+		<input type="hidden" name="zp_address1" value="">
+		<input type="hidden" name="zp_address2" value="">
+		<input type="hidden" name="zp_city" value="">
+		<input type="hidden" name="zp_country" value="">
+		<input type="hidden" name="zp_state" value="">
+		<input type="hidden" name="zp_zip" value="">
+		
+	<tr>
+		<td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<input type='submit' id="ccSecCode" name='submitpayment' value='Send Payment'>&nbsp;
+		<input type='button' id="ccSecCode" name='cancelpayment' value='Cancel' onclick="location.href=''">
+		</td>
+	</tr>
+</form>
+</table></strong></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/help/paypal-pro-plugin-demo/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+                                    <div class="clear"></div>
+                  <div class="post-rel"><b>See also: </b><ul><li><a href="../paypal-pro-gateway-for-wordpress/index.html" rel="bookmark" title="August 28, 2009">PayPal Pro gateway for WordPress</a></li>
+
+<li><a href="../payment-gateways/index.html" rel="bookmark" title="May 8, 2009">Payment gateways</a></li>
+
+<li><a href="../prices-and-payments/index.html" rel="bookmark" title="June 4, 2007">Prices and payments</a></li>
+
+<li><a href="../delivery-address-control/index.html" rel="bookmark" title="March 24, 2009">Delivery address control</a></li>
+
+<li><a href="../setting-up-prices-and-discounts/index.html" rel="bookmark" title="August 4, 2007">Setting up prices and discounts</a></li>
+
+<li><a href="../advanced-product-options/index.html" rel="bookmark" title="March 24, 2009">Advanced product options</a></li>
+
+<li><a href="../custom-text-field-in-the-checkout-form/index.html" rel="bookmark" title="July 12, 2011">Custom text field in the checkout form</a></li>
+</ul><!-- Similar Posts took 3.924 ms --></div>
+                  <p class="postmetadata alt"><small></small></p>
+                  <div class="clear"></div>
+                </div>
+              </div>
+            </div>
+                                    </div>
+    </div>
+  </div>
+</div> 
+<div id="footer-container" class="container">
+  <div id="footer">
+    <div id="bottomnav">
+      <ul>
+        <li class="first"><a href="../../about-us/index.html" title="About ZetaPrints">About ZetaPrints</a></li>
+        <li><a href="../../about-us/contact-us/index.html" title="Contact us">Contact us</a></li>
+        <li><a href="http://zetaprints.com/" title="Log in">Log in</a></li>
+        <li><a href="../../web-to-print-legal/privacy-policy/index.html" title="Privacy policy">Privacy</a></li>
+        <li><a href="../../sitemap/index.html" title="Sitemap">Sitemap</a></li>
+        <li><a href="../../about-us/summary-of-terms-and-conditions/index.html" title="Terms and conditions">Terms of Service</a></li>
+        <li><a href="../../blog/index.html" title="Web-to-print Blog">Web-to-print Blog</a></li>
+        <li><a href="../index.html" title="Web-to-print Help">Web-to-print Help</a></li>
+      </ul>
+    </div>
+    <p><a href="../../blog/index.html" title="Web-to-print Blog"><img class="footer-icon" alt="Blog" src="../wp-content/themes/water-zp-3/images/blog.png"/></a>&nbsp;
+<a href="http://twitter.com/zetaprints" title="Follow us on twitter"><img class="footer-icon" alt="Twitter" src="../wp-content/themes/water-zp-3/images/twitter_16.png"/></a>&nbsp;
+&copy; 2006-2012 ZetaPrints Ltd. All rights reserved. Powered by <a href="http://wordpress.org">WordPress</a>.</p>
+    <a href="#header" title="Back to Top" class="top-btn">Back to Top</a>
+  </div>
+</div>
+
+<script type="text/javascript">
+    (function(){
+        var ga = document.createElement('script');
+        ga.type="text/javascript";
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1132851-1']);
+    _gaq.push(['_trackPageview']);
+</script>
+</body>
+</html>
+
+<!-- Localized -->

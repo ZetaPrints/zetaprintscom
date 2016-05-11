@@ -1,0 +1,742 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="verify-v1" content="GACnn9+1c3JzusKbMwxWr+f9dKvqx8As8sbHI8tNyxA=" />
+  <meta name="keywords" content="web-to-print, online printing, zetaprints, online print ordering" />
+  <title>On web to print sofware, solutions and hosted services</title>
+  <script type="text/javascript" src="../../wp-content/themes/water-zp-3/jslib.js"></script>
+  <meta name="generator" content="ZetaPrints"/> <!-- leave this for stats -->
+  <link rel="stylesheet" href="../../wp-content/themes/water-zp-3/style.css" type="text/css" media="all" />
+  <link href="../../wp-content/themes/water-zp-3/style-fixed.css" rel="stylesheet" type="text/css" />
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../feed/index.html" />
+  <link rel="alternate" type="text/xml" title="RSS .92" href="../../feed/rss/index.html" />
+  <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../../feed/atom/index.html" />
+  <!--link rel="pingback" href="http://www.zetaprints.com/blog/xmlrpc.php" /-->
+  		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.zetaprints.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cat-post-tree-ajax-css'  href='../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2-ver=0.7.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='top_css-css'  href='../../wp-content/themes/water-zp-3/top-menu-ver=4.4.1.css' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='top_css_ie-css'  href='../../wp-content/themes/water-zp-3/top-menu-ie-ver=4.4.1.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='../../wp-content/themes/water-zp-3/js/top-menu.js?ver=4.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CatPostAjax = {"ajaxurl":"http:\/\/www.zetaprints.com\/blog\/wp-admin\/admin-ajax.php","nice_ajax_tree_img":"http:\/\/www.zetaprints.com\/blog\/wp-content\/plugins\/cat-post-tree-ajax\/img\/","type":null,"id":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2.js?ver=4.4.1'></script>
+<script type='text/javascript' src='../../wp-content/plugins/zpecards/js/zp.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='../../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc-rsd.php.html" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.1" />
+<meta property="og:site_name" content="On web to print sofware, solutions and hosted services" />
+<meta property="og:type" content="article" />
+<link type="text/css" rel="stylesheet" href="../../wp-content/plugins/zpecards/css/zpEcards.css" />
+<script type='text/javascript' src='../../wp-includes/js/tw-sack.min.js?ver=1.6.1'></script>
+  <!--[if IE]>
+  <style>
+  
+  </style>
+  <![EndIf]-->
+  <style type="text/css" media="print">
+  #header, #footer, #rightcol, #logo, .social_bookmark, .post-rel, .postmetadata, #questionMark, p.nocomments {display:none}
+  </style>
+  <link media="screen" type="text/css" href="../../wp-content/themes/water-zp-3/grid.css" rel="stylesheet"/>
+  <script type='text/javascript' src="../../wp-content/themes/water-zp-3/js/grid.js" ></script>
+</head>
+
+<body>
+  <div id="header-container" class="clearfix container">
+    <div id="header">
+      <div class="logo">
+        <a href="../../../index.html"><img src="../../wp-content/themes/water-zp-3/images/logo.gif" alt="ZetaPrints Web-to-print home"/></a>
+        <h1><a href="../../index.html"><span>ZetaPrints</span> blog</a></h1>
+        <h3>Web-to-Print &amp; dynamic imaging</h3>
+      </div>
+      <form method="get" id="searchform" action="http://www.zetaprints.com/blog/">
+        <div>
+          <input type="text" value=""  name="s" id="s" />
+          <input type="image" id="searchsubmit" alt="Search" src="../../wp-content/themes/water-zp-3/images/search_btn.gif" />
+        </div>
+      </form>
+      <div class="nav">
+    <ul class="main" id="top-drop-menu">
+        <li>
+            <a href="../../../index.html" title="Zetaprints home">Home</a>
+        </li><li class="drop">
+            <a href="../../../help/index.html" class="drop-down-link">Help</a>
+            <ul>
+                <li>
+                    <a href="../../../help/index.html" class="drop-down-link">Web-to-print help</a>
+                </li>
+                <li>
+                    <a href="../../../magentohelp/index.html" class="drop-down-link">Magento help</a>
+                </li>
+				<li>
+					<a href="../../../premium/index.html" class="drop-down-link">Premium support</a>
+				</li>
+				<li>
+					<a href="../../../directory/index.html" class="drop-down-link">Resources</a>
+				</li>
+				<li class="last">
+					<a href="../../../userhelp/index.html" class="drop-down-link">End user help</a>
+				</li>
+            </ul>
+        </li><li>
+            <a href="../../index.html" title="Web to print blog">Blog</a>
+        </li><li>
+            <a href="../../../packages/sign-up-for-web-to-print/index.html" title="Sign up for web-to-print">Sign up</a>
+        </li><li class="no_border">
+            <a href="http://zetaprints.com" title="Web to print system">Log in</a>
+        </li>
+    </ul>
+</div>
+<!-- nav -->
+    </div> <!-- header -->
+  </div> <!-- container -->
+  <div id="content-container" class="container clearfix">
+    <div id="rightcol">
+      <ul>
+        		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+					<li>
+				<a href="../../2013/08/02/forward-updates-in-web-to-print-templates-bug/index.html">Repeating fields in web-to-print templates bug</a>
+						</li>
+					<li>
+				<a href="../../2013/07/31/lost-files/index.html">Lost files</a>
+						</li>
+					<li>
+				<a href="../../2013/07/22/speed-up-your-web-to-print-checkout/index.html">Speed up your web-to-print checkout</a>
+						</li>
+					<li>
+				<a href="../../2013/01/28/paypal-issues-web-to-print-orders-are-not-paid/index.html">PayPal issues &#8211; web-to-print orders are not paid</a>
+						</li>
+					<li>
+				<a href="../../2012/10/31/volumes-are-down/index.html">Volumes are down</a>
+						</li>
+					<li>
+				<a href="../../2012/10/22/amazon-hosting-failure/index.html">Amazon hosting failure</a>
+						</li>
+					<li>
+				<a href="../../2012/09/19/missing-files-in-web-to-print-orders/index.html">Missing files in web-to-print orders</a>
+						</li>
+					<li>
+				<a href="../../2012/09/09/web-to-print-profiles-fix-after-upgrading-to-magento-1-7/index.html">Web-to-print profiles fix after upgrading to Magento 1.7</a>
+						</li>
+					<li>
+				<a href="../../2012/08/14/payments-date-wipe-out/index.html">Payments date wipe-out</a>
+						</li>
+					<li>
+				<a href="../../2012/07/31/serious-network-issues/index.html">Serious network issues</a>
+						</li>
+				</ul>
+		</li>
+		<li id="niceajaxtree-widget-3" class="widget cat-post-ajax-tree"><h2 class="widgettitle"><span class="widgettitle">Topics</span></h2>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/announcements/index.html"
+	title="View all posts in Announcements">Announcements</a>
+<span
+	class="arrow cat-item-3">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-3" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/api/index.html"
+	title="View all posts in API">API</a>
+<span
+	class="arrow cat-item-65">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-65" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/blogroll/index.html"
+	title="View all posts in Blogroll">Blogroll</a>
+<span
+	class="arrow cat-item-2">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-2" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/bugs-and-fixes/index.html"
+	title="View all posts in Bugs and fixes">Bugs and fixes</a>
+<span
+	class="arrow cat-item-147">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-147" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/customer-web-to-print-sites/index.html"
+	title="View all posts in Customer web-to-print sites">Customer web-to-print sites</a>
+<span
+	class="arrow cat-item-149">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-149" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/freebies/index.html"
+	title="View all posts in Freebies">Freebies</a>
+<span
+	class="arrow cat-item-146">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-146" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/graphic-design/index.html"
+	title="View all posts in Graphic design">Graphic design</a>
+<span
+	class="arrow cat-item-4">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-4" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/ideas-and-opinions/index.html"
+	title="View all posts in Ideas and opinions">Ideas and opinions</a>
+<span
+	class="arrow cat-item-5">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-5" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/junk-mail-collection/index.html"
+	title="View all posts in Junk mail collection">Junk mail collection</a>
+<span
+	class="arrow cat-item-6">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-6" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/known-issues/index.html"
+	title="View all posts in Known issues">Known issues</a>
+<span
+	class="arrow cat-item-17">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-17" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/marketing/index.html"
+	title="View all posts in Marketing">Marketing</a>
+<span
+	class="arrow cat-item-7">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-7" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/payments-2/index.html"
+	title="View all posts in Payments">Payments</a>
+<span
+	class="arrow cat-item-150">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-150" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/premium-support/index.html"
+	title="View all posts in Premium support">Premium support</a>
+<span
+	class="arrow cat-item-151">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-151" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/printer-update/index.html"
+	title="View all posts in Printer update">Printer update</a>
+<span
+	class="arrow cat-item-8">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-8" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/printer-update-history/index.html"
+	title="View all posts in Printer update history">Printer update history</a>
+<span
+	class="arrow cat-item-18">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-18" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/printing-industry-reviews/index.html"
+	title="View all posts in Printing industry reviews">Printing industry reviews</a>
+<span
+	class="arrow cat-item-10">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-10" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/problems-and-outages/index.html"
+	title="View all posts in Problems and outages">Problems and outages</a>
+<span
+	class="arrow cat-item-56">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-56" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/scam-buster/index.html"
+	title="View all posts in Scams">Scams</a>
+<span
+	class="arrow cat-item-12">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-12" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/update-summaries/index.html"
+	title="View all posts in Update summaries">Update summaries</a>
+<span
+	class="arrow cat-item-19">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-19" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/user-update-history/index.html"
+	title="View all posts in User update history">User update history</a>
+<span
+	class="arrow cat-item-20">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-20" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print/index.html"
+	title="View all posts in Web-to-Print">Web-to-Print</a>
+<span
+	class="arrow cat-item-13">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-13" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-features/index.html"
+	title="View all posts in web-to-print features">web-to-print features</a>
+<span
+	class="arrow cat-item-53">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-53" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-help/index.html"
+	title="View all posts in Web-to-print help">Web-to-print help</a>
+<span
+	class="arrow cat-item-145">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-145" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-reviews/index.html"
+	title="View all posts in Web-to-Print reviews">Web-to-Print reviews</a>
+<span
+	class="arrow cat-item-14">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-14" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-software/index.html"
+	title="View all posts in web-to-print software">web-to-print software</a>
+<span
+	class="arrow cat-item-54">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-54" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-storefront/index.html"
+	title="View all posts in Web-to-print storefront">Web-to-print storefront</a>
+<span
+	class="arrow cat-item-148">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-148" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/whaling/index.html"
+	title="View all posts in Whaling">Whaling</a>
+<span
+	class="arrow cat-item-15">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-15" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/index.html"
+	title="View all posts in ZetaPrints features">ZetaPrints features</a>
+<span
+	class="arrow cat-item-16">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-16" style="display:none;">
+</div>
+</div>
+</li>
+      </ul>
+    </div>
+    <div id="leftcol">
+      <div id="news" class="clearfix">
+        <div id="newswrap">
+            <div class="post" id="post-54">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/14/the-soul-of-a-font/index.html" rel="bookmark" title="Permanent Link to The Soul Of A Font">The Soul Of A Font</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/graphic-design/index.html" rel="category tag">Graphic design</a></small></div>
+              <small>January 14th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p class="style4" align="justify"><font face="georgia">It is amazing how meaning is emphasized by the way a word is typed.  Font carries with it special attributes that make it touch the reader in a subliminal way.  For this reason, font has been used as to ensure that a message is imparted not just to be read by the eyes but to be felt by the emotion.</font></p>
+<p class="style4" align="center"><font face="georgia"> </font></p>
+<p class="style5" align="justify"><font face="georgia"><strong>THE STORY BEHIND A FONT</strong> <span class="style4"></span></font><a href="http://web-to-print.zetaprints.com/2007/01/14/the-soul-of-a-font/f1jpg/" rel="attachment wp-att-77" title="f1.jpg"><img src="http://webtoprint.files.wordpress.com/2007/01/f1.jpg" alt="f1.jpg" align="right" /></a></p>
+<p class="style4" align="justify"><font face="georgia">Each font is symbolic and has its own history. Every font has a reason why it has been designed so and why it has been named so.  The story behind the conceptualization of a font gives it its unique character. But it does not end there. Font evolves along with the changing times. It marries another to create an entire genealogy of fonts.</font></p>
+<p class="style4" align="justify"><font face="georgia"> </font></p>
+<p class="style5" align="left"><strong><font face="georgia">GOOD PRACTICE</font></strong></p>
+<p class="style4" align="justify"><font face="georgia">A good designer knows how to use font to make a very compelling statement. He knows that the word “wedding” would better be written in Flemish Script rather than Courier New. He knows that it would be inappropriate to use the Curlz font in writing something about the military.</font></p>
+<p class="style4" align="center"><a href="http://web-to-print.zetaprints.com/2007/01/14/the-soul-of-a-font/wedding_militaryjpg/" rel="attachment wp-att-78" title="wedding_military.jpg"><img src="http://webtoprint.files.wordpress.com/2007/01/wedding_military.jpg" alt="wedding_military.jpg" /></a></p>
+<p class="style4" align="justify"><font face="georgia">The choice of font is critically essential in design. Tons of books and articles have been written to guide designers on what they call “fontography” and “typography”, ranging from history to vectorization of fonts. Apart from all the logical explanations and helpful hints and tips and tricks that you get from books and the Internet, you have your own decision-making tools such as gut feeling and pure common sense.</font></p>
+<p class="style4" align="justify"><font face="georgia"> </font></p>
+<p class="style5" align="justify"><strong><font face="georgia">GETTING INTO THE SOUL OF A FONT</font></strong></p>
+<p class="style4" align="justify"><font face="georgia">The most important thing about using font in design is get into the soul of the font, allowing it to commune with your senses and emotions.  Feel what the font expresses and when use it to type your text, see if that is the feeling you would want to impart your readers. After that, you can change your text and font attributes for better suitability.</font></p>
+<p class="style4" align="justify"><font face="georgia"> </font></p>
+<p class="style5" align="justify"><strong><font face="georgia">CHOOSING THE RIGHT FONT</font></strong></p>
+<p class="style4" align="justify"><font face="georgia">As a bit of seatwork, you can try this exercise on font selection.  We will borrow a link from the website of Software Usability Research Laboratory of the Wichita State University. Please click on the following link: <a href="http://psychology.wichita.edu/surl/usabilitynews/3S/compare.htm">http://psychology.wichita.edu/surl/usabilitynews/3S/compare.htm</a> and try to decide which paragraph has been appropriately written. There really is no right or wrong answer, although there could be one in particular there that would get the most votes.</font></p>
+<p class="style4" align="justify"><font face="georgia">The choice of font must not depend solely on the topic of the text. You should also consider how this paragraph would appear on your page layout: is it part of a larger composition where it should appear continuously with the other paragraphs, or is it something that should appear with more emphasis than the rest of the text?</font></p>
+<p class="style4" align="justify"><font face="georgia"> </font></p>
+<p class="style5" align="justify"><strong><font face="georgia">FOR  LOGO DESIGNERS</font></strong></p>
+<p class="style4" align="justify"><a href="http://web-to-print.zetaprints.com/2007/01/14/the-soul-of-a-font/font_souljpg/" rel="attachment wp-att-79" title="font_soul.jpg"><img src="http://webtoprint.files.wordpress.com/2007/01/font_soul.jpg" alt="font_soul.jpg" align="left" hspace="20" /></a><font face="georgia">And now here’s something for logo designers. Nothing.  ^_^  There is nothing I can tell you that you don’t already know. You have it there with you and you’ve known it all along. It’s all about being sensitive. You are dealing with emotions. You want to make a logo that speaks your message. Furthermore, your client wants a logo that would be powerful enough to carry on the brand image and make it popular for generations. You know what to do. Follow your heart. Use your senses. Choose a font with the attributes that best matches your emotions. If you do this successfully, you would not at all need a graphic image- your text will stand out and be recognized as a very powerful brand logo.</font></p>
+<p class="style4" align="center"><font face="georgia"> </font></p>
+<p class="style5" align="left"><strong><font face="georgia">CONCLUSION</font></strong></p>
+<p class="style4" align="justify"><font face="georgia">The soul of a font- it’s what you need to get along with- be it for an article such as this, for a web banner that scrolls or flashes, or a logo that is to be remembered for ages. It is the way a font speaks that should tell you when to use it and for what purpose. It is the one important factor that will enable you close all those written tutorials and guidelines and get on right away with your design …and feel good about it, too! ^_^</font></p>
+<p class="style4" align="justify"><font face="georgia"> </font></p>
+<p class="style5" align="justify"><strong><font face="georgia">GOOD EXAMPLES</font></strong></p>
+<p class="style4" align="justify"><font face="georgia">Finally, here are some very familiar brand logos that exemplify good use of fontography:</font></p>
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="4" width="100%">
+<tr>
+<td>
+<p align="center"><a href="http://web-to-print.zetaprints.com/2007/01/14/the-soul-of-a-font/brandsjpg/" rel="attachment wp-att-80" title="brands.jpg"><img src="http://webtoprint.files.wordpress.com/2007/01/brands.jpg" alt="brands.jpg" /></a></p>
+</td>
+</tr>
+</table>
+<p class="style4" align="justify"><font face="georgia">Have fun with fonts!</font></p>
+<p class="style4" align="justify"><font face="georgia">^_^ Gracey</font></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/14/the-soul-of-a-font/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-53">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/14/how-colors-speak/index.html" rel="bookmark" title="Permanent Link to How Colors Speak">How Colors Speak</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/graphic-design/index.html" rel="category tag">Graphic design</a></small></div>
+              <small>January 14th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p align="center"><font face="georgia"> </font></p>
+<p><a href="http://web-to-print.zetaprints.com/2007/01/14/how-colors-speak/colors1jpg/" rel="attachment wp-att-74" title="colors1.jpg"><img src="http://webtoprint.files.wordpress.com/2007/01/colors1.jpg" alt="colors1.jpg" /></a></p>
+<p><font face="georgia">… a bolt form  the blue…<br />
+… the black  sheep of the family…<br />
+… to be  browned off…<br />
+… a golden  opportunity…<br />
+… paint the  town red… </font></p>
+<p align="justify"><font face="georgia">These are just a few of the many idiomatic expressions in the English language that use color. While some of these may need explanation for their literal meaning, little would you wonder how a particular color gets to be used where you see it.</font></p>
+<p><font face="georgia"><strong>BLUE</strong></font></p>
+<p align="justify"><font face="georgia">“A bolt from the blue” means something sort of a surprise, owing to the word “bolt”. The English teacher will tell her pupils that a lightning bolt has the characteristic of coming very unexpectedly, which is why it is used to denote surprise in this expression. But there is no need to elaborate on the “blue” part because it is understood that what is figuratively meant here is the sky.</font></p>
+<p align="justify"><font face="georgia">Colors speak. They convey words. They carry different meanings. One single color may impart several different messages. To demonstrate this point, let’s go back to the color blue. Because blue is the color of the sky and of clear running waters, it speaks of calmness and serenity. But it is the same color used in expressions to mean loneliness and sadness. Are you feeling blue?</font></p>
+<p><font face="georgia"><strong>NATURAL ASSOCIATION</strong></font></p>
+<p align="justify"><font face="georgia"> How a color  conveys a message is influenced by a number of factors. Most often times, it is  what we call <em>natural association</em> that tells us what a color means. For example, earth is brown, blood is red, and vegetation is green. So that may mean brown is for “soiled”, red is for “barbaric”, and green is for “productivity”. We have been taught these associations when we were in school. But even those who were never formally educated have gained this knowledge, too, simply by looking around, provided of course, the person knows which color brown is! ^_^</font></p>
+<p><font face="georgia"><strong>PSYCHOLOGICAL ASSOCIATION </strong></font></p>
+<p align="justify"><font face="georgia"> There is also what  the scholars of color refer to as <em>psychological association</em>. Now this is a bit more complex because it embraces a horde of perturbing determinants. By psychological association, we mean those attributes, meanings and uses that a particular color is given through the dictates of society, culture, religion, politics and fads.</font></p>
+<p align="justify"><font face="georgia"><br />
+<strong>BLACK </strong> </font>
+</p>
+<p align="justify"><font face="georgia"> Let’s looks at black, for example. Generally speaking, black has an almost global connotation of death and mourning. Some societies, however, reserve black for partying. This has been made stronger by fashion fads, dictating the use of black suits and gowns for the most elegant events. Furthermore, little bits of detail will put in big differences. So if you opt to don a black number to receive an Oscar, make sure the cut and style of your gown would not make you look like Morticia Adams.</font></p>
+<p><font face="georgia"><strong>GREEN</strong></font></p>
+<p align="center"><a href="http://web-to-print.zetaprints.com/2007/01/14/how-colors-speak/greenjpg/" rel="attachment wp-att-75" title="green.jpg"><img src="http://webtoprint.files.wordpress.com/2007/01/green.jpg" alt="green.jpg" /></a></p>
+<p align="justify"><font face="georgia">Another example would be the color green. In Ireland, green has the symbolic meaning of good luck. This probably comes from the fact that green is the color of the “lucky” four-leaf-clover. If you are lucky enough, you might catch a leprechaun. Take note, he is dressed in green clothes! ^_^   Now to (sort of) contradict this, green also carries the symbolic meaning of seasickness. Please don’t ask why…the reason is really sickening!</font></p>
+<p align="left"><font face="georgia"> </font></p>
+<p><font face="georgia"><strong>PHYSICAL ATTRIBUTES</strong></font></p>
+<p align="justify"><font face="georgia"> <em>Physical  attributes. </em>One can change the meaning of a color by making some alterations with its tonal depth, size and shape, background color, and surface texture (to name a few).</font></p>
+<p align="justify"><font face="georgia"><br />
+<strong>RED</strong> </font>
+</p>
+<p align="center"><a href="http://web-to-print.zetaprints.com/2007/01/14/how-colors-speak/redjpg/" rel="attachment wp-att-76" title="red.jpg"><img src="http://webtoprint.files.wordpress.com/2007/01/red.jpg" alt="red.jpg" /></a></p>
+<p align="justify"><font face="georgia">Let’s examine red. As stated earlier, red is the color of blood and hence carries with it an aggressive mood. If you see red as spills or splats, it looks bloody and gruesome. But give it a glossy or metallic finish and it becomes savvy. Red is a strong color and has a commanding effect. We see it everywhere as STOP signs. When a message needs to be emphasized or when some calendar days are considered special, they are written in red. It is a color so energetic on text that it could show strong emotion such as wrath. On the other hand, it looks playfully cheerful when presented as red polka dots. Give it the shape of a heart or make it a box for chocolates and your red now says, &#8220;Happy Valentine&#8217;s.&#8221;</font></p>
+<p><font face="georgia"><strong>CONCLUSION</strong></font></p>
+<p align="justify"><font face="georgia"> How colors speak is indeed influenced by a myriad of factors. You can use common sense or mere gut feeling to figure out what a color implies. But if you are in the serious business of design, this is something you would have to take into detailed consideration.</font></p>
+<p class="style4" align="justify"><font face="georgia">Have fun with colors!</font></p>
+<p class="style4" align="justify"><font face="georgia">^_^ Gracey</font></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/14/how-colors-speak/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-52">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/14/dealing-with-low-computer-literacy/index.html" rel="bookmark" title="Permanent Link to Dealing With Low Computer Literacy">Dealing With Low Computer Literacy</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/graphic-design/index.html" rel="category tag">Graphic design</a></small></div>
+              <small>January 14th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p align="justify"><font face="georgia">Fact of life: most people are still low in computer literacy. Even a  high level of education would not guarantee survival in the IT world.  Not so much of a big deal outside the web, but for those whose business  is Internet-based, this problem is a serious threat.</font></p>
+<p align="justify"><font face="georgia"> Let’s take a look at George, a 50-something politician who is  preparing for the local elections. He has a very nagging idea in his  mind of how he wants his campaign posters and fliers to look like. On  the advice of his peers, he wants to try the printing services in the  Internet. One of his friends strongly recommends <a href="http://www.gabrielgr.com/">The Gabriel Group</a>.  George was given the link. He types in http://www.gabrielgr.com/ (and  it wasn’t easy for him to type it), then he hits ENTER. For reasons  unknown to him, George sighs as the page loads at turtle speed. Finally  it’s there, pretty angel and all. George looks at the page. Very  pretty. Now what? Oh, ok, there: “Global Web-to-Print”. Is this it?  Maybe. He clicks on it. Page loads. OH, NOW WHAT???? Forget it! Too bad  for this gold standard company, George would have ordered tons of  printing jobs. Tsk! Tsk! Tsk!</font></p>
+<p align="justify"><font face="georgia"> Ok, your turn. You’re a computer and Internet pro, right? C’mon,  give it a try. Click on the link. What do you see? Well, in all  fairness to its designer/s the site does look very, very pretty. But  that’s not what we need. We’re in the do-it-yourself business and we’re  trying to sell something. So, is our user interface friendly enough for  people like George?</font></p>
+<p align="justify"><font face="georgia"> At this point, let’s see what happens as a person tries to operate  your user interface. Is it simple or complicated to find stuff and make  preferred events happen? This is vital because if your clients can’t  make out how to work with the interface, you lose them!</font></p>
+<p><font face="georgia"> What can you do about this?  Here are some guidelines:</font></p>
+<p align="justify"><font face="georgia"> <strong>Keep it simple.</strong> I’m talking about the URL. Keep it  simple, easy to remember, and above all, easy to type. Short doesn’t  necessarily mean simple. Wacky isn’t always cool. Try to come up with  something that will appeal to general patronage: from  low-computer-literacy people to computer geeks; from high-school  drop-outs to business executives. Hmmm…sounds really challenging!</font></p>
+<p align="justify"><font face="georgia"> <strong>Keep it basic.</strong> You would love to have the latest  in web technology running in your website but it will attract only the  nerds and not the potential buyers. Focus should be on content. It  should scream good customer service.</font></p>
+<p align="justify"><font face="georgia"> <strong>Keep it peaceful.</strong> There is no need for rudiments  that are in constant motion. Keep in mind that moving images tend to  overpower the human senses. They’re like noise hammering inside your  brain when you’re trying to read important text. Give the users some  peace and quiet so they can go about what they need to do.</font></p>
+<p align="justify"><font face="georgia"> <strong>Keep it legible.</strong> A lot of modern web designers try  to be cool and trendy by using super tiny fonts that nearly blend into  the background and can only be clearly seen on mouse-over. You know  what I mean? For some reason, someone came up with this silly idea and  now it’s the craze in web fashion! Please don’t do this! This is NOT  for the do-it-yourself business such as web-to-print. Keep in mind that a good  number of your clients are nearing the geriatric stage and could barely  read without their glasses on.</font></p>
+<p align="justify"><font face="georgia"> <strong>Keep it speedy.</strong> The number one turn-off for web  visitors is, I’m sure, long download times. Most viewers would leave  the site if it hasn’t completely loaded in 8 seconds. So that means  goodbye flash effects…goodbye awesome graphics….we’ll see you at the  gaming sites!</font></p>
+<p align="justify"><font face="georgia"> Perhaps you’ve heard of these web design pointers time and again.  But maybe there is a need to review about them because they can never  be overemphasized. Remember, what is being addressed here is the  problem of low computer literacy. You cannot educate your clients but  you sure can make things simple enough for them to say it’s  “user-friendly”. So that’s five tips. I’ll give you some more next time.</font></p>
+<p align="justify">&nbsp;</p>
+<p><font face="georgia">^_^ Gracey</font></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/14/dealing-with-low-computer-literacy/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-51">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/11/truncated-fields/index.html" rel="bookmark" title="Permanent Link to Truncated fields">Truncated fields</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/zetaprints-features/known-issues/index.html" rel="category tag">Known issues</a></small></div>
+              <small>January 11th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>Some fields are too small to take a particularly lengthy user input, but users do not always notice this. One option is to set a maximum field length.<br />
+We plan to make the graphic processor return information about any truncated fields back to the user. It will only work with paragraph text frames because artistic texts do no have bounding limits.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/11/truncated-fields/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-50">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/11/access-url-recognition/index.html" rel="bookmark" title="Permanent Link to Access URL recognition">Access URL recognition</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/zetaprints-features/known-issues/index.html" rel="category tag">Known issues</a></small></div>
+              <small>January 11th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>Access URL will be automatically recognised when a printer logs in using a new access URL for the first time. The URL needs to be entered manually at present. It’s quite confusing for many printers.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/11/access-url-recognition/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-49">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/11/template-defaults/index.html" rel="bookmark" title="Permanent Link to Template defaults">Template defaults</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/zetaprints-features/known-issues/index.html" rel="category tag">Known issues</a></small></div>
+              <small>January 11th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>Some template settings are common across all templates in a catalogue. There will be an option to set default template settings per catalogue, but they can be overridden in any template, if needed. Fields like Payment Required, Terms of Printing and “Hide” are the most likely candidates.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/11/template-defaults/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-48">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/11/template-details-screen-is-getting-too-big/index.html" rel="bookmark" title="Permanent Link to Template details screen is getting too big">Template details screen is getting too big</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/zetaprints-features/known-issues/index.html" rel="category tag">Known issues</a></small></div>
+              <small>January 11th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>Templates get more and more settings that take space on the screen in Template Details and Edit Template Details forms. The forms need to be more compact, but will not be split into multiple forms at this stage.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/11/template-details-screen-is-getting-too-big/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-47">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/11/missing-image-effects/index.html" rel="bookmark" title="Permanent Link to Missing image effects">Missing image effects</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/zetaprints-features/known-issues/index.html" rel="category tag">Known issues</a></small></div>
+              <small>January 11th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>Some image properties such as paragraph wrapping, shade and a few others are not applied to user images correctly, which causes a lot of grief with some templates.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/11/missing-image-effects/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-46">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/11/asynchronous-order-processing/index.html" rel="bookmark" title="Permanent Link to Asynchronous order processing">Asynchronous order processing</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/zetaprints-features/known-issues/index.html" rel="category tag">Known issues</a></small></div>
+              <small>January 11th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>Users should not wait for their order files to be prepared. The plan is to change the final file preparation to an asynchronous process where the user gets an instant message that the order is being processed. The order page will be refreshed every 10 seconds. The payments will still be processed and the order should be completed by the time the payment is done.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/11/asynchronous-order-processing/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-45">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2007/01/11/page-update-%E2%80%93-one-at-a-time/index.html" rel="bookmark" title="Permanent Link to Page update – one at a time">Page update – one at a time</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/zetaprints-features/known-issues/index.html" rel="category tag">Known issues</a></small></div>
+              <small>January 11th, 2007 <!-- by admin --></small>
+              <div class="entry">
+    <p>Previews should be updated one page at a time. Currently, all pages are updated at the same time.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2007/01/11/page-update-%25e2%2580%2593-one-at-a-time/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="navigation">
+            <div class="alignleft"><a href="../32/index.html" >&laquo; Older Entries</a></div>
+            <div class="alignright"><a href="../30/index.html" >Newer Entries &raquo;</a></div>
+          </div>
+          <br /><br /><br /><br />
+        </div>
+      </div>
+      <hr />
+    </div>
+  </div>
+
+<div id="footer-container" class="container">
+  <div id="footer">
+    <div id="bottomnav">
+      <!-- a id="pagecounter" href="http://whos.amung.us/show/9bm3msts"><img src="http://whos.amung.us/widget/9bm3msts" alt="hit counter" border="0" height="29" width="81" /></a -->
+      <ul>
+        <li class="first"><a href="../../../about-us/index.html" title="About ZetaPrints">About ZetaPrints</a></li>
+        <li><a href="../../../about-us/contact-us/index.html" title="Contact us">Contact us</a></li>
+        <li><a href="http://zetaprints.com/" title="Log in">Log in</a></li>
+        <li><a href="../../../web-to-print-legal/privacy-policy/index.html" title="Privacy policy">Privacy</a></li>
+        <li><a href="../../../sitemap/index.html" title="Sitemap">Sitemap</a></li>
+        <li><a href="../../../about-us/summary-of-terms-and-conditions/index.html" title="Terms and conditions">Terms of Service</a></li>
+        <li><a href="../../index.html" title="Web-to-print Blog">Web-to-print Blog</a></li>
+        <li><a href="../../../help/index.html" title="Web-to-print Help">Web-to-print Help</a></li>
+      </ul>
+    </div>
+    <p><a href="../../index.html" title="Web-to-print Blog"><img class="footer-icon" alt="Blog" src="../../wp-content/themes/water-zp-3/images/blog.png"/></a>&nbsp;
+<a href="http://twitter.com/zetaprints" title="Follow us on twitter"><img class="footer-icon" alt="Twitter" src="../../wp-content/themes/water-zp-3/images/twitter_16.png"/></a>&nbsp;
+&copy; 2006-2012 ZetaPrints Ltd. All rights reserved. Powered by <a href="http://wordpress.org">WordPress</a>.</p>
+    <a href="#header" title="Back to Top" class="top-btn">Back to Top</a>
+  </div>
+</div>
+
+<script type="text/javascript">
+    (function(){
+        var ga = document.createElement('script');
+        ga.type="text/javascript";
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1132851-1']);
+    _gaq.push(['_trackPageview']);
+</script>
+</body>
+</html>
+
+<!-- Localized -->

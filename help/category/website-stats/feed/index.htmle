@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Website stats &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/category/website-stats/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Google webmaster tools</title>
+		<link>http://www.zetaprints.com/help/google-webmaster-tools/</link>
+		<pubDate>Tue, 11 Dec 2007 20:57:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Website stats]]></category>
+		<category><![CDATA[Google crawlers]]></category>
+		<category><![CDATA[Search engines]]></category>
+		<category><![CDATA[SEO]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/google-webmaster-tools/</guid>
+		<description><![CDATA[Google webmaster tools is an extremely useful service if you want your designs, products and services to appear high in search results. About the tools The tools allow you to analyze how well you perform in search results, what the most popular searches are for your website, what content should be indexed and how, useful [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Google analytics</title>
+		<link>http://www.zetaprints.com/help/google-analytics/</link>
+		<pubDate>Tue, 11 Dec 2007 20:57:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Website stats]]></category>
+		<category><![CDATA[Embeded script]]></category>
+		<category><![CDATA[Statistics]]></category>
+		<category><![CDATA[Traffic Analysis]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/google-analytics/</guid>
+		<description><![CDATA[Google Analytics is a free website traffic analysis service. It may offer you important insights into user behavior and performance of different products / offerings. Privacy issues Googles Analytics will collect information about all site activities, including activities protected by login and password. Although the data is not public, Google will have the insider knowledge [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Website stats</title>
+		<link>http://www.zetaprints.com/help/website-stats/</link>
+		<pubDate>Sun, 02 Dec 2007 17:32:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Website stats]]></category>
+		<category><![CDATA[Custom domains]]></category>
+		<category><![CDATA[Hit Counter]]></category>
+		<category><![CDATA[Statistics]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/website-stats/</guid>
+		<description><![CDATA[Some pages available to the public can have a third party hit counter embedded to provide you with website statistics and analysis. Third party services Web analytics services range from simple hit counters to complex solutions like Google Analytics. Some of them require embedding of JavaScript while others offer image embedding. ZetaPrints allows embedding of [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

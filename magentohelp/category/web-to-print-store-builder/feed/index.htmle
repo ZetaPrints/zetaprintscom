@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web-to-print store builder &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/category/web-to-print-store-builder/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Magento Newsletter</title>
+		<link>http://www.zetaprints.com/magentohelp/magento-newsletter/</link>
+		<pubDate>Tue, 30 Aug 2011 12:33:22 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Web-to-print store builder]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=13225</guid>
+		<description><![CDATA[Keeping in touch with customers of your web-to-print store is very important. Magento has built-in Newsletter functionality to send newsletters to subscribed customers. We also tried and explained use of MailChimp plugin for advanced newsletter features. Magento subscriptions By default Magento allows your customers to subscribe to newsletters. They can do this when registering a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Keeping in touch with customers of your <a title="ZetaPrints web-to-print and dynamic imaging" href="../../../../">web-to-print</a> store is very important. Magento has built-in Newsletter functionality to send newsletters to subscribed customers. We also tried and explained use of MailChimp plugin for advanced newsletter features.<span id="more-13225"></span></p>
+<h2>Magento subscriptions</h2>
+<p>By default Magento allows your customers to subscribe to newsletters. They can do this</p>
+<ul>
+<li>when registering a new account,</li>
+<li>from <em>My Account</em> page, after they login or</li>
+<li>using the newsletter subscription block in the front-end of your web-to-print store.</li>
+</ul>
+<h2>Magento newsletter templates</h2>
+<p>The process of sending out Magento Newsletter starts with creation of <em>Newsletter Template</em>. You can create multiple newsletter templates with different styling and test them to see which one attracts the most response from subscribers. Read more about Magento Newsletters on<a title="Magento Newsletter" href="http://inchoo.net/ecommerce/magento/magento-newsletter/"> inchoo.net</a> and <a title="Magento Newsletter tutorial" href="http://www.siteground.com/tutorials/magento/magento_newsletter.htm">siteground.com</a>.</p>
+<h2>Advanced web-to-print newsletters</h2>
+<p>Although sufficient, the native Magento newsletter functionality is somewhat limited. If you want to &#8220;tune up&#8221; your<em> web-to-print store</em> and equip it with a proper newsletter, we recommend using an external email marketing service such as <a title="Email marketing and newsletters" href="http://mailchimp.com/">MailChimp</a>.</p>
+<p>MailChimp have developed an <a title="MailChimp Magento module on Magento eCommerce" href="https://www.magentocommerce.com/magento-connect/ebizmarts-mailchimp-sync-official-full-mailchimp-integration.html">extension</a> for Magento to help integrate and synchronize your MailChimp account with your <em>web-to-print</em> and <em>dynamic imaging</em> <a title="Magento web-to-print Demo store" href="../../../../magento-web-to-print/magento-demo-store/">Magento store</a>.</p>
+<h3>MailChimp integration procedure</h3>
+<ol>
+<li><a title="MailChimp account sign up" href="https://mailchimp.com/signup/">Sign up</a> a MailChimp acc;</li>
+<li><a title="MailChimp subscribers list management" href="http://mailchimp.com/resources/guides/html/how-to-manage-your-list/">Create a subscribers list</a>;</li>
+<li>Get your MailChimp <a title="Get MailChimp API key" href="http://kb.mailchimp.com/article/where-can-i-find-my-api-key/">API key</a>;</li>
+<li>Install <a title="MailChimp Magento module on Magento eCommerce" href="https://www.magentocommerce.com/magento-connect/ebizmarts-mailchimp-sync-official-full-mailchimp-integration.html">MailChimp extension</a> for Magento;</li>
+<li>Navigate to <em>System / Configuration / Customers / MailChimp Configuration</em> to <strong>enable</strong> the plugin, input the <a title="Get MailChimp API key" href="http://kb.mailchimp.com/article/where-can-i-find-my-api-key/">API key</a> and choose the &#8220;General subscriptions&#8221; list name;</li>
+<li>Navigate to <em>Newsletter / MailChimp / Bulk synchronization,</em> choose <strong>Export List</strong> from the drop-down menu, select the list name and hit <strong>Create;</strong></li>
+<li>An item appears in the list on the same page. This is the exported customer list that is ready to be synched with your MailChimp acc. Choose <strong>Run</strong> from its drop-down menu located in the last column;</li>
+<li>This is when customers receive an email asking them to confirm the subscription;</li>
+<li>After confirmation from the customer, they are automatically added in your MailChimp subscribers list and you can send newsletters to them as part of usual <a title="Create new MailChimp campaign" href="http://kb.mailchimp.com/article/how-do-i-create-a-new-campaign">MailChimp campaigns</a>.</li>
+</ol>
+<p>Take part in the MailChimp <a title="MailChimp online training course" href="http://mailchimp.com/support/online-training/">online training</a> courses for more insight.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Initial Magento config</title>
+		<link>http://www.zetaprints.com/magentohelp/initial-magento-configuration/</link>
+		<pubDate>Mon, 15 Aug 2011 13:43:54 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Web-to-print store builder]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=13186</guid>
+		<description><![CDATA[These are the most important settings that you should configure after installing Magento. Navigate to System / Configuration in your Magento admin panel. Basic configuration for web-to-print and dynamic imaging There are quite a few settings that can be configured here, we are only interested in the relatively crucial ones to get your web-to-print store [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>These are the most important settings that you should configure after installing Magento. Navigate to <em>System / Configuration</em> in your Magento admin panel.<span id="more-13186"></span></p>
+<h2>Basic configuration for web-to-print and dynamic imaging</h2>
+<p>There are quite a few settings that can be configured here, we are only interested in the relatively crucial ones to get your web-to-print store up and running. Lets start from the top and work our way down through the tabs.</p>
+<table id="hier_tbl_li">
+<tbody>
+<tr id="hier_tbl_head">
+<td style="text-align: center;"><strong>Configuration</strong></td>
+<td style="text-align: center;"><strong>Tab</strong></td>
+<td style="text-align: center;"><strong><strong>Section</strong></strong></td>
+<td style="text-align: center;"><strong>Role and recommended value<br />
+</strong></td>
+</tr>
+<tr>
+<td rowspan="8"><strong>General</strong></td>
+<td>Web</td>
+<td>Session cookie management</td>
+<td>By default Magento cookie lifetime is set at 3600 seconds (1 hour). This means that customers will be asked to log in after 60 minutes of inactivity which can be pretty annoying and cost you a sale.<br />
+Recommended value: 86400 (24 hours)</td>
+</tr>
+<tr>
+<td rowspan="4">Design</td>
+<td>Themes</td>
+<td>Read more about <a title="Magento web-to-print themes" href="../../themes-for-web-to-print/">Magento web-to-print themes</a>.</td>
+</tr>
+<tr>
+<td>HTML Head</td>
+<td>
+<ul>
+<li>Upload a favicon image file, also known as &#8220;favorites icon&#8221;. Image size should be 16 x 16 px.</li>
+<li>Default Description and Keywords &#8211; Provide description and keywords for SEO purposes.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Header</td>
+<td>
+<ul>
+<li>Logo Image Src &#8211; URL path to the logo image file on your server</li>
+<li>Logo Image Alt &#8211; Alternative text for the logo image</li>
+<li>Welcome text &#8211; Welcome message displayed in the header before customers log in.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Footer</td>
+<td>Copyright</td>
+</tr>
+<tr>
+<td>Curency setup</td>
+<td>Currency Options</td>
+<td>Set a default currency for your store. Default value is US Dollar.</td>
+</tr>
+<tr>
+<td>Store email addresses</td>
+<td>Store email addresses</td>
+<td>Set <em>General</em>, <em>Sales</em> and <em>Support</em> email addresses that will appear as sender signatures in transactional emails.</td>
+</tr>
+<tr>
+<td>Contacts</td>
+<td>Contact Us</td>
+<td>Enable or Disable Magento native contact form.<br />
+Recommended value: Yes</td>
+</tr>
+<tr id="hier_tbl_head">
+<td colspan="4"></td>
+</tr>
+<tr>
+<td><strong>Catalog</strong></td>
+<td>ZetaPrints web-to-print</td>
+<td>Settings</td>
+<td>Configure <a title="ZetaPrints web-to-print synchronization settings" href="../../../zetaprints-synchronization-settings/">web-to-print synchronization settings</a>.</td>
+</tr>
+<tr id="hier_tbl_head">
+<td colspan="4"></td>
+</tr>
+<tr>
+<td rowspan="4"><strong>Sales</strong></td>
+<td>Checkout</td>
+<td>Checkout options</td>
+<td>Allow guest checkout if you want to permit customers to place orders without having to register accounts in your store.<br />
+Recommended value: No</td>
+</tr>
+<tr>
+<td>Shipping settings</td>
+<td>Settings</td>
+<td>Set shipping origin physical address. Read more about <a title="Magento shipping configuration" href="../../../shipping-configuration/">shipping configuration</a>.</td>
+</tr>
+<tr>
+<td>PayPal</td>
+<td>Merchant account</td>
+<td>Input email address associated with PayPal merchant account.</td>
+</tr>
+<tr>
+<td>Payment methods</td>
+<td>Saved CC, Check / Moneyorder</td>
+<td>Enable payment methods that you want accepted in your store.</td>
+</tr>
+<tr id="hier_tbl_head">
+<td colspan="4"></td>
+</tr>
+<tr>
+<td rowspan="2"><strong>Advanced</strong></td>
+<td>Admin</td>
+<td>Security</td>
+<td>Admin login session time in seconds.<br />
+Recommended value: 3600 (1 hour)</td>
+</tr>
+<tr>
+<td>Advanced</td>
+<td>Disable Modules Output</td>
+<td>This is where you can disable most of the Magento native modules, including:</p>
+<ul>
+<li>Newsletter</li>
+<li>Sitemap</li>
+<li>Wishlist</li>
+<li>Tags etc.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h2> Advanced configuration for web-to-print</h2>
+<p>Magento has many more tabs and settings to configure. Eventually, you will need to check them all to make your web-to-print store look polished and function efficiently.</p>
+<p>We recommend to allocate about an hour of your time and simply go through each and every of them. It will also help you familiarize yourself with what is possible in your brand new web-to-print store.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Amazon server set up for web-to-print</title>
+		<link>http://www.zetaprints.com/magentohelp/amazon-server-set-up-for-web-to-print/</link>
+		<pubDate>Fri, 22 Apr 2011 10:08:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-print store builder]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12635</guid>
+		<description><![CDATA[This article is a step-by-step check-list for launching a new virtual server for a web-to-print storefront on Amazon hosting platform. The checklist is targeted at IT professionals with sufficient level of expertise. We use it internally for setting up customer servers under our premium web-to-print support. Note that some AWS screens and processes may be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This article is a step-by-step check-list for launching a new virtual server for a web-to-print storefront on Amazon hosting platform.</p>
+<p><span id="more-12635"></span></p>
+<p>The checklist is targeted at IT professionals with sufficient level of expertise. We use it internally for setting up customer servers under our premium web-to-print support. Note that some AWS screens and processes may be different as they update their systems often.</p>
+<h2>Prerequisites</h2>
+<ol>
+<li>AWS credentials (login / password or 2 security keys)</li>
+<li>Access to EC2 tab in AWS console indicates account approved and ready (<a href="https://console.aws.amazon.com/">https://console.aws.amazon.com</a>)</li>
+</ol>
+<h2 id="Instance-launch">Instance launch</h2>
+<ol>
+<li>AMI to use is as per <a title="Free Magento AMI" href="../../../free-magento-ami-on-aws/">free Magento AMI description</a>. Read the instructions and notes there carefully.</li>
+<li>Key pair &#8211; choose existing if instructed, otherwise create a new  key, save PEM file to your computer as you will DEFINITELY need it later</li>
+<li>Security group &#8211; choose existing if instructed, otherwise create a new with these rules
+<ul>
+<li>Add rule HTTP &#8211; port 80, Source: 0.0.0.0/0</li>
+<li>Add rule HTTPS &#8211; port 443, Source: 0.0.0.0/0</li>
+<li>Add rule SSH: port 22, source: your_ip/32</li>
+<li>Add rule Custom TCP rule: port: 50000-51000, source: 0.0.0.0/0 &#8211; ftp server passive connection ports</li>
+<li>Add rule Custom TCP rule: port: 10000, source: your_ip/32 &#8211; webmin</li>
+</ul>
+</li>
+<li>Zone &#8211; any, unless instructed</li>
+<li>Secret key and security group names should be meaningful and self explanatory</li>
+<li>Launch the instance (small, unless instructed otherwise)</li>
+</ol>
+<h2 id="IPDomain-setting">IP/Domain setting</h2>
+<ol>
+<li>Allocate Elastic IP if none is available.</li>
+<li>Associate Elastic IP with the instance.</li>
+<li>Reboot the instance</li>
+<li>Rename script<em> /usr/local/bin/FixBaseURL.sh</em> to stop it running at  boot time (run this command in <em>webmin </em>if FTP doesn&#8217;t have permissions <em>mv  /usr/local/bin/FixBaseURL.sh /usr/local/bin/_FixBaseURL.sh</em>)</li>
+<li>Contact the customer and request to set up A-record using Elastic IP.</li>
+</ol>
+<h2 id="Passwords">Passwords</h2>
+<ol>
+<li>Print out the home page with logins and passwords</li>
+<li>Login to Magento, navigate to <em>CMS/Pages</em> and clear or replace contents of <em>Home page</em> page</li>
+<li>Change all passwords listed in the printout<br />
+&#8211; Magento (<em>System / My account</em>, change the email as well)<br />
+&#8211; MySQL<br />
+&#8211; Webmin (<em>System / Users and Groups /</em> unix user &#8220;<em>webmin</em>&#8221; / <em>Normal password</em>)<br />
+&#8211; FTP (<em>System / Users and Groups /</em> unix user &#8220;<em>magento</em>&#8221; / <em>Normal password</em>)<br />
+&#8211; any other services listed on the homepage</li>
+<li>Write new passwords down on the same printout and share with other team members as required</li>
+</ol>
+<h2 id="Email-setup">AWS email setup</h2>
+<ol>
+<li>Request email limitation to be lifted for the instance &#8211; <a href="https://aws-portal.amazon.com/gp/aws/html-forms-controller/contactus/ec2-email-limit-rdns-request">https://aws-portal.amazon.com/gp/aws/html-forms-controller/contactus/ec2-email-limit-rdns-request</a>.
+<ul>
+<li>request reverse DNS record for the Elastic IP, if A-record exists</li>
+<li>otherwise come back to this step once A-record was created</li>
+</ul>
+</li>
+<li>Clarify if SES is required. Request SES access.</li>
+</ol>
+<h2 id="Initial-Magento-config">Initial Magento config</h2>
+<ol>
+<li>Make sure caching is disabled</li>
+<li>Change <em>Admin timeout</em> to at least 3600 under <em>System / Configuration / Advanced / Admin / Security / Session lifetime</em></li>
+<li>Assign given domain to base unsecure URL, once A-record was created</li>
+<li>Assign given domain to secure url &#8211; if SSL is configured use HTTPS, otherwise HTTP, once A-record was created</li>
+<li>Hide default home page. After setup is done, delete it.</li>
+<li>Create customer admin account for administrative tasks (<em>Sys/Config/Permissions/Users</em>, check on <em>Admin </em>option)</li>
+<li>Disable default Magento admin user</li>
+</ol>
+<h2 id="Magento-email-config">Magento email config</h2>
+<ol>
+<li>Install <a href="https://www.magentocommerce.com/magento-connect/aschroder-com-smtp-pro-email-free-and-easy-magento-emailing-for-smtp-gmail-or-google-apps-email.html"><em>SMTP Pro extension</em></a>.</li>
+<li>Request SMTP (preferred), Gmail(preferred) or SES details. Ask the customer for details, if needed.</li>
+<li>Configure extension under <em>Sys / Config / Advanced / System</em> (use temp a/c if the customer isn&#8217;t ready).</li>
+<li>Remove temporary account before handing over the control.</li>
+<li>Run a self test, make sure an email was received.</li>
+</ol>
+<h2 id="W2P-config-on-Magento">Web-to-print config on Magento</h2>
+<p>This section is optional for users running a storefront with no web-to-print enabled. It can be enabled at any later stage.</p>
+<ol>
+<li>Proceed to web-to-print installation and configuration as per <a title="web-to-print and dynamic imaging installation" href="../../installation-steps/">web-to-print installation guide</a>.</li>
+<li>Enable 1 or 2 <em>web-to-print products</em> in the front end for testing</li>
+<li>Test the products work OK with web-to-print</li>
+</ol>
+<h2 id="Theme-customisation">Theme customization</h2>
+<ol>
+<li>Follow our <a title="Magento custom theme integration" href="Check%20theme%20customization%20checklist/ ">web-to-print theme customization guide</a> or call in programmers or use our <a title="Premium web-to-print and dynamic imaging services" href="../../../../premium/index.php/web-to-print-support.html">premium web-to-print </a>support.  This step is only required if the site will use a custom theme with our web-to-print.</li>
+<li>Check magento user account (system) has read/write access to theme folders after the install.</li>
+</ol>
+<h2>Backup</h2>
+<p>Create an AMI as a backup at this stage: <em>[site-name]-[20xxmmdd]-with-theme</em></p>
+<h2 id="Additional-set-up-and-config">Additional set up and config</h2>
+<p>Work of checklist in [<em>work in progress</em>] to do additional configs.</p>
+<h2>Backup</h2>
+<p>Create one more AMI as a backup at this stage: <em>[site-name]-</em><em>[20xxmmdd]-</em><em>configured</em></p>
+<h2 id="Deliverables">Deliverables</h2>
+<p>The following info must be provided to the customer after completing the installation:</p>
+<ol>
+<li>Site access URL</li>
+<li>Admin URL</li>
+<li>Magento login/pwd</li>
+<li>Magento encryption key</li>
+<li>FTP login/pwd</li>
+<li>Webmin login/pwd</li>
+<li>MySQL login/pwd</li>
+<li>Elastic IP</li>
+<li>.pem file</li>
+</ol>
+<p>Pass the task with the details above for testing and quality control.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Shipping configuration</title>
+		<link>http://www.zetaprints.com/magentohelp/shipping-configuration/</link>
+		<pubDate>Thu, 07 Apr 2011 08:11:37 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Web-to-print store builder]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12509</guid>
+		<description><![CDATA[Magento has common shipping options and methods built-in, while custom ones can be added as extensions. Stores with virtual products only don&#8217;t need them since virtual products are to be downloaded, not printed and shipped. Magento built-in shipping options There&#8217;s a whole range of shipping options available in Magento. Shipping settings are located at: Magento [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Magento has common shipping options and methods built-in, while custom ones can be added as extensions. Stores with virtual products only don&#8217;t need them since virtual products are to be downloaded, not printed and shipped.<span id="more-12509"></span></p>
+<h2>Magento built-in shipping options</h2>
+<p>There&#8217;s a whole range of shipping options available in Magento. <strong>Shipping settings</strong> are located at:</p>
+<p><em>Magento Admin &gt; System &gt; Configuration &gt; Shipping Settings</em></p>
+<p>Amongst other things, this is where you set <em>Origin address</em> which is used for calculating shipping costs.</p>
+<p><strong>Shipping methods</strong> are located at:</p>
+<p><em>Magento Admin &gt; System &gt; Configuration &gt; Shipping Methods</em></p>
+<p>From flat rates to fast shipping <strong>FedEx</strong>, <strong>DHL</strong>, <strong>USPS</strong>, etc. Disable all except for the ones you offer to your customers. It is important that users are not presented with a shipping option other than the one(s) the store owner uses.</p>
+<h2>Adaptable shipping</h2>
+<p>Alternatively, for special requirements, it might be necessary to install a dedicated extension. The <a title="Matrix rate extension for Magento" href="https://sites.google.com/a/webshopapps.com/webshopapps-wiki/extensions/matrix-rates" target="_self">Matrix-rate extension</a> can be used to setup adaptable shipping options when it is required for a store to present available shipping methods according to specific pre-set conditions.</p>
+<h3><a title="Matrix rate extension for Magento" href="https://sites.google.com/a/webshopapps.com/webshopapps-wiki/extensions/matrix-rates" target="_self">Matrix-rate extension</a></h3>
+<p>All configuration happens via .csv files, there&#8217;s no option to edit rates in admin. Download <a title="Matrix rates shipping CSV file examples" href="https://sites.google.com/a/webshopapps.com/webshopapps-wiki/extensions/matrix-rates/examples" target="_self">sample csv file</a> and edit it in MS Excel, OpenOffice or even a simple text editor.</p>
+<p>For the customer to see these shipping options:</p>
+<ul>
+<li> Small package, urban North Island $7</li>
+<li>Big package, urban North Island $10</li>
+<li>Small package, rural North Island $10</li>
+<li>Big package, rural North Island $15</li>
+</ul>
+<p>Your CSV file should be:</p>
+<div class="codecolorer-container xml mac-classic" style="overflow:auto;white-space:nowrap;border:1px solid #9F9F9F;width:435px;"><table cellspacing="0" cellpadding="0"><tbody><tr><td style="padding:5px;text-align:center;color:#888888;background-color:#EEEEEE;border-right: 1px solid #9F9F9F;font: normal 12px/1.4em Monaco, Lucida Console, monospace;"><div>1<br />2<br />3<br />4<br />5<br /></div></td><td><div class="xml codecolorer" style="padding:5px;font:normal 12px/1.4em Monaco, Lucida Console, monospace;white-space:nowrap">&quot;Country&quot;,&quot;Region/State&quot;,&quot;City&quot;,&quot;Zip/Postal Code&quot;,&quot;Zip to&quot;,&quot;Weight &gt;=&quot;,&quot;Weight <span style="color: #009900;">&lt;=<span style="color: #ff0000;">&quot;,&quot;</span>Shipping Price<span style="color: #ff0000;">&quot;,&quot;</span>Delivery Type<span style="color: #ff0000;">&quot;</span><br />
+<span style="color: #009900;">&quot;</span>NZ<span style="color: #ff0000;">&quot;,&quot;</span>*<span style="color: #ff0000;">&quot;,&quot;</span>*<span style="color: #ff0000;">&quot;,0,9999,0,1000,7,&quot;</span>Small package, urban North Island<span style="color: #ff0000;">&quot;</span><br />
+<span style="color: #009900;">&quot;</span>NZ<span style="color: #ff0000;">&quot;,&quot;</span>*<span style="color: #ff0000;">&quot;,&quot;</span>*<span style="color: #ff0000;">&quot;,0,9999,0,1000,10,&quot;</span>Sign package, urban North Island <span style="color: #ff0000;">&quot;</span><br />
+<span style="color: #009900;">&quot;</span>NZ<span style="color: #ff0000;">&quot;,&quot;</span>*<span style="color: #ff0000;">&quot;,&quot;</span>*<span style="color: #ff0000;">&quot;,0,9999,0,1000,10,&quot;</span>Small package, rural North Island<span style="color: #ff0000;">&quot;</span><br />
+<span style="color: #009900;">&quot;</span>NZ<span style="color: #ff0000;">&quot;,&quot;</span>*<span style="color: #ff0000;">&quot;,&quot;</span>*<span style="color: #ff0000;">&quot;,0,9999,0,1000,15,&quot;</span>Sign package, rural North Island<span style="color: #ff0000;">&quot;</span></span></div></td></tr></tbody></table></div>
+<p>To <a title="Matrix rates Magento extension configuration" href="https://sites.google.com/a/webshopapps.com/webshopapps-wiki/extensions/matrix-rates/configuration" target="_self">upload</a> the matrix rates configuration <strong>.csv</strong> file, navigate to  <em>Magento Admin &gt; System &gt; Configuration &gt; Shipping Methods &gt; Webshopapps Matrix Rates</em> and change the Configuration scope to <strong>Main website</strong>. You should be able to see a <strong>Import</strong> field, browse for the <em>.CSV</em> file on your hard drive and hit <strong>Save Config</strong> to upload it.</p>
+<p><img class="alignnone size-full wp-image-12523" title="Upload Matrix rate configuration CSV file" src="../../../wp-content/uploads/2011/04/matrix_rate_csv_upload.png" alt="" width="596" height="545" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/04/matrix_rate_csv_upload-300x274.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/04/matrix_rate_csv_upload.png 596w" sizes="(max-width: 596px) 100vw, 596px" /></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

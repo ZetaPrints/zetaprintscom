@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tutorials &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/tutorials/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Pattern alignment</title>
+		<link>http://www.zetaprints.com/help/align-patterns/</link>
+		<pubDate>Mon, 09 Mar 2009 17:16:04 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[align fills]]></category>
+		<category><![CDATA[Alignment]]></category>
+		<category><![CDATA[Custom patterns]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=5469</guid>
+		<description><![CDATA[It&#8217;s a neat trick to play with a two-color web-to-print pattern. Since you can change the colors of these patterns, you can use the same pattern on your text and background and only change the colors. This, however, requires perfect alignment of the web to print patterns on top of each other to appear seamless. [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Text floating on clouds</title>
+		<link>http://www.zetaprints.com/help/text-floating-on-clouds/</link>
+		<pubDate>Fri, 13 Feb 2009 14:23:32 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[3D]]></category>
+		<category><![CDATA[Float]]></category>
+		<category><![CDATA[Sky]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Transparency]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=4742</guid>
+		<description><![CDATA[A 3D text is floating on realistic clouds. Combine the power of Photoshop and CorelDRAW to achieve this awesome effect in your web-to-print templates. Before you start / Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size as the paper size of your template and [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Mystical text</title>
+		<link>http://www.zetaprints.com/help/mystical-text/</link>
+		<pubDate>Thu, 29 Jan 2009 18:08:49 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Inner glow]]></category>
+		<category><![CDATA[Sci-Fi]]></category>
+		<category><![CDATA[Smoke]]></category>
+		<category><![CDATA[Space]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=4470</guid>
+		<description><![CDATA[Another cool technique which might be usefull when trying to achieve some dark and mystical Sci-Fi effect in your web-to-print template. This involves the help of both Photoshop and CorelDRAW. This technique was inspired by the Slick Supernatural Text Effect Photoshop tutorial. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Polaroid bunch</title>
+		<link>http://www.zetaprints.com/help/polaroid-bunch/</link>
+		<pubDate>Wed, 28 Jan 2009 13:38:44 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[PowerClip]]></category>
+		<category><![CDATA[Shadows]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Weld]]></category>
+
+		<guid isPermaLink="false">/help/?p=4426</guid>
+		<description><![CDATA[A bunch of Polaroid photos are lying on a table and form a collage of a single image. The web-to-print template looks as if all the Polaroids are positioned in a way that makes each photo part of a bigger puzzle. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Cut out images selection</title>
+		<link>http://www.zetaprints.com/help/cut-out-images-selection/</link>
+		<pubDate>Sun, 25 Jan 2009 16:29:52 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Transparency]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=4300</guid>
+		<description><![CDATA[Image formats that retain transparency can be used in web-to-print templates. Here&#8217;s how you can use some cut-out photos as image selection in your web-to-web designs. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size as the paper size of your template [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Groovie design</title>
+		<link>http://www.zetaprints.com/help/groovie-design/</link>
+		<pubDate>Sun, 25 Jan 2009 12:20:36 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Hippie]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=4264</guid>
+		<description><![CDATA[This is a simple hippie-style web to print text effect with outer contours. Create a &#8220;far out&#8221; template by following a few simple steps. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size as the paper size of your template and place [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Fractured glass</title>
+		<link>http://www.zetaprints.com/help/fractured-glass/</link>
+		<pubDate>Wed, 21 Jan 2009 19:41:09 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Broken]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=4211</guid>
+		<description><![CDATA[Create the illusion like a piece of glass is being shattered on top of the text in your design. Break your web to print template to pieces with the help of this cool technique. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Magnifying glass</title>
+		<link>http://www.zetaprints.com/help/magnifying-glass/</link>
+		<pubDate>Tue, 20 Jan 2009 15:01:52 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Distorted]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=4154</guid>
+		<description><![CDATA[Here&#8217;s an idea on how to place a small type text and still keep an accent on it. This technique helps you simulate the appearance of a text under a magnifying glass. Before you start / Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Text drawing</title>
+		<link>http://www.zetaprints.com/help/text-drawing/</link>
+		<pubDate>Mon, 19 Jan 2009 20:28:19 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Text on path]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Typography]]></category>
+
+		<guid isPermaLink="false">/help/?p=4114</guid>
+		<description><![CDATA[It&#8217;s all about the power of &#8220;Text on a path&#8221;! Your imagination can take this option beyond simple arched texts and into drawing shapes with the text it self. / / / We saw this typography poster and tought &#8220;Why not make it web-to-print?&#8221; Before you start Import the image that you will use as [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Underwater text glow</title>
+		<link>http://www.zetaprints.com/help/underwater-text-glow/</link>
+		<pubDate>Thu, 08 Jan 2009 10:27:25 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Distorted]]></category>
+		<category><![CDATA[Transparency]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Underwater]]></category>
+
+		<guid isPermaLink="false">/help/?p=3263</guid>
+		<description><![CDATA[Have you ever dropped an object in a pool and looked at it from above the water&#8217;s surface? The water gives it a pretty cool optical distortion effect. Here&#8217;s how you can simulate this and &#8220;drown&#8221; your web-to-print template. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Wood inlay text</title>
+		<link>http://www.zetaprints.com/help/wood-inlay-text/</link>
+		<pubDate>Tue, 23 Dec 2008 16:24:57 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Inlay]]></category>
+		<category><![CDATA[Texture]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Wood]]></category>
+
+		<guid isPermaLink="false">/help/?p=3676</guid>
+		<description><![CDATA[A web-to-print effect for a carpenter&#8217;s business card using wood grain textures. The web-to-print text takes appearance as it was cut of thin veneer and inserted as inlets into a board. Very crafty. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Digital display</title>
+		<link>http://www.zetaprints.com/help/digital-display/</link>
+		<pubDate>Mon, 01 Dec 2008 13:47:58 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Digital]]></category>
+		<category><![CDATA[Special font]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=3204</guid>
+		<description><![CDATA[Learn how to make digital displays like car stereos, dashboards, home entertainment products etc. Here are some tips and tricks you can use to add this type of effect in your web-to-print template. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size as [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Duplicated text</title>
+		<link>http://www.zetaprints.com/help/duplicated-text/</link>
+		<pubDate>Fri, 28 Nov 2008 12:35:11 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Double view]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=3179</guid>
+		<description><![CDATA[A simple technique that you can use to add a bit more &#8220;flavor&#8221; to your web-to-print templates by making the text more fun. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size as the paper size of your template and place it [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Text dipped in water</title>
+		<link>http://www.zetaprints.com/help/text-dipped-in-water/</link>
+		<pubDate>Tue, 25 Nov 2008 11:29:58 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Distorted]]></category>
+		<category><![CDATA[Liquid]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=3115</guid>
+		<description><![CDATA[Add a cool underwater effect applied to artistic text in a web-to-print template to it appear as it&#8217;s being immersed in liquid. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size as the paper size of your template and place it as [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Two color gel text</title>
+		<link>http://www.zetaprints.com/help/two-color-gel-text/</link>
+		<pubDate>Mon, 24 Nov 2008 18:48:40 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[3D text]]></category>
+		<category><![CDATA[Paste]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=3064</guid>
+		<description><![CDATA[Tips and tricks to add a two color gel like 3D text in your web-to-print templates. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size as the paper size of your template and place it as a bottom layer. Duplicate the background rectangular [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

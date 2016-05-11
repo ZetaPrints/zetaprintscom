@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dynamic imaging &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/dynamic-imaging/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Magento access control</title>
+		<link>http://www.zetaprints.com/help/magento-access-control-for-dynamic-imaging/</link>
+		<pubDate>Tue, 02 Feb 2010 15:51:20 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Magento]]></category>
+		<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[magento extension]]></category>
+
+		<guid isPermaLink="false">/help/?p=8883</guid>
+		<description><![CDATA[Magento is an open source e-commerce platform platform. We developed an open source extension for Magento access control to complement our web-to-print extension that allows you to incorporate your web-to-print and dynamic imaging templates in your Magento store. The access control extension comes in handy when you want to hide certain products (templates) from the [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Text slide</title>
+		<link>http://www.zetaprints.com/help/dynamic-imaging-text-slide/</link>
+		<pubDate>Tue, 02 Feb 2010 11:05:41 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Blending]]></category>
+		<category><![CDATA[Curvature]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Transparency]]></category>
+
+		<guid isPermaLink="false">/help/?p=8843</guid>
+		<description><![CDATA[Learn how to create a variable web-to-print text that appears like it&#8217;s coming from the background simulating a sliding shape with its motion. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size as the page size of your template and place it [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Light rays</title>
+		<link>http://www.zetaprints.com/help/light-rays-for-dynamic-imaging/</link>
+		<pubDate>Wed, 13 Jan 2010 09:52:07 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Light]]></category>
+		<category><![CDATA[Rays]]></category>
+		<category><![CDATA[Sun]]></category>
+		<category><![CDATA[Transprency]]></category>
+
+		<guid isPermaLink="false">/help/?p=8719</guid>
+		<description><![CDATA[Here&#8217;s a cool web-to-print or dynamic imaging technique of light rays going through from behind a variable text frame. This is a simple trick that involves some Photoshop work and some creative use of CorelDRAW layers. In a nutshell, we&#8217;re going to create two images in Photoshop and sandwich some variable text frames between them [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Foggy glass text</title>
+		<link>http://www.zetaprints.com/help/foggy-glass-text/</link>
+		<pubDate>Tue, 15 Dec 2009 12:09:02 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Blur]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Fog]]></category>
+		<category><![CDATA[PowerClip]]></category>
+		<category><![CDATA[See through]]></category>
+
+		<guid isPermaLink="false">/help/?p=8377</guid>
+		<description><![CDATA[Have you ever written something on your fogged up bathroom mirror or window? Here&#8217;s a web-to-print or dynamic imaging way of doing it. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size as the page size of your template and place it [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Credit card text</title>
+		<link>http://www.zetaprints.com/help/credit-card-text/</link>
+		<pubDate>Mon, 14 Dec 2009 13:50:28 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Bevel]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Emboss]]></category>
+
+		<guid isPermaLink="false">/help/?p=8334</guid>
+		<description><![CDATA[Learn how to make a dynamic imaging template that looks like a credit card and the user can change the embossed text on the card. It&#8217;s a useful technique for web-to-print as well. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact same size [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Dynamic imaging template requirements</title>
+		<link>http://www.zetaprints.com/help/dynamic-imaging-template-requirements/</link>
+		<pubDate>Wed, 16 Sep 2009 08:41:56 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+
+		<guid isPermaLink="false">/help/?p=7619</guid>
+		<description><![CDATA[Dynamic imaging templates are intended for on-screen viewing rather than a print process. Therefore, you need to set up the template file to be recognized and rendered for dynamic imaging such as internet banners. ZetaPrints web-to-print  recognizes CorelDRAW template files as dynamic imaging templates, if: The template has only 1 page The units are set [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>eCards</title>
+		<link>http://www.zetaprints.com/help/create-an-ecard/</link>
+		<pubDate>Mon, 10 Aug 2009 13:41:29 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+
+		<guid isPermaLink="false">/help/?p=7269</guid>
+		<description><![CDATA[Creating an eCard template is very similar to creating a web banner, twicture or any other dynamic imaging template. Mind a few basic requirements and the rest is easy. Template requirements Create a new single page CorelDRAW document Set units to pixels the size of the page should be no more than 1400px x 1400px [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Complex variable gradients</title>
+		<link>http://www.zetaprints.com/help/complex-variable-gradients/</link>
+		<pubDate>Sun, 09 Aug 2009 19:46:38 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[color picker]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Fountail fill]]></category>
+		<category><![CDATA[gradient]]></category>
+		<category><![CDATA[Vector colors]]></category>
+
+		<guid isPermaLink="false">/help/?p=7239</guid>
+		<description><![CDATA[Apart from using the two-color variable gradient fills technique for creating variable multicolor gradients, you can also combine the two and end up with a multicolor gradient fill where the user chooses a single color that effects the entire multicolor gradient. It makes a complex web-to-print template easier to use. Before you start / Add [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Multicolor variable gradients</title>
+		<link>http://www.zetaprints.com/help/multicolor-variable-gradients/</link>
+		<pubDate>Thu, 06 Aug 2009 18:24:09 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[color picker]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Fountail fill]]></category>
+		<category><![CDATA[gradient]]></category>
+		<category><![CDATA[Vector colors]]></category>
+
+		<guid isPermaLink="false">/help/?p=7211</guid>
+		<description><![CDATA[You can create multiple color gradient fills by layering transparent variable color shapes in your web-to-print design. It&#8217;s a  similar technique to the two color variable gradient technique, but here users can choose individual colors of the multicolor palette. / / Lets make a multicolor variable gradient background. Before you start / Add a page [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Twictures</title>
+		<link>http://www.zetaprints.com/help/create-a-twicture/</link>
+		<pubDate>Mon, 03 Aug 2009 15:55:43 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+
+		<guid isPermaLink="false">/help/?p=7142</guid>
+		<description><![CDATA[Creating a twicture template is very similar to creating a web banner or any other dynamic imaging template. You just need to keep a few rules in mind. Unfortunately Twitter stopped providing easy access to feeds via RSS making this application a fun project from the past. Template requirements Create a new single page CorelDRAW [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Variable gradient fill</title>
+		<link>http://www.zetaprints.com/help/variable-gradient-fill/</link>
+		<pubDate>Tue, 28 Jul 2009 03:21:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[color picker]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Fountail fill]]></category>
+		<category><![CDATA[gradient]]></category>
+		<category><![CDATA[Vector colors]]></category>
+
+		<guid isPermaLink="false">/help/?p=7073</guid>
+		<description><![CDATA[Combination of variable color shapes and transparencies in a web-to-print design can create a variable gradient fill. This tutorial shows a simple linear 2-color gradient. Add more color variations to achieve more complex gradients for web-to-print. / / Lets turn the solid fill background in this template into a variable gradient fill. Before you start [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Variable shape colors</title>
+		<link>http://www.zetaprints.com/help/variable-shape-colors/</link>
+		<pubDate>Mon, 27 Jul 2009 16:21:51 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[color picker]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Vector colors]]></category>
+
+		<guid isPermaLink="false">/help/?p=7053</guid>
+		<description><![CDATA[Any vector shape in a web-to-print template can be made a variable color field. A color picker will be showing against the field for users to change the color. To turn a shape&#8217;s color into a variable field you simply need to rename the shape inside the Object Manager. Sample / / Lets assign a [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Tabbed web designs</title>
+		<link>http://www.zetaprints.com/help/tabbed-web-designs/</link>
+		<pubDate>Tue, 09 Jun 2009 17:38:43 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[tab templates]]></category>
+		<category><![CDATA[Web design]]></category>
+
+		<guid isPermaLink="false">/help/?p=6087</guid>
+		<description><![CDATA[These are a few of the many tabbed website designs out there. Check them out to get an idea on how cool you can make your dynamic imaging templates for website tabs. Note. The following samples are provided for educational purposes only and cannot be used for website design because they are subject to copyright. [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Web tabs</title>
+		<link>http://www.zetaprints.com/help/web-tabs/</link>
+		<pubDate>Tue, 09 Jun 2009 12:12:18 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[tab templates]]></category>
+		<category><![CDATA[Web design]]></category>
+
+		<guid isPermaLink="false">/help/?p=6043</guid>
+		<description><![CDATA[Tab-based website designs have been around for while. They make the site look better,  easier to navigate, but are not always easy to implement.  Tabs can viewed as a group of web buttons. Here are a few ideas how to create great web tab templates for dynamic imaging without becoming a CSS guru. CSS vs. [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Web buttons</title>
+		<link>http://www.zetaprints.com/help/web-buttons/</link>
+		<pubDate>Mon, 27 Apr 2009 19:57:28 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Web templates]]></category>
+
+		<guid isPermaLink="false">/help/?p=5629</guid>
+		<description><![CDATA[Web buttons are one of the most important things in web design. Their style changes constantly to follow current trends. Find out what&#8217;s important to keep in mind while creating button templates for dynamic imaging. View more web button examples at: Freebies Round-Up: Icons, Buttons and Templates at smashingmagazine.com Collection of 90 free Web 2.0 [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

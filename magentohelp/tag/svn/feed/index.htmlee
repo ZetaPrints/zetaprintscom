@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SVN &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/tag/svn/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>03. Install web-to-print extension</title>
+		<link>http://www.zetaprints.com/magentohelp/web-to-print-magento-install/</link>
+		<pubDate>Tue, 06 Oct 2009 12:00:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-print installation]]></category>
+		<category><![CDATA[SVN]]></category>
+		<category><![CDATA[web-to-print extension]]></category>
+
+		<guid isPermaLink="false">/help/?p=7818</guid>
+		<description><![CDATA[Step 2 Step 3 &#8211; Install web-to-print extension Step 4 Installing our web-to-print Magento extension in your Magento store is an automated process. Back up Your Magento set up may stop working after making changes and adding this extension. It’s a good idea to make a back up of the code, your current theme and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<table class="m_install_nav">
+<tbody>
+<tr>
+<td class="m_install_prev"><a title="Step 2 - Install Magento" href="../../../install-magento/" target="_self">Step 2</a></td>
+<td class="m_install_cur"><strong>Step 3</strong> &#8211; Install web-to-print extension</td>
+<td class="m_install_next"><a title="Step 4 - Configure default theme" href="../../../theme-configuration/" target="_self">Step 4</a></td>
+</tr>
+</tbody>
+</table>
+<p>Installing our web-to-print Magento extension in your Magento store is an automated process.<span id="more-7818"></span></p>
+<h2>Back up</h2>
+<p>Your Magento set up may stop working after making changes and adding this extension. It’s a good idea to make a back up of the code, your current theme and the DB first. Back it up. Takes 5 mins – saves days.</p>
+<p><strong>Note.</strong> You should disable Magento caching before installing the extension. The cache storage management page is located at <em>System / Cache Management</em> in Magento admin panel.</p>
+<h2>Install extension</h2>
+<div style="display: table;">
+<p><img style="margin-top: 15px; float: right;" title="Magento connect manager navigation" src="../../../wp-content/uploads/2010/06/magento_connect_manager_navigation.png" alt="" width="324" height="389" /></p>
+<div style="position: relative; top: 15px; display: inline; padding: 0 2px;">Login to your Magento administration panel and navigate to <em>System / Magento Connect / Magento Connect Manager</em>.</div>
+<p>&nbsp;</p>
+</div>
+<div style="display: table;">
+<p><img style="margin-top: 15px; float: left;" title="Web-to-print extension installation key" src="../../../wp-content/uploads/2010/06/web-to-print_extension_installation_key.png" alt="" width="352" height="248" /></p>
+<div style="position: relative; top: 15px; display: inline;">Get the extension installation key from Magento&#8217;s <a title="Magento web-to-print extension page" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> page.</div>
+<p>&nbsp;</p>
+</div>
+<div style="display: table;">
+<p><img style="margin-top: 15px; float: right;" title="Web-to-print extension installation" src="../../../wp-content/uploads/2010/06/web-to-print_extension_installation.png" alt="Web-to-print extension installation" width="416" height="246" /></p>
+<div style="position: relative; top: 15px; display: inline;">
+<p>Paste the installation key in the corresponding field of <em>Magento Connect Manager</em> and hit <strong>Install</strong>.</p>
+<h2>Known issue</h2>
+<p>We recommend logging out of Magento admin and then logging back in again after a successful installation.<br />
+You may not be able to access the configuration page without Magento re-evaluating your access credentials, which happens during a logon.</p>
+</div>
+<p>&nbsp;</p>
+</div>
+<table class="m_install_nav">
+<tbody>
+<tr>
+<td class="m_install_prev"><a title="Step 2 - Install Magento" href="../../../install-magento/" target="_self">Step 2</a></td>
+<td class="m_install_cur"><strong>Step 3</strong> &#8211; Install web-to-print extension</td>
+<td class="m_install_next"><a title="Step 4 - Configure default theme" href="../../../theme-configuration/" target="_self">Step 4</a></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

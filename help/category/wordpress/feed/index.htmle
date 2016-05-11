@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WordPress &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/category/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>*WordPress overview</title>
+		<link>http://www.zetaprints.com/help/wordpress-overview/</link>
+		<pubDate>Thu, 20 May 2010 09:04:14 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[Website builder]]></category>
+		<category><![CDATA[WP]]></category>
+
+		<guid isPermaLink="false">/help/?p=10125</guid>
+		<description><![CDATA[WordPress is an open source CMS (Content Management System), often used as a blog publishing application powered by PHP and MySQL. It is the most popular blog software in use today. We recommend using WordPress for your front-end website with content about your company, help and informational resources. In fact this very web page run [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>WordPress themes – install</title>
+		<link>http://www.zetaprints.com/help/wordpress-themes-install/</link>
+		<pubDate>Tue, 18 May 2010 13:11:49 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Website builder]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Theme Install]]></category>
+
+		<guid isPermaLink="false">/help/?p=10059</guid>
+		<description><![CDATA[Installing a WordPress theme in your web-to-print and dynamic imaging website is quick and easy. There are 2 ways to do it depending on where you found the theme. Built-in theme search / installation WordPress has a built-in engine for theme search and install. This process is almost identical to the plugin installation. To proceed [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>WordPress plugins</title>
+		<link>http://www.zetaprints.com/help/wordpress-plugins-basic/</link>
+		<pubDate>Fri, 30 Apr 2010 09:36:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Website builder]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Plug-In]]></category>
+		<category><![CDATA[Website Features]]></category>
+
+		<guid isPermaLink="false">/help/?p=9817</guid>
+		<description><![CDATA[Plugins are little pieces of code that add more functionality to the basic web-to-print and dynamic imaging website. They are very easy to install and maintain. Recommended plugins These are a few WordPress plugins we find to be useful: All in One SEO Pack &#8211; Optimizes your WordPress blog for Search Engines Category Posts Widget [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>WordPress Themes &#8211; find</title>
+		<link>http://www.zetaprints.com/help/wordpress-themes-find/</link>
+		<pubDate>Fri, 30 Apr 2010 09:19:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Website builder]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Resources]]></category>
+		<category><![CDATA[Skins]]></category>
+		<category><![CDATA[Themes]]></category>
+
+		<guid isPermaLink="false">/help/?p=9788</guid>
+		<description><![CDATA[WordPress themes are like skins &#8211; they give every installation its look and set of features. Themes can be developed exclusively for you, purchased or downloaded for free. Let&#8217;s find a fresh look for your web-to-print and dynamic imaging website. Exclusive themes Exclusive themes are a good option if you want to spend more than [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>PayPal Pro gateway for WordPress</title>
+		<link>http://www.zetaprints.com/help/paypal-pro-gateway-for-wordpress/</link>
+		<pubDate>Fri, 28 Aug 2009 17:29:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Prices and payments]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[open source]]></category>
+		<category><![CDATA[payflow pro]]></category>
+		<category><![CDATA[Payments]]></category>
+		<category><![CDATA[paypal]]></category>
+
+		<guid isPermaLink="false">/help/?p=7353</guid>
+		<description><![CDATA[ZetaPrints web-to-print system has a choice of PayPal hosted payments page or a custom payments provider using an external gateway. We implemented an open source WordPress plugin for taking payment via PayPal&#8217;s PayFlow Pro. Download location: http://wordpress.org/extend/plugins/paypal-pro-zp-gateway/ Requirements WordPress with SSL certificate PayPal PayFlow Pro account You need to have a website running WordPress. ZetaPrints [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Install WordPress</title>
+		<link>http://www.zetaprints.com/help/install-wordpress/</link>
+		<pubDate>Wed, 16 Apr 2008 00:00:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Website builder]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Installation]]></category>
+
+		<guid isPermaLink="false">/help/?p=175</guid>
+		<description><![CDATA[A good hosting company will have a &#8220;one click install&#8221; option for WordPress. Otherwise it can be done manually. One click install Login to your control panel (the details will be provided by your hosting company after sign up). Steps: Click on Fantastico DeLux icon Click on WordPress install Choose New install Fill in the [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>How to Display Your Images using RSS in WordPress</title>
+		<link>http://www.zetaprints.com/help/how-to-display-your-images-using-rss-in-wordpress/</link>
+		<pubDate>Wed, 27 Feb 2008 08:17:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[RSS]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Installation]]></category>
+		<category><![CDATA[Plug-In]]></category>
+		<category><![CDATA[Resources]]></category>
+
+		<guid isPermaLink="false">/help/how-to-display-your-images-using-rss-in-wordpress/</guid>
+		<description><![CDATA[Any website built on WordPress can show thumbnails of your web-to-print products using our simple RSS plugin. Installing the plugin SimplePie is required for this widget/plugin to work. You can get it here. Installing SimplePie is as simple as downloading it, extracting it, and uploading it to your server under`/wp-content/plugins`. You must then activate it [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

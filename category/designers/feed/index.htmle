@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Designers &#8211; Web-to-Print &amp; Dynamic Imaging</title>
+	<atom:link href="http://www.zetaprints.com/category/designers/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Feb 2016 23:12:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Templates for Web</title>
+		<link>http://www.zetaprints.com/designers/templates-for-web</link>
+		<pubDate>Wed, 22 Apr 2009 04:32:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Designers]]></category>
+
+		<guid isPermaLink="false">/?p=473</guid>
+		<description><![CDATA[Image templates are made in CorelDRAW 12, X3 or X4. You do not have to use CorelDRAW to create the ...]]></description>
+				<content:encoded><![CDATA[<p>Image templates are made in <a title="CorelDRAW - Graphic design and illustration software" href="http://www.corel.com/servlet/Satellite/us/en/Product/1150981051301" target="_blank">CorelDRAW 12, X3 or X4</a>. You do not have to use CorelDRAW to create the design itself. Use any vector graphic application you want to produce a PDF or SVG file and then <a title="Web-to-print help: PDF to template conversion" href="../../../help/flash/PDFtoTemplateConversionBasic.html" target="_self">import it into CorelDRAW</a>.<span id="more-473"></span></p>
+<table class="tbl_grid_guides_w2p">
+<tbody>
+<tr>
+<td><img class="alignnone" title="Dynamic imaging eCards" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_ecards.png" alt="Dynamic imaging eCards" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Dynamic imaging Twictures" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_twictures.png" alt="Twictures" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Dynamic imaging Web banners" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_banners.png" alt="Web banners" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Dynamic imaging Web buttons" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_buttons.png" alt="Web buttons" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Dynamic imaging Web tabs" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_tabs.png" alt="Web tabs" width="125" height="180" /></td>
+</tr>
+<tr id="sample_product_links">
+<td><a title="Bunny eCards" href="http://magento.zetaprints.com/?page=catalogue;CorporateID=284EF372-16BF-4258-A2AB-30D2A000BB26" target="_self">Samples</a> | <a title="Dynamic imaging help: eCards guide" href="../../../help/create-an-ecard/index.html" target="_self">Tutorial</a></td>
+<td><a title="Fancy twitter updates" target="_self">Samples</a> | <a title="Dynamic imaging help: Twictures guide" target="_self">Tutorial</a></td>
+<td><a title="Dynamic imaging - Web banners" href="http://zetaprints.com/?page=catalogue;CorporateID=1841912F-CA3B-43B7-8F6C-B7504E4D4A82" target="_self">Samples</a> | <a title="Dynamic imaging help: Web banners guide" href="../../../help/internet-banners-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Dynamic imaging web buttons" href="http://magento.zetaprints.com/?page=catalogue;CorporateID=7D20426E-61D2-4638-BCCA-03E2448A560B" target="_self">Samples</a> | <a title="Dynamic imaging help: Web buttons guide" href="../../../help/web-buttons/index.html" target="_self">Tutorial</a></td>
+<td><a title="Dynamic imaging web tabs" href="http://magento.zetaprints.com/?page=catalogue;CorporateID=1631F47E-C480-4FF6-8867-50AAFAF571F8" target="_self">Samples</a> | <a title="Dynamic imaging help: Web tabs guide" href="../../../help/web-tabs/index.html" target="_self">Tutorial</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Target practical applications</h2>
+<p>The Internet is full of specially designed images: <a title="Dynamic imaging - Web banners" href="../../../help/internet-banners-guide/index.html" target="_self">banner ads</a>, <a title="Dynamic imaging help: Web buttons" href="../../../help/web-buttons/index.html" target="_self">buttons</a>, <a title="Dynamic imaging - Types of web buttons" href="../../../help/types-of-web-buttons/index.html" target="_self">menus, tabs</a>, creative headers, you name it.</p>
+<p>People build websites using simple online tools without any special skills. You can give them an option of filling their websites with creative imagery personalized by them using your templates.</p>
+<h2>Variable fields and images</h2>
+<p>It is easy to make variable <a title="Web-to-print help: Text fields" href="../../../help/text-fields-overview/index.html" target="_self">text</a> and <a title="Web-to-print help: Image fields" href="../../../help/image-fields-overview/index.html" target="_self">image</a> fields in Corel. We have several video tutorials for you in the <a title="Web-to-print help" href="../../../help/index.html" target="_self">help section</a>. It will take approximately 15 minutes before you can <a title="Web-to-print help: Get started" href="../../../help/get-started/index.html" target="_self">create your first template</a>. The rest is easy.</p>
+<h2>Template quality</h2>
+<p>We never judge your artwork. It is up to users to choose what they like. Our main concern is the output quality of the final product. It must be <a title="Dynamic imaging help: Image quality" href="../../../help/image-quality/index.html" target="_self">sufficient</a> for the intended purpose. E.g. if you make a 250px x 250px banner template that is actually 252px wide it will distort and lead to customer frustration.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>We buy designs</title>
+		<link>http://www.zetaprints.com/designers/we-buy-designs</link>
+		<pubDate>Sun, 20 Apr 2008 21:19:53 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Designers]]></category>
+
+		<guid isPermaLink="false">/?p=125</guid>
+		<description><![CDATA[ZetaPrints buys selected graphic designs in bulk. The graphic designs sitting idle on your disks can...]]></description>
+				<content:encoded><![CDATA[<p><strong>ZetaPrints buys selected graphic designs in bulk. The graphic designs sitting idle on your disks can be a treasure find for many of our customers if converted into web-to-print templates. </strong><span id="more-125"></span></p>
+<h2>Design types</h2>
+<p>We buy almost any designs as long as they are <strong><a title="Designs for web-to-print " href="../../../help/from-image-to-web-to-print-template/index.html" target="_self"><span style="text-decoration: underline;">practical and can be converted into templates</span></a></strong>.</p>
+<p>Some common web-to-print designs include:</p>
+<ul>
+<li><a title="Web-to-print help: Business cards guide" href="../../../help/business-cards-guide/index.html" target="_self">business cards</a></li>
+<li><a title="Web-to-print help: Greeting cards guide" href="../../../help/greeting-cards-guide/index.html" target="_self">greeting </a>and <a title="Web-to-print help: Postcards guide" href="../../../help/postcards-guide/index.html" target="_self">postal</a> cards</li>
+<li><a title="Web-to-print calendar templates" href="http://order.greeting-cards.co.nz/?page=catalogue;CorporateID=1D82C946-9F49-42DC-B1AE-08AA383A94D8" target="_self">calendars</a></li>
+<li><a title="Web-to-print help: Brochures guide" href="../../../help/brochures-guide/index.html" target="_self">leaflets, brochures, booklets</a></li>
+<li><a title="Web-to-print help: Posters guide" href="../../../help/poster-guide/index.html" target="_self">posters</a></li>
+<li><a title="Web-to-print logo templates" href="http://zetaprints.com/?page=catalogue;CorporateID=67FEB451-3E0B-489A-BC00-807D922B0D28" target="_self">logos</a></li>
+<li><a title="Web-to-print help: Newspaper ads guide" href="../../../help/newspaper-ads-guide/index.html" target="_self">print advertisements</a></li>
+<li><a title="Web-to-print help: Books guide" href="../../../help/books-guide/index.html" target="_self">illustrated books</a></li>
+</ul>
+<p><strong>Practical</strong>: the web-to-print design is a complete product for an end user, not just a pretty picture. E.g. an illustrated book where users may type in their own story is practical, but a single book illustration is not. Refer to our <a title="Web-to-print help: Product guides" href="../../../help/category/product-guides/index.html" target="_self">product guides</a>.</p>
+<p><strong>Convertible</strong>:  the design was produced using vector application (<a title="Adobe FreeHand" href="http://www.adobe.com/products/freehand/" target="_blank">Freehand</a>, <a title="Adobe Illustrator" href="http://www.adobe.com/products/illustrator/" target="_blank">AI</a>, <a title="Adobe InDesign" href="http://www.adobe.com/products/indesign/" target="_self">InDD</a>, <a title="CorelDRAW" href="http://www.adobe.com/products/illustrator/" target="_blank">CorelDRAW</a>, <a title="Quark XPress" href="http://www.quark.com/" target="_blank">Quark XPress</a>, etc) and the variable texts are stored as texts, not images nor curves.</p>
+<h2>Buying process</h2>
+<p>Email your designs as images to <a href="mailto:support@zetaprints.com">support@zetaprints.com</a> for consideration. We may also need to see the vector files to ensure they are convertible.</p>
+<p><strong>Option 1 &#8211; sale as a design</strong></p>
+<p>We can purchase a design before it is converted into a template and give it to another designer to do the conversion. Your authorship will be acknowledged, but the commission on sales will be paid to the other designer. You get paid within a few days after the designs have been checked.</p>
+<p><strong>Option 2 &#8211; sale as a template</strong></p>
+<p>You <strong><a title="Web-to-print help: PDF to template conversion" href="../../../help/category/pdf-conversion/index.html" target="_self">convert your designs into templates</a></strong> and upload them to ZetaPrints website. We pay within a few days after the template has been tested by us. You retain full copyright and our standard commission on all sales.</p>
+<p>This is the preferred option. We will give you necessary assistance to understand <a title="Web-to-print help section" href="../../../help/index.html" target="_self">how to</a> convert your designs into templates.</p>
+<h2>Payments</h2>
+<p>We prefer to pay via Paypal upon completion of your assignment.</p>
+<p>The prices range between $3-$10 per page of design or per single item.</p>
+<p><strong>Sample design prices</strong> (option #1):</p>
+<ul>
+<li>Simple logo &#8211; $3</li>
+<li>Really cool logo &#8211; $5</li>
+<li>One-side business card &#8211; $5</li>
+<li>Double-side business card &#8211; $5 x 2 = $10</li>
+<li>A4 leaflet &#8211; $7</li>
+<li>A4 double-side tri-fold brochure &#8211; $7 x 6 = $42</li>
+</ul>
+<p><strong>Sample template prices</strong> (option #2):</p>
+<ul>
+<li>Logo &#8211; $5 to $7</li>
+<li>Everything else &#8211; $7 to $10 per page</li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Payments</title>
+		<link>http://www.zetaprints.com/designers/payments</link>
+		<pubDate>Fri, 10 Aug 2007 10:57:56 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Designers]]></category>
+
+		<guid isPermaLink="false">/designers/payments/62</guid>
+		<description><![CDATA[Beta release: ZetaPrints web to print service does not collect payments for products generated from ...]]></description>
+				<content:encoded><![CDATA[<blockquote style="font-size: 0.9em; color: red"><p><strong>Beta release:</strong> ZetaPrints web to print service does not collect payments for products generated from designer&#8217;s templates at the moment. The service is free until an official release.</p></blockquote>
+<h2><span id="more-62"></span>Free web to print designs for self-promotion</h2>
+<p>As a designer you have a choice of charging for use of your templates or not. It&#8217;s your choice. We do not charge customers for your free designs either. Free designs is an excellent way to promote your design talent and get more custom design work directly from users.</p>
+<h2>50% commission</h2>
+<p>We have a scale of nominal prices per template. You get 50% of what the purchase price every time someone uses your design. You can collect your royalties monthly for as long as the design is being used.</p>
+<h2>Refunds and cancellations</h2>
+<p>Customers may request a refund within 7 days of purchasing a web-to-print design if it has technical flaws and is not suitable for the purpose it was purchased. Designers are paid only for completed transactions.<br />
+For example, a customer may request a refund if the <a title="Web-to-print help: PDF settings" href="../../../help/pdf-settings-explained/index.html" target="_self">PDF file</a> has <a title="Web-to-print help: Image quality" href="../../../help/image-quality/index.html" target="_self">low grade images</a> that looked fine on the screen, but are unsuitable for printing. Our staff would check the files, refund the paid amount and disable the template until it is improved. We will also <a title="Web-to-print help" href="../../../help/index.html" target="_self">assist you</a> with improving your web-to-print templates.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Founding members</title>
+		<link>http://www.zetaprints.com/designers/founding-designers</link>
+		<pubDate>Tue, 07 Aug 2007 14:13:55 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Designers]]></category>
+
+		<guid isPermaLink="false">/designers/founding-designers/60</guid>
+		<description><![CDATA[This page is a small token to the first few designers that recognised the value and potential of our...]]></description>
+				<content:encoded><![CDATA[<p>This page is a small token to the first few designers that recognised the value and potential of our service. We list their names and links to their websites and portfolios for the lifetime of this website. Thank you guys for your support!<span id="more-60"></span></p>
+<h2><a title="Ionut Paslaru design profile" href="http://zetaprints.com/?page=designer-profile;DesignerID=5720F203-CDEA-4B52-94B5-9B44AFBB69E5" target="_blank">Ionut Paslaru</a></h2>
+<p><a href="http://zetaprints.com/?page=designer-profile;DesignerID=5720F203-CDEA-4B52-94B5-9B44AFBB69E5" target="_blank"><img style="margin-right: 10px; margin-bottom: 40px" title="ionut_creadro.jpg" src="../../../wp-content/uploads/2007/08/ionut_creadro.jpg" alt="ionut_creadro.jpg" align="left" /> </a>Ionut is an awesome chap from Bucharest, Romania. He helped us a lot doing little design job, debugging CSS and picking browser incompatibilities. His designs have strict, corporate features and he&#8217;s really good at making logos.</p>
+<h2 style="clear: both; margin-top: 30px"><a title="Olga and Sasha design profile" href="http://zetaprints.com/?page=designer-profile;DesignerID=53C58E29-5970-4FAD-9B4D-5789DC368868" target="_blank">Olga and Sasha</a></h2>
+<p>Olga is a professional graphic designer and Alexander is an artist from Rostov-on-Don, Russia. They are our colour picking and layout authority. Olga is really good at it. Sasha (also known as Ð§ÐµÑ€Ð½Ñ‹Ð¹ or Chernii or Black in English) is an extraordinary digital artist. His 3D designs are amazing and he&#8217;s got a few key topics unique to him. We like their wit and professional approach.</p>
+<h2><a title="Tippu Qureshi design profile" href="http://zetaprints.com/?page=designer-profile;DesignerID=46802EB4-6EFB-4D3F-9708-FFAF1761B476" target="_blank">Tippu Qureshi</a></h2>
+<p><img class="alignleft size-full wp-image-464" style="padding: 0 10px 10px 0" src="../../../wp-content/uploads/2009/04/sultan.jpg" alt="web-to-print designer" width="88" height="94" align="left" />Sultan is a professional designer from USA. He&#8217;s a busy man, but still finds time and inspiration to upload a few designs now and then. Some of his ideas are so good, we buy them lock stock and barrel and release as free samples or use in tutorials.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Upload web-to-print designs</title>
+		<link>http://www.zetaprints.com/designers/web-to-print-sign-up-designers</link>
+		<pubDate>Mon, 28 May 2007 08:09:36 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Designers]]></category>
+
+		<guid isPermaLink="false">http://hotissues.org/designers/sign-up-2/47</guid>
+		<description><![CDATA[You need to register as a designer to upload web-to-print templates. It is a quick and simple proces...]]></description>
+				<content:encoded><![CDATA[<p>You need to register as a designer to upload web-to-print templates. It is a quick and simple process. We will want to know your location, brief profile details and your email. Most of the information is optional.<span id="more-47"></span></p>
+<p><strong>There are no fees to pay if you sign up as a web to print designer &#8211; <a title="We buy web-to-print designs" href="../../../designers/we-buy-designs/index.html" target="_self">we pay you</a>.</strong></p>
+<h3>Get started now:</h3>
+<ul>
+<li>Read <a title="Web-to-print help section" href="../../../help/index.html" target="_self">web-to-print help</a></li>
+<li><a title="Web-to-print help: PDF to template conversion" href="../../../help/pdf-to-template-conversion-basic/index.html" target="_self">Convert your designs</a> to web-to-print templates (images, CDR, fonts)</li>
+<li><a title="Web-to-print help: Upload your first template" href="../../../help/upload-your-first-template/index.html" target="_self">Upload</a> them to the site</li>
+<li>Choose if they are free or you want to be <a title="Web-to-print Payments" href="../../../designers/payments/index.html" target="_self">paid for them</a></li>
+<li>Add <a title="Web-to-print help: Tagging" href="../../../help/category/tagging/index.html" target="_self">tags</a> and comments to help users find them</li>
+</ul>
+<p style="text-align: center;"><a style="font-weight: bold;" title="Register a designer account" href="http://zetaprints.com/?page=designer-selfrego" target="_blank"> I ACCEPT THE TERMS AND CONDITIONS<br />
+<img style="border: medium none; margin-top: 15px;" title="Register a designer account" src="../../../wp-content/themes/zetaprints/_img/bt-signup.gif" alt="FULL  DEMO ACCOUNT" /><br />
+</a></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>How designs are used</title>
+		<link>http://www.zetaprints.com/designers/how-designs-are-used</link>
+		<pubDate>Mon, 28 May 2007 03:56:46 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Designers]]></category>
+
+		<guid isPermaLink="false">http://hotissues.org/designers/how-designs-are-used/46</guid>
+		<description><![CDATA[Zetaprints is a provider of a web-to-print and dynamic imaging technology, not a printing company.
+C...]]></description>
+				<content:encoded><![CDATA[<p><strong>Zetaprints is a provider of a web-to-print and dynamic imaging technology, not a printing company.</strong><span id="more-46"></span></p>
+<h2>Copyright</h2>
+<p><strong>Designers retain the copyright</strong> of their work uploaded to ZetaPrints web-to-print system. Designs are clearly attributed to their authors and users are encouraged to contact the designers directly should they want to commission any work.</p>
+<p><strong>Designers grant non-exclusive rights</strong> to ZetaPrints users to personalize, download, display and print files generated by ZetaPrints, but cannot re-distribute them nor use them as templates of any kind.</p>
+<p>Any deviations from this policy should be agreed between the user and the designer directly.</p>
+<h2>Use by consumers</h2>
+<p>Web-to-print and dynamic imaging templates can be personalized and downloaded as files for print or on-screen display. Users may choose to print themselves, send the files to their preferred printer or get quotes from printers registered in our <a title="ZetaPrints web-to-print directory of printers" href="http://zetaprints.com/?page=find-printer;PrinterType=1" target="_self">web-to-print directory</a>.<br />
+Unlike many other web to print websites we do not come with our own printing services. Enjoy the freedom of choice.</p>
+<p>Consumers pay a fixed price per web-to-print or image design before they can download the files, unless the designer flagged the design as &#8220;free&#8221;. Satellite files such as font, stock images and clipart cannot be downloaded.</p>
+<h2>Use by printers</h2>
+<p>Commercial <a title="Web-to-print printers" href="../../printers/index.html" target="_self">printers</a> use our web-to-print software to take orders and many are on a lookout for good templates to include in their catalogs. We encourage them to contact you directly and negotiate either an exclusive purchase of your web-to-print templates or some other arrangement.</p>
+<h2>Use by publications</h2>
+<p><a title="Web-to-print publishers" href="../../publications/index.html" target="_self">Publications</a> use our web-to-print software for booking display ads and many are on a lookout for good ad templates to include in their catalogs. We encourage them to contact you directly and negotiate either an exclusive purchase of your web-to-print templates or some other arrangement.</p>
+<h2>Other uses</h2>
+<p>Other types of users may like your designs and want to purchase them from you or commission you some design work. They can contact you directly using contact details in your profile.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Templates for print</title>
+		<link>http://www.zetaprints.com/designers/web-to-print-templates-designers</link>
+		<pubDate>Mon, 28 May 2007 02:28:16 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Designers]]></category>
+
+		<guid isPermaLink="false">http://hotissues.org/designers/templates-2/45</guid>
+		<description><![CDATA[Web-to-print templates are made in CorelDRAW 12, X3 or X4. You do not have to use CorelDRAW to creat...]]></description>
+				<content:encoded><![CDATA[<p>Web-to-print templates are made in <a title="CorelDRAW - Graphic design and illustration software" href="http://www.corel.com/servlet/Satellite/us/en/Product/1150981051301" target="_blank">CorelDRAW 12, X3 or X4</a>. You do not have to use CorelDRAW to create the design itself. Use any vector graphic application you want to produce a PDF file and then <a title="Web-to-print help: PDF to template conversion" href="../../../help/flash/PDFtoTemplateConversionBasic.html" target="_self">import it into CorelDRAW</a>.<span id="more-45"></span></p>
+<table class="tbl_grid_guides_w2p">
+<tbody>
+<tr>
+<td><img class="alignnone" title="Web-to-print Brochures" src="../../../wp-content/themes/zetaprints/_img/brochures.jpg" alt="Web-to-print Brochures" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Outdoor signs" src="../../../wp-content/themes/zetaprints/_img/outdoor_signs.jpg" alt="Web-to-print Yard signs" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print T-shirts" src="../../../wp-content/themes/zetaprints/_img/web-to-print_t-shirts.jpg" alt="Web-to-print T-shirts" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Business cards" src="../../../wp-content/themes/zetaprints/_img/web-to-print_business_cards.jpg" alt="Web-to-print Business cards" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print CD/DVD labels" src="../../../wp-content/themes/zetaprints/_img/web-to-print_DVD_labels.jpg" alt="Web-to-print CD/DVD labels" width="125" height="180" /></td>
+</tr>
+<tr id="sample_product_links">
+<td><a title="Web-to-print Brochure templates" href="http://zetaprints.com/?page=template;TemplateID=DBA05324-1B3E-4BDA-BA00-559192FB0919" target="_self">Samples</a> | <a title="Web-to-print help: Brochures guide" href="../../../help/brochures-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Real estate yard sign templates" href="http://zetaprints.com/?page=catalogue;CorporateID=5C787740-C63F-4821-8DDC-25834DDFEE8F" target="_self">Samples</a> | <a title="Web-to-print help: Outdoor signs guide" href="../../../help/outdoor-signs-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print T-shirt templates" href="http://zetaprints.com/?page=template;TemplateID=5A8DF7B8-199A-4C66-9B29-F8DDF09843B2" target="_self">Samples</a> | <a title="Web-to-print help: T-shirts guide" href="../../../help/t-shirts-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print business cards" href="http://shop.hollands.com.au/?page=catalogue;CorporateID=9F44DD27-0DA6-422A-8290-CAB040742247" target="_self">Samples</a> | <a title="Web-to-print help: Business cards guide" href="../../../help/business-cards-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print CD/DVD label" href="http://zetaprints.com/?page=template;TemplateID=0D6B06C6-DA3F-4607-965D-BCA3F7B4A23C" target="_self">Samples</a> | <a title="Web-to-print help: CD/DVD labels guide" href="../../../help/cddvd-labels-guide/index.html" target="_self">Tutorial</a></td>
+</tr>
+</tbody>
+</table>
+<table class="tbl_grid_guides_w2p">
+<tbody>
+<tr>
+<td><img class="alignnone" title="Web-to-print Greeting cards" src="../../../wp-content/themes/zetaprints/_img/web-to-print_greeting_cards.jpg" alt="Web-to-print Greeting cards" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Books" src="../../../wp-content/themes/zetaprints/_img/web-to-print_books.jpg" alt="Web-to-print Books" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Posters" src="../../../wp-content/themes/zetaprints/_img/web-to-print_posters.jpg" alt="Web-to-print Posters" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Newspaper ads" src="../../../wp-content/themes/zetaprints/_img/web-to-print_newspaper_ad.jpg" alt="Web-to-print Newspaper ads" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print CD/DVD covers" src="../../../wp-content/themes/zetaprints/_img/web-to-print_DVD_cover.jpg" alt="Web-to-print CD/DVD covers" width="125" height="180" /></td>
+</tr>
+<tr id="sample_product_links">
+<td><a title="Web-to-print greeting card templates" href="http://zetaprints.com/?page=template;TemplateID=5E7566DF-9445-4C86-91A5-B17AD19C2BC2" target="_self">Samples</a> | <a title="Web-to-print help: Greeting cards guide" href="../../../help/greeting-cards-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Book templates" href="http://order.uprintinvitations.com/?page=catalogue;CorporateID=F37AF3A1-AE52-4057-84C9-E4EE88797F96" target="_self">Samples</a> | <a title="Web-to-print help: Books guide" href="../../../help/books-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Poster templates" href="http://zetaprints.com/?page=catalogue;CorporateID=B43FC624-1020-4AC7-A773-E536B892414C" target="_self">Samples</a> | <a title="Web-to-print help: Posters guide" href="../../../help/poster-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Newspaper ad templates" href="http://zetaprints.com/?page=catalogue;CorporateID=271510AD-DCE1-4305-9375-57F977F6EC6F" target="_self">Samples</a> | <a title="Web-to-print help: Newspaper ads guide" href="../../../help/newspaper-ads-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print CD/DVD label" href="http://zetaprints.com/?page=template;TemplateID=A8714BE2-AE75-4180-BED4-7D6791538282" target="_self">Samples</a> | <a title="Web-to-print help: CD/DVD cover guide" href="../../../help/cddvd-case-cover-guide/index.html" target="_self">Tutorial</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Target practical applications</h2>
+<p>A business card design is a one-off product. It requires a designer with tools and skills to make changes. Web to print templates can be used by people without design skills or tools because they can be personalized online into useful commercial products. Any practical design will find its <a title="Web-to-print help" href="../../../help/index.html" target="_self">web-to-print application</a> sooner or later. Think of designs you see around you and how they are used. Make them <a title="Web-to-print help: Product guides" href="../../../help/category/product-guides/index.html" target="_self">practical</a>.</p>
+<h2>Variable fields and images</h2>
+<p>It is easy to make variable <a title="Web-to-print help: Text fields" href="../../../help/text-fields-overview/index.html" target="_self">text</a> and <a title="Web-to-print help: Image fields" href="../../../help/image-fields-overview/index.html" target="_self">image</a> fields in CorelDRAW. We have several video tutorials for you in the <a title="Web-to-print help" href="../../../help/index.html" target="_self">help section</a>. It will take approximately 15 minutes before you can <a title="Web-to-print help: Get started" href="../../../help/get-started/index.html" target="_self">create your first web to print template</a>. The rest is easy.</p>
+<h2>Template quality</h2>
+<p>We never judge your artwork. It is up to users to choose what they like. Our main concern is the output <a title="Web-to-print help: Image quality" href="../../../help/image-quality/index.html" target="_self">quality</a> of the final product. It must be sufficient for the intended purpose. E.g. a greeting card will look bad at resolution less than 300dpi, while a large window poster may look fine at 96dpi.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Types of design</title>
+		<link>http://www.zetaprints.com/designers/types-of-design</link>
+		<pubDate>Mon, 28 May 2007 01:48:20 +0000</pubDate>
+		<dc:creator><![CDATA[vobla]]></dc:creator>
+				<category><![CDATA[Designers]]></category>
+
+		<guid isPermaLink="false">http://hotissues.org/designers/types-of-design/44</guid>
+		<description><![CDATA[Anything goes
+There is no limit on the physical size, topics, themes, colors, you name it.
+Think whe...]]></description>
+				<content:encoded><![CDATA[<h2>Anything goes</h2>
+<p>There is no limit on the physical size, topics, themes, colors, you name it.<br />
+Think where your design idea may fit best, but it can be more than one type of product. This is all about your creativity &#8211; let your imagination fly. Think the unthinkable.<span id="more-44"></span></p>
+<h2>Product type examples</h2>
+<p>Designers create template based designs that can either be intended for <a title="Web-to-print" href="../../web-to-print-software/index.html" target="_self">print</a> or for showing <a title="Dynamic imaging" href="../../dynamic-imaging/index.html" target="_self">on screen</a>.</p>
+<h3>Web-to-print products:</h3>
+<table class="tbl_grid_guides_w2p">
+<tbody>
+<tr>
+<td><img class="alignnone" title="Web-to-print Brochures" src="../../../wp-content/themes/zetaprints/_img/brochures.jpg" alt="Web-to-print Brochures" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Outdoor signs" src="../../../wp-content/themes/zetaprints/_img/outdoor_signs.jpg" alt="Web-to-print Yard signs" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print T-shirts" src="../../../wp-content/themes/zetaprints/_img/web-to-print_t-shirts.jpg" alt="Web-to-print T-shirts" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Business cards" src="../../../wp-content/themes/zetaprints/_img/web-to-print_business_cards.jpg" alt="Web-to-print Business cards" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print CD/DVD labels" src="../../../wp-content/themes/zetaprints/_img/web-to-print_DVD_labels.jpg" alt="Web-to-print CD/DVD labels" width="125" height="180" /></td>
+</tr>
+<tr id="sample_product_links">
+<td><a title="Web-to-print Brochure templates" href="http://zetaprints.com/?page=template;TemplateID=DBA05324-1B3E-4BDA-BA00-559192FB0919" target="_self">Samples</a> | <a title="Web-to-print help: Brochures guide" href="../../../help/brochures-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Real estate yard sign templates" href="http://zetaprints.com/?page=catalogue;CorporateID=5C787740-C63F-4821-8DDC-25834DDFEE8F" target="_self">Samples</a> | <a title="Web-to-print help: Outdoor signs guide" href="../../../help/outdoor-signs-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print T-shirt templates" href="http://zetaprints.com/?page=template;TemplateID=5A8DF7B8-199A-4C66-9B29-F8DDF09843B2" target="_self">Samples</a> | <a title="Web-to-print help: T-shirts guide" href="../../../help/t-shirts-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print business cards" href="http://shop.hollands.com.au/?page=catalogue;CorporateID=9F44DD27-0DA6-422A-8290-CAB040742247" target="_self">Samples</a> | <a title="Web-to-print help: Business cards guide" href="../../../help/business-cards-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print CD/DVD label" href="http://zetaprints.com/?page=template;TemplateID=0D6B06C6-DA3F-4607-965D-BCA3F7B4A23C" target="_self">Samples</a> | <a title="Web-to-print help: CD/DVD labels guide" href="../../../help/cddvd-labels-guide/index.html" target="_self">Tutorial</a></td>
+</tr>
+</tbody>
+</table>
+<table class="tbl_grid_guides_w2p">
+<tbody>
+<tr>
+<td><img class="alignnone" title="Web-to-print Greeting cards" src="../../../wp-content/themes/zetaprints/_img/web-to-print_greeting_cards.jpg" alt="Web-to-print Greeting cards" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Books" src="../../../wp-content/themes/zetaprints/_img/web-to-print_books.jpg" alt="Web-to-print Books" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Posters" src="../../../wp-content/themes/zetaprints/_img/web-to-print_posters.jpg" alt="Web-to-print Posters" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Newspaper ads" src="../../../wp-content/themes/zetaprints/_img/web-to-print_newspaper_ad.jpg" alt="Web-to-print Newspaper ads" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print CD/DVD covers" src="../../../wp-content/themes/zetaprints/_img/web-to-print_DVD_cover.jpg" alt="Web-to-print CD/DVD covers" width="125" height="180" /></td>
+</tr>
+<tr id="sample_product_links">
+<td><a title="Web-to-print greeting card templates" href="http://zetaprints.com/?page=template;TemplateID=5E7566DF-9445-4C86-91A5-B17AD19C2BC2" target="_self">Samples</a> | <a title="Web-to-print help: Greeting cards guide" href="../../../help/greeting-cards-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Book templates" href="http://order.uprintinvitations.com/?page=catalogue;CorporateID=F37AF3A1-AE52-4057-84C9-E4EE88797F96" target="_self">Samples</a> | <a title="Web-to-print help: Books guide" href="../../../help/books-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Poster templates" href="http://zetaprints.com/?page=catalogue;CorporateID=B43FC624-1020-4AC7-A773-E536B892414C" target="_self">Samples</a> | <a title="Web-to-print help: Posters guide" href="../../../help/poster-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Newspaper ad templates" href="http://zetaprints.com/?page=catalogue;CorporateID=271510AD-DCE1-4305-9375-57F977F6EC6F" target="_self">Samples</a> | <a title="Web-to-print help: Newspaper ads guide" href="../../../help/newspaper-ads-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print CD/DVD label" href="http://zetaprints.com/?page=template;TemplateID=A8714BE2-AE75-4180-BED4-7D6791538282" target="_self">Samples</a> | <a title="Web-to-print help: CD/DVD cover guide" href="../../../help/cddvd-case-cover-guide/index.html" target="_self">Tutorial</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Dynamic imaging products:</h3>
+<table class="tbl_grid_guides_w2p">
+<tbody>
+<tr>
+<td><img class="alignnone" title="Dynamic imaging eCards" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_ecards.png" alt="Dynamic imaging eCards" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Dynamic imaging Twictures" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_twictures.png" alt="Twictures" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Dynamic imaging Web banners" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_banners.png" alt="Web banners" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Dynamic imaging Web buttons" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_buttons.png" alt="Web buttons" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Dynamic imaging Web tabs" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_tabs.png" alt="Web tabs" width="125" height="180" /></td>
+</tr>
+<tr id="sample_product_links">
+<td><a title="Bunny eCards" href="http://magento.zetaprints.com/?page=catalogue;CorporateID=284EF372-16BF-4258-A2AB-30D2A000BB26" target="_self">Samples</a> | <a title="Dynamic imaging help: eCards guide" href="../../../help/create-an-ecard/index.html" target="_self">Tutorial</a></td>
+<td>Samples | Tutorial</td>
+<td><a title="Dynamic imaging - Web banners" href="http://zetaprints.com/?page=catalogue;CorporateID=1841912F-CA3B-43B7-8F6C-B7504E4D4A82" target="_self">Samples</a> | <a title="Dynamic imaging help: Web banners guide" href="../../../help/internet-banners-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Dynamic imaging web buttons" href="http://magento.zetaprints.com/?page=catalogue;CorporateID=7D20426E-61D2-4638-BCCA-03E2448A560B" target="_self">Samples</a> | <a title="Dynamic imaging help: Web buttons guide" href="../../../help/web-buttons/index.html" target="_self">Tutorial</a></td>
+<td><a title="Dynamic imaging web tabs" href="http://magento.zetaprints.com/?page=catalogue;CorporateID=1631F47E-C480-4FF6-8867-50AAFAF571F8" target="_self">Samples</a> | <a title="Dynamic imaging help: Web tabs guide" href="../../../help/web-tabs/index.html" target="_self">Tutorial</a></td>
+</tr>
+</tbody>
+</table>
+<h2>Physical dimensions and units</h2>
+<p>It&#8217;s better if you use standard sizes commonly encountered by printers and publishers. Although PDF files produced from your designs by ZetaPrints can be resized it may negatively affect resolution of bitmaps. You can always use our <a title="Web-to-print help: Product guides" href="../../../help/category/product-guides/index.html" target="_self">product guides</a> as reference.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

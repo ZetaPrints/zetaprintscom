@@ -1,0 +1,738 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="verify-v1" content="GACnn9+1c3JzusKbMwxWr+f9dKvqx8As8sbHI8tNyxA=" />
+  <meta name="keywords" content="web-to-print, online printing, zetaprints, online print ordering" />
+  <title>On web to print sofware, solutions and hosted services</title>
+  <script type="text/javascript" src="../../wp-content/themes/water-zp-3/jslib.js"></script>
+  <meta name="generator" content="ZetaPrints"/> <!-- leave this for stats -->
+  <link rel="stylesheet" href="../../wp-content/themes/water-zp-3/style.css" type="text/css" media="all" />
+  <link href="../../wp-content/themes/water-zp-3/style-fixed.css" rel="stylesheet" type="text/css" />
+  <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="../../feed/index.html" />
+  <link rel="alternate" type="text/xml" title="RSS .92" href="../../feed/rss/index.html" />
+  <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="../../feed/atom/index.html" />
+  <!--link rel="pingback" href="http://www.zetaprints.com/blog/xmlrpc.php" /-->
+  		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.zetaprints.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.1"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d");return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(String.fromCharCode(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(String.fromCharCode(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(String.fromCharCode(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(String.fromCharCode(55357,56835),0,0):e.fillText(String.fromCharCode(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cat-post-tree-ajax-css'  href='../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2-ver=0.7.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='top_css-css'  href='../../wp-content/themes/water-zp-3/top-menu-ver=4.4.1.css' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='top_css_ie-css'  href='../../wp-content/themes/water-zp-3/top-menu-ie-ver=4.4.1.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='../../wp-content/themes/water-zp-3/js/top-menu.js?ver=4.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CatPostAjax = {"ajaxurl":"http:\/\/www.zetaprints.com\/blog\/wp-admin\/admin-ajax.php","nice_ajax_tree_img":"http:\/\/www.zetaprints.com\/blog\/wp-content\/plugins\/cat-post-tree-ajax\/img\/","type":null,"id":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/cat-post-tree-ajax/cat-post-tree-ajax-v2.js?ver=4.4.1'></script>
+<script type='text/javascript' src='../../wp-content/plugins/zpecards/js/zp.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='../../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc-rsd.php.html" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.1" />
+<meta property="og:site_name" content="On web to print sofware, solutions and hosted services" />
+<meta property="og:type" content="article" />
+<link type="text/css" rel="stylesheet" href="../../wp-content/plugins/zpecards/css/zpEcards.css" />
+<script type='text/javascript' src='../../wp-includes/js/tw-sack.min.js?ver=1.6.1'></script>
+  <!--[if IE]>
+  <style>
+  
+  </style>
+  <![EndIf]-->
+  <style type="text/css" media="print">
+  #header, #footer, #rightcol, #logo, .social_bookmark, .post-rel, .postmetadata, #questionMark, p.nocomments {display:none}
+  </style>
+  <link media="screen" type="text/css" href="../../wp-content/themes/water-zp-3/grid.css" rel="stylesheet"/>
+  <script type='text/javascript' src="../../wp-content/themes/water-zp-3/js/grid.js" ></script>
+</head>
+
+<body>
+  <div id="header-container" class="clearfix container">
+    <div id="header">
+      <div class="logo">
+        <a href="../../../index.html"><img src="../../wp-content/themes/water-zp-3/images/logo.gif" alt="ZetaPrints Web-to-print home"/></a>
+        <h1><a href="../../index.html"><span>ZetaPrints</span> blog</a></h1>
+        <h3>Web-to-Print &amp; dynamic imaging</h3>
+      </div>
+      <form method="get" id="searchform" action="http://www.zetaprints.com/blog/">
+        <div>
+          <input type="text" value=""  name="s" id="s" />
+          <input type="image" id="searchsubmit" alt="Search" src="../../wp-content/themes/water-zp-3/images/search_btn.gif" />
+        </div>
+      </form>
+      <div class="nav">
+    <ul class="main" id="top-drop-menu">
+        <li>
+            <a href="../../../index.html" title="Zetaprints home">Home</a>
+        </li><li class="drop">
+            <a href="../../../help/index.html" class="drop-down-link">Help</a>
+            <ul>
+                <li>
+                    <a href="../../../help/index.html" class="drop-down-link">Web-to-print help</a>
+                </li>
+                <li>
+                    <a href="../../../magentohelp/index.html" class="drop-down-link">Magento help</a>
+                </li>
+				<li>
+					<a href="../../../premium/index.html" class="drop-down-link">Premium support</a>
+				</li>
+				<li>
+					<a href="../../../directory/index.html" class="drop-down-link">Resources</a>
+				</li>
+				<li class="last">
+					<a href="../../../userhelp/index.html" class="drop-down-link">End user help</a>
+				</li>
+            </ul>
+        </li><li>
+            <a href="../../index.html" title="Web to print blog">Blog</a>
+        </li><li>
+            <a href="../../../packages/sign-up-for-web-to-print/index.html" title="Sign up for web-to-print">Sign up</a>
+        </li><li class="no_border">
+            <a href="http://zetaprints.com" title="Web to print system">Log in</a>
+        </li>
+    </ul>
+</div>
+<!-- nav -->
+    </div> <!-- header -->
+  </div> <!-- container -->
+  <div id="content-container" class="container clearfix">
+    <div id="rightcol">
+      <ul>
+        		<li id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>
+		<ul>
+					<li>
+				<a href="../../2013/08/02/forward-updates-in-web-to-print-templates-bug/index.html">Repeating fields in web-to-print templates bug</a>
+						</li>
+					<li>
+				<a href="../../2013/07/31/lost-files/index.html">Lost files</a>
+						</li>
+					<li>
+				<a href="../../2013/07/22/speed-up-your-web-to-print-checkout/index.html">Speed up your web-to-print checkout</a>
+						</li>
+					<li>
+				<a href="../../2013/01/28/paypal-issues-web-to-print-orders-are-not-paid/index.html">PayPal issues &#8211; web-to-print orders are not paid</a>
+						</li>
+					<li>
+				<a href="../../2012/10/31/volumes-are-down/index.html">Volumes are down</a>
+						</li>
+					<li>
+				<a href="../../2012/10/22/amazon-hosting-failure/index.html">Amazon hosting failure</a>
+						</li>
+					<li>
+				<a href="../../2012/09/19/missing-files-in-web-to-print-orders/index.html">Missing files in web-to-print orders</a>
+						</li>
+					<li>
+				<a href="../../2012/09/09/web-to-print-profiles-fix-after-upgrading-to-magento-1-7/index.html">Web-to-print profiles fix after upgrading to Magento 1.7</a>
+						</li>
+					<li>
+				<a href="../../2012/08/14/payments-date-wipe-out/index.html">Payments date wipe-out</a>
+						</li>
+					<li>
+				<a href="../../2012/07/31/serious-network-issues/index.html">Serious network issues</a>
+						</li>
+				</ul>
+		</li>
+		<li id="niceajaxtree-widget-3" class="widget cat-post-ajax-tree"><h2 class="widgettitle"><span class="widgettitle">Topics</span></h2>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/announcements/index.html"
+	title="View all posts in Announcements">Announcements</a>
+<span
+	class="arrow cat-item-3">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-3" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/api/index.html"
+	title="View all posts in API">API</a>
+<span
+	class="arrow cat-item-65">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-65" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/blogroll/index.html"
+	title="View all posts in Blogroll">Blogroll</a>
+<span
+	class="arrow cat-item-2">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-2" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/bugs-and-fixes/index.html"
+	title="View all posts in Bugs and fixes">Bugs and fixes</a>
+<span
+	class="arrow cat-item-147">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-147" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/customer-web-to-print-sites/index.html"
+	title="View all posts in Customer web-to-print sites">Customer web-to-print sites</a>
+<span
+	class="arrow cat-item-149">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-149" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/freebies/index.html"
+	title="View all posts in Freebies">Freebies</a>
+<span
+	class="arrow cat-item-146">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-146" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/graphic-design/index.html"
+	title="View all posts in Graphic design">Graphic design</a>
+<span
+	class="arrow cat-item-4">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-4" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/ideas-and-opinions/index.html"
+	title="View all posts in Ideas and opinions">Ideas and opinions</a>
+<span
+	class="arrow cat-item-5">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-5" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/junk-mail-collection/index.html"
+	title="View all posts in Junk mail collection">Junk mail collection</a>
+<span
+	class="arrow cat-item-6">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-6" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/known-issues/index.html"
+	title="View all posts in Known issues">Known issues</a>
+<span
+	class="arrow cat-item-17">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-17" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/marketing/index.html"
+	title="View all posts in Marketing">Marketing</a>
+<span
+	class="arrow cat-item-7">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-7" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/payments-2/index.html"
+	title="View all posts in Payments">Payments</a>
+<span
+	class="arrow cat-item-150">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-150" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/premium-support/index.html"
+	title="View all posts in Premium support">Premium support</a>
+<span
+	class="arrow cat-item-151">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-151" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/printer-update/index.html"
+	title="View all posts in Printer update">Printer update</a>
+<span
+	class="arrow cat-item-8">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-8" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/printer-update-history/index.html"
+	title="View all posts in Printer update history">Printer update history</a>
+<span
+	class="arrow cat-item-18">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-18" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/printing-industry-reviews/index.html"
+	title="View all posts in Printing industry reviews">Printing industry reviews</a>
+<span
+	class="arrow cat-item-10">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-10" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/problems-and-outages/index.html"
+	title="View all posts in Problems and outages">Problems and outages</a>
+<span
+	class="arrow cat-item-56">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-56" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/scam-buster/index.html"
+	title="View all posts in Scams">Scams</a>
+<span
+	class="arrow cat-item-12">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-12" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/update-summaries/index.html"
+	title="View all posts in Update summaries">Update summaries</a>
+<span
+	class="arrow cat-item-19">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-19" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/user-update-history/index.html"
+	title="View all posts in User update history">User update history</a>
+<span
+	class="arrow cat-item-20">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-20" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print/index.html"
+	title="View all posts in Web-to-Print">Web-to-Print</a>
+<span
+	class="arrow cat-item-13">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-13" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-features/index.html"
+	title="View all posts in web-to-print features">web-to-print features</a>
+<span
+	class="arrow cat-item-53">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-53" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-help/index.html"
+	title="View all posts in Web-to-print help">Web-to-print help</a>
+<span
+	class="arrow cat-item-145">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-145" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-reviews/index.html"
+	title="View all posts in Web-to-Print reviews">Web-to-Print reviews</a>
+<span
+	class="arrow cat-item-14">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-14" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-software/index.html"
+	title="View all posts in web-to-print software">web-to-print software</a>
+<span
+	class="arrow cat-item-54">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-54" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/web-to-print-storefront/index.html"
+	title="View all posts in Web-to-print storefront">Web-to-print storefront</a>
+<span
+	class="arrow cat-item-148">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-148" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/whaling/index.html"
+	title="View all posts in Whaling">Whaling</a>
+<span
+	class="arrow cat-item-15">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-15" style="display:none;">
+</div>
+</div>
+<div class="nat-menu-li">
+<h2 class="head"><a
+	href="../../category/zetaprints-features/index.html"
+	title="View all posts in ZetaPrints features">ZetaPrints features</a>
+<span
+	class="arrow cat-item-16">&nbsp;</span>
+</h2>
+<div class="cat-post-ajax-tree-submenu" id="submenu-16" style="display:none;">
+</div>
+</div>
+</li>
+      </ul>
+    </div>
+    <div id="leftcol">
+      <div id="news" class="clearfix">
+        <div id="newswrap">
+            <div class="post" id="post-199">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2008/05/20/development-resumed/index.html" rel="bookmark" title="Permanent Link to Development resumed">Development resumed</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/announcements/index.html" rel="category tag">Announcements</a>, <a href="../../category/zetaprints-features/printer-update-history/index.html" rel="category tag">Printer update history</a>, <a href="../../category/web-to-print-software/index.html" rel="category tag">web-to-print software</a></small></div>
+              <small>May 20th, 2008 <!-- by admin --></small>
+              <div class="entry">
+    <p>Sorry, we had a break. All web-to-print development was stopped due to loss of direction in the team. Now we are back on track with renewed energy and clear goals. Web-to-print rocks!</p>
+<h2>User registration improved</h2>
+<p>Users registered by printers are expected to click on the link and enter their details themselves.</p>
+<p>Printers <a title="web-to-print user registration" href="../../../help/user-management-centralized/index.html">can enter new user profiles and type in their details</a>, including passwords. Despite that, new users were still required to click on the link to log in. It was an unnecessary step, now removed.</p>
+<h2>Transparent images</h2>
+<p>Transparent images were handled inconsistently by our web-to-print software resulting in loss of transparency in most cases. It has been fixed in the latest update. Some minor issues still remain:</p>
+<ul>
+<li>TIFF and GIF files may appear on the screen differently as thumbnails. There is a colour shift in the palette for indexed colour.</li>
+<li>TIFF files with ZIP compression are rejected. However, ZIP layer compression is OK.</li>
+</ul>
+<p>There are many flavours of PNG, GIF and TIFF files when it comes to transparency handling. Check before using them in your image libraries and let us know if something does work as expected.</p>
+<h2>WMF files are not allowed</h2>
+<p>Sorry, not any more. There were too many security issues with them and they are not used that widely to be of a concern.</p>
+<h2>More changes to come</h2>
+<p>You will see more changes to our web-to-print user interface in the coming days. They will be deployed one by one and your feedback sought before moving further.</p>
+<p>1. Changes to the page layout &#8211; cleaner, more space</p>
+<p>2. Changes to uploaded files handling &#8211; cropping, rotating, resizing, deleting, etc.</p>
+<p>3. More interactivity &#8211; scripting and asynchronous processing will be added here and there</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2008/05/20/development-resumed/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-196">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2008/04/16/web-to-print-website-for-5/index.html" rel="bookmark" title="Permanent Link to Web-to-print website for $5">Web-to-print website for $5</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/web-to-print-software/index.html" rel="category tag">web-to-print software</a>, <a href="../../tag/diy/index.html" rel="tag">DIY</a>, <a href="../../tag/free/index.html" rel="tag">free</a><br /></small></div>
+              <small>April 16th, 2008 <!-- by admin --></small>
+              <div class="entry">
+    <p><strong>How much would it cost to build a web-to-print website where customers can design products online?</strong></p>
+<h3 style="font-size:3em; margin-bottom:30px; text-align:center;">$5!</h3>
+<p>This type of interactive websites is usually built using Adobe Flash. Users can interact with the design as it was a desktop application. It&#8217;s nothing like using Photoshop, CorelDRAW or Illustrator, but the basic design manipulation features are there.<br />
+<a href="http://demo.tufat.com/flashcard/stateless/"><img class="alignnone size-full wp-image-197" title="5 dollar script" src="http://ec2-67-202-43-115.compute-1.amazonaws.com/blog/wp-content/uploads/2008/04/new-3.png" alt="" /></a></p>
+<h2>How to install it</h2>
+<p><a href="http://www.tufat.com/s_flash_greeting_card_creator.htm">Download</a> the script and read the installation instructions.</p>
+<p>You need a website where to place it.</p>
+<p>Ask a web designer or a site admin to help you with the installation if this is all too technical for you.</p>
+<h2>More than a fancy toy</h2>
+<p>This script can be more than a fancy toy if you install a <a href="http://www.tufat.com/script91.htm">PDF generation add-on</a> and provide a good library or background images.<br />
+The major problem with &#8220;<em>design it online</em>&#8221; sites is that users who can produce a design already have all the tools they need on their computer. Your site needs to provide sufficient value through catchy images to offset the hassle for those who don&#8217;t have the designer streak.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2008/04/16/web-to-print-website-for-5/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-198">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2008/04/13/outage/index.html" rel="bookmark" title="Permanent Link to Outage">Outage</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/problems-and-outages/index.html" rel="category tag">Problems and outages</a></small></div>
+              <small>April 13th, 2008 <!-- by admin --></small>
+              <div class="entry">
+    <p>Application of latest Microsoft patches to our Windows 2003 Server machines went terribly wrong. We are trying to bring them back to life.</p>
+<p><strong>Update:</strong> all back to normal.</p>
+<p>The overall downtime was less than 2 minutes. Some users had to try more than once to get through.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2008/04/13/outage/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-195">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2008/04/10/2-hrs-outage/index.html" rel="bookmark" title="Permanent Link to 2 hrs outage">2 hrs outage</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/problems-and-outages/index.html" rel="category tag">Problems and outages</a></small></div>
+              <small>April 10th, 2008 <!-- by admin --></small>
+              <div class="entry">
+    <p>We had a 2 hour outage due to a failure of the monitoring software. A minor error escalated to a large problem. It took an hour to get noticed and another hour to fix.</p>
+<p>Unfortunately it was peak time for some of our customers and they missed out a few orders. Our fault. Guilty as charged. <img src="../../wp-includes/images/smilies/frownie.png" alt=":-(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2008/04/10/2-hrs-outage/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-194">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2008/04/07/new-user-management-feaures/index.html" rel="bookmark" title="Permanent Link to New user management feaures">New user management feaures</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/web-to-print/index.html" rel="category tag">Web-to-Print</a>, <a href="../../category/web-to-print-features/index.html" rel="category tag">web-to-print features</a>, <a href="../../category/web-to-print-software/index.html" rel="category tag">web-to-print software</a>, <a href="../../category/zetaprints-features/index.html" rel="category tag">ZetaPrints features</a>, <a href="../../tag/web-to-print/index.html" rel="tag">Web-to-Print</a>, <a href="../../tag/zetaprints/index.html" rel="tag">zetaprints</a><br /></small></div>
+              <small>April 7th, 2008 <!-- by admin --></small>
+              <div class="entry">
+    <p>Released only minutes ago, some long awaited user management features to make life of <em>web-to-print printer accounts</em> easier.</p>
+<h2>Add user and User profile page</h2>
+<p>You can add a user to the web-to-print database and then assign the user to multiple web-to-print catalogs using a new user profile page. You can still do it <a title="web-to-print user management" href="../../../help/adding-new-users/index.html">per-catalog</a>.</p>
+<p>Full user profiles can be viewed on the new user profile page. Profiles accessible through <em>Add user</em> or clicking on user name in lists of users per catalog.</p>
+<p><img src="../../../help/wp-content/uploads/2008/04/new-31-300x117.gif" alt="" width="300" height="117" /></p>
+<p>You can edit profiles of your customers, but only for those without a password. Once the password is set up the profile can be edited by the user only.  <a title="centralized web-to-print user management" href="../../../help/user-management-centralized/index.html">More &#8230;</a></p>
+<h2>Anonymous orders can be assigned to users</h2>
+<p>An order placed by an unregistered user can be assigned to an existing user or a new one. Click on Assign to user link on order details page and follow the instruction.  <a title="anonymous web-to-print orders" href="../../../help/anonymous-orders/index.html">More &#8230;</a></p>
+<p><img src="../../../help/wp-content/uploads/2008/04/new-41.gif" alt="" width="515" height="354" /></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2008/04/07/new-user-management-feaures/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-193">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2008/04/04/more-customization-for-your-web-to-print/index.html" rel="bookmark" title="Permanent Link to More customization for your web-to-print">More customization for your web-to-print</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/web-to-print/index.html" rel="category tag">Web-to-Print</a>, <a href="../../category/web-to-print-features/index.html" rel="category tag">web-to-print features</a>, <a href="../../category/zetaprints-features/index.html" rel="category tag">ZetaPrints features</a></small></div>
+              <small>April 4th, 2008 <!-- by admin --></small>
+              <div class="entry">
+    <p>In case you haven&#8217;t noticed, there are 2 new features to make your web-to-print site a bit better.</p>
+<h2>Catalog icons and web-to-print homepage layout</h2>
+<p>Web-to-print catalogs used to be lists of text links. Now they can be replaced with icons or images like in this example:</p>
+<p><a title="Online beer labels" href="http://start.beerlabelbuilder.com/"><img src="../../../help/wp-content/uploads/2008/04/untitled-150x150.gif" alt="" /></a></p>
+<p>Images can be made in Photoshop in any size or format.  Read more in <a title="Web-to-print catalog icons" href="../../../help/catalog-icons/index.html">Catalog icons</a> post on web-to-print help website.</p>
+<p>The web-to-print homepage layout can be changed showing one or more of the following blocks:</p>
+<ul>
+<li>Popular templates</li>
+<li>Catalogs (as images or text)</li>
+<li>Latest templates</li>
+</ul>
+<p>Read more on <a title="web-to-print homepage customization" href="../../../help/homepage-layout/index.html">web-to-print homepage customization</a>.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2008/04/04/more-customization-for-your-web-to-print/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-191">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2008/03/31/1-april-price-change/index.html" rel="bookmark" title="Permanent Link to 1 April Price Change">1 April Price Change</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/announcements/index.html" rel="category tag">Announcements</a>, <a href="../../category/web-to-print/index.html" rel="category tag">Web-to-Print</a></small></div>
+              <small>March 31st, 2008 <!-- by admin --></small>
+              <div class="entry">
+    <p>We are glad to announce that the web-to-print pricing has changed with the addition of one more digit (zero) effective from 1 Apr 2008, which is pretty much now.</p>
+<p>The new web-to-print pricing per order is as follows:</p>
+<ul>
+<li><strong>Australia</strong><span> &#8211; $2.200</span></li>
+<li><strong>EU</strong><span> &#8211; €1.300</span></li>
+<li><strong>New Zealand</strong><span> &#8211; $2.500</span></li>
+<li><strong>UK</strong> &#8211; £0.850</li>
+<li><strong>USA</strong><span> &#8211; $1.700</span></li>
+<li><strong>Other countries</strong><span> &#8211; US$1.700</span></li>
+</ul>
+<p>The old prices can be found <a title="web-to-print pricing" href="../../../publications/pricing-2/29/index.html">here</a>.</p>
+<p>We are all off to Bahamas due to the windfall of money after the price increase.</p>
+<p><img alt="bahamas.jpg" src="../../wp-content/uploads/2008/03/bahamas.jpg" align="middle" /></p>
+<p><strong>Signed:</strong><br />
+<em>ZetaPrints,<br />
+1 April 2008</em></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2008/03/31/1-april-price-change/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-190">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2008/03/29/expanded-use-of-keywords/index.html" rel="bookmark" title="Permanent Link to Expanded use of keywords">Expanded use of keywords</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/web-to-print-features/index.html" rel="category tag">web-to-print features</a>, <a href="../../category/web-to-print-software/index.html" rel="category tag">web-to-print software</a></small></div>
+              <small>March 29th, 2008 <!-- by admin --></small>
+              <div class="entry">
+    <p>Several new features related to use of keywords were introduced in the last few days.</p>
+<h2>Search and navigation using keywords</h2>
+<p><img src="../../../help/wp-content/uploads/2008/03/new-11.gif" alt="web-to-print keywords example" style="float: left" /> Users can click on a keyword and get all templates under that keyword. Choosing more than one keyword narrows down the choice to web-to-print products tagged with both of them. Read more on <a href="../../../help/template-tagging/index.html" title="keywords for web-to-print">how to use keywords</a> and <a href="../../../help/how-to-add-keywords/index.html" title="Web-to-print keywords">how to manage keywords</a>.</p>
+<h2>Menu sub-categories</h2>
+<p>List of templates shown in the menu:<br />
+<img src="../../../help/wp-content/uploads/2008/03/new-10.gif" alt="web-to-print template list" /><br />
+List of categories for the same catalog:<br />
+<img src="../../../help/wp-content/uploads/2008/03/new-9.gif" alt="web-to-print menu categories" /><br />
+Categories may be a better option for catalogs with large number of templates. <a href="../../../help/menu-sub-categories/index.html" title="Web-to-print menu categories">Read how to set them up</a>.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2008/03/29/expanded-use-of-keywords/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-189">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2008/03/29/spam/index.html" rel="bookmark" title="Permanent Link to Spam">Spam</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/web-to-print-features/index.html" rel="category tag">web-to-print features</a></small></div>
+              <small>March 29th, 2008 <!-- by admin --></small>
+              <div class="entry">
+    <p>We hate spam and were very sad to see numerous spam messages being sent to our customers through the feedback form on their ordering pages. The messages were sent by &#8220;bots&#8221; or automated message senders. They crawl the web and send their annoying stuff using any web form they can find.</p>
+<p>Today&#8217;s  update to the system introduced a new measure to make it harder for them, but may also impede some users because the form relies on JavaScript. Only a small number of Internet users have JavaScript disabled. Let us know if any of your users fall into that category.</p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2008/03/29/spam/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="post" id="post-188">
+            <div class="posttitle">
+              <h1 class="posttitle"><a href="../../2008/03/25/featured-product-improvements/index.html" rel="bookmark" title="Permanent Link to Featured product improvements">Featured product improvements</a></h1>
+            </div>
+            <div class="pcont">
+              <div class="catfloat"><small><a href="../../category/marketing/index.html" rel="category tag">Marketing</a>, <a href="../../category/zetaprints-features/printer-update-history/index.html" rel="category tag">Printer update history</a>, <a href="../../category/zetaprints-features/index.html" rel="category tag">ZetaPrints features</a></small></div>
+              <small>March 25th, 2008 <!-- by admin --></small>
+              <div class="entry">
+    <p>Featured products now show at the top of the catalog (sorted alphabetically) with all the other templates following in the alphabetical order.  They have larger titles to stand out.</p>
+<p>This featured was added on top of the existing upselling where featured templates are offered as suggestions after placing an order.</p>
+<p><a href="../../../help/featured-products/index.html">Documentation</a></p>
+
+<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.zetaprints.com/blog/2008/03/25/featured-product-improvements/&layout=button_count&show_faces=false&width=200&action=like&colorscheme=light" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height: 30px; align: left; margin: 2px 0px 2px 0px"></iframe>
+<!-- Facebook Like Button END -->
+              </div>
+              <div class="clear"></div>
+            </div>
+          </div>
+            <div class="navigation">
+            <div class="alignleft"><a href="../24/index.html" >&laquo; Older Entries</a></div>
+            <div class="alignright"><a href="../22/index.html" >Newer Entries &raquo;</a></div>
+          </div>
+          <br /><br /><br /><br />
+        </div>
+      </div>
+      <hr />
+    </div>
+  </div>
+
+<div id="footer-container" class="container">
+  <div id="footer">
+    <div id="bottomnav">
+      <!-- a id="pagecounter" href="http://whos.amung.us/show/9bm3msts"><img src="http://whos.amung.us/widget/9bm3msts" alt="hit counter" border="0" height="29" width="81" /></a -->
+      <ul>
+        <li class="first"><a href="../../../about-us/index.html" title="About ZetaPrints">About ZetaPrints</a></li>
+        <li><a href="../../../about-us/contact-us/index.html" title="Contact us">Contact us</a></li>
+        <li><a href="http://zetaprints.com/" title="Log in">Log in</a></li>
+        <li><a href="../../../web-to-print-legal/privacy-policy/index.html" title="Privacy policy">Privacy</a></li>
+        <li><a href="../../../sitemap/index.html" title="Sitemap">Sitemap</a></li>
+        <li><a href="../../../about-us/summary-of-terms-and-conditions/index.html" title="Terms and conditions">Terms of Service</a></li>
+        <li><a href="../../index.html" title="Web-to-print Blog">Web-to-print Blog</a></li>
+        <li><a href="../../../help/index.html" title="Web-to-print Help">Web-to-print Help</a></li>
+      </ul>
+    </div>
+    <p><a href="../../index.html" title="Web-to-print Blog"><img class="footer-icon" alt="Blog" src="../../wp-content/themes/water-zp-3/images/blog.png"/></a>&nbsp;
+<a href="http://twitter.com/zetaprints" title="Follow us on twitter"><img class="footer-icon" alt="Twitter" src="../../wp-content/themes/water-zp-3/images/twitter_16.png"/></a>&nbsp;
+&copy; 2006-2012 ZetaPrints Ltd. All rights reserved. Powered by <a href="http://wordpress.org">WordPress</a>.</p>
+    <a href="#header" title="Back to Top" class="top-btn">Back to Top</a>
+  </div>
+</div>
+
+<script type="text/javascript">
+    (function(){
+        var ga = document.createElement('script');
+        ga.type="text/javascript";
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })
+</script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1132851-1']);
+    _gaq.push(['_trackPageview']);
+</script>
+</body>
+</html>
+
+<!-- Localized -->

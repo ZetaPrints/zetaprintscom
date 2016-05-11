@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>time zone &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/tag/time-zone/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Time zones</title>
+		<link>http://www.zetaprints.com/blog/2009/01/10/time-zones/</link>
+		<comments>http://www.zetaprints.com/blog/2009/01/10/time-zones/#respond</comments>
+		<pubDate>Sun, 11 Jan 2009 03:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Printer update history]]></category>
+		<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[time zone]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=293</guid>
+		<description><![CDATA[Please, go to your details page and choose a time zone for your web-to-print portal. All orders used to be in UTC +12. Now they are in UTC time, unless you set your time zone. Navigate to DETAILS page. The drop down list of zones is in the second group of controls. Check if you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Please, go to your details page and choose a time zone for your web-to-print portal.</p>
+<p>All orders used to be in UTC +12. Now they are in UTC time, unless you set your time zone.</p>
+<p>Navigate to DETAILS page. The drop down list of zones is in the second group of controls. Check if you need daytime saving. Press SAVE button. Check if the time was set corectly when it displays your details summary. Go back and adjust, if needed.</p>
+<p>We set time zones for some web to print portals where we knew the time zone for sure. Please, double-check anyway.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/01/10/time-zones/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

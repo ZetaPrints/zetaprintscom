@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Output file &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/tag/output-file/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>File downloading</title>
+		<link>http://www.zetaprints.com/magentohelp/allow-file-download-in-magento/</link>
+		<pubDate>Wed, 19 May 2010 12:56:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Web-to-print administration]]></category>
+		<category><![CDATA[Download]]></category>
+		<category><![CDATA[Output file]]></category>
+
+		<guid isPermaLink="false">/help/?p=10104</guid>
+		<description><![CDATA[You can allow customers to download specific output files right after placing an order. ZetaPrints web-to-print and dynamic imaging system generates files of different types: CDR, PDF, JPEG, GIF and PNG. These files can be downloaded by the customer, if you allow so. Edit template details To give your customers downloading permission, you need to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>You can allow customers to download specific <a title="Web-to-print output file generation" href="../../../../help/output-files-generation/" target="_self">output files</a> right after placing an order.<span id="more-10104"></span></p>
+<p>ZetaPrints <a title="ZetaPrints web-to-print and dynamic imaging" href="../../../../" target="_self">web-to-print</a> and <a title="Dynamic imaging templates" href="../category/banners/" target="_self">dynamic imaging</a> system generates files of different types: CDR, PDF, JPEG, GIF and PNG. These files can be downloaded by the customer, if you allow so.</p>
+<h2>Edit template details</h2>
+<p>To give your customers downloading permission, you need to edit the template details. This is done in your <a title="ZetaPrints web-to-print and dynamic imaging portal" href="../../../../" target="_self">web-to-print</a> portal (your ZetaPrints site).</p>
+<div style="display: table;">
+<p><img style="margin: 5px; float: right;" title="Magento web-to-print template details" src="../../../wp-content/uploads/2010/05/magento_web-to-print_template-details.png" alt="Magento web-to-print template details" width="400" height="331" /></p>
+<div style="position: relative; top: 35px; display: inline;">Login to your <a title="Web-to-print printer account" href="../../../../category/printers/" target="_self">printer account</a> and navigate to <strong>Edit Details</strong> page of the template in question.</div>
+</div>
+<div style="display: table;">
+<p><img style="margin: 5px; float: left;" title="Magento web-to-print output files" src="../../../wp-content/uploads/2010/05/magento_web-to-print_output_files.png" alt="Magento web-to-print output files" width="460" height="302" /></p>
+<div style="position: relative; top: 35px; display: inline;">Choose which file formats you want to be generated in the <em>Order generation</em> section, check the &#8220;<strong>Allow</strong>&#8221; check-box in the <em>File download</em> section and <strong>Save</strong> your settings.</div>
+</div>
+<p><strong>Note.</strong> You can also do this for multiple templates at once using the <a title="Web-to-print bulk edit templates" href="../../../../help/bulk-editing-templates/" target="_self">bulk edit</a> option.</p>
+<p>Run <a title="Magento template / product synchronization" href="../../../import-web-to-print-data/" target="_self">ZetaPrints templates synchronization</a> profile in Magento admin panel to synchronize the new template settings with your <a title="Magento web-to-print and dynamic imaging store" href="../../../../magento/" target="_self">Magento store</a>.</p>
+<h2>Order details</h2>
+<p>Your customers will now be able to download the generated files directly from the order details page.</p>
+<div style="display: table;">
+<p><img style="margin: 5px; float: right;" title="Magento order details" src="../../../wp-content/uploads/2010/05/magento_order_details.png" alt="Magento order details" width="323" height="273" /></p>
+<div style="position: relative; top: 35px; display: inline;">
+<p>Depending on which file types you allowed for downloading, links are listed above the product preview image.</p>
+<p><strong>Note.</strong> Allowing output file download affects old orders as well as new ones. When you allow files to be downloaded for a template, customers that placed orders on that template in the past will also be able to download the generated files for those past orders from their corresponding order details pages.</p>
+</div>
+</div>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

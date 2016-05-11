@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Template preparation &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/template-preparation/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Get started overview</title>
+		<link>http://www.zetaprints.com/help/get-started/</link>
+		<pubDate>Mon, 10 May 2010 13:11:54 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Beginner]]></category>
+		<category><![CDATA[Full process]]></category>
+		<category><![CDATA[Full Tutorial]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[web-to-print]]></category>
+
+		<guid isPermaLink="false">/help/?p=9839</guid>
+		<description><![CDATA[Just a few simple steps to get you started. For more advanced topics, please visit web to print help home page. What you need CorelDRAW 12 or later and some experience working with the software. View some free CorelDRAW tutorials here. What you need to do Create your design Mark the text and images that [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Web buttons</title>
+		<link>http://www.zetaprints.com/help/web-buttons/</link>
+		<pubDate>Mon, 27 Apr 2009 19:57:28 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Web templates]]></category>
+
+		<guid isPermaLink="false">/help/?p=5629</guid>
+		<description><![CDATA[Web buttons are one of the most important things in web design. Their style changes constantly to follow current trends. Find out what&#8217;s important to keep in mind while creating button templates for dynamic imaging. View more web button examples at: Freebies Round-Up: Icons, Buttons and Templates at smashingmagazine.com Collection of 90 free Web 2.0 [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Stock images</title>
+		<link>http://www.zetaprints.com/help/image-selection/</link>
+		<pubDate>Wed, 25 Feb 2009 18:55:19 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Image fields]]></category>
+		<category><![CDATA[Image management]]></category>
+		<category><![CDATA[Replaceable Images]]></category>
+		<category><![CDATA[Stock images]]></category>
+		<category><![CDATA[Template preparation]]></category>
+
+		<guid isPermaLink="false">/help/?p=5219</guid>
+		<description><![CDATA[Templates may have image placeholders for users to upload their own images. It is also possible to provide a collection of images for users to choose from instead of uploading their own. Watch a Flash demonstration on this topic Prepare the template and the images Prepare a template The template needs to be prepared as [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>PDF to template conversion &#8211; Advanced</title>
+		<link>http://www.zetaprints.com/help/pdf-to-template-conversion-advanced/</link>
+		<pubDate>Mon, 23 Feb 2009 10:49:06 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[PDF conversion]]></category>
+		<category><![CDATA[Advanced]]></category>
+		<category><![CDATA[Convert]]></category>
+		<category><![CDATA[PDF to CDR]]></category>
+		<category><![CDATA[Template preparation]]></category>
+
+		<guid isPermaLink="false">/help/?p=5079</guid>
+		<description><![CDATA[Sometimes converting a PDF file to a web-to-print template requires you to know some additional rules. This is a more detailed look into the process. Read the PDF to template conversion basic tutorial. Import the PDF Drag and Drop or use the Import option to open the PDF file in CorelDRAW. / / / Choose [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>PDF to template conversion &#8211; Basic</title>
+		<link>http://www.zetaprints.com/help/pdf-to-template-conversion-basic/</link>
+		<pubDate>Mon, 23 Feb 2009 09:36:26 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[PDF conversion]]></category>
+		<category><![CDATA[Convert]]></category>
+		<category><![CDATA[PDF to CDR]]></category>
+		<category><![CDATA[Simple]]></category>
+		<category><![CDATA[Template preparation]]></category>
+
+		<guid isPermaLink="false">/help/?p=5065</guid>
+		<description><![CDATA[It is relatively easy to convert a PDF file into a CorelDRAW web-to-print template. You just need to follow a few simple steps. This post explains the basic conversion process. You may encounter several common problems, mainly with spacing, kerning and alignment. Read our PDF to template conversion advanced tutorial for more info. Import the [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Preview quality</title>
+		<link>http://www.zetaprints.com/help/preview-quality/</link>
+		<pubDate>Mon, 16 Feb 2009 03:00:23 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Troubleshooting]]></category>
+		<category><![CDATA[CMYK]]></category>
+		<category><![CDATA[Color mode]]></category>
+		<category><![CDATA[jpeg]]></category>
+		<category><![CDATA[pixelation]]></category>
+		<category><![CDATA[RGB]]></category>
+		<category><![CDATA[Size]]></category>
+		<category><![CDATA[Template preparation]]></category>
+
+		<guid isPermaLink="false">/help/?p=4822</guid>
+		<description><![CDATA[The quality of the web to print previews depends on a few factors. These guidelines can help better understand why in some cases the preview of your design doesn&#8217;t look the same in your online catalog as it does in CorelDRAW. Pixelation Small sized templates can show some pixelation in previews. It may be caused [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Cropmarks from Photoshop</title>
+		<link>http://www.zetaprints.com/help/cropmarks-from-photoshop/</link>
+		<pubDate>Fri, 19 Dec 2008 19:04:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Bleed area]]></category>
+		<category><![CDATA[Crop]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Tips and tricks]]></category>
+
+		<guid isPermaLink="false">/help/?p=3534</guid>
+		<description><![CDATA[Photoshop is a raster application for image manipulation. It has no notion of bleed and as a consequence it cannot place cropmarks correctly when producing a PDF. Designers usually use guides as a boundary between the page and bleed areas. Converting this to a vector-base design requires changes to page size, setting bleed and cropmarks. [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>CD/DVD case covers</title>
+		<link>http://www.zetaprints.com/help/cddvd-case-cover-guide/</link>
+		<pubDate>Thu, 06 Nov 2008 05:54:47 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[CD/DVD covers]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=2327</guid>
+		<description><![CDATA[CD/DVDs are stored in standard casings and it is the cover that catches the customers eye first. Appart from the cover, allmost all of the standard CD/DVD cases can also hold a thin booklet. View more CD/DVD cover examples at: Cool DVD cover designs at wellmedicated.com CD cover samples at pixagogo.com Various cool CD cover [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>CD/DVD labels</title>
+		<link>http://www.zetaprints.com/help/cddvd-labels-guide/</link>
+		<pubDate>Thu, 06 Nov 2008 00:13:31 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[CD]]></category>
+		<category><![CDATA[DVD]]></category>
+		<category><![CDATA[Labels]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=2308</guid>
+		<description><![CDATA[CD&#8217;s and DVD&#8217;s are the most widely used data containers. Appart from audio, video, software, games etc., a CD/DVD can even be used as a business card. View more CD/DVD cover examples at: CD/DVD label designs at beacondigitalvideo.com Custom label designs at myownlabels.com Collection of DVD movie labels at dvdcoversfuzion.com More CD/DVD labels at flickr.com [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Books for web-to-print</title>
+		<link>http://www.zetaprints.com/help/books-for-web-to-print/</link>
+		<pubDate>Tue, 04 Nov 2008 05:51:09 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[Book template]]></category>
+		<category><![CDATA[Template preparation]]></category>
+
+		<guid isPermaLink="false">/help/?p=2241</guid>
+		<description><![CDATA[Text books are best created in word processors, but when it comes to illustrated books, inserts and covers we can definitely help. See our web-to-print books guide for book design overview and book size chart for sizes and downloadable templates. Book covers Remember, although it&#8217;s not judged by it, it is the cover that sells [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Object data manager</title>
+		<link>http://www.zetaprints.com/help/object-data-manager/</link>
+		<pubDate>Thu, 09 Oct 2008 22:25:24 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Text fields]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Text inside a object]]></category>
+		<category><![CDATA[Text on path]]></category>
+
+		<guid isPermaLink="false">/help/?p=1154</guid>
+		<description><![CDATA[Here is an additional way of making text fields for user input through the Object Manager, If this does not work in your template try using the  Object Data Manager. Example / In some situations (Ex. After a text is fited on a path or wrapped inside a shape) the text object cannot be renamed through [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Outdoor signs</title>
+		<link>http://www.zetaprints.com/help/outdoor-signs-guide/</link>
+		<pubDate>Mon, 29 Sep 2008 18:44:50 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[Miscelaneous]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=753</guid>
+		<description><![CDATA[Outdoor signs may be used in real estate, marketing, yard sales, election campaigns etc. They can be printed on vinyl, flute-board or any other surface. View outdoor signs examples at: Various FSBO outdoor signs at zetaprints.com Various REMAX real estate yard signs at zetprints.com A bunch of Century21 yard signs at zetaprints.com Suggest a link [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Brochures</title>
+		<link>http://www.zetaprints.com/help/brochures-guide/</link>
+		<pubDate>Fri, 26 Sep 2008 00:58:46 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[Brochures]]></category>
+		<category><![CDATA[Miscelaneous]]></category>
+		<category><![CDATA[Template preparation]]></category>
+
+		<guid isPermaLink="false">/help/?p=693</guid>
+		<description><![CDATA[A brochure or pamphlet is a leaflet advertisement. Compared with a flyer or a handbill, a brochure usually uses higher-quality paper, more color, and is folded. View more brochure examples at: Some cool brochures at direct-axis.net A variety of brochures and booklets examples at smashingmagazine.com Various brochures at bj2design.com Some brochure samples at conferences.dce.ufl.edu A [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Greeting cards</title>
+		<link>http://www.zetaprints.com/help/greeting-cards-guide/</link>
+		<comments>http://www.zetaprints.com/help/greeting-cards-guide/#comments</comments>
+		<pubDate>Thu, 25 Sep 2008 14:31:41 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[Miscelaneous]]></category>
+		<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[Tutorials]]></category>
+
+		<guid isPermaLink="false">/help/?p=658</guid>
+		<description><![CDATA[A greeting card is an illustrated, folded card featuring an expression of friendship or other sentiment. They can function in a manner somewhat similar to postcards but differ in the fact that unlike postcards, greeting cards are folded and have to be mailed in envelopes that are usualy sold with the card. View more greeting [&#8230;]]]></description>
+		<wfw:commentRss>http://www.zetaprints.com/help/greeting-cards-guide/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Postcards</title>
+		<link>http://www.zetaprints.com/help/postcards-guide/</link>
+		<pubDate>Thu, 04 Sep 2008 17:11:32 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Product guides]]></category>
+		<category><![CDATA[Miscelaneous]]></category>
+		<category><![CDATA[Postcards]]></category>
+		<category><![CDATA[Template preparation]]></category>
+
+		<guid isPermaLink="false">/help/?p=435</guid>
+		<description><![CDATA[A postcard is intended for writing and mailing without an envelope and at a lower rate than a letter. Among the postcards there are postal cards which unlike regular postcards that require a stamp, have the postage pre-printed on them. While a postcard is usually printed by a private company, individual or organization, a postal [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

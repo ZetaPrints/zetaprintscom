@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Customization &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/customization/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Magento web-to-print translations</title>
+		<link>http://www.zetaprints.com/help/magento-web-to-print-localization/</link>
+		<pubDate>Tue, 16 Mar 2010 09:42:33 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Magento]]></category>
+		<category><![CDATA[Customization]]></category>
+		<category><![CDATA[magento extension]]></category>
+		<category><![CDATA[Translate]]></category>
+		<category><![CDATA[Translation]]></category>
+
+		<guid isPermaLink="false">/help/?p=9099</guid>
+		<description><![CDATA[You can customize your web-to-print Magento store with additional language options. Users will be able to choose the language they prefer from a list of translations you provide. This post explains how to create a localized version of our web-to-print Magento store and give customers the option of viewing it in their own language (ex. [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Favicon replacement</title>
+		<link>http://www.zetaprints.com/help/favicon-replacement/</link>
+		<pubDate>Tue, 21 Jul 2009 02:07:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Branding]]></category>
+		<category><![CDATA[Customization]]></category>
+
+		<guid isPermaLink="false">/help/?p=6982</guid>
+		<description><![CDATA[Our default web-to-print favicon can be replaced with your own. Favicon is the small image you see in the address bar, bookmarks and tabs. How to set a favicon You need to prepare a special small file in .ico format. Usually it is 16 x 16 px. Upload the file to any web location where [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Custom CSS</title>
+		<link>http://www.zetaprints.com/help/custom-css/</link>
+		<pubDate>Tue, 28 Oct 2008 10:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Branding]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[Customization]]></category>
+		<category><![CDATA[user interface]]></category>
+
+		<guid isPermaLink="false">/help/?p=1964</guid>
+		<description><![CDATA[ZetaPrints web-to-print software interace can be completely re-branded using a custom CSS (style sheet). It is a more advanced option than the simple color change option. Default styles Every ZetaPrints hosted web-to-print portal comes with a default set of styles. They are defined in main.css or another .css file with name matching the printer&#8217;s ID. [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Role: User</title>
+		<link>http://www.zetaprints.com/help/role-user/</link>
+		<pubDate>Sat, 21 Jul 2007 10:38:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[* GET STARTED *]]></category>
+		<category><![CDATA[Access control]]></category>
+		<category><![CDATA[Billing]]></category>
+		<category><![CDATA[Customization]]></category>
+		<category><![CDATA[Payments]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/role-user/</guid>
+		<description><![CDATA[A &#8220;user&#8221; is the default account type. Users browse products, customise them and place orders for printed products or print-ready PDF files. Available functionality Browse or search design templates Personlaise templates and place orders Make payments Manage their own orders Rate services and make comments Costs and payments Users make payments directly to printers, if [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Custom banner</title>
+		<link>http://www.zetaprints.com/help/custom-banner/</link>
+		<pubDate>Sun, 10 Jun 2007 01:12:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Branding]]></category>
+		<category><![CDATA[Banner]]></category>
+		<category><![CDATA[Custom domains]]></category>
+		<category><![CDATA[Customization]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/custom-banner/</guid>
+		<description><![CDATA[Your can upload your banner only after setting up a custom access URL. Default banner Every master account (printer, publisher, etc) can have a custom banner once the site was placed under your own domain name. The banner will be displayed on all pages. Upload the banner to your web server and grab the URL [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

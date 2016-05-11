@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Order approval plugin &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/category/approval-admin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Order approval uninstall</title>
+		<link>http://www.zetaprints.com/magentohelp/order-approval-uninstall/</link>
+		<pubDate>Tue, 05 Oct 2010 08:09:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Order approval plugin]]></category>
+		<category><![CDATA[Approval]]></category>
+		<category><![CDATA[clean up]]></category>
+		<category><![CDATA[Uninstall]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/help/?p=10646</guid>
+		<description><![CDATA[Magento&#8217;s Connect Manager doesn&#8217;t support rolling back database changes and removing custom attributes added by the Order approval extension. Follow these instructions to completely remove the extension. 1. Remove extension via Magento&#8217;s Connect Manager 2. Copy uninstall.php file to the root folder of your Magento installation Note. Change including path at the beginning of the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Magento&#8217;s Connect Manager  doesn&#8217;t support rolling back database changes and removing custom attributes added by the <a title="Magento order approval extension for Magento" href="../../../magento-order-approval/" target="_self">Order approval extension</a>. Follow these instructions to completely remove the extension.<span id="more-10646"></span></p>
+<p>1. Remove extension via Magento&#8217;s Connect Manager<br />
+2. Copy <em><a title="Order approval uninstall.php file download" href="http://magento-w2p.googlecode.com/svn/branches/ZetaPrints_OrderApproval/uninstall/uninstall.php" target="_self">uninstall.php</a></em> file to the root folder of your Magento installation</p>
+<div style="padding-left: 20px;">
+<p><strong>Note.</strong> Change including path at the beginning of the script if you copied it into another directory or a sub-directory of your Magento installation.</p>
+<p>Examples:</p>
+<ul>
+<li>If you copied script into &#8220;<strong>media/</strong>&#8221; sub-directory, then change include path to &#8220;<strong><span style="color: #ff0000;">../</span>app/Mage.php</strong>&#8221; in the script.</li>
+<li>If you copied script into &#8220;<strong>media/tmp/</strong>&#8221; sub-directory (or another sub-directory of &#8220;<em>media/</em>&#8221; directory) then change include path to &#8220;<strong><span style="color: #ff0000;">../../</span>app/Mage.php</strong>&#8221; in the script.</li>
+</ul>
+<p>In most cases, there are URL re-writes (re-directs) in root directory of Magento installation. This means that scripts from root directory are not available. The easiest workaround is to copy the script into a directory without re-writes (re-directs), e.x. &#8220;<em>media/</em>&#8221; directory and fix include path in the script as described above.</p>
+</div>
+<p>3. Point browser to <strong>uninstall.php</strong> file from your Magento installation</p>
+<div style="padding-left: 20px;">
+<p>Example:</p>
+<p><em>http://www.your-store-url.com/media/uninstall.php</em></p>
+</div>
+<p>4. Remove the script from your Magento installation.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Order approval notification eMail</title>
+		<link>http://www.zetaprints.com/magentohelp/order-approval-notification-email/</link>
+		<pubDate>Mon, 04 Oct 2010 16:14:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Order approval plugin]]></category>
+		<category><![CDATA[Approval]]></category>
+		<category><![CDATA[Email template]]></category>
+		<category><![CDATA[Notifications]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/help/?p=10629</guid>
+		<description><![CDATA[The Order approval procedure involves notifying nominated approvers when there are customer orders that are pending their approval. This email notification can be customized according to your preference. Administrators can create new e-mail templates based on original Magento templates. There&#8217;s an e-mail template editor in Magento admin panel. Step 1 Navigate to System / Transactional [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The <a title="Magento order approval" href="../../../magento-order-approval/" target="_self">Order approval</a> procedure involves notifying nominated approvers when there are customer orders that are pending their approval. This email notification can be customized according to your preference.<span id="more-10629"></span></p>
+<p>Administrators can create new e-mail templates based on original <a title="Magento ecommerce" href="http://www.magentocommerce.com/" target="_self">Magento</a> templates. There&#8217;s an e-mail template editor in Magento admin panel.</p>
+<h2>Step 1</h2>
+<p>Navigate to <em>System / Transactional Emails</em> and click on <strong>Add New Template</strong> button.</p>
+<div style="display: table;">
+<p><img style="margin-top: 15px; float: right;" title="Order approval email template" src="../../../wp-content/uploads/2010/10/email_templates.png" alt="web-to-print approval email" width="354" height="193" /></p>
+<div style="position: relative; top: 15px; display: inline;">Select <strong>New Items To Approve</strong> template from the list, choose a locale to use the new template in and click <strong>Load Template</strong> button to load content of the template for further editing.</div>
+</div>
+<h2>Step 2</h2>
+<p>Input a name for the new template and edit its subject and content.</p>
+<p><img class="alignnone size-full wp-image-10639" title="Magento order approval email" src="../../../wp-content/uploads/2010/10/order_approval_email.png" alt="web-to-print approval" width="594" height="296" /></p>
+<p><strong>Note.</strong> Do not edit parts short-coded inside <em>{brackets}</em>. They are variables that will be replaced with approver email, number of items, etc. in the final email.</p>
+<p>When done, press <strong>Save Template</strong> button.</p>
+<h2>Step 3</h2>
+<p>To activate your customized email template and use it for notifying nominated approvers, navigate to <em>System / Configuration / Sales Emails / Order Approval Tab</em> and pick the email template from the list.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Order approval extension</title>
+		<link>http://www.zetaprints.com/magentohelp/magento-order-approval/</link>
+		<pubDate>Mon, 04 Oct 2010 12:43:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Order approval plugin]]></category>
+		<category><![CDATA[Approval]]></category>
+		<category><![CDATA[Extension]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/help/?p=10609</guid>
+		<description><![CDATA[Our Order Approval extension allows you to organize an approval process in a Magento store and prevent certain customers from checking out until their orders are approved by a nominated approver. Installation Get the installation key from extension page on Magento eCommerce, paste it in the corresponding field of Magento Connect Manager and hit Install. Create [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Our <a title="Magento order approval extension" href="https://www.magentocommerce.com/magento-connect/order-approval.html" target="_self">Order Approval extension</a> allows you to organize an approval process in a <a title="Magento ecommerce" href="http://www.magentocommerce.com/" target="_self">Magento</a> store and prevent certain customers from checking out until their orders are approved by a nominated approver.</p>
+<p><span id="more-10609"></span></p>
+<h2>Installation</h2>
+<div style="display: table;">
+<p><img style="margin-top: 15px; float: right;" title="Install order approval extension in Magento" src="../../../wp-content/uploads/2010/10/install_order_approval_extension.png" alt="web-to-print approval install" width="409" height="212" /></p>
+<div style="position: relative; top: 15px; display: inline;">Get the installation key from <a title="Magento order approval extension" href="https://www.magentocommerce.com/magento-connect/order-approval.html" target="_self">extension</a> page on Magento eCommerce, paste it in the corresponding field of <em>Magento Connect Manager</em> and hit <strong>Install.</strong></div>
+</div>
+<h2>Create approvers</h2>
+<p>The approval process is managed by <strong>approvers</strong> &#8211; a customer nominated as an approver:</p>
+<ol>
+<li>Navigate to <em>Customers / Manage Customers</em> page in Magento admin panel</li>
+<li>Click on the customers name.</li>
+<li>Activate <em>Account Information</em> tab</li>
+<li>Choose <strong>Yes</strong> for the <strong>Is approver</strong> field</li>
+</ol>
+<p><img class="alignnone size-full wp-image-10620" title="Magento nominate customer as order approver" src="../../../wp-content/uploads/2010/10/magento_nominate_approver.png" alt="web-to-print storefront approver" width="537" height="581" /></p>
+<h2>Assign approvers</h2>
+<p>An approver can be assigned to any registered user. All orders of a user with an approver assigned will require an approval before going to the checkout.</p>
+<ol>
+<li>Navigate to the <em>Account Information</em> tab of a customer to be put under approval process</li>
+<li>Choose an approver from <strong>Approver</strong> drop-down</li>
+</ol>
+<p><img class="alignnone size-full wp-image-10621" title="Magento assign approver to customer" src="../../../wp-content/uploads/2010/10/magento_assign_approver.png" alt="web-to-print storefront assign approver" width="540" height="582" /></p>
+<h2>Check out and approval process</h2>
+<p>The approval process sits between customer&#8217;s shopping cart and the checkout process. It means that customers are able to add any number of products into their shopping cart, delete and modify them at any time without any restrictions, but they can not checkout products from the cart before they are approved.</p>
+<p>When customers try to checkout their shopping cart, the approver receives a <a title="Magento order approval notification email" href="../../../order-approval-notification-email/" target="_self">notification</a> about unapproved products in the customer&#8217;s shopping cart. The approver can use the link from the e-mail to reach order approval UI and approve or decline customer&#8217;s products.</p>
+<p><img class="alignnone size-full wp-image-13569" title="Magento order approval UI" src="../../../wp-content/uploads/2010/10/magento_order_approval_ui.png" alt="Magento order approval UI" width="598" height="191" /></p>
+<p>Customers can check approval status for every product in their shopping cart and are allowed to checkout items that have already been approved.</p>
+<h2>Compatibility</h2>
+<p>Our Order approval extension for Magento is fully compatible with our <a title="Magento web-to-print extension" href="../../../magento/" target="_self">web-to-print</a> and <a title="Magento access control extension" href="../../../magento-access-control-for-dynamic-imaging/" target="_self">category access control</a> extensions out of the box.</p>
+<p><strong>Note.</strong> The order approval process does not work on <em>Configurable</em> products. Customers placing orders on a configurable product will be able to checkout without waiting for their orders to be approved.</p>
+<h2>Links</h2>
+<ul>
+<li><a title="Magento order approval extension overview" href="../../../../magento-web-to-print/magento-order-approval/" target="_self">Extension overview</a></li>
+<li><a title="Order approval extension source code" href="http://code.google.com/p/magento-w2p/source/browse/#svn/branches/ZetaPrints_OrderApproval" target="_self">Source code</a></li>
+<li><a title="Order approval extension issue list" href="http://code.google.com/p/magento-w2p/issues/list" target="_self">Issues</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

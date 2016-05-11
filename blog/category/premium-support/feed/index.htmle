@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Premium support &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/category/premium-support/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>New premium web-to-print services</title>
+		<link>http://www.zetaprints.com/blog/2012/02/29/new-premium-web-to-print-services/</link>
+		<comments>http://www.zetaprints.com/blog/2012/02/29/new-premium-web-to-print-services/#respond</comments>
+		<pubDate>Thu, 01 Mar 2012 03:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Premium support]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=1031</guid>
+		<description><![CDATA[We continue to refine and add new products to our premium support service for web-to-print and dynamic imaging sites. Our premium services are a bit different from the normal paid support provided by most IT companies. Our premium support is absolutely complimentary and customers have a choice of doing everything themselves or hiring someone else [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We continue to refine and add new products to our <a title="Premium web-to-print and dynamic imaging services" href="../../../../premium/index.html">premium support service for web-to-print and dynamic imaging sites</a>.</p>
+<p>Our premium services are a bit different from the normal paid support provided by most IT companies. Our premium support is absolutely complimentary and customers have a choice of doing everything themselves or hiring someone else while still using our platform. Being open is the key.</p>
+<p>A few recent additions you might be interested in.</p>
+<h2>Turn-key web-to-print websites</h2>
+<p><a title="magento and web-to-print" href="../../../../magento-web-to-print/index.html">Magento</a> is a very powerful e-commerce platform. It comes in some default configuration that is not always what the customer wants for a web-to-print or dynamic imaging site. The beauty of it all is that Magento can be customized to almost anything you want. It takes skill and time.</p>
+<p>We are offering a choice of most <a title="Turnkey web-to-print magento site" href="../../../../premium/index.php/web-to-print-support/magento-web-to-print-tidyup.html">common customization tasks</a> to <a title="Checkout usability" href="http://uxdesign.smashingmagazine.com/2011/04/06/fundamental-guidelines-of-e-commerce-checkout-design/#more-94246">simplify and streamline print and design ordering process</a>. It includes changes to the user interface, installation of additional extensions, a lot of configuration changes. testing and post implementation support to help you get up to speed faster. <a title="View the service" href="../../../../premium/index.php/web-to-print-support/magento-web-to-print-tidyup.html">Pick and choose</a> what you want or buy everything for $1000.</p>
+<p>We offer this work pretty much at-cost because we want you to have a sleek site that takes a lot of orders. Something to do with our <a title="web-to-print software pricing" href="../../../../web-to-print-and-dynamic-imaging-pricing/index.html">result orientated pricing model</a>.</p>
+<h2>Get more return customers</h2>
+<p>Keeping in touch is important. Sending useful and relevant information to your customers generates even more business. <a title="newsletters for web-to-print" href="http://mailchimp.com/features/">MailChimp</a> newsletter service can help you do exactly this and <a title="newsletters for web-to-print installation" href="../../../../premium/index.php/web-to-print-support/newsletter-configuration.html">we can help you set it up</a> in your Magento web-to-print site.</p>
+<p>MailChimp is the leader in the newsletter industry. They even have <a title="Newsletter prices" href="http://mailchimp.com/pricing/">a very sizable free plan</a> to get you started.</p>
+<p><a title="newsletters for web-to-print installation" href="../../../../premium/index.php/web-to-print-support/newsletter-configuration.html">Our service</a> includes installation of their extension, configuration, account synchronization and running a small test campaign. As usual, you can <a title="How to integrate MailChimp with Magento" href="http://www.magentocommerce.com/magento-connect/ebizmarts-mailchimp-sync-official-full-mailchimp-integration.html">do all this yourself</a>.</p>
+<p>&nbsp;</p>
+<h3>See more useful services in our <a title="Premium web-to-print and dynamic imaging services" href="../../../../premium/index.html">premium support</a> section.</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2012/02/29/new-premium-web-to-print-services/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

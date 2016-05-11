@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Magento web-to-print &#8211; Web-to-Print &amp; Dynamic Imaging</title>
+	<atom:link href="http://www.zetaprints.com/category/magento-web-to-print/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com</link>
+	<description></description>
+	<lastBuildDate>Mon, 01 Feb 2016 23:12:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>International web-to-print support</title>
+		<link>http://www.zetaprints.com/magento-web-to-print/magento-localization</link>
+		<pubDate>Mon, 09 Apr 2012 14:22:25 +0000</pubDate>
+		<dc:creator><![CDATA[jurozeta]]></dc:creator>
+				<category><![CDATA[Magento web-to-print]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/?p=3335</guid>
+		<description><![CDATA[Magento supports multiple languages, currencies and other country-specific aspects like dominant pay...]]></description>
+				<content:encoded><![CDATA[<p>Magento supports multiple languages, currencies and other country-specific aspects like dominant payment and shipping providers <a title="Magento international support" href="http://www.magentocommerce.com/product/features/international-support/view">out of the box</a>. Our web-to-print extension comes with support for several languages and an option to <a title="Magento web-to-print store localization" href="../../../magentohelp/magento-web-to-print-localization/index.html" target="_self">add more translations</a>. <span id="more-3335"></span></p>
+<p>You can customize your web-to-print Magento store with additional language options. Users will be able to choose the language they prefer from a list of translations you provide, making your shop truly international.</p>
+<h2>Built-in locales</h2>
+<p>Our <a title="Web-to-print extension for Magento" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">web-to-print extension</a> for Magento comes with the following built-in locales:</p>
+<ul>
+<li>EN &#8211; English</li>
+<li>RU &#8211; Russian</li>
+<li>MK &#8211; Macedonian</li>
+<li>BG &#8211; Bulgarian (incomplete)</li>
+<li>DE &#8211; German (incomplete)</li>
+<li>ES &#8211; Spanish (incomplete)</li>
+</ul>
+<h3>Add your language to the web-to-print package</h3>
+<p>Translating the web-to-print part of your store into some other language is easy. You need to download a file with all the strings, translate them and upload back in. The process is explained on our <a title="Magento international support" href="../../../magentohelp/magento-web-to-print-localization/index.html">Magento web-to-print help</a> site.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Direct mail</title>
+		<link>http://www.zetaprints.com/magento-web-to-print/unaddressed-mail</link>
+		<pubDate>Fri, 08 Apr 2011 13:12:35 +0000</pubDate>
+		<dc:creator><![CDATA[jurozeta]]></dc:creator>
+				<category><![CDATA[Magento web-to-print]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/?p=2919</guid>
+		<description><![CDATA[Preparing a bulk mail campaign has just become a lot easier with our free Distribution Map extension...]]></description>
+				<content:encoded><![CDATA[<p>Preparing a bulk mail campaign has just become a lot easier with our free <a title="Distribution map extension for Magento" href="https://www.magentocommerce.com/magento-connect/distribution-map.html" target="_self">Distribution Map</a> extension. Coupled with <em>web-to-print</em> it allows customers to order print and mark the distribution area on a map in a single order.<span id="more-2919"></span></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-2922" style="text-align: center;" title="Distribution map Magento extension preview" src="../../../wp-content/uploads/2011/04/distribution_map_preview.png" alt="" width="516" height="309" /></p>
+<p>This extension is based on Google Maps and is very easy to use. All a user needs to do is to click on the map several times to select an area. The simplicity of it suits perfectly to small businesses. Many of them shy away from using unaddressed mail because of the complexity dealing with printers, direct mail distributors and list owners to put a campaign together.</p>
+<h2>Web-to-print with a map for unaddressed mail distribution</h2>
+<p>Any Magento website running our <a title="Magento web-to-print extension" href="../../magentohelp/magento/index.html" target="_self">web-to-print</a> extension can become a one stop shop for selling unaddressed mail by adding our free <a title="Distribution map extension for Magento" href="https://www.magentocommerce.com/magento-connect/distribution-map.html" target="_self">Distribution Map</a> extension:</p>
+<ul>
+<li>prepare artwork</li>
+<li>select distribution area</li>
+<li>make a payment</li>
+</ul>
+<p>User selected area becomes part of the order detail. Once saved it can be zoomed in or out, but cannot be changed. The area can also be downloaded as coordinates in a <a title="About KML format" href="http://code.google.com/apis/kml/documentation/">KML file</a> to be used in other geo-spacial applications.</p>
+<p>Try it yourself on this <a title="Demo product with Distribution map custom option enabled" href="../../magento/index.php/featured/political-campaign-card.html" target="_self">demo web-to-print product</a> or learn more in <a title="Distribution map magento plugin help" href="../../magentohelp/distribution-map-extension/index.html" target="_self">extension help post</a> .</p>
+<h2>Using list services</h2>
+<p>An unaddressed mail campaign can be enhanced by linking with various business and residential list providers for better profiling. This requires interfacing with their systems or databases. Unfortunately, there is no one standard interface for this and the extension will need to be tailored for your preferred list provider.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Magento storefront customization</title>
+		<link>http://www.zetaprints.com/magento-web-to-print/magento-storefront-customization</link>
+		<pubDate>Thu, 27 Jan 2011 17:48:46 +0000</pubDate>
+		<dc:creator><![CDATA[jurozeta]]></dc:creator>
+				<category><![CDATA[Magento web-to-print]]></category>
+
+		<guid isPermaLink="false">/?p=2841</guid>
+		<description><![CDATA[Magento storefronts have almost unlimited customization ability. The look and feel of these web-to-p...]]></description>
+				<content:encoded><![CDATA[<p>Magento storefronts have almost unlimited customization ability. The look and feel of these web-to-print stores is based on so-called &#8220;themes&#8221;.  The are thousands of themes out there, ranging from free thousands of dollars. The themes are collections of PHP/CSS/JS/* files that can be further customized.<span id="more-2841"></span></p>
+<h2>Web-to-print theme samples</h2>
+<p>These are just a few random themes used with our dynamic imaging extension. They are customized to the requirements of the storefront owner with our web-to-print added on top.</p>
+<table class="cust_tbl">
+<tbody>
+<tr>
+<td><a title="HelloCanvas theme on ZetaPrints demo store" href="../../../magento/index-__theme=default_hellocanvas.html"><img class="aligncenter size-full wp-image-2969" title="HelloCanvas on ZetaPrints demo store" src="../../../wp-content/uploads/2011/01/HelloCanvas.png" alt="" width="210" height="135" /></a></td>
+<td><a title="ZPhelp theme on ZetaPrints demo store" href="../../../magento/index-__theme=default_zphelp.html"><img class="aligncenter size-full wp-image-2969" title="ZPhelp theme on ZetaPrints demo store" src="../../../wp-content/uploads/2011/01/ZetaPrints.png" alt="" width="210" height="135" /></a></td>
+<td><a title="HelloWired theme on ZetaPrints demo store" href="../../../magento/index-__theme=default_hellowired.html"><img class="aligncenter size-full wp-image-2969" title="HelloWired on ZetaPrints demo store" src="../../../wp-content/uploads/2011/01/HelloWired.png" alt="" width="210" height="135" /></a></td>
+</tr>
+<tr>
+<td><a title="HelloUno theme on ZetaPrints demo store" href="../../../magento/index-__theme=default_hellouno.html"><img class="aligncenter size-full wp-image-2969" title="HelloUno on ZetaPrints demo store" src="../../../wp-content/uploads/2011/01/HelloUno.png" alt="" width="210" height="135" /></a></td>
+<td><a title="uPrintFlyers.com" href="http://uprintflyers.com/"><img class="aligncenter size-full wp-image-2969" title="uPrintInvitations" src="../../../wp-content/uploads/2011/01/uprint.png" alt="" width="210" height="135" /></a></td>
+<td><a title="PinkPaperInk.com" href="http://www.pinkpaperink.com/"><img class="aligncenter size-full wp-image-2969" title="PinkPaperInk" src="../../../wp-content/uploads/2011/01/pinkpaperink.png" alt="" width="210" height="135" /></a></td>
+</tr>
+<tr>
+<td><a title="Stickers4Schools.com" href="http://stickers4schools.com/"><img class="aligncenter size-full wp-image-2969" title="Stickers4Schools" src="../../../wp-content/uploads/2011/01/stickers4schools.png" alt="" width="210" height="135" /></a></td>
+<td><a title="PerasonalizedPartyInvites.com" href="http://personalizedpartyinvites.com/shop/"><img class="aligncenter size-full wp-image-2969" title="PersonalizedPartyInvites" src="../../../wp-content/uploads/2011/01/personalized_party_invites.png" alt="" width="210" height="135" /></a></td>
+<td><a title="BeerLabelBuilder.com" href="http://www.beerlabelbuilder.com/"><img class="aligncenter size-full wp-image-2969" title="Beer Label Builder" src="../../../wp-content/uploads/2011/01/beerlabelbuilder.png" alt="" width="210" height="135" /></a></td>
+</tr>
+</tbody>
+</table>
+<h2>More Magento themes</h2>
+<p>Magento themes are files with PHP, HTML, CSS and other code. You may find one that fits your requirements 100% or a theme that looks close to what you need and then modify it for your storefront. Here are a few reference site to help you on your way of <a title="Buying a Magento theme for web-to-print" href="../../../magentohelp/byuing-a-theme-for-web-to-print/index.html">choosing the right theme</a> for your store:</p>
+<table width="100%">
+<tbody>
+<tr>
+<td valign="top" width="50%">
+<h3>Free themes:</h3>
+<ul>
+<li><a title="Free Magento themes at design4magento.com" href="http://www.design4magento.com/free-magento-themes/" target="_self">Design4Magento</a></li>
+<li><a title="A collection of free Magento themes at modny73.com" href="http://www.modny73.com/inspiration/27-free-magento-themes-for-download/">Modny73</a></li>
+<li><a title="A collection of free Magento themes at OrangeCopper" href="http://orangecopper.com/blog/80-free-magento-themes-for-download">OrangeCopper</a></li>
+<li><a title="Magento themes at SmashingMagazine.com" href="http://coding.smashingmagazine.com/2009/05/05/25-magento-templates-for-your-e-commerce-business/">SmashingMagazine</a></li>
+</ul>
+</td>
+<td width="50%">
+<h3>Premium themes:</h3>
+<ul>
+<li><a title="Magento themes on templatemonster.com" href="http://www.templatemonster.com/magento-themes.php" target="_self">Template monster</a></li>
+<li><a title="Magento themes on HelloThemes.com" href="http://www.hellothemes.com/themes/" target="_self">HelloThemes</a> (<a title="Free HelloThemes web-to-print integration" href="../../../premium/index.php/web-to-print-support/hello-themes-customization.html">Free</a> web-to-print theme integration)</li>
+<li><a title="Magento themes at AlgoZone.com" href="http://www.algozone.com/magento-templates.php" target="_self">Algozone</a></li>
+<li><a title="Magento themes at magento-templates.com" href="http://www.magento-templates.com/" target="_self">Magento-templates</a></li>
+<li><a title="Mage-World.com" href="http://www.mage-world.com/magento-themes/">mage-world.com</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>There are thousands more Magento themes on <a title="Magento themes" href="http://www.google.com/#q=magento+themes&amp;fp=1">Google</a>, <a title="Magento themes" href="http://nz.bing.com/search?q=magento+themes&go=&qs=ns&form=QBLH&filt=all">Bing</a> or <a title="Magento themes" href="http://blekko.com/ws/magento+themes">Blekko</a>.</p>
+<h2>Create your own Magento web-to-print theme</h2>
+<p>Developing a truly custom Magento theme requires some skills. Any skilled Magento developer can do this for you. Check <a title="web-to-print partners" href="../../../magento-web-to-print/magento-partners/index.html">our partners</a> and <a title="Premium web-to-print and dynamic imaging services" href="../../../premium/index.html">premium services</a> to get started.</p>
+<h2>Integrate web-to-print functionality</h2>
+<p>Integrating web-to-print <a title="Magento web-to-print extension features" href="../../../magento-web-to-print/features/index.html" target="_self">functionality</a> into a theme requires some minor theme modifications. You can do these modifications <a title="Magento custom theme integration" href="../../../magentohelp/custom-theme-integration/index.html" target="_self">yourself</a>, <a title="Web-to-print premium support" href="../../../premium/index.php/web-to-print-support.html" target="_self">use our premium service</a> or contact one of our <a title="Magento web-to-print partners" href="../../../magento-web-to-print/magento-partners/index.html" target="_self">partners</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>File uploading</title>
+		<link>http://www.zetaprints.com/magento-web-to-print/dynamic-file-attachments</link>
+		<pubDate>Wed, 29 Dec 2010 09:40:09 +0000</pubDate>
+		<dc:creator><![CDATA[jurozeta]]></dc:creator>
+				<category><![CDATA[Magento web-to-print]]></category>
+
+		<guid isPermaLink="false">/?p=2805</guid>
+		<description><![CDATA[This extension is no longer supported.
+Dynamic File Attachments is a free Magento extension that all...]]></description>
+				<content:encoded><![CDATA[<h3><span style="color: #ff0000;">This extension is no longer supported.</span></h3>
+<p><a title="Magento Dynamic file attachments extension" href="https://www.magentocommerce.com/magento-connect/dynamic-file-attachments.html" target="_self">Dynamic File Attachments</a> is a free Magento extension that allows asynchronous file uploading on a product page.<span id="more-2805"></span></p>
+<p><a title="Compare Magento editions" href="http://www.magentocommerce.com/product/compare">Magento Community Edition</a> (free) allows assigning a file uploading option to a product but limits customers to a single file upload per field. As a store owner, you may wish to let customers upload multiple files of various sizes. Adding multiple uploading controls on a product is not always practical since the number of files may vary.</p>
+<div class="floating_img_l"><img class="size-full wp-image-2857" title="Dynamic attachments extension preview" src="../../../wp-content/uploads/2010/12/attachment_ext_preview.png" alt="" width="334" height="243" /></div>
+<p>Dynamic File Attachments extension complements our lineup up of Magento extensions for <a title="Magento printer storefront" href="../../../magentohelp/index.html">web-to-print and printer storefronts</a>.</p>
+<p>The image on the right illustrates multiple file uploading in action. Files are queued and uploaded one by one. A file can be removed from a queue or new ones added. A user can queue up the files and leave them to upload. Try it on a <a title="Magento dynamic file attachments demo product" href="../../../magento/index.php/featured/dynamic-file-attachments.html" target="_self">demo product</a>.</p>
+<div class="clearing_box">
+<h2>Installation</h2>
+<ul>
+<li><a title="Magento Dynamic file attachments extension" href="https://www.magentocommerce.com/magento-connect/dynamic-file-attachments.html" target="_self">Dynamic File Attachments</a> on MagentoCommerce</li>
+<li><a title="Dynamic file attachments extension help" href="../../../magentohelp/dynamic-file-attachments/index.html">Extension help and detailed instructions</a></li>
+<li><a title="Magento dynamic file attachments SVN" href="http://code.google.com/p/magento-w2p/source/browse/#svn%2Fbranches%2FZetaPrints_Attachments" target="_self">Source code</a></li>
+<li><a title="ZetaPrints Magento extensions issue list" href="http://code.google.com/p/magento-w2p/issues/list" target="_self">Bug reports, features, support</a></li>
+</ul>
+</div>
+<h2>Compatibility</h2>
+<p>Our Magento Dynamic File Attachements extension is fully compatible with our <a title="Magento web-to-print extension" href="../../../magentohelp/magento/index.html" target="_self">web-to-print</a> and <a title="Magento web-to-print extensions" href="../../../magentohelp/index.html" target="_self">other extensions</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Demo store</title>
+		<link>http://www.zetaprints.com/magento-web-to-print/magento-demo-store</link>
+		<pubDate>Wed, 06 Oct 2010 15:09:38 +0000</pubDate>
+		<dc:creator><![CDATA[jurozeta]]></dc:creator>
+				<category><![CDATA[Magento web-to-print]]></category>
+
+		<guid isPermaLink="false">/?p=2709</guid>
+		<description><![CDATA[You can try all features implemented in the free ZetaPrints web-to-print and access control extensio...]]></description>
+				<content:encoded><![CDATA[<p>You can try all features implemented in the free ZetaPrints web-to-print and access control extensions at our demo store.<span id="more-2709"></span></p>
+<p>We created a Magento based online <a title="Magento web-to-print Demo store" href="../../../magento/index.html" target="_self">store</a> for demonstration purposes and equipped it with our <a title="Magento web-to-print extension" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print</a> and <a title="Category access control extension for Magento" href="https://www.magentocommerce.com/magento-connect/category-access-control.html" target="_self">access control</a> extensions. The products in this store are just samples and are there to let you test all extension <a title="Magento web-to-print extension features" href="../../../magento-web-to-print/features/index.html" target="_self">features</a>. <strong>Nothing actually gets shipped and no one gets charged for orders they&#8217;ve placed.</strong></p>
+<p>Browse through the categories:</p>
+<table class="feattbl" border="0">
+<tbody>
+<tr>
+<td><strong><a title="Magento demo store - Dynamic imaging category" href="../../../magento/index.php/dynamic-imaging-SID=e44e5kfbbsroooc92in1933656.html" target="_self">Dynamic imaging</a></strong></td>
+<td>populated with <a title="Dynamic imaging templates" href="../../../help/category/banners/index.html" target="_self">dynamic imaging</a> products used for on-screen view.</td>
+</tr>
+<tr>
+<td><strong><a title="Magento demo store - Interactive category" href="../../../magento/index.php/interactive-SID=e44e5kfbbsroooc92in1933656.html" target="_self">Interactive</a></strong></td>
+<td>populated with products that have the <a title="Magento web-to-print interactive personalization" href="../../../magento-web-to-print/magento-interactive-personalization/index.html" target="_self">interactive personalization</a> option activated.</td>
+</tr>
+<tr>
+<td><strong><a title="Magento demo store - Featured category" href="../../../magento/index.php/featured-SID=e44e5kfbbsroooc92in1933656.html" target="_self">Featured</a></strong></td>
+<td>populated with different kinds of products named according to the <a title="Magento web-to-print extension features" href="../../../magento-web-to-print/features/index.html" target="_self">feature</a> they demonstrate.</td>
+</tr>
+<tr>
+<td><strong><a title="Magento demo store - Classic category" href="../../../magento/index.php/classic-SID=e44e5kfbbsroooc92in1933656.html" target="_self">Classic</a></strong></td>
+<td>populated with web-to-print products using default <em>out-of-the-box</em> extension settings.</td>
+</tr>
+<tr>
+<td><strong><a title="Magento demo store - Red category" href="../../../magento/index.php/red-category-SID=e44e5kfbbsroooc92in1933656.html" target="_self">Red</a></strong> and <strong><a title="Magento demo store - Blue category" href="../../../magento/index.php/blue-category-SID=e44e5kfbbsroooc92in1933656.html" target="_self">Blue</a></strong></td>
+<td>categories hidden from the public and used to demonstrate <a title="Magento access control extension" href="../../../magento-web-to-print/magento-access-control/index.html" target="_self">category access control</a>.</td>
+</tr>
+</tbody>
+</table>
+<p>Feel free to place orders and download files. You don&#8217;t need to use real info in the checkout form, just populate required fields with dummy values and place orders.</p>
+<p style="text-align: center;"><a href="../../../magento/index.html"><img class="size-full wp-image-1912 aligncenter" style="margin-top:15px;" title="Visit our Magento web-to-print Demo store" src="../../../wp-content/uploads/2010/06/demo_store_btn.png" alt="" width="124" height="41" /></a></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Access control</title>
+		<link>http://www.zetaprints.com/magento-web-to-print/magento-access-control</link>
+		<pubDate>Wed, 06 Oct 2010 15:06:05 +0000</pubDate>
+		<dc:creator><![CDATA[jurozeta]]></dc:creator>
+				<category><![CDATA[Magento web-to-print]]></category>
+
+		<guid isPermaLink="false">/?p=2706</guid>
+		<description><![CDATA[Magento Community Edition (free) has no access control features and all products in the store are pu...]]></description>
+				<content:encoded><![CDATA[<p><a title="Compare Magento editions" href="http://www.magentocommerce.com/product/compare">Magento Community Edition</a> (free) has no access control features and all products in the store are public by default. We created a simple Access Control extension to help you sell your <a title="ZetaPrints web-to-print" href="../../../index.html" target="_self">web-to-print</a> and <a title="ZetaPrints dynamic imaging" href="../../../help/category/banners/index.html" target="_self">dynamic imaging</a> products to corporate customers. Sites with <a title="Compare Magento editions" href="http://www.magentocommerce.com/product/compare">Magento Enterprise Edition</a> do not need this extension.<span id="more-2706"></span></p>
+<h2>Access control for Web-to-Print</h2>
+<p><a title="Magento access control extension" href="https://www.magentocommerce.com/magento-connect/category-access-control.html" target="_self">Magento Category Access Control</a> extension is free and can be installed on a free Community Edition website. The added functionality precisely controls who can access what products. You can still have some products available to the public. Registered users will need to log in to see their personal categories / products.</p>
+<p style="text-align: center;"><img class="size-full wp-image-1886 aligncenter" style="margin-top: 5px;" title="Access control diagram" src="../../../wp-content/uploads/2010/06/access_control_diagram.png" alt="" width="424" height="255" /></p>
+<h2>Example</h2>
+<p>Our <a title="Magento web-to-print demo store" href="../../../magento/index.html" target="_self">demo store</a> has a number of categories available to the public. However, if you log in there as <em>red@zetaprints.com/redpass</em> you will also get access to a category called <em>Red</em>. Logging in as <em>blue@zetaprints.com/bluepass</em> will give you access to a category called <em>Blue</em>. <a title="web-to-print for magento demo" href="../../../magento/index.html" target="_blank">Try it now</a>.</p>
+<h2>Installation of Category Access Control extension</h2>
+<p>You need to have <a title="Download and install" href="http://www.magentocommerce.com/product/community-edition">Magento Community Edition</a> already installed. Installation of our <a title="web-to-print for magento" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">web-to-print extension</a> is not required for category access control. Use the links below to find out more and download the extension.</p>
+<ul>
+<li><a title="Category access control" href="https://www.magentocommerce.com/magento-connect/category-access-control.html">Category access control</a> on MagentoCommerce</li>
+<li><a title="web-to-print and access control help" href="../../../magentohelp/magento-access-control-for-dynamic-imaging/index.html">Extension help and detailed instructions</a></li>
+<li><a title="Web-to-print and access control scripts" href="http://code.google.com/p/magento-w2p/source/browse/#svn/branches/ZetaPrints_AccessControl">Source code</a></li>
+<li><a title="Web-to-print and access control issue list" href="http://code.google.com/p/magento-w2p/issues/list">Bug reports, features, support</a></li>
+</ul>
+<h2>Mageparts paid alternative</h2>
+<p><strong></strong>As an alternative solution, you may also try MageParts&#8217; <a title="Restrict Categories access control extension for Magento" href="http://www.magentocommerce.com/magento-connect/restrict-categories.html">Restrict Categories</a> extension for Magento. It was tested compatible with our <a title="Web-to-print ZetaPrints extension for Magento" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> and they offer free support and bug fixes.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Order approval</title>
+		<link>http://www.zetaprints.com/magento-web-to-print/magento-order-approval</link>
+		<pubDate>Wed, 06 Oct 2010 12:07:44 +0000</pubDate>
+		<dc:creator><![CDATA[jurozeta]]></dc:creator>
+				<category><![CDATA[Magento web-to-print]]></category>
+
+		<guid isPermaLink="false">/?p=2686</guid>
+		<description><![CDATA[Our Order Approval extension is free and allows you to organize an approval process in a Magento sto...]]></description>
+				<content:encoded><![CDATA[<p>Our <a title="Magento order approval extension" href="https://www.magentocommerce.com/magento-connect/order-approval.html" target="_self">Order Approval extension</a> is free and allows you to organize an approval process in a <a title="Magento ecommerce" href="http://www.magentocommerce.com/" target="_self">Magento</a> store by stopping certain customers from checking out until their orders are approved by a nominated approver.<span id="more-2686"></span></p>
+<h2>Procedure</h2>
+<div class="floating_img_l"><img class="size-full wp-image-2689  aligncenter" title="Magento order approval extension diagram" src="../../../wp-content/uploads/2010/10/approval_diagram.png" alt="" width="450" height="228" /></div>
+<p>The extension adds an extra step between the customer’s shopping cart and the checkout process. It means that customers are able to add any number of products into their shopping cart, delete and modify them at any time without any restrictions, but they can not checkout products from the cart before they are approved.</p>
+<div class="clearing_box">When customers try to checkout their shopping cart, the approver receives a <a title="Magento order approval notification email" href="../../../magentohelp/order-approval-notification-email/index.html" target="_self">notification</a> about unapproved products in the customer’s shopping cart. The approver can use the link from the e-mail to reach order approval UI and approve or decline customer’s products.</div>
+<h2>Installation</h2>
+<p>The Order approval extension is free and can be installed on through Magento Connect Manager.</p>
+<ul>
+<li><a title="Order approval" href="https://www.magentocommerce.com/magento-connect/order-approval.html" target="_self">Order approval</a> on MagentoCommerce</li>
+<li><a title="Magento order approval help" href="../../../magentohelp/magento-order-approval/index.html" target="_self">Extension help and detailed instructions</a></li>
+<li><a title="Order approval extension source code" href="http://code.google.com/p/magento-w2p/source/browse/#svn/branches/ZetaPrints_OrderApproval" target="_self">Source code</a></li>
+<li><a title="Magento web-to-print issues list" href="http://code.google.com/p/magento-w2p/issues/list" target="_self">Bug reports, features, support</a></li>
+</ul>
+<h2>Compatibility</h2>
+<p>Our Magento Order approval extension is fully compatible with our <a title="Magento web-to-print extension" href="../../../magentohelp/magento/index.html" target="_self">web-to-print</a> and <a title="Magento access control extension" href="../../../magento-web-to-print/magento-access-control/index.html" target="_self">category access control</a> extensions.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Hosting</title>
+		<link>http://www.zetaprints.com/magento-web-to-print/hosting</link>
+		<pubDate>Fri, 07 May 2010 02:49:23 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Magento web-to-print]]></category>
+
+		<guid isPermaLink="false">/?p=1682</guid>
+		<description><![CDATA[Magento is an open source e-commerce platform written in PHP + MySQL. It can run in almost any hosti...]]></description>
+				<content:encoded><![CDATA[<p><a title="Magento ecommerce" href="http://www.magentocommerce.com/" target="_self">Magento</a> is an open source e-commerce platform written in PHP + MySQL. It can run in almost any hosting environment. You can choose to host it yourself or use managed hosting where someone does all the installation and system administration for you.<span id="more-1682"></span></p>
+<p>We do not provide Magento hosting ourselves, but our <a title="ZetaPrints partners" href="../../../magento-web-to-print/magento-partners/index.html" target="_self">partners</a> will be happy to assist you.</p>
+<h3>AWS hosting</h3>
+<p><a title="Amazon Web Services" href="http://aws.amazon.com/" target="_self"><strong>A</strong>mazon <strong>W</strong>eb <strong>S</strong>ervices</a> is our hosting of choice. This is where our <a title="ZetaPrints web-to-print and dynamic imaging system" href="http://zetaprints.com/" target="_self">web-to-print and dynamic imaging system</a> is hosted. Locating your Magento site in the same hosting environment will reduce network latency to negligible. We provide a free up-to-date AWS machine image with Magento and our <a title="Install web-to-print extension for Magento" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">extension</a> installed.</p>
+<h3>Shared hosting</h3>
+<p>A Magento website with the ZetaPrints web-to-print and dynamic imaging extension can be hosted by almost any  <a title="Find a hosting company" href="../../../help/find-a-hosting-company/index.html" target="_self">website hosting company</a> with prices starting at a few dollars per month. It is suitable for small websites if you have access to necessary technical expertise.</p>
+<table border="0">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="http://www.hostmonster.com/"><img class="alignnone size-full wp-image-1775" title="HostMonster" src="../../../wp-content/uploads/2010/05/hostmonster.png" alt="HostMonster" width="130" height="50" /></a><br />
+<a title="HostMonster.com" href="http://www.hostmonster.com/" target="_self">HostMonster</a></td>
+<td style="text-align: center;"><a href="http://www.simplehelix.com/"><img class="alignnone size-full wp-image-1775" title="SimpleHelix" src="../../../wp-content/uploads/2010/05/helix.png" alt="SimpleHelix" width="130" height="50" /></a><br />
+<a title="SimpleHelix" href="http://www.simplehelix.com/" target="_self">SimpleHelix</a></td>
+<td style="text-align: center;"><a href="http://www.magentocommerce.com/partners/find/hosting-partners/"><img class="alignnone size-full wp-image-1775" title="Magento Hosting partners" src="../../../help/img/magento_w2p_images/magento.png" alt="Magento Hosting partners" width="130" height="50" /></a><br />
+<a title="Magento hosting partners" href="http://www.magentocommerce.com/partners/find/hosting-partners/" target="_self">Magento Hosting partners</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Dedicated and virtual server hosting</h3>
+<p>Dedicated or VPS (virtual server) hosting is more involved and more expensive than shared hosting. You will definitely need advanced technical expertise to successfully run such web-to-print hosting environment. We recommend it to websites with significant traffic or expecting their traffic to grow. The costs may start as low as US$50 per month.</p>
+<table border="0">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="http://www.slicehost.com/"><img class="alignnone size-full wp-image-1775" title="Slicehost VPS hosting" src="../../../wp-content/uploads/2010/05/slicehost.png" alt="Slicehost VPS hosting" width="130" height="50" /></a><br />
+<a title="Slicehost VPS hosting" href="http://www.slicehost.com/" target="_self">SliceHost</a></td>
+<td style="text-align: center;"><a href="http://aws.amazon.com/"><img class="alignnone size-full wp-image-1775" title="Amazon Web Services" src="../../../wp-content/uploads/2010/05/aws.png" alt="Amazon Web Services" width="130" height="50" /></a><br />
+<a title="Amazon Web Services" href="http://aws.amazon.com/" target="_self">AWS</a></td>
+<td style="text-align: center;"><a href="http://mediatemple.net/"><img class="alignnone size-full wp-image-1775" title="Media Temple hosting" src="../../../wp-content/uploads/2010/05/mediatemple.png" alt="Media Temple hosting" width="130" height="50" /></a><br />
+<a title="Media Temple hosting" href="http://mediatemple.net/" target="_self">MediaTemple</a></td>
+</tr>
+</tbody>
+</table>
+<h3>Managed hosting</h3>
+<p>We recommend this option to customers with serious intentions on growing their online business. The extra you pay for looking after your website frees you to do all the other tasks as well as gives you peace of mind. You still own and fully control your website, but the difficult IT tasks are performed by IT professionals on your request. The costs usually start from about US$120 a month, but ultimately depend on the level of support you require.</p>
+<p>Talk to <a title="Magento web-to-print partners" href="../../../magento-web-to-print/magento-partners/index.html" target="_self">our partners</a> or find a different <a title="Magento ecommerce job board" href="http://www.magentocommerce.com/jobs" target="_self">service provider</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Features &#8211; web-to-print</title>
+		<link>http://www.zetaprints.com/magento-web-to-print/zetaprints-features</link>
+		<pubDate>Wed, 05 May 2010 12:59:45 +0000</pubDate>
+		<dc:creator><![CDATA[jurozeta]]></dc:creator>
+				<category><![CDATA[Magento web-to-print]]></category>
+
+		<guid isPermaLink="false">/?p=1622</guid>
+		<description><![CDATA[ZetaPrints is a web-to-print and dynamic imaging service provider. Our service is designed to make o...]]></description>
+				<content:encoded><![CDATA[<p>ZetaPrints is a <a title="Web-to-print software" href="../../web-to-print-software/index.html" target="_self">web-to-print</a> and <a title="About dynamic imaging" href="../../dynamic-imaging/index.html" target="_self">dynamic imaging</a> service provider. Our service is designed to make online personalization simple and cost effective.<span id="more-1622"></span></p>
+<h2 class="tab">Volumes</h2>
+<p>We do not place limits on you. Use as much of our service as you need to grow and meet your demand.</p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Unlimited</strong></td>
+</tr>
+<tr>
+<td>Number of web-to-print templates</td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td>Number of web-to-print catalogs</td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td>Number of users</td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td>Disk space</td>
+<td class="check_icon_feat"></td>
+</tr>
+<tr>
+<td>Traffic</td>
+<td class="check_icon_feat"></td>
+</tr>
+</tbody>
+</table>
+<h2 class="tab">Templates</h2>
+<p>Our templating system is simple, but powerful. It goes well beyond replacing straight lines of text in a PDF file.</p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Availability</strong></td>
+<td class="list_title_last_how"><strong>How to</strong></td>
+</tr>
+<tr>
+<td>Upload your own</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/upload-your-first-template/index.html"><img title="Upload your first web-to-print template" src="../../../_img/help_on.png" alt="Upload your first web-to-print template" /></a></td>
+</tr>
+<tr>
+<td>Unbounded creativity limits</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/design-techniques/index.html"><img title="Web-to-print and dynamic imaging design techniques" src="../../../_img/help_on.png" alt="Web-to-print and dynamic imaging design techniques" /></a></td>
+</tr>
+<tr>
+<td>No delay before a template becomes available</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td colspan="3">PDF settings</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Bleed</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/bleed-area/index.html"><img title="Bleed area" src="../../../_img/help_on.png" alt="Bleed area" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Crop marks</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/cropmarks-from-photoshop/index.html"><img title="Web-to-print cropmarks" src="../../../_img/help_on.png" alt="Cropmarks" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Imposition</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/templates-for-preview-and-printing/index.html"><img title="About preview and printing templates" src="../../../_img/help_on.png" alt="Preview and printing templates" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Font embedding</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/font-management/index.html"><img title="Web-to-print font management" src="../../../_img/help_on.png" alt="Web-to-print font management" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Text-to-curve</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Other settings</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/pdf-settings/index.html"><img title="Web-to-print PDF settings" src="../../../_img/help_on.png" alt="PDF settings" /></a></td>
+</tr>
+<tr>
+<td>Any number of pages</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/multi-page-templates/index.html"><img title="Web-to-print multi-page templates" src="../../../_img/help_on.png" alt="Multipage web-to-print templates" /></a></td>
+</tr>
+<tr>
+<td colspan="3">Color modes</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Spot colors</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">RGB</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">CMYK</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Color separation</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Overprints</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td colspan="3">Output files</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">PDF, CDR, JPG, GIF, PNG</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/output-files-generation/index.html"><img title="Web-to-print output file generation" src="../../../_img/help_on.png" alt="Web-to-print output file generation" /></a></td>
+</tr>
+</tbody>
+</table>
+<h2 class="tab">Variable fields</h2>
+<p><span>It is very simple to convert an ordinary ad design into a usable ad template – just name the fields for user texts and images.</span><br />
+<span>The system reads the field information directly from the file. There are numerous rules you can apply, such as alignment, horizontal and vertical shift, removal of elements if some other elements are not present, maximum and minimum length, recommended image resolution, etc.</span></p>
+<table class="w2p_feat_tbl">
+<tbody>
+<tr>
+<td class="list_title_last" colspan="2"><strong>Availability</strong></td>
+<td class="list_title_last_how"><strong>How to</strong></td>
+</tr>
+<tr>
+<td colspan="3">Variable text and images</td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Variable text</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/text-fields/index.html"><img title="Web-to-print variable text fields" src="../../../_img/help_on.png" alt="Web-to-print text fields" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Variable images</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/category/image-fields/index.html"><img title="Web-to-print variable image fields" src="../../../_img/help_on.png" alt="Web-to-print image fields" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Automatic text alignment</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Automatic image alignment</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/image-alignment/index.html"><img title="Web-to-print image alignment" src="../../../_img/help_on.png" alt="Web-to-print image alignment" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Auto replacement</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><img src="../../../_img/help_off.png" alt="" /></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Auto removal</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/conditional-object-removal/index.html"><img title="Web-to-print conditional object removal" src="../../../_img/help_on.png" alt="Web-to-print conditional object removal" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Conditional line removal</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/conditional-line-removal/index.html"><img title="Dynamic imaging conditional line removal" src="../../../_img/help_on.png" alt="Dynamic imaging conditional line removal" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Paragraph style matching</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/paragraph-style-matching/index.html"><img title="Dynamic imaging paragraph style matching" src="../../../_img/help_on.png" alt="Dynamic imaging paragraph style matching" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Character formatting matching</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/character-formatting-matching/index.html"><img title="Dynamic imaging character formatting matching" src="../../../_img/help_on.png" alt="Dynamic imaging character formatting matching" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Automatic font resizing</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/auto-font-resizing/index.html"><img title="Dynamic imaging auto font resizing" src="../../../_img/help_on.png" alt="Dynamic imaging auto font resizing" /></a></td>
+</tr>
+<tr>
+<td class="feat_sub_lists_w2p">Linked text frames</td>
+<td class="check_icon_feat"></td>
+<td class="help_icon_feat"><a href="../../../help/linked-text-frames/index.html"><img title="Dynamic imaging linked text frames" src="../../../_img/help_on.png" alt="Dynamic imaging linked text frames" /></a></td>
+</tr>
+</tbody>
+</table>
+<p>Consult these product guides before you start working on a specific kind of template:</p>
+<table class="tbl_grid_guides_w2p">
+<tbody>
+<tr>
+<td><img class="alignnone" title="Web-to-print Brochures" src="../../../wp-content/themes/zetaprints/_img/brochures.jpg" alt="Web-to-print Brochures" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Outdoor signs" src="../../../wp-content/themes/zetaprints/_img/outdoor_signs.jpg" alt="Web-to-print Yard signs" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print T-shirts" src="../../../wp-content/themes/zetaprints/_img/web-to-print_t-shirts.jpg" alt="Web-to-print T-shirts" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Business cards" src="../../../wp-content/themes/zetaprints/_img/web-to-print_business_cards.jpg" alt="Web-to-print Business cards" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print CD/DVD labels" src="../../../wp-content/themes/zetaprints/_img/web-to-print_DVD_labels.jpg" alt="Web-to-print CD/DVD labels" width="125" height="180" /></td>
+</tr>
+<tr id="sample_product_links">
+<td><a title="Web-to-print Brochure templates" href="http://zetaprints.com/?page=template;TemplateID=DBA05324-1B3E-4BDA-BA00-559192FB0919" target="_self">Samples</a> | <a title="Web-to-print help: Brochures guide" href="../../../help/brochures-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Real estate yard sign templates" href="http://zetaprints.com/?page=catalogue;CorporateID=5C787740-C63F-4821-8DDC-25834DDFEE8F" target="_self">Samples</a> | <a title="Web-to-print help: Outdoor signs guide" href="../../../help/outdoor-signs-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print T-shirt templates" href="http://zetaprints.com/?page=template;TemplateID=5A8DF7B8-199A-4C66-9B29-F8DDF09843B2" target="_self">Samples</a> | <a title="Web-to-print help: T-shirts guide" href="../../../help/t-shirts-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print business cards" href="http://shop.hollands.com.au/?page=catalogue;CorporateID=9F44DD27-0DA6-422A-8290-CAB040742247" target="_self">Samples</a> | <a title="Web-to-print help: Business cards guide" href="../../../help/business-cards-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print CD/DVD label" href="http://zetaprints.com/?page=template;TemplateID=0D6B06C6-DA3F-4607-965D-BCA3F7B4A23C" target="_self">Samples</a> | <a title="Web-to-print help: CD/DVD labels guide" href="../../../help/cddvd-labels-guide/index.html" target="_self">Tutorial</a></td>
+</tr>
+</tbody>
+</table>
+<table class="tbl_grid_guides_w2p">
+<tbody>
+<tr>
+<td><img class="alignnone" title="Web-to-print Greeting cards" src="../../../wp-content/themes/zetaprints/_img/web-to-print_greeting_cards.jpg" alt="Web-to-print Greeting cards" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Books" src="../../../wp-content/themes/zetaprints/_img/web-to-print_books.jpg" alt="Web-to-print Books" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Posters" src="../../../wp-content/themes/zetaprints/_img/web-to-print_posters.jpg" alt="Web-to-print Posters" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print Newspaper ads" src="../../../wp-content/themes/zetaprints/_img/web-to-print_newspaper_ad.jpg" alt="Web-to-print Newspaper ads" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Web-to-print CD/DVD covers" src="../../../wp-content/themes/zetaprints/_img/web-to-print_DVD_cover.jpg" alt="Web-to-print CD/DVD covers" width="125" height="180" /></td>
+</tr>
+<tr id="sample_product_links">
+<td><a title="Web-to-print greeting card templates" href="http://zetaprints.com/?page=template;TemplateID=5E7566DF-9445-4C86-91A5-B17AD19C2BC2" target="_self">Samples</a> | <a title="Web-to-print help: Greeting cards guide" href="../../../help/greeting-cards-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Book templates" href="http://order.uprintinvitations.com/?page=catalogue;CorporateID=F37AF3A1-AE52-4057-84C9-E4EE88797F96" target="_self">Samples</a> | <a title="Web-to-print help: Books guide" href="../../../help/books-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Poster templates" href="http://zetaprints.com/?page=catalogue;CorporateID=B43FC624-1020-4AC7-A773-E536B892414C" target="_self">Samples</a> | <a title="Web-to-print help: Posters guide" href="../../../help/poster-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print Newspaper ad templates" href="http://zetaprints.com/?page=catalogue;CorporateID=271510AD-DCE1-4305-9375-57F977F6EC6F" target="_self">Samples</a> | <a title="Web-to-print help: Newspaper ads guide" href="../../../help/newspaper-ads-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Web-to-print CD/DVD label" href="http://zetaprints.com/?page=template;TemplateID=A8714BE2-AE75-4180-BED4-7D6791538282" target="_self">Samples</a> | <a title="Web-to-print help: CD/DVD cover guide" href="../../../help/cddvd-case-cover-guide/index.html" target="_self">Tutorial</a></td>
+</tr>
+</tbody>
+</table>
+<table class="tbl_grid_guides_w2p">
+<tbody>
+<tr>
+<td><img class="alignnone" title="Dynamic imaging eCards" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_ecards.png" alt="Dynamic imaging eCards" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Dynamic imaging Twictures" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_twictures.png" alt="Twictures" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Dynamic imaging Web banners" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_banners.png" alt="Web banners" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Dynamic imaging Web buttons" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_buttons.png" alt="Web buttons" width="125" height="180" /></td>
+<td><img class="alignnone" style="margin-left: 5px; margin-right: 0px;" title="Dynamic imaging Web tabs" src="../../../wp-content/themes/zetaprints/_img/dynamic_imaging_tabs.png" alt="Web tabs" width="125" height="180" /></td>
+</tr>
+<tr id="sample_product_links">
+<td><a title="Bunny eCards" href="http://magento.zetaprints.com/?page=catalogue;CorporateID=284EF372-16BF-4258-A2AB-30D2A000BB26" target="_self">Samples</a> | <a title="Dynamic imaging help: eCards guide" href="../../../help/create-an-ecard/index.html">Tutorial</a></td>
+<td><a title="Fancy twitter updates" target="_self">Samples</a> | <a title="Dynamic imaging help: Twictures guide">Tutorial</a></td>
+<td><a title="Dynamic imaging - Web banners" href="http://zetaprints.com/?page=catalogue;CorporateID=1841912F-CA3B-43B7-8F6C-B7504E4D4A82" target="_self">Samples</a> | <a title="Dynamic imaging help: Web banners guide" href="../../../help/internet-banners-guide/index.html" target="_self">Tutorial</a></td>
+<td><a title="Dynamic imaging web buttons" href="http://magento.zetaprints.com/?page=catalogue;CorporateID=7D20426E-61D2-4638-BCCA-03E2448A560B" target="_self">Samples</a> | <a title="Dynamic imaging help: Web buttons guide" href="../../../help/web-buttons/index.html" target="_self">Tutorial</a></td>
+<td><a title="Dynamic imaging web tabs" href="http://magento.zetaprints.com/?page=catalogue;CorporateID=1631F47E-C480-4FF6-8867-50AAFAF571F8" target="_self">Samples</a> | <a title="Dynamic imaging help: Web tabs guide" href="../../../help/web-tabs/index.html" target="_self">Tutorial</a></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Installation</title>
+		<link>http://www.zetaprints.com/magento-web-to-print/installation</link>
+		<pubDate>Fri, 30 Apr 2010 03:09:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Magento web-to-print]]></category>
+
+		<guid isPermaLink="false">/?p=1482</guid>
+		<description><![CDATA[Installation of Magento web-to-print and dynamic imaging extension consists of two parts:
+
+signing u...]]></description>
+				<content:encoded><![CDATA[<p>Installation of Magento web-to-print and dynamic imaging extension consists of two parts:</p>
+<ul>
+<li>signing up for a ZetaPrints <a title="Sign up a web-to-print printer account" href="../../../printers/web-to-print-sign-up/index.html" target="_self">printer account</a></li>
+<li>installing and configuring a <a title="Magento ecommerce platform" href="http://www.magentocommerce.com/" target="_self">Magento storefront</a></li>
+</ul>
+<p><span id="more-1482"></span>Our web-to-print <a title="Magento web-to-print and dynamic imaging extension" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">extension</a> connects these two parts once it is installed and configured.</p>
+<h3>Express demo installation</h3>
+<p>Want to quickly try our <a title="Magento web-to-print extension page" href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html" target="_self">web-to-print extension</a> for Magento in your online store? Follow these <a title="Quick demo install of web-to-print extension" href="../../../magentohelp/web-to-print-demo-installation-on-magento/index.html">express installation steps</a> and end up with a web-to-print enabled Magento store connected to a demo ZetaPrints account.</p>
+<h3>Installation process overview</h3>
+<p>This table gives the full overview of what is required to get your Magento web-to-print shop ready to take orders.</p>
+<table class="magento_table" border="0">
+<tbody>
+<tr>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../help/img/magento_icons/demo.png');">Watch a <a href="../../../help/flash/magento_demo/magento_demo.html">video presentation</a></td>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../help/img/magento_icons/api_key.png');"><a href="../../../help/how-to-get-api-key/index.html">Get an API key</a>, <a href="../../../magentohelp/zetaprints-synchronization-settings/index.html">configure</a> w2p extension</td>
+</tr>
+<tr>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../help/img/magento_icons/printer_signup.png');"><a href="http://zetaprints.com/?page=printer-new;">Sign up</a> for ZetaPrints printer account</td>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../help/img/magento_icons/create_template.png');"><a href="../../../help/category/template-preparation/index.html">Create templates</a>, <a href="../../../help/upload-your-first-template/index.html">upload to ZP</a> and <a href="../../../help/test-your-template/index.html">test</a></td>
+</tr>
+<tr>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../help/img/magento_icons/subdomain.png');">Get a <a href="../../../help/domain-name-set-up/index.html">subdomain</a>, link to ZP, login to claim it</td>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../help/img/magento_icons/import_template.png');"><a href="../../../magentohelp/import-web-to-print-data/index.html">Import templates</a> into Magento</td>
+</tr>
+<tr>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../help/img/magento_icons/instal_magento.png');"><a href="http://www.magentocommerce.com/knowledge-base/entry/magento-installation-guide">Instal Magento</a></td>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../help/img/magento_icons/conf_prices.png');">Configure prices, <a href="../../../magentohelp/magento-access-control-for-dynamic-imaging/index.html">access control</a>, etc</td>
+</tr>
+<tr>
+<td style="width: 300px; height: 50px; background-repeat: no-repeat; padding-left: 65px; padding-top: 10px; font-weight: bold; background-image: url('../../../help/img/magento_icons/instal_w2p.png');"><a href="../../../magentohelp/web-to-print-magento-install/index.html">Install</a> web-to-print <a href="https://www.magentocommerce.com/magento-connect/web-to-print-and-dynamic-imaging.html">extension</a></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong> </strong>Setting up and maintaining a Magento website takes a bit of time and IT skill. Try any of our trusted <a title="Magento partners" href="../../../magento-web-to-print/magento-partners/index.html" target="_self">partners</a> to get help.</p>
+<p>Read detailed installation instructions in <a title="Magento installation help" href="../../../magentohelp/category/installation-steps/index.html" target="_self">Magento web-to-print help</a>.</p>
+<h3 class="all_topics_link">Access control</h3>
+<div class="all_topics_link">By default all Magento stores are open to the public. We have an additional Magento extension to limit access to some products to a select group of customers, e.g. products for a particular business are available to employees of that business only.</div>
+<table class="accesstable" border="0">
+<tbody>
+<tr>
+<td class="accesstcell" style="text-align: center; width: 40%; background-color: #fdfae9;"><strong><span style="font-size: small;">Public site</span></strong></td>
+<td class="accesstcell" style="text-align: center; width: 40%; background-color: #fdfae9;"><strong><span style="font-size: small;">Corporate site</span></strong></td>
+<td class="accesstcell_ico" style="text-align: center; width: 20%;" rowspan="2"><a title="Magento category access control extension" href="https://www.magentocommerce.com/magento-connect/category-access-control.html" target="_self"><strong><span style="font-size: small;">Access control extension</span></strong></a></td>
+</tr>
+<tr>
+<td class="accesstcell">All customers have access to all of your products.</td>
+<td class="accesstcell">A corporate site requires access control. This feature is available in Magento <a title="compare editions" href="http://www.magentocommerce.com/product/compare">Enterprise Edition</a>. We also created a simple <a title="Magento access control" href="https://www.magentocommerce.com/magento-connect/category-access-control.html">extension for access control</a> to help you get it going before upgrading to Enterprise Edition.</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

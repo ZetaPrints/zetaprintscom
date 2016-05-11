@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Metallic &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/metallic/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Metallic text with bling effect</title>
+		<link>http://www.zetaprints.com/help/metallic-text-with-bling-effect/</link>
+		<pubDate>Thu, 02 Oct 2008 02:52:05 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Metallic]]></category>
+		<category><![CDATA[Tips & tricks]]></category>
+		<category><![CDATA[Tutorials]]></category>
+		<category><![CDATA[Typography]]></category>
+
+		<guid isPermaLink="false">/help/?p=780</guid>
+		<description><![CDATA[Learn how to add a cool looking metallic text with glow in your web-to-print templates using bevel and fountain fill. This shiny reflection will enhance your graphics, and make them stand out above the rest, by adding this &#8220;wow&#8221; factor to your design. Try this web-to-print template. Before you start Turn to the text that you [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

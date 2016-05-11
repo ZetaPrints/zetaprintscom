@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Distribution map plugin &#8211; Magento web-to-print &amp; dynamic imaging</title>
+	<atom:link href="http://www.zetaprints.com/magentohelp/category/distribution-map-plugin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/magentohelp</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 07 Jun 2013 06:55:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Distribution map extension</title>
+		<link>http://www.zetaprints.com/magentohelp/distribution-map-extension/</link>
+		<pubDate>Fri, 08 Apr 2011 20:11:13 +0000</pubDate>
+		<dc:creator><![CDATA[atanas]]></dc:creator>
+				<category><![CDATA[Distribution map plugin]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/magentohelp/?p=12527</guid>
+		<description><![CDATA[Distribution map allows customers to mark an area using series of clicks on a map and save their selection with the order. The primary purpose of the extension is to add direct mail marketing capabilities to web-to-print websites. This extension is based on Google Maps. Users can select an area which is saved in the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a title="Distribution map extension for Magento" href="https://www.magentocommerce.com/magento-connect/distribution-map.html" target="_self">Distribution map</a> allows customers to mark an area using series of clicks on a map and save their selection with the order. The primary purpose of the extension is to add direct mail marketing capabilities to <em>web-to-print</em> websites.<span id="more-12527"></span></p>
+<p><img class="alignnone size-full wp-image-12545" title="Distribution map preview" src="../../../wp-content/uploads/2011/04/distribution_map_preview.png" alt="" width="516" height="309" /></p>
+<p>This extension is based on Google Maps. Users can select an area which is saved in the order details. Previews of the selection are visible to customers in the checkout table as well as on the order details page, which also includes a download link to the <em>KML</em> file. Store admins can also view and download the <em>KML</em> file from order details page in Magento admin panel.</p>
+<h2>Distribution map installation</h2>
+<p>The Distribution map extension is implemented in Magento as a <em></em>custom option. Installation process is identical to all other extension installations.</p>
+<p><img class="alignnone size-full wp-image-12541" title="Magento connect manager" src="../../../wp-content/uploads/2011/04/magento_connect_manager.png" alt="" width="572" height="231" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/04/magento_connect_manager-300x121.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/04/magento_connect_manager.png 572w" sizes="(max-width: 572px) 100vw, 572px" /></p>
+<p>Open Magento Connect Manager (<em>System/Configuration/Magento Connect Manager</em>), paste the <a title="Distribution map extension for Magento" href="https://www.magentocommerce.com/magento-connect/distribution-map.html" target="_self">extension key</a> and hit <strong>Install</strong>.</p>
+<h2>Distribution map configuration</h2>
+<p>This extension can be completely configured from inside Magento admin panel. There are two types of settings:</p>
+<ol>
+<li>Assigning distribution map custom option to a product and</li>
+<li>configuring the maps&#8217; appearance in the front end.</li>
+</ol>
+<h3>Assign a map to a product</h3>
+<p>To activate the map custom option for a product, navigate to <em>Magento admin &gt; Catalog &gt; Manage products</em> and open product information page by clicking on one of the products.</p>
+<p>Under <em>Custom Options</em> tab, assign a new option to the product. <em>Input type</em> should be text <strong>field</strong> and the title should end with <strong>***kml***.</strong> The <em>***kml ***</em> suffix will be removed from the name on product details page by the extension. It is used as a hint that the field is not a text input, but a map.<strong><br />
+</strong></p>
+<p>Example: <em>Your distribution area ***kml***</em></p>
+<p><img class="alignnone size-full wp-image-12543" title="Assign distribution map option" src="../../../wp-content/uploads/2011/04/assign_distribution_map_option.png" alt="" width="574" height="469" srcset="http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/04/assign_distribution_map_option-300x245.png 300w, http://www.zetaprints.com/magentohelp/wp-content/uploads/2011/04/assign_distribution_map_option.png 574w" sizes="(max-width: 574px) 100vw, 574px" /></p>
+<p>Edit the rest of the settings for the custom option as you wish.</p>
+<h3>Configure map appearance in front end</h3>
+<p>Settings regarding maps appearance in the front-end are located in <em>Magento Admin &gt; System &gt; Configuration &gt; Google API &gt; Google Maps Settings</em>.</p>
+<p><strong>Map sizes</strong> can be set for:</p>
+<ul>
+<li>Product page map size</li>
+<li>Cart page map size &#8211; affects map size in shopping cart table, final checkout step and order details page</li>
+<li>Admin page map size</li>
+</ul>
+<p><strong>GPS</strong> &#8211; Set this to &#8220;Yes&#8221; if you think that your store will be visited by users with GPS capable devices. Enabled by default.</p>
+<p><strong>Hint to display to user</strong> &#8211; Initial text that is displayed to the user to explain how to interact with the map. Change if you think the default text is not clear enough.</p>
+<p><strong>Initial location</strong> &#8211; Use latitude and longitude coordinates to set initial map location displayed.</p>
+<p><strong>Initial zoom</strong> &#8211; Use the drop-down menu to choose a zoom level for the initial map view.</p>
+<h2>Web-to-print compatibility</h2>
+<p>Our Distribution map extension for Magento is fully compatible with our <a title="Magento web-to-print extension" href="../../../../magento/" target="_self">web-to-print</a> extension out of the box.</p>
+<h2>Links</h2>
+<ul>
+<li><a title="Demo product with Distribution map custom option enabled" href="../../../../magento/index.php/featured/political-campaign-card.html" target="_self">Demo product</a></li>
+<li><a title="Distribution map Magento extension overview" href="../../../../magento-web-to-print/unaddressed-mail/" target="_self">Extension overview</a></li>
+<li><a title="Distribution map extension source code" href="http://code.google.com/p/magento-w2p/source/browse/#svn%2Fbranches%2FZetaPrints_DistributionMap" target="_self">Source code</a></li>
+<li><a title="Dynamic file attachment extension issue list" href="http://code.google.com/p/magento-w2p/issues/list" target="_self">Issues</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

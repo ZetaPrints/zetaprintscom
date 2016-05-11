@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Info &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/info/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Email communications</title>
+		<link>http://www.zetaprints.com/help/email-communications/</link>
+		<pubDate>Mon, 04 Jun 2007 07:50:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[User management]]></category>
+		<category><![CDATA[Accounts]]></category>
+		<category><![CDATA[Info]]></category>
+		<category><![CDATA[Notifications]]></category>
+		<category><![CDATA[Order generation]]></category>
+
+		<guid isPermaLink="false">http:/www.zetaprints.com/help/emails/%post-name%/</guid>
+		<description><![CDATA[ZetaPrints communicates with its users via email, but only in certain circumstances. We do not send any newsletters, promotions, etc. Email communications are used strictly for the purpose of using ZetaPrints system. All emails are sent in plain text format for better compatibility. Initial registration A confirmation email is dispatched during registration. The email is [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CorelDRAW Tutorials &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/coreldraw-tutorials/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>CorelDRAW units</title>
+		<link>http://www.zetaprints.com/help/coreldraw-units/</link>
+		<pubDate>Tue, 04 Aug 2009 15:40:29 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW How to's]]></category>
+		<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Measurements]]></category>
+		<category><![CDATA[Size units]]></category>
+
+		<guid isPermaLink="false">/help/?p=7180</guid>
+		<description><![CDATA[Click on the Units drop down list and select the desired drawing unit or double-click on the ruler and change it in the pop-up form.]]></description>
+		</item>
+		<item>
+		<title>Import images in CorelDRAW</title>
+		<link>http://www.zetaprints.com/help/import-images-in-coreldraw/</link>
+		<pubDate>Tue, 04 Aug 2009 15:21:00 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[CorelDRAW How to's]]></category>
+		<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Import]]></category>
+
+		<guid isPermaLink="false">/help/?p=7176</guid>
+		<description><![CDATA[The simplest way to import images, PDF, EPS or other files in CorelDRAW is to simply drag n&#8217; drop them into your CorelDRAW document. Find the image on your hard drive through the common way (Windows Explorer, Mac Finder, Linux Conquerer / Nautilus or any other) and select it. Left click and hold the mouse [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Multiple laptop screens</title>
+		<link>http://www.zetaprints.com/help/multiple-laptop-screens/</link>
+		<pubDate>Tue, 09 Jun 2009 19:25:55 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[CorelDRAW perspective]]></category>
+		<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[image perspective]]></category>
+		<category><![CDATA[Repeating image]]></category>
+
+		<guid isPermaLink="false">/help/?p=6219</guid>
+		<description><![CDATA[Here is the pseudo perspective trick in action for web-to-print and dynamic imaging. The possibilities are endless, this example explains how you can use a single image uploaded by a user to make repeating laptop screens on top of each other like they are floating above the main screen. In a nutshell, we are going [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Hippie typography</title>
+		<link>http://www.zetaprints.com/help/hippie-typography/</link>
+		<pubDate>Tue, 09 Jun 2009 11:19:59 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Contour]]></category>
+		<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Envelope]]></category>
+		<category><![CDATA[Retro]]></category>
+		<category><![CDATA[Typography]]></category>
+
+		<guid isPermaLink="false">/help/?p=6340</guid>
+		<description><![CDATA[This &#8220;retro&#8221; typography design style introduced in the hippie era is coming back in a big way. Learn how to make a boogie template in a few simple steps using CorelDRAWs Envelope and Contour tool. Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape with the exact [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Color management for RGB output</title>
+		<link>http://www.zetaprints.com/help/color-management-for-dynamic-imaging/</link>
+		<pubDate>Sun, 03 May 2009 12:26:40 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Dynamic imaging]]></category>
+		<category><![CDATA[CMYK vs RGB]]></category>
+		<category><![CDATA[Color matching]]></category>
+		<category><![CDATA[Colors]]></category>
+		<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Preview]]></category>
+
+		<guid isPermaLink="false">/help/?p=5944</guid>
+		<description><![CDATA[The default color preview setting in CorelDRAW is CMYK (full color) which is used for printing purposes. This preview mode makes CorelDRAW show the colors in your document as close as posible to what they will look like in print. The default CMYK profile in CorelDRAW needs to be changed to RGB mode when creating [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Custom web-to-print patterns</title>
+		<link>http://www.zetaprints.com/help/custom-web-to-print-patterns/</link>
+		<pubDate>Thu, 05 Mar 2009 16:21:54 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Template preparation]]></category>
+		<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Custom fills]]></category>
+		<category><![CDATA[Patterns]]></category>
+
+		<guid isPermaLink="false">/help/?p=5401</guid>
+		<description><![CDATA[All the custom patterns you used in CorelDRAW are retained in the file after you’ve saved it. This means that custom patterns (two-color, full-color or bitmap) can be used in web-to-print templates. Example / Lets use a custom full-color pattern on a variable text field in a web-to-print template. / / / Learn how to [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>See-through text</title>
+		<link>http://www.zetaprints.com/help/see-through-text-2/</link>
+		<pubDate>Thu, 26 Feb 2009 12:39:55 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Effects]]></category>
+		<category><![CDATA[Transparency]]></category>
+
+		<guid isPermaLink="false">/help/?p=5255</guid>
+		<description><![CDATA[Make the text visible only by its shadow. This is a very simple trick that involves adding a drop shadow on a No Fill web-to-print text frame. Here&#8217;s what you need to know to achieve this effect in our web-to-print software. Before you start / Import the image that you will use as the background [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Blending a photo</title>
+		<link>http://www.zetaprints.com/help/blending-a-photo/</link>
+		<pubDate>Thu, 19 Feb 2009 18:22:22 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Design techniques]]></category>
+		<category><![CDATA[Blend]]></category>
+		<category><![CDATA[CorelDRAW Tutorials]]></category>
+		<category><![CDATA[Effects]]></category>
+		<category><![CDATA[Overlay]]></category>
+		<category><![CDATA[Transparency]]></category>
+
+		<guid isPermaLink="false">/help/?p=4978</guid>
+		<description><![CDATA[User images uploaded into a web to print template can be blended with the rest of the design in a very creative manner. This posts explains how to use CorelDRAW transparency to blend a user photo with background Before you start Add a page frame (Layout/Page Setup/Add Page Frame). This will create a rectangular shape [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

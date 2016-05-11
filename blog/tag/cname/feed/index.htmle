@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cname &#8211; On web to print sofware, solutions and hosted services</title>
+	<atom:link href="http://www.zetaprints.com/blog/tag/cname/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/blog</link>
+	<description>From web to print and everything in between</description>
+	<lastBuildDate>Fri, 02 Aug 2013 10:44:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>CNAME &#8211; last reminder</title>
+		<link>http://www.zetaprints.com/blog/2009/11/19/cname-last-reminder/</link>
+		<comments>http://www.zetaprints.com/blog/2009/11/19/cname-last-reminder/#respond</comments>
+		<pubDate>Thu, 19 Nov 2009 10:11:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[cname]]></category>
+		<category><![CDATA[data migration]]></category>
+		<category><![CDATA[domains]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=520</guid>
+		<description><![CDATA[We will start switching portals from the current data center to AWS (Amazon Web Services) some time next week. Accounts with domain names configured using a CNAME record should switch over automatically with minimal disruption. Accounts using A-record pointing at our IP address will get an error message screen urging them that the website has [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We will start switching portals from the current data center to AWS (Amazon Web Services) some time next week.</p>
+<p>Accounts with domain names configured using a CNAME record should switch over automatically with minimal disruption.</p>
+<p>Accounts using A-record pointing at our IP address will get an error message screen urging them that the website has moved. Please, <strong><a title="web-to-print portal domains" href="../../../../help/custom-access-url/index.html">switch your web-to-print portal to CNAME now</a></strong>.</p>
+<p>We can probably help if you have problems switching to CNAME, but you may want to call technical support of the DNS host first. They are better equipped to help you.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/11/19/cname-last-reminder/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Transfer to CNAME now</title>
+		<link>http://www.zetaprints.com/blog/2009/10/05/transfer-to-cname-now/</link>
+		<comments>http://www.zetaprints.com/blog/2009/10/05/transfer-to-cname-now/#respond</comments>
+		<pubDate>Tue, 06 Oct 2009 00:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[web-to-print software]]></category>
+		<category><![CDATA[cname]]></category>
+		<category><![CDATA[domains]]></category>
+
+		<guid isPermaLink="false">http://www.zetaprints.com/blog/?p=484</guid>
+		<description><![CDATA[Does your ZetaPrints web-to-print account sit under your own domain name? Please, make sure it is done using CNAME, not an A-record. We will be changing our data center some time this year, but sooner rather than later. Having your domain name with a CNAME will ensure that the switch-over happens seamlessly. Any domains relying [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Does your  ZetaPrints web-to-print account sit under your own domain name?</p>
+<p>Please, make sure it is done using <a title="web-to-print help on CNAME" href="../../../../help/custom-access-url/index.html">CNAME, not an A-record</a>.</p>
+<p>We will be changing our data center some time this year, but sooner rather than later. Having your domain name with a CNAME will ensure that the switch-over happens seamlessly. Any domains relying on an A-record will need to be manually pointed to the new IP at the time of switchover.</p>
+<p>So, please, change from A-record to CNAME during the next 2 weeks. We are happy to lend you a hand if this is all too technical for you. Contact <a title="Contact ZetaPrints" href="mailto:support@zetaprints.com" target="_self">support@zetaprints.com</a> for assistance.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.zetaprints.com/blog/2009/10/05/transfer-to-cname-now/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->

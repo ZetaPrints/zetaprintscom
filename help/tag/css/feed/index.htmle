@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>css &#8211; Web-to-print and Dynamic Imaging Help</title>
+	<atom:link href="http://www.zetaprints.com/help/tag/css/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.zetaprints.com/help</link>
+	<description>Web-to-print and dynamic imaging help, CorelDRAW tutorials and more</description>
+	<lastBuildDate>Wed, 11 Dec 2013 02:20:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.1</generator>
+	<item>
+		<title>Free skins</title>
+		<link>http://www.zetaprints.com/help/free-skins/</link>
+		<pubDate>Thu, 13 Nov 2008 20:30:52 +0000</pubDate>
+		<dc:creator><![CDATA[JuroZeta]]></dc:creator>
+				<category><![CDATA[Skins]]></category>
+		<category><![CDATA[Branding]]></category>
+		<category><![CDATA[Color scheme]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[Free]]></category>
+
+		<guid isPermaLink="false">/help/?p=2573</guid>
+		<description><![CDATA[Apart from creating your own custom web-to-print skin/color scheme, we have a FREE selection of web-to-print skins you can assign to your ZetaPrints hosted web-to-print website. Choose a skin! To set one of these skins on your web-to-print website you only need to follow these simple three steps: / 1. Copy the skin CSS URL, [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Custom skins</title>
+		<link>http://www.zetaprints.com/help/custom-skins/</link>
+		<pubDate>Wed, 12 Nov 2008 22:37:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Branding]]></category>
+		<category><![CDATA[Brand]]></category>
+		<category><![CDATA[Color scheme]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[Skins]]></category>
+
+		<guid isPermaLink="false">/help/?p=2555</guid>
+		<description><![CDATA[Our hosted web-to-print websites can change their appearance via custom CSS files that you can develop yourself and make the site look the way you want. CSS gives you full control over the page layout, colours, fonts, images and other visual elements. Custom CSS hosting We provide a number of free skins for you to [&#8230;]]]></description>
+		</item>
+		<item>
+		<title>Custom CSS</title>
+		<link>http://www.zetaprints.com/help/custom-css/</link>
+		<pubDate>Tue, 28 Oct 2008 10:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Branding]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[Customization]]></category>
+		<category><![CDATA[user interface]]></category>
+
+		<guid isPermaLink="false">/help/?p=1964</guid>
+		<description><![CDATA[ZetaPrints web-to-print software interace can be completely re-branded using a custom CSS (style sheet). It is a more advanced option than the simple color change option. Default styles Every ZetaPrints hosted web-to-print portal comes with a default set of styles. They are defined in main.css or another .css file with name matching the printer&#8217;s ID. [&#8230;]]]></description>
+		</item>
+	</channel>
+</rss>
+
+<!-- Localized -->
